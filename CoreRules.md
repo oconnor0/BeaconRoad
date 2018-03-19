@@ -58,226 +58,6 @@ This work is based on Blades in the Dark (found at http://www.bladesinthedark.co
 
         * Fiddly things - tracking copper.
 
-☐ ☑ ☒
-
-* I want Beacon Road to be able to handle D&D-style adventure romps, LOTR-style epics, Blades-style city underbelly stuff. 
-
-    * ☐ Intro
-
-    * ☐ Core mechanic
-
-        * ☐ Explain dice vs [dice] vs dice!
-
-    * ☐ Combat rules
-
-        * ☐ Initiative
-
-        * ☐ Ambush
-
-        * ☐ Turn order
-
-        * ☐ Turn actions
-
-        * ☐ Damage & healing
-
-        * ☐ Death & unconsciousness
-
-        * ☑ Armor & defense
-
-        * ☐ Wounds & their severity
-
-        * ☐ Buffs & their awesomeness
-
-    * ☐ Crew/fellowship/party rules
-
-        * ☐ Crew sheets
-
-            * ☐ Blank
-
-            * ☐ Guild
-
-            * ☐ Order
-
-            * ☐ Rovers
-
-            * ☐ Sin-eaters
-
-        * ☐ Crews
-
-            * ☐ Guild
-
-            * ☐ Order
-
-            * ☐ Rovers
-
-            * ☑ Sin-eaters
-
-    * ☐ Character rules
-
-        * ☐ Character sheets
-
-            * ☐ Blank
-
-            * ☐ Rogue
-
-            * ☐ Technician
-
-            * ☐ Warrior
-
-            * ☐ Wizard
-
-        * ☑ Character creation
-
-            * ☑ Choose a bloodline
-
-            * ☑ Choose traits
-
-            * ☑ Choose your vice
-
-            * ☑ Choose your virtue
-
-        * ☐ Archetypes
-
-            * ☑ Rogue
-
-                * ☐ Description
-
-                * ☐ Starting Builds
-
-                * ☐ Special Abilities - remove 1?
-
-            * ☑ Technician
-
-                * ☐ Description
-
-                * ☐ Items
-
-            * ☑ Warrior
-
-                * ☐ Description
-
-                * ☐ Starting Builds
-
-                * ☐ Items
-
-            * ☑ Wizard
-
-                * ☐ Description
-
-                * ☐ Bargain
-
-                * ☐ Items
-
-        * ☑ Bloodlines
-
-            * ☑ Draconic
-
-            * ☑ Dwarf
-
-            * ☑ Elf
-
-            * ☑ Forgeborn
-
-            * ☑ Halfblood
-
-            * ☑ Halfling
-
-            * ☑ Human
-
-            * ☑ Orc
-
-            * ☑ Troll
-
-    * ☐ Social maneuvering rules
-
-    * ☐ Skill challenge rules (or equivalent)
-
-    * ☐ Travel rules
-
-    * ☐ Downtime & respite rules
-
-        * ☐ Crafting
-
-        * ☐ Rituals
-
-        * ☐ Relaxing
-
-        * ☐ Healing
-
-        * ☐ Vice?
-
-            * ☑ Provide definitions of each.
-
-            * ☑ Based on bloodline?
-
-                * ☑ Elven Sorrow
-
-                * ☑ Forgeborn Toil
-
-                * ☑ Dwarven Greed
-
-                * ☑ Draconic Greed
-
-                * ☑ Halfling Gluttony
-
-                * ☑ Troll Gluttony
-
-                * ☑ Human Pride
-
-                * ☑ Orc Anger
-
-        * ☐ Virtue?
-
-            * ☑ Provide definitions of each.
-
-            * ☑ Based on bloodline?
-
-                * ☑ Elven Remembrance
-
-                * ☑ Forgeborn Resilience
-
-                * ☑ Dwarven Industry
-
-                * ☑ Draconic Resonance
-
-                * ☑ Halfling Cheer
-
-                * ☑ Troll Harmony
-
-                * ☑ Human Service
-
-                * ☑ Orc Justice
-
-    * ☐ Faction rules 
-
-        * ☐ Status
-
-        * ☐ How your actions affect them
-
-        * ☐ How do those factions accomplish their goals
-
-    * ☐ Sandbox rules (inspired by Blades and Stars Without Number)
-
-        * ☐ Name tables
-
-        * ☐ Rumor tables
-
-        * ☑ NPC tables
-
-        * ☐ Faction tables
-
-        * ☐ Encounter tables
-
-        * ☐ Race/species/monster tables
-
-        * ☐ City/town/village/community tables
-
-        * ☐ Nation/corporation/knightly order tables
-
-        * ☐ Religion tables
-
-        * ☐ Arcane tables
-
 * Quotes
 
     * "But the line dividing good and evil cuts through the heart of every human being.**"**
@@ -604,7 +384,7 @@ As you can see, many actions overlap with others. This is by design. As a player
 
 ## Defense Ratings
 
-There are three **defenses **in the game system that determine if attacks hit:** IRON**, **WARD**, and **GRIT**. **IRON** represents agility, ability to avoid damage, fortitude, and resistance to disease and poison. **WARD** represents mental guard, composure, and skill in social situations. **GRIT** represents willpower, determination, and persistence. Each defense has a rating that serves as the **target number** (**TN**) (written as **DEF 10**) which determines whether an attack hits or not. Each **defense rating** equals **8 plus the size of the associated attribute die plus the character’s Tier.** 
+There are three **defenses **in the game system that determine if attacks hit:** IRON**, **WARD**, and **GRIT**. **IRON** represents agility, ability to avoid damage, fortitude, and resistance to disease and poison. **WARD** represents mental guard, composure, and skill in social situations. **GRIT** represents willpower, determination, and persistence. Each defense has a rating that serves as the **target number** (**TN**) (written as **DEF 10**) which determines whether an attack hits or not. Each **defense rating** equals **8 plus the size of the associated attribute die plus the character’s Tier.**
 
 * *IRON = 8 + highest face of BODY + Tier*
 
@@ -740,7 +520,7 @@ The player characters are not normal and so can tap into heroic blessings that e
 
 # Progress Clocks
 
- 
+
 
 A **progress clock** is a circle divided into segments (see examples). Draw a progress clock when you need to track ongoing effort against an obstacle or the approach of impending trouble.
 
@@ -918,7 +698,7 @@ When you narrate the action after the roll, the GM and player collaborate togeth
 
     * **Failure:** Things go badly. You suffer **harm**, a **complication** occurs, you end up in a **desperate** position, you **lose this opportunity**.
 
-* **Desperate** (base TN = 16 + target’s Tier)—You overreach your capabilities. You’re in serious trouble. 
+* **Desperate** (base TN = 16 + target’s Tier)—You overreach your capabilities. You’re in serious trouble.
 
 * **Critical:** You do it with **increased effect** proportional to the critical multiplier.
 
@@ -1476,7 +1256,7 @@ Of course, you’ll also have your specializations and skills, the qualities tha
 
 ## Choose an archetype
 
-An archetype is what we call the sheet with all the specific rules to play a certain character type in *Beacon Road*. 
+An archetype is what we call the sheet with all the specific rules to play a certain character type in *Beacon Road*.
 
 When you choose an archetype, you’re choosing a set of **special abilities** (which give your character ways to break the rules in various ways) and a set of **xp triggers** (which determine how you earn experience for character advancement). But every archetype represents a scoundrel at heart. The Warrior has special abilities related to combat, but that doesn’t mean they’re "the fighter" of the game. Any character type can fight well. Think of your archetype as an area of focus and preference, but not a unique skill set.
 
@@ -1664,11 +1444,11 @@ You don’t need to select specific items now. Review your personal items and th
 
     * *If you want some guidance when you assign your four starting action dots and special ability, use one of these templates.*
 
-    * **Blackguard****.** 
+    * **Blackguard****.**
 
     * **Hunter.** Hunt +2, Study +1, Consort +1. **Sharpshooter.**
 
-    * **Keeper****.** Hunt +1, Survey +1, Utter +2. 
+    * **Keeper****.** Hunt +1, Survey +1, Utter +2.
 
 * Friends and Rivals
 
@@ -1788,7 +1568,7 @@ You don’t need to select specific items now. Review your personal items and th
 
     * **Alchemist.**
 
-        * When you **invent** or **craft** a creation with *alchemical *features, get **+1 quality level** to your roll. You begin with one special formula already known. 
+        * When you **invent** or **craft** a creation with *alchemical *features, get **+1 quality level** to your roll. You begin with one special formula already known.
 
             * *Follow the Inventing procedure with the GM to define your first special alchemical formula.*
 
@@ -1814,9 +1594,9 @@ You don’t need to select specific items now. Review your personal items and th
 
             * *When you use this ability, tick one special armor box on your character sheet. If you resist a consequence, you avoid it completely. If you use this ability to push yourself, you get one of the benefits (advantage or additional effect die), but you don’t take stress. Your special armor is restored at the beginning of downtime.*
 
-    * **Sawbones.** 
+    * **Sawbones.**
 
-        * Gain **advantage** on action rolls to administer treatment, bind wounds, or help someone heal from trauma. 
+        * Gain **advantage** on action rolls to administer treatment, bind wounds, or help someone heal from trauma.
 
             * *Training - or far too much practice - is essential to properly administer treatment.*
 
@@ -2042,15 +1822,15 @@ Some examples include: Weapons, clothes, arcane implements, specialized tools, c
 
 * *A humanoid descendent of a dragon.*
 
-* Senses: 
+* Senses:
 
     * Normal.
 
-* Size: 
+* Size:
 
     * Medium (5’ × 5’), averaging from 6’ to 7’ tall.
 
-* Stride: 
+* Stride:
 
     * 25’.
 
@@ -2062,7 +1842,7 @@ Some examples include: Weapons, clothes, arcane implements, specialized tools, c
 
 * Vice:
 
-    * **Greed:** 
+    * **Greed:**
 
         * Unnecessary accumulation; and expensive or ostentatious displays of opulence.
 
@@ -2092,23 +1872,23 @@ Some examples include: Weapons, clothes, arcane implements, specialized tools, c
 
     * Dimsight.
 
-* Size: 
+* Size:
 
     * Medium (5’ × 5’), averaging from 4’ to 5’ tall.
 
-* Stride: 
+* Stride:
 
     * 20’.
 
-* Virtue: 
+* Virtue:
 
     * **Industry:**
 
         * Nothing is impossible with hardwork, elbow grease, and unflagging endurance.
 
-* Vice: 
+* Vice:
 
-    * **Greed:** 
+    * **Greed:**
 
         * Unnecessary accumulation; and expensive or ostentatious displays of opulence.
 
@@ -2134,11 +1914,11 @@ Some examples include: Weapons, clothes, arcane implements, specialized tools, c
 
     * Keen Ears and Starsight.
 
-* Size: 
+* Size:
 
     * Medium (5’ × 5’), slender and averaging from 6’ to 7’ tall.
 
-* Stride: 
+* Stride:
 
     * 30’.
 
@@ -2150,7 +1930,7 @@ Some examples include: Weapons, clothes, arcane implements, specialized tools, c
 
 * Vice:
 
-    * **Sorrow:** 
+    * **Sorrow:**
 
         * The weight of past pain weighs heavily on you; do not pass it on to others.
 
@@ -2176,21 +1956,21 @@ Some examples include: Weapons, clothes, arcane implements, specialized tools, c
 
 * *Created full-size by the forges for labor and war and imbued with sentience, the forgeborn seek purpose.*
 
-* Senses: 
+* Senses:
 
     * Infravision.
 
-* Size: 
+* Size:
 
     * Medium (5’ × 5’), from 5’ to 8’ tall.
 
-* Stride: 
+* Stride:
 
     * 25’.
 
 * Virtue:
 
-    * **Resilience:** 
+    * **Resilience:**
 
         * Whether master or slave, you persist toward your goals.
 
@@ -2208,7 +1988,7 @@ Some examples include: Weapons, clothes, arcane implements, specialized tools, c
 
             * *You can narrate an event in the past that helps your teammate now, or you might explain how you expected this situation and planned a helpful contingency that you reveal now.*
 
-    * **Mode.** 
+    * **Mode.**
 
         * When you **train** during a **downtime action**, you may switch two of your **attribute ratings**.
 
@@ -2238,21 +2018,21 @@ Some examples include: Weapons, clothes, arcane implements, specialized tools, c
 
 * *A little person given to cheer.*
 
-* Senses: 
+* Senses:
 
     * Normal.
 
-* Size: 
+* Size:
 
     * Small (2.5’ × 2.5’), averaging between 2’ and 3’ tall.
 
-* Stride: 
+* Stride:
 
     * 20’.
 
 * Virtue:
 
-    * **Cheer:** 
+    * **Cheer:**
 
         * Your unassailable mood lifts the spirits of others in the darkest of times.
 
@@ -2282,27 +2062,27 @@ Some examples include: Weapons, clothes, arcane implements, specialized tools, c
 
 * *You and I*.
 
-* Senses: 
+* Senses:
 
     * Normal.
 
-* Size: 
+* Size:
 
     * Medium (5’ × 5’), averaging from 5’ to 6’ tall.
 
-* Stride: 
+* Stride:
 
     * 25’.
 
 * Virtue:
 
-    * **Service:** 
+    * **Service:**
 
         * Beyond what others cannot or will not, you empower those around your with your assistance.
 
 * Vice:
 
-    * **Pride:** 
+    * **Pride:**
 
         * You are better and more important; everything is about you.
 
@@ -2324,27 +2104,27 @@ Some examples include: Weapons, clothes, arcane implements, specialized tools, c
 
 * *Nature involuntarily twisted into hatred.*
 
-* Senses: 
+* Senses:
 
     * Darksight.
 
-* Size: 
+* Size:
 
     * Medium (5’ × 5’), from 4’ to 7’ tall.
 
-* Stride: 
+* Stride:
 
     * 25’.
 
 * Virtue:
 
-    * **Justice:** 
+    * **Justice:**
 
         * The afflicted, downtrodden, and oppressed look to you to represent them.
 
 * Vice:
 
-    * **Anger:** 
+    * **Anger:**
 
         * Everything is wrong; and you’re going to fix it.
 
@@ -2366,25 +2146,25 @@ Some examples include: Weapons, clothes, arcane implements, specialized tools, c
 
 * *A mountain brought to life.*
 
-* Senses: 
+* Senses:
 
     * Darksight.
 
-* Size: 
+* Size:
 
     * Large (10’ × 10’), averaging between 9’ and 12’ tall.
 
-* Stride: 
+* Stride:
 
     * 30’.
 
-* Virtue: 
+* Virtue:
 
-    * **Harmony:** 
+    * **Harmony:**
 
         * "To every thing there is a season, and a time to every purpose under the heaven."
 
-* Vice: 
+* Vice:
 
     * **Gluttony: **
 
@@ -2610,23 +2390,23 @@ If a cohort is destroyed, it may be replaced. Spend coin equal to your Tier +2 t
 
 3. **Establish your hunting grounds.** Look at the map and pick a district in which to place your hunting grounds. Decide how to deal with the faction that claims that area.
 
-* Pay them 1 coin. 
+* Pay them 1 coin.
 
-* Pay them 2 coin. Get **+1 status**. 
+* Pay them 2 coin. Get **+1 status**.
 
 * Pay nothing. Get **-1 status**.
 
 4. **Choose a special ability.** They’re in the gray column in the middle of the crew sheet. If you can’t decide, choose the first ability on the list. It’s placed there as a good first option.
 
-5. **Assign crew upgrades.** Your crew has two upgrades pre-selected. Choose two more. If your crew has a cohort, follow the procedure to create it. Record the faction status changes due to your upgrades: 
+5. **Assign crew upgrades.** Your crew has two upgrades pre-selected. Choose two more. If your crew has a cohort, follow the procedure to create it. Record the faction status changes due to your upgrades:
 
-* One faction helped you get an upgrade. Take **+1 status** with them. Or spend 1 coin for **+2 status** instead. 
+* One faction helped you get an upgrade. Take **+1 status** with them. Or spend 1 coin for **+2 status** instead.
 
 * One faction was harmed when you got an upgrade. Take **-2 status** with them. Or spend 1 coin for **-1 status** instead.
 
-6. **Choose a favorite contact.** Mark the one who is a close friend, long-time ally, or partner in crime. Record the faction status changes related to your contact: 
+6. **Choose a favorite contact.** Mark the one who is a close friend, long-time ally, or partner in crime. Record the faction status changes related to your contact:
 
-* One faction is friendly with your contact. Take **+1 status** with them. 
+* One faction is friendly with your contact. Take **+1 status** with them.
 
 * One faction is unfriendly with your contact. Take **-1 status** with them.
 
@@ -2724,7 +2504,7 @@ If a cohort is destroyed, it may be replaced. Spend coin equal to your Tier +2 t
 
     * Where are they banished from?
 
-        * Relationships, connection, intimacy, being recognized as heroes, 
+        * Relationships, connection, intimacy, being recognized as heroes,
 
         * City
 
@@ -2756,7 +2536,7 @@ If a cohort is destroyed, it may be replaced. Spend coin equal to your Tier +2 t
 
 * **Oaths**
 
-    * Oath of Veracity.	
+    * Oath of Veracity.
 
         * To lie you must take 1 **stress**. If you break your word, take 1 **stress**. When you **gather information**, gain **advantage** when attempting to discern the truth or to detect lies.
 
@@ -2804,23 +2584,23 @@ If a cohort is destroyed, it may be replaced. Spend coin equal to your Tier +2 t
 
 * Crew Upgrades
 
-    * **Implement  & Weapon Rigging.** 
+    * **Implement  & Weapon Rigging.**
 
         * You get 2 free load that may be used for implements and weapons.
 
-    * **Composed.** 
+    * **Composed.**
 
         * Each PC gets **+2 stress boxes**. This costs three upgrades to unlock, not just one.
 
-    * **Hardened.** 
+    * **Hardened.**
 
         * Each PC gets **+1 trauma box**. This costs three upgrades to unlock, not just one. *This may bring a PC with 4 ***trauma****_ _***back into play if you wish.*
 
-    * **Elite Emissary.** 
+    * **Elite Emissary.**
 
         * All of your expert emissaries gain **advantage** on rolls for related actions.
 
-    * **Knowledge of Evil.** 
+    * **Knowledge of Evil.**
 
         * Each PC gets **+1 WARD** and **GRIT**. *Your focus in removing evil from the world helps you resist its lure.*
 
@@ -2830,79 +2610,79 @@ If a cohort is destroyed, it may be replaced. Spend coin equal to your Tier +2 t
 
     * You start here.
 
-* **2 ****Turf.** 
+* **2 ****Turf.**
 
     * You require one less **rep **to advance in tier (max 6).
 
-* **Cover Identities.** 
+* **Cover Identities.**
 
     * You gain **advantage **on the **engagement roll** for **deception** and **social** plans.
 
         * *False identities help confuse the opposition.*
 
-* **Ancient Altar.** 
+* **Ancient Altar.**
 
     * You gain **advantage** on the **engagement roll** for **arcane **plans.
 
         * *Its blessing is with you.*
 
-* **Secret Pathways.** 
+* **Secret Pathways.**
 
-    * You gain **advantage** on the **engagement roll** for **stealth** plans. 
+    * You gain **advantage** on the **engagement roll** for **stealth** plans.
 
         * *You might have access to long-forgotten underground canals, rooftop walkways, wilderness trails, forest paths, or some other route of your choosing.*
 
-* **Frontier Allies.** 
+* **Frontier Allies.**
 
-    * You gain **advantage** on the **engagement roll** for plans that take place in the wilds. 
+    * You gain **advantage** on the **engagement roll** for plans that take place in the wilds.
 
         * *Denizens of the wilds are willing to help those who would remove evil; nature is enough to contend with.*
 
-* **Infirmary.** 
+* **Infirmary.**
 
-    * You gain **advantage **on healing treatment rolls. 
+    * You gain **advantage **on healing treatment rolls.
 
         * *The infirmary also has beds for long-term convalescence.*
 
 * **Confessional.**
 
-    * You gain **advantage** when **gathering information **for a score. 
+    * You gain **advantage** when **gathering information **for a score.
 
         * *People talk freely when it won’t be repeated.*
 
-* **Recognized.** 
+* **Recognized.**
 
-    * You gain **advantage** on **Command **and **Sway **on your turf. 
+    * You gain **advantage** on **Command **and **Sway **on your turf.
 
         * *Locals want nothing to do with you so will attempt to finish their business with you as quickly as possible.*
 
 * **Necessary Evil****. **
 
-    * You get **-2** **heat **per score. 
+    * You get **-2** **heat **per score.
 
         * *The locals recognize some need to look the other way.*
 
-* **Depository.** 
+* **Depository.**
 
-    * Any time during downtime, roll **[d6]** equal to your Tier. You earn **coin **equal to the highest result, minus your **heat**. 
+    * Any time during downtime, roll **[d6]** equal to your Tier. You earn **coin **equal to the highest result, minus your **heat**.
 
         * *People leave items, offerings, coin, trinkets, or memorabilia to rid themselves of evil.*
 
 * **Fly On The Wall. **
 
-    * You get **+2** **coin **in payoff for scores that involve a single flavor of evil. 
+    * You get **+2** **coin **in payoff for scores that involve a single flavor of evil.
 
         * *Your connections notify you of the tastiest meals around.*
 
-* **Local ****Protector****.** 
+* **Local ****Protector****.**
 
-    * You get **+2** **coin **in your payoff for scores that involve battle or show of force. 
+    * You get **+2** **coin **in your payoff for scores that involve battle or show of force.
 
         * *Locals are more than willing to pool their resources to resolve a problem they can’t deal with themselves.*
 
-* **Quiet Efficacy.** 
+* **Quiet Efficacy.**
 
-    * You get **+1 rep** per score. 
+    * You get **+1 rep** per score.
 
         * *You are known and appreciated for quickly and quietly resolving the problem of evil.*
 
@@ -3206,7 +2986,7 @@ Don’t make the engagement roll and then describe the PCs *approaching* the tar
 
 * **d20!** for sheer luck versus **controlled**, **risky**, or **desperate** target number.
 
-* **Advantage** for each **Major** **Advantage.** 
+* **Advantage** for each **Major** **Advantage.**
 
 * **Disadvantage** for each **Major** **Disadvantage.**
 
@@ -3400,9 +3180,9 @@ Players must decide if their characters are going to act *rashly *or *cautiously
 
 An **Action **represents the primary focus of your turn and generally involves inflicting your will onto an enemy, aiding an ally, preparing for a future turn, or moving.
 
-* Make a basic attack. 
+* Make a basic attack.
 
-* Charge - choose a target, advance toward that target up to your stride; if you end your movement closer to your target than you started your turn and if you moved at least twice your size (ex., 10’ for medium or 20’ for large), you make a melee charge attack. Gain advantage on the attack check. 
+* Charge - choose a target, advance toward that target up to your stride; if you end your movement closer to your target than you started your turn and if you moved at least twice your size (ex., 10’ for medium or 20’ for large), you make a melee charge attack. Gain advantage on the attack check.
 
 * Advance up to your stride.
 
@@ -3444,7 +3224,7 @@ While **hidden**, cannot be targeted by attacks.
 
 * *A target gains** hidden versus a creature that cannot see, hear, or otherwise perceive you. When a hidden creature makes an attack against a target it is hidden from, gain advantage on the attack check and that target may not take reactions to this attack.*
 
-While **sheltered**, gain +5 defense and resistance to all damage types. 
+While **sheltered**, gain +5 defense and resistance to all damage types.
 
 * *A target gains sheltered versus attacks when line-of-sight from the attack’s origin is partially obscured by something that would stop attacks - for example, a sturdy wall, structure, obstruction, or boulder.*
 
@@ -3452,7 +3232,7 @@ While **staggered**, current hit points are less than or equal to half maximum h
 
 * Whether or not a creature is staggered is public information.
 
-A creature **threatens **a target in melee when the creature is able to act, wielding a melee weapon, and the target is within the range of that weapon. A target **is threatened by** creature when the creature is able to act, wielding a melee weapon, and the target is within the range of that weapon. A creature is** in melee** if it either threatens an enemy or is threatened by an enemy. 
+A creature **threatens **a target in melee when the creature is able to act, wielding a melee weapon, and the target is within the range of that weapon. A target **is threatened by** creature when the creature is able to act, wielding a melee weapon, and the target is within the range of that weapon. A creature is** in melee** if it either threatens an enemy or is threatened by an enemy.
 
 * *While in melee, a creature’s non-melee, non-touch, non-adjacent attack checks suffer disadvantage. While in melee, a creature gains +4 defense against non-melee attacks targeting it. When a creature advances, if it stops being threatened by an enemy, that enemy may spend a reaction to make a basic attack targeting the advancing creature.*
 
@@ -4530,7 +4310,7 @@ The rarity listed in an item’s description is the most common it can be found.
 
 * A **common **item or material is available during character creation and is available for purchase in most locations.
 
-* An **uncommon **item or material is not available during character creation and is probably not purchasable in smaller or more remote locations. 
+* An **uncommon **item or material is not available during character creation and is probably not purchasable in smaller or more remote locations.
 
 * A **rare **item or material is not available during character creation and may not be purchasable in most locations, even large cities.
 
@@ -4897,7 +4677,7 @@ Fiends embody a primordial combination of an elemental spirit and a destructive 
 
 * Earth Fiend
 
-    * The daunting strength of earth fiends shatters all it encounters and strikes fear in the hearts of those who behold them. Their bodies are built from gray-black slate and deep brown loam. They stalk their prey with golden-brown lion eyes. 
+    * The daunting strength of earth fiends shatters all it encounters and strikes fear in the hearts of those who behold them. Their bodies are built from gray-black slate and deep brown loam. They stalk their prey with golden-brown lion eyes.
 
 * Fire Fiend
 
@@ -4937,7 +4717,7 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
 
 * Scene
 
-    * Narrow, shadowed, filthy streets. Walled and guarded enclaves. Obvious thugs standing outside nondescript doors. Street urchins chasing each other and lifting coin off drunk bodies. 
+    * Narrow, shadowed, filthy streets. Walled and guarded enclaves. Obvious thugs standing outside nondescript doors. Street urchins chasing each other and lifting coin off drunk bodies.
 
 * Streets
 
@@ -5079,13 +4859,13 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
 
         * Worship of the Triumvirate cycles through month-by-month worship of the three entities that comprise the Triumvirate: Montgomery Black, Thomas Gray, and Alistair White.
 
-            * Montgomery Black - 
+            * Montgomery Black -
 
-            * Thomas Gray - 
+            * Thomas Gray -
 
-            * Alistair White - 
+            * Alistair White -
 
-* Dualism	
+* Dualism
 
     * Father Order
 
@@ -5327,7 +5107,7 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
 
 * Sidestep
 
-    * Requires: BODY d6; 
+    * Requires: BODY d6;
 
     * Cost: Reaction, Stress 0
 
@@ -5395,7 +5175,7 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
 
     * Trigger: An enemy advances toward an ally within your stride.
 
-    * Effect: Charge the enemy at any point along its movement. 
+    * Effect: Charge the enemy at any point along its movement.
 
 #### d12
 
@@ -5839,71 +5619,71 @@ While the below names are based on current or historical societies, consider ass
 
 #### Male
 
-    1. Abishai            	 
+    1. Abishai
 
-    2. Ahijah             	 
+    2. Ahijah
 
-    3. Azarel             	 
+    3. Azarel
 
-    4. Azariah            	 
+    4. Azariah
 
-    5. Benaiah            	 
+    5. Benaiah
 
-    6. Eleazar            	 
+    6. Eleazar
 
-    7. Elhanon            	 
+    7. Elhanon
 
-    8. Elkanah            	 
+    8. Elkanah
 
-1.  	
+1.
 
-    9. Gamaliel             	 
+    9. Gamaliel
 
-    10. Gareb            	 
+    10. Gareb
 
-    11. Helez            	 
+    11. Helez
 
-    12. Hezro            	 
+    12. Hezro
 
-    13. Jashobeam            	 
+    13. Jashobeam
 
-    14. Jehoida            	 
+    14. Jehoida
 
-    15. Jehu             	 
+    15. Jehu
 
-    16. Joab             	 
+    16. Joab
 
-    17. Ira            	 
+    17. Ira
 
-    18. Ithai            	 
+    18. Ithai
 
-    19. Maharai            	 
+    19. Maharai
 
-    20. Makis            	 
+    20. Makis
 
-    21. Mibhar             	 
+    21. Mibhar
 
-    22. Mishmannah             	 
+    22. Mishmannah
 
-    23. Nadav            	 
+    23. Nadav
 
-    24. Obadiah            	 
+    24. Obadiah
 
-    25. Paarai             	 
+    25. Paarai
 
-    26. Pelet            	 
+    26. Pelet
 
-    27. Shama            	 
+    27. Shama
 
-    28. Tanami             	 
+    28. Tanami
 
-    29. Uzzia            	 
+    29. Uzzia
 
-    30. Zadok            	 
+    30. Zadok
 
-    31. Zalmon             	 
+    31. Zalmon
 
-    32. Zion              	
+    32. Zion
 
 #### Female
 
@@ -5989,9 +5769,9 @@ While the below names are based on current or historical societies, consider ass
 
     7. Balamodaka
 
-    8. Barhanetra      	 
+    8. Barhanetra
 
-1.  	
+1.
 
     9. Camikara
 
@@ -6007,7 +5787,7 @@ While the below names are based on current or historical societies, consider ass
 
     15. Jagatkarna
 
-    16. Jaigata	 
+    16. Jaigata
 
     17. Kalamurti
 
@@ -6023,7 +5803,7 @@ While the below names are based on current or historical societies, consider ass
 
     23. Mohinder
 
-    24. Muralidhar         	 
+    24. Muralidhar
 
     25. Natrajan
 
@@ -6039,7 +5819,7 @@ While the below names are based on current or historical societies, consider ass
 
     31. Venkatesha
 
-    32. Yashpal          	
+    32. Yashpal
 
 #### Female
 
@@ -7083,7 +6863,7 @@ While the below names are based on current or historical societies, consider ass
 
 * Bloodline
 
-    * 1 Draconic 
+    * 1 Draconic
 
     * 2 Dwarf
 
