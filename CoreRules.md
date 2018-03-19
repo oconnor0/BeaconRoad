@@ -60,7 +60,7 @@ An adventure involves conflict, and a game uses rules to resolve those conflicts
 
 *Beacon Road* uses four-, six-, eight-, ten-, twelve-, and twenty-sided dice.
 
-You roll several at once and **sum the single highest rolled die of each size**. If the highest rolled for a given size is the maximum that die size can roll, that die **explodes**: roll another die of that same size and add it to the sum. Continue this as long as a die rolls its maximum. Compare the sum with the **target number** (**TN**), if the total is equal or larger, the roll is a **success** (or a **hit**). If the sum is less than the **TN**, the roll is a **failure** (or a **miss**). A roll of 10 or more over the TN is a **critical **and confers additional benefits. Each increment of 10 over the TN increases the quality of that success. The number of increments of 10 is called the **critical multiplier**. If the check is a failure and the highest d20 is a 1, the check is a **botch**.
+You roll several at once and **sum the single highest rolled die of each size**. If the highest rolled for a given size is the maximum that die size can roll, that die **explodes**: roll another die of that same size and add it to the sum. Continue this as long as a die rolls its maximum. Compare the sum with the **target number** (**TN**), if the total is equal or larger, the roll is a **success** (or a **hit**). If the sum is less than the **TN**, the roll is a **failure** (or a **miss**). A roll of 10 or more over the TN is a **critical** and confers additional benefits. Each increment of 10 over the TN increases the quality of that success. The number of increments of 10 is called the **critical multiplier**. If the check is a failure and the highest d20 is a 1, the check is a **botch**.
 
 There are six types of rolls that you'll use most often in the game:
 
@@ -88,7 +88,7 @@ A second kind of roll involves rolling several at once and **summing all rolled 
 
 When a die is written as **d4**, that represents the die itself. When written, in brackets, as **[d4]**, that represents a bounded die roll (a roll that does not explode). When written with a trailing exclamation point, as **d4!**, the represents an exploding die roll. When a rule says to **increase the die size**, roll the next larger die in the list: d4, d6, d8, d10, d12, and d20. When a rule says to **decrease the die size**, roll the next smaller die size. In general, this will not decrease a size below d4 or above d12, but the GM may rule differently.
 
-A **roll** is written as **Action/ATTRIBUTE! vs TN**. This means making a **Tier Roll **and rolling a number of **attribute dice** equal to your **action rating**. If either the **action rating** or the **attribute dice** are zero, only roll make the **Tier Roll**. The TN can be a static number, a defense, or an action.
+A **roll** is written as **Action/ATTRIBUTE! vs TN**. This means making a **Tier Roll** and rolling a number of **attribute dice** equal to your **action rating**. If either the **action rating** or the **attribute dice** are zero, only roll make the **Tier Roll**. The TN can be a static number, a defense, or an action.
 
 * *Tier depends on your crew and is explained on page XX.*
 
@@ -657,7 +657,7 @@ This consequence represents losing control of the situation-the action carries y
 
 ## Harm
 
-This consequence represents a long-lasting debility (or death). When you suffer harm, record the specific injury on your character sheet equal to the level of harm you suffer. If you suffer** lesser harm**, record it in the bottom row. If you suffer **moderate harm**, write it in the middle row. If you suffer **severe harm**, record it in the top row. See examples of harm and the harm tracker, below.
+This consequence represents a long-lasting debility (or death). When you suffer harm, record the specific injury on your character sheet equal to the level of harm you suffer. If you suffer **lesser harm**, record it in the bottom row. If you suffer **moderate harm**, write it in the middle row. If you suffer **severe harm**, record it in the top row. See examples of harm and the harm tracker, below.
 
 Your character suffers the penalty indicated at the end of the row if any or all harm recorded in that row applies to the situation at hand. So, if you have "Drained" and "Battered" harm in the bottom row, you'll suffer reduced effect when you try to run away from the constables. When you're impaired by harm in the top row (severe harm, level 3), your character is incapacitated and can't do anything unless you have help from someone else or **push yourself** to perform the action.
 
@@ -1033,7 +1033,7 @@ Each player keeps track of the experience points (**xp**) that their character e
 
 During the game session, mark xp:
 
-* When you make a **push yourself** and fail an **action roll**. Mark 1 xp in the attribute for the action you rolled. For example, if you roll a **Skirmish **action, **push yourself**, and fail, you mark xp in **Prowess***.* When you roll in a **group action** that's desperate, you also mark xp.
+* When you make a **push yourself** and fail an **action roll**. Mark 1 xp in the attribute for the action you rolled. For example, if you roll a **Skirmish**action, **push yourself**, and fail, you mark xp in **Prowess***.* When you roll in a **group action** that's desperate, you also mark xp.
 
 At the end of the session, review the **xp triggers** on your character sheet. For each one, mark 1 xp if it happened at all, or mark 2 xp if it happened a lot during the session. The xp triggers are:
 
@@ -1517,7 +1517,7 @@ You don't need to select specific items now. Review your personal items and the 
 
     * **Deadly.**
 
-        * You may expend your** special armor** to **push yourself** when making melee attacks. When you do, you gain all benefits of **pushing yourself**.
+        * You may expend your **special armor** to **push yourself** when making melee attacks. When you do, you gain all benefits of **pushing yourself**.
 
             * *When you use this ability, tick one special armor box on your character sheet. If you use this ability to push yourself, you get all of the benefits (advantage, additional effect die, act when dazed or stunned), but you don't take stress. Your special armor is restored at the beginning of downtime.*
 
@@ -2079,7 +2079,7 @@ Just like picking the crew type, reputation, lair, and hunting grounds, choosing
 
 ## Assign crew upgrades
 
-An upgrade is a valuable asset that helps the crew in some way, like a boat or a gang (see the complete descriptions further down). Each crew type has two pre-selected **upgrades** that suit that crew (like **Prowess** **Training** and a** gang** of Thugs for the Bravos crew).
+An upgrade is a valuable asset that helps the crew in some way, like a boat or a gang (see the complete descriptions further down). Each crew type has two pre-selected **upgrades** that suit that crew (like **Prowess** **Training** and a **gang** of Thugs for the Bravos crew).
 
 You get to add **two additional upgrades** to your new crew (so you'll have a total of four upgrades when you start). You can choose from the specific upgrades available to your crew type or the general upgrades on the crew sheet.
 
@@ -2127,7 +2127,7 @@ At your option, these factions are even more concerned with this contact and so 
 
 ## Cohorts
 
-A **cohort** is a **gang** or an **expert** who works for your crew. To recruit a new cohort, spend** two upgrades** and create them using the process below.
+A **cohort** is a **gang** or an **expert** who works for your crew. To recruit a new cohort, spend **two upgrades** and create them using the process below.
 
 ### Creating a gang
 
@@ -2209,7 +2209,7 @@ If a cohort is destroyed, it may be replaced. Spend coin equal to your Tier +2 t
 
 ## Crew creation summary
 
-1. ** Choose a crew type.** The crew type determines the group's purpose, their special abilities, and how they advance. You begin at **Tier 0**, with **strong hold** and 0 rep. You start with 2 coin.
+1. **Choose a crew type.** The crew type determines the group's purpose, their special abilities, and how they advance. You begin at **Tier 0**, with **strong hold** and 0 rep. You start with 2 coin.
 
 2. **Choose an initial reputation and lair.** Choose how other underworld factions see you:
 
@@ -2423,7 +2423,7 @@ If a cohort is destroyed, it may be replaced. Spend coin equal to your Tier +2 t
 
     * **Hardened.**
 
-        * Each PC gets **+1 trauma box**. This costs three upgrades to unlock, not just one. *This may bring a PC with 4 ***trauma_ _***back into play if you wish.*
+        * Each PC gets **+1 trauma box**. This costs three upgrades to unlock, not just one. *This may bring a PC with 4 **trauma** back into play if you wish.*
 
     * **Elite Emissary.**
 
@@ -2529,7 +2529,7 @@ Due to hard-won experience or arcane ritual, you don't take extra **heat** when 
 
 #### Fiends
 
-Fear is as good as respect. You may count each** wanted level** as if it were **turf**.
+Fear is as good as respect. You may count each **wanted level** as if it were **turf**.
 
 * *The maximum wanted level is 4. Regardless of how much turf you hold (from this ability or otherwise) the minimum rep cost to advance your Tier is always 6.*
 
@@ -2541,7 +2541,7 @@ Each PC has been toughened by cruel experience. You get **+1 IRON**, **WARD**, a
 
 #### Just Passing Through
 
-During **downtime**, take **-1 **heat. When your heat is 4 or less, you gain **advantage** to deceive people when you pass yourselves off as ordinary citizens.
+During **downtime**, take **-1** heat. When your heat is 4 or less, you gain **advantage** to deceive people when you pass yourselves off as ordinary citizens.
 
 #### No Traces
 
@@ -2645,7 +2645,7 @@ A list of five upgrades specific to the crew. Some examples:
 
 **Surplus Cache:** You get **+2** coin in **payoff** for scores that involve product sale or supply. *You have an abundance of product, which pads your pockets every now and then.*
 
-**Covert Drop: **You get **+2** coin in **payoff** for scores that involve espionage or sabotage. *The perfect hidden exchange point is worth the extra coin to discerning clientele.*
+**Covert Drop:** You get **+2** coin in **payoff** for scores that involve espionage or sabotage. *The perfect hidden exchange point is worth the extra coin to discerning clientele.*
 
 **Interrogation Chamber:** You gain Advantage on Command and Sway on-site. *Grisly business, but effective.*
 
@@ -2711,7 +2711,7 @@ You gain **advantage** to **resistance** rolls against supernatural threats. You
 
 ### Accord
 
-Sometimes friends are as good as territory. You may treat up to three **+3 faction** statuses** you hold as if they are **turf**.
+Sometimes friends are as good as territory. You may treat up to three **+3 faction statuses** you hold as if they are **turf**.
 
 * *If your status changes, you lose the turf until it becomes +3 again. Regardless of how much turf you hold (from this ability or otherwise) the minimum rep cost to advance your Tier is always 6.*
 
@@ -2803,7 +2803,7 @@ The engagement roll is a **fortune roll**, starting with **d20! for sheer luck**
 
 * Does the **plan's detail** expose a vulnerability of the target or hit them where they're weakest? Gain Advantage. Is the target strongest against this approach, or do they have particular defenses or special preparations? Roll Disadvantage.
 
-* Can any of your **friends or contacts **provide aid or insight for this operation? Gain Advantage. Are any **enemies or rivals** interfering in the operation? Roll Disadvantage.
+* Can any of your **friends or contacts** provide aid or insight for this operation? Gain Advantage. Are any **enemies or rivals** interfering in the operation? Roll Disadvantage.
 
 * Are there any **other elements** that you want to consider? Maybe a lower-Tier target will give you Advantage. Maybe a higher-Tier target will give you Disadvantage. Maybe there's a situation that makes the operation more or less tricky.
 
@@ -3061,7 +3061,7 @@ While **staggered**, current hit points are less than or equal to half maximum h
 
 * Whether or not a creature is staggered is public information.
 
-A creature **threatens** a target in melee when the creature is able to act, wielding a melee weapon, and the target is within the range of that weapon. A target **is threatened by** creature when the creature is able to act, wielding a melee weapon, and the target is within the range of that weapon. A creature is** in melee** if it either threatens an enemy or is threatened by an enemy.
+A creature **threatens** a target in melee when the creature is able to act, wielding a melee weapon, and the target is within the range of that weapon. A target **is threatened by** creature when the creature is able to act, wielding a melee weapon, and the target is within the range of that weapon. A creature is **in melee** if it either threatens an enemy or is threatened by an enemy.
 
 * *While in melee, a creature's non-melee, non-touch, non-adjacent attack checks suffer disadvantage. While in melee, a creature gains +4 defense against non-melee attacks targeting it. When a creature advances, if it stops being threatened by an enemy, that enemy may spend a reaction to make a basic attack targeting the advancing creature.*
 
@@ -3145,7 +3145,7 @@ While **flanking** *(quality level 1)*, you and an ally threaten an enemy from o
 
 While **focused** *(quality level 2)*, you gain advantage on checks.
 
-While **fortified** *(quality level 1)*,** **you gain **+5 to a single defense**.
+While **fortified** *(quality level 1)*, you gain **+5 to a single defense**.
 
 While **hastened** *(quality level 4)*, you may Act an additional time each round.
 
@@ -3371,7 +3371,7 @@ An enemy faction makes a move against you (or a friend, contact, or vice purveyo
 
 ### Rivals
 
-A neutral faction throws their weight around. They threaten you, a friend, a contact, or one of your vice purveyors. Forfeit (1 rep or 1 coin) per Tier of the rival, or stand up to them and lose** 1 status** with them.
+A neutral faction throws their weight around. They threaten you, a friend, a contact, or one of your vice purveyors. Forfeit (1 rep or 1 coin) per Tier of the rival, or stand up to them and lose **1 status** with them.
 
 ### Show of force
 
@@ -3429,7 +3429,7 @@ Gain temporary use of an **asset**:
 
 "Temporary use" constitutes one significant period of usage that makes sense for the asset-typically the duration of one score. An asset may also be acquired for "standby" use in the future. You might hire a gang to guard your lair, for example, and they'll stick around until after the first serious battle, or until a week goes by and they lose interest.
 
-To acquire the asset, roll **TIER!** versus a **controlled** (6), **risky** (11), or **desperate** (16) target number. The result indicates the **quality** of the asset you get, using the crew's Tier as the base. A **failure **is Tier - 1; a **success** is Tier, and a **critical** is Tier + *critical multiplier*. You can spend coin to raise the result of this roll by spending **2** coin per additional Tier level added.
+To acquire the asset, roll **TIER!** versus a **controlled** (6), **risky** (11), or **desperate** (16) target number. The result indicates the **quality** of the asset you get, using the crew's Tier as the base. A **failure** is Tier - 1; a **success** is Tier, and a **critical** is Tier + *critical multiplier*. You can spend coin to raise the result of this roll by spending **2** coin per additional Tier level added.
 
 The GM may set a **minimum quality** level that must be achieved to acquire a particular asset. For example, if you want to get a set of military uniforms and masks, you'd need to acquire a Tier IV asset. A lower result won't do.
 
@@ -3455,7 +3455,7 @@ In order to work on a project, you might first have to achieve the means to purs
 
 When you recover, you seek treatment and heal your harm. You might visit a physicker who can stitch your wounds and soothe your mind with anatomical science or a witch who specializes in healing charms and restorative alchemy. If you don't have a contact or fellow PC who can provide treatment, you can use the **acquire asset** activity to gain access to a healer, who can provide service for the whole crew.
 
-Recovery is like a long-term project. Your healer rolls (perhaps **Utter **or **Craft **for a PC with the healing special ability the **quality** level of an NPC) versus a **controlled** (6), **risky** (11), or **desperate** (16) target number and then you mark a number of segments on your **healing clock**: **failure**: one segment, **success**: two segments, **critical**: two segments + *critical multiplier*.
+Recovery is like a long-term project. Your healer rolls (perhaps **Utter** or **Craft** for a PC with the healing special ability the **quality** level of an NPC) versus a **controlled** (6), **risky** (11), or **desperate** (16) target number and then you mark a number of segments on your **healing clock**: **failure**: one segment, **success**: two segments, **critical**: two segments + *critical multiplier*.
 
 When you fill your healing clock, reduce each instance of harm on your sheet by one level, then clear the clock. If you have more segments to mark, they "roll over."
 
@@ -3477,7 +3477,7 @@ Reduce heat according to the result: **failure**: one segment, **success**: two 
 
 ### Train
 
-When you spend time in training,** mark 1 xp** on the xp track for an **attribute** or **playbook **advancement. If you have the appropriate crew Training upgrade unlocked, mark **+1** **xp** (2 total). See **Crew Upgrades**, page XX. *You can train a given xp track only once per downtime.*
+When you spend time in training, **mark 1 xp** on the xp track for an **attribute** or **playbook** advancement. If you have the appropriate crew Training upgrade unlocked, mark **+1** **xp** (2 total). See **Crew Upgrades**, page XX. *You can train a given xp track only once per downtime.*
 
 ### Exercise virtue
 
@@ -3639,7 +3639,7 @@ You can add levels of magnitude together to describe a combination of effects, o
 
 The magnitude table is provided as a tool to help the GM make judgment calls. It's not meant to be a rigid restriction or mathematical formula to replace those judgment calls. Use the levels as a *guideline* for setting a magnitude number that seem appropriate to you.
 
-This table can also be used as a guide to **quality level** when a PC **acquires an asset **or crafts an **alchemical** or **gadget**.
+This table can also be used as a guide to **quality level** when a PC **acquires an asset** or crafts an **alchemical** or **gadget**.
 
 <table>
   <tr>
@@ -4005,9 +4005,9 @@ Common alchemicals (page XX) and ordinary items don't require special formulas o
 
 * Roll **Craft/MIND!** versus a **controlled** (6), **risky** (11), or **desperate** (16) target number, modified by Tier.
 
-* **+1 quality **per **coin** spent.
+* **+1 quality** per **coin** spent.
 
-* **+1 quality **for **Workshop** crew upgrade.
+* **+1 quality** for **Workshop** crew upgrade.
 
 * **Critical:** Quality level is Tier + *critical multiplier*.
 
