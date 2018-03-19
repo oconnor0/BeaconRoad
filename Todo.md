@@ -2,6 +2,7 @@
 
 * I want Beacon Road to be able to handle D&D-style adventure romps, LOTR-style epics, Blades-style city underbelly stuff.
 * [ ] TODO:
+  * [ ] **100000** words by December 2018.
   * [ ] In progress - Make, at least, one Power for each Wound, Condition, and Boon.
 * [ ] OPEN:
   * [ ] Who Will You Be? tagline.
