@@ -1,6 +1,62 @@
 # Todo
 
 * I want Beacon Road to be able to handle D&D-style adventure romps, LOTR-style epics, Blades-style city underbelly stuff.
+* [ ] TODO:
+    * [ ] In progress - Make, at least, one Power for each Wound, Condition, and Boon.
+* [ ] OPEN:
+    * [ ] Who Will You Be? tagline.
+    * [ ] Rename Action to Act and Reaction to React?
+    * [ ] Clarify Weakened and Strengthened. Related to Effect?
+    * [ ] Limited, Standard, Great Effect? -1, 0, +1 POW
+    * [ ] Clarify Buff required Action Ratings.
+    * [ ] Weapon attacks (half Action)[POW] + [ATTR] while magic attacks (Action)[POW]?
+    * [ ] Servitude, Imposition, Passivity.
+    * [ ] Sin-eater oaths (4-5 more)
+    * [ ] Sin-eater banishments
+    * [ ] Beaconwalkers?
+    * [ ] Vice vs virtue?
+    * [ ] Make artifacts trend evil because of the motivation necessary to make them and the power required
+    * [ ] Magic and masterwork items
+    * [ ] Make AOEs ignore concealment and in melee. All? Which ones? Where is the rule for that written?
+    * [ ] Ranged stance?
+    * [ ] Stance that gives advantage on ranged attack if you maneuver toward?
+    * [ ] Does goad persist while threatened or do you have to do something ?
+    * [ ] How do rounds interact with initiative order?
+    * [ ] How to handle effect duration and saving throws?
+    * [ ] Wounds and death rules
+    * [ ] Make checks for heals vs effect just happens?
+    * [ ] Dispel? Cleanse?
+    * [ ] How to handle upkeeps? Remove them? Keep them? I think I need them to balance buff stacking to infinity.
+    * [ ] Fix dispel rules since there may be no initiating check. Dispel check must be at least 10 + power grade + caster level to affect? 10 + twice caster level?
+    * [ ] Write example bestiary
+    * [ ] Flesh out monster rules
+    * [ ] Determine how to aid another
+    * [ ] Flesh out skill encounters
+    * [ ] Flesh out social encounters
+    * [ ] Add sandbox world building rules and tables
+    * [ ] Add examples
+    * [ ] Add sample playthrough
+    * [ ] Add reference material
+    * [ ] Add definitions section
+    * [ ] Move capstones into core rules - do capstones exist in BRv2?
+    * [ ] Unify names (renaming to clarify where necessary) and prose form
+    * [ ] Update character sheets
+    * [ ] Collect power lists for each character
+    * [ ] Stat out mourning ape demon
+    * [ ] Determine bonuses and penalties to defense for conditions
+    * [ ] Strengthened and weakened are +1/-1 POW?
+    * [ ] Make botch give GM rerolls?
+    * [ ] Stance advantage against lone enemy
+    * [ ] Stance maneuver when missed, no recovery for defense powers?
+    * [ ] Stance disadvantage on attack to get another attack
+    * [ ] Aim for all ranged attacks.
+    * [ ] Sentinel - if goaded voluntarily leaves threatened range, make basic attack, and enemy stops moving. (Spend reaction?), Upkeep is goad one threatened enemy
+    * [ ] Roll attack and damage for each target? Attack for each target? Attack once? Damage for each target? Damage once?
+    * [ ] Defender - no recovery for reaction powers; upkeep is goad all threatened.
+    * [ ] Resolve damage rules question
+    * [ ] Determine how to provide bonuses and penalties to ally and enemy beyond advantage and disadvantage
+    * [ ] Work out how spellbook interacts with normal powers
+* [ ] BOOK:
     * [ ] Intro
     * [ ] Core mechanic
         * [ ] Explain dice vs [dice] vs dice!
@@ -109,3 +165,33 @@
         * [ ] Nation/corporation/knightly order tables
         * [ ] Religion tables
         * [ ] Arcane tables
+* DONE:
+    * [x] Add tier to defense.
+    * [ ] Controlled TN is 6, Risky is 11, Desperate is 16. Modified by Tier and Sitxation. Maybe only outside of combat, or for non-attack actions?
+    * [x] Controlled TN is 6, Risky is 11, Desperate is 16. Modified by Tier.
+    * [x] Oxcart 12 km/day (40000'); roughly 10' stride
+    * [x] Clarify Ambush/Surprise rules.
+    * [x] Walking 30 km/day (100000'); 25' stride
+    * [x] March (60 km/day, 200000'); 25' stride, double time, or twice as long
+    * [x] Sail (18 km/hr, 60000'); 90' stride
+    * [x] Train (60 km/hr, 200000'); 330' stride
+    * [x] Airship (80 km/hr, 260000'); 430' stride
+    * [x] Move combat rules from v1 to v2.
+    * [x] Armor Piercing takes additional armor box to negate damage?
+    * [x] Advantage adjust d20.
+    * [x] Clarify Weakened and Strengthened. Related to Effect?
+    * [x] Armor Piercing takes additional armor box to negate damage?
+    * [x] Sin eaters? Take oath, banished from civilization, protect it from evil.
+    * [x] Murdered Exile is first sin-eater
+    * [x] Downed and melee and ranged attacks.
+    * [x] Round up?
+    * [x] Initiative order?
+    * [x] Rename sheltered to in cover? No, it leaves the bane a verb.
+    * [x] Make downed only advantage against? No. Adjust defenses.
+    * [x] Change concealed to adjust defense - not adjust dice rolled.
+    * [x] Flanking is advantage or -4 defense? Advantage.
+    * [ ] Change advantage and disadvantage affecting tier vs having numbered - so advxntage 3
+    * [x] Damage explodes on crits? No, but +1POW for each crit multiplier
+    * [ ] Avoid double or half damage? No. Resistance and vulnerability are the onlx places, I think.
+    * [x] Avoid double or half defenses?
+    * [x] Allow static numerical bonuses or penalties vs all dice adjustments?
