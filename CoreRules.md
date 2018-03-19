@@ -74,7 +74,7 @@ There are six types of rolls that you'll use most often in the game:
 
 * **Travel Roll.** When traveling over a long distance, make a travel roll to see what you encounter and how that goes.
 
-* **Resistance Roll.** You can make a resistance roll when you suffer a consequence they don't like. The roll tells us how much stress you suffer to reduce the severity of a consequence. *When you resist that "Broken Leg" harm, you take some stress and now it's only a “Sprained Ankle” instead.*
+* **Resistance Roll.** You can make a resistance roll when you suffer a consequence they don't like. The roll tells us how much stress you suffer to reduce the severity of a consequence. *When you resist that "Broken Leg" harm, you take some stress and now it's only a "Sprained Ankle" instead.*
 
 * **Tier Roll.** Roll a d20 with Advantage equal to your tier and keep the highest d20. When written as **[TIER]** the die do not explode, but when written as **TIER!** the die do explode.
 
@@ -315,7 +315,7 @@ When they suffer a consequence that they don't want to accept, they can take str
 
 * *During a knife fight, Daniel's character, Cross, gets stabbed in the chest. Daniel rolls his Prowess rating to resist, and gets a 2. It costs 6 stress, minus 2 (the result of the resistance roll) to resist the consequences. Daniel marks off 4 stress and describes how Cross survives.*
 
-* *The GM rules that the harm is reduced by the resistance roll, but not avoided entirely. Cross suffers level 2 harm ("Chest Wound") instead of level 3 harm (“Punctured Lung”).*
+* *The GM rules that the harm is reduced by the resistance roll, but not avoided entirely. Cross suffers level 2 harm ("Chest Wound") instead of level 3 harm ("Punctured Lung").*
 
 ## Pushing Yourself
 
@@ -377,9 +377,9 @@ Generally, the more complex the problem, the more segments in the progress clock
 
 A complex obstacle is a 4-segment clock. A more complicated obstacle is a 6-clock. A daunting obstacle is an 8-segment clock.
 
-When you create a clock, make it about the **obstacle,** not the method. The clocks for an infiltration should be "Interior Patrols" and “The Tower,” not “Sneak Past the Guards” or “Climb the Tower.” The patrols and the tower are the obstacles-the PCs can attempt to overcome them in a variety of ways.
+When you create a clock, make it about the **obstacle,** not the method. The clocks for an infiltration should be "Interior Patrols" and "The Tower," not "Sneak Past the Guards" or "Climb the Tower." The patrols and the tower are the obstacles-the PCs can attempt to overcome them in a variety of ways.
 
-Complex enemy threats can be broken into several "layers," each with its own progress clock. For example, the dockside gangs' HQ might have a “Perimeter Security” clock, an “Interior Guards” clock, and an “Office Security” clock. The crew would have to make their way through all three layers to reach the gang boss' personal safe and valuables within.
+Complex enemy threats can be broken into several "layers," each with its own progress clock. For example, the dockside gangs' HQ might have a "Perimeter Security" clock, an "Interior Guards" clock, and an "Office Security" clock. The crew would have to make their way through all three layers to reach the gang boss' personal safe and valuables within.
 
 Remember that a clock tracks progress. It reflects the fictional situation, so the group can gauge how they're doing. A clock is like a speedometer in a car. It *shows* the speed of the vehicle-it doesn't determine the speed.
 
@@ -395,13 +395,13 @@ The GM can use a clock to represent a progressive danger, like suspicion growing
 
 ### Racing Clocks
 
-Create two opposed clocks to represent a race. The PCs might have a progress clock called "Escape" while the constables have a clock called “Cornered.” If the PCs finish their clock before the constables fill theirs, they get away. Otherwise, they're cornered and can't flee. If both complete at the same time, the PCs escape to their lair, but the hunting officers are outside!
+Create two opposed clocks to represent a race. The PCs might have a progress clock called "Escape" while the constables have a clock called "Cornered." If the PCs finish their clock before the constables fill theirs, they get away. Otherwise, they're cornered and can't flee. If both complete at the same time, the PCs escape to their lair, but the hunting officers are outside!
 
-You can also use racing clocks for an environmental hazard. Maybe the PCs are trying to complete the "Search" clock to find the lockbox on the sinking ship before the GM fills the “Sunk” clock and the vessel goes down.
+You can also use racing clocks for an environmental hazard. Maybe the PCs are trying to complete the "Search" clock to find the lockbox on the sinking ship before the GM fills the "Sunk" clock and the vessel goes down.
 
 ### Linked Clocks
 
-You can make a clock that unlocks another clock once it's filled. For example, the GM might make a linked clock called "Trapped" after an “Alert” clock fills up. When you fight a veteran warrior, she might have a clock for her “Defense” and then a linked clock for “Vulnerable.” Once you overcome the “Defense” clock, then you can attempt to overcome the “Vulnerable” clock and defeat her. You might affect the “Defense” clock with violence in a knife-fight, or you lower her defense with deception if you have the opportunity. As always, the method of action is up to the players and the details of the fiction at hand.
+You can make a clock that unlocks another clock once it's filled. For example, the GM might make a linked clock called "Trapped" after an "Alert" clock fills up. When you fight a veteran warrior, she might have a clock for her "Defense" and then a linked clock for "Vulnerable." Once you overcome the "Defense" clock, then you can attempt to overcome the "Vulnerable" clock and defeat her. You might affect the "Defense" clock with violence in a knife-fight, or you lower her defense with deception if you have the opportunity. As always, the method of action is up to the players and the details of the fiction at hand.
 
 ### Mission Clocks
 
@@ -659,11 +659,11 @@ This consequence represents losing control of the situation-the action carries y
 
 This consequence represents a long-lasting debility (or death). When you suffer harm, record the specific injury on your character sheet equal to the level of harm you suffer. If you suffer** lesser harm**, record it in the bottom row. If you suffer **moderate harm**, write it in the middle row. If you suffer **severe harm**, record it in the top row. See examples of harm and the harm tracker, below.
 
-Your character suffers the penalty indicated at the end of the row if any or all harm recorded in that row applies to the situation at hand. So, if you have "Drained" and “Battered” harm in the bottom row, you'll suffer reduced effect when you try to run away from the constables. When you're impaired by harm in the top row (severe harm, level 3), your character is incapacitated and can't do anything unless you have help from someone else or **push yourself** to perform the action.
+Your character suffers the penalty indicated at the end of the row if any or all harm recorded in that row applies to the situation at hand. So, if you have "Drained" and "Battered" harm in the bottom row, you'll suffer reduced effect when you try to run away from the constables. When you're impaired by harm in the top row (severe harm, level 3), your character is incapacitated and can't do anything unless you have help from someone else or **push yourself** to perform the action.
 
 If you need to mark a harm level, but the row is already filled, the harm moves up to the next row above. So, if you suffered standard harm (level 2) but had no empty spaces in the second row, you'd have to record severe harm (level 3), instead. If you run out of spaces on the top row and need to mark harm there, your character suffers a **catastrophic, permanent consequence** (loss of a limb, sudden death, etc., depending on the circumstances).
 
-![image alt text](image_0.gif)*This character has three harm: a "Shattered Right Leg" (level 3) plus “Drained” and “Battered” (level 1). If they suffer another level 1 harm, it will move up to level 2. If they suffer another level 3 harm, it will move up to level 4: Fatal.*
+![image alt text](Images/image_0.gif)*This character has three harm: a "Shattered Right Leg" (level 3) plus "Drained" and "Battered" (level 1). If they suffer another level 1 harm, it will move up to level 2. If they suffer another level 3 harm, it will move up to level 4: Fatal.*
 
 ### Harm examples
 
@@ -675,7 +675,7 @@ If you need to mark a harm level, but the row is already filled, the harm moves 
 
 **Lesser (1):** *Battered, Drained, Distracted, Scared, Confused.*
 
-Harm like "Drained" or “Exhausted” can be a good fallback consequence if there's nothing else threatening a PC (like when they spend all night Studying those old books, looking for any clues to their enemy's weaknesses before he strikes).
+Harm like "Drained" or "Exhausted" can be a good fallback consequence if there's nothing else threatening a PC (like when they spend all night Studying those old books, looking for any clues to their enemy's weaknesses before he strikes).
 
 # Resistance & Armor
 
@@ -691,7 +691,7 @@ You make the roll using one of your character's **attributes** (BODY, MIND, or W
 
 Your character suffers **6 stress** when they resist, **minus the highest die result from the resistance roll**. So, if you rolled a 4, you'd suffer 2 stress. If you rolled a 6, you'd suffer zero stress. If you get a critical result, you also **clear 1 stress**.
 
-* *Ian's character, Silas, is in a desperate Skirmish with several duelists and one of them lands a blow with their sword. Since the position was desperate, the GM inflicts severe harm (modified by any other factors). They tell Ian to record level 3 harm, "Gut Stabbed" on Silas's sheet. Ian decides to resist the harm, instead. The GM says he can reduce the harm by one level if he resists it. Ian rolls 3d for Silas's Prowess attribute and gets a 5. Silas takes 1 stress and the harm is reduced to level 2, “Cut to the Ribs.”*
+* *Ian's character, Silas, is in a desperate Skirmish with several duelists and one of them lands a blow with their sword. Since the position was desperate, the GM inflicts severe harm (modified by any other factors). They tell Ian to record level 3 harm, "Gut Stabbed" on Silas's sheet. Ian decides to resist the harm, instead. The GM says he can reduce the harm by one level if he resists it. Ian rolls 3d for Silas's Prowess attribute and gets a 5. Silas takes 1 stress and the harm is reduced to level 2, "Cut to the Ribs."*
 
 Usually, a resistance roll **reduces the severity** of a consequence. If you're going to suffer fatal harm, for example, a resistance roll would reduce the harm to severe, instead. Or if you got a complication when you were sneaking into the manor house, and the GM was going to mark three ticks on the "Alert" clock, she'd only mark two (or maybe one) if you resisted the complication. You may also make a resistance roll during combat with an Action to reduce the severity of a Wound.
 
@@ -959,7 +959,7 @@ Another way to contribute to the crew's development is by acquiring **turf**. Wh
 
 Turf is marked on your **rep** tracker (see the example below). Each piece of turf you hold reduces the **rep** cost to develop by one. So, if you have 2 turf, you need 10 **rep** to develop. If you have 4 turf, you need 8 **rep** to develop. **You can hold a maximum of 6 turf.** When you develop and reset your **rep**, **you keep the marks from all the turf you hold.**
 
-![image alt text](image_1.gif)
+![image alt text](Images/image_1.gif)
 
 * *If you hold 3 pieces of turf, you need only 9 **rep** to develop, instead of 12. *
 
@@ -1037,7 +1037,7 @@ During the game session, mark xp:
 
 At the end of the session, review the **xp triggers** on your character sheet. For each one, mark 1 xp if it happened at all, or mark 2 xp if it happened a lot during the session. The xp triggers are:
 
-* **Your playbook-specific xp trigger**. For example, the Warrior's is *"Address a challenge with violence or coercion."* To “address a challenge,” your character should attempt to overcome a tough obstacle or threat. It doesn't matter if the action is successful or not. You get xp either way.
+* **Your playbook-specific xp trigger**. For example, the Warrior's is *"Address a challenge with violence or coercion."* To "address a challenge," your character should attempt to overcome a tough obstacle or threat. It doesn't matter if the action is successful or not. You get xp either way.
 
 * **You expressed your beliefs, drives, traits, or background.** Your character's beliefs and drives are yours to define, session to session. Feel free to tell the group about them when you mark xp.
 
@@ -2027,7 +2027,7 @@ Each Blades-powered game should have crew types that suit its setting and premis
 
 Your crew type determines the scores that you'll focus on, as well as a selection of special abilities that support that kind of action. The crew type isn't meant to be restrictive-a crew of smugglers might sometimes engage in extortion or sell contraband -but the core activity of the crew type is the most frequent way they earn coin and xp for advancement.
 
-Like a character playbook, your crew type is also how you're known in the underworld. The criminal factions and institutions think of you as "assassins" or “a cult” etc., and will treat you accordingly.
+Like a character playbook, your crew type is also how you're known in the underworld. The criminal factions and institutions think of you as "assassins" or "a cult" etc., and will treat you accordingly.
 
 Your crew begins with 2 coin in its coffers (the remains of the PCs' savings). You are **Tier 0**, with **strong hold** and **0** rep.
 
@@ -2873,7 +2873,7 @@ After the stress cost is paid, a flashback action is handled just like any other
 
 If a flashback involves a **downtime** activity, pay 1 coin or 1 rep for it, instead of stress.
 
-One of the best uses for a flashback is when the **engagement roll** goes badly. After the GM describes the trouble you're in, you can call for a flashback to a special preparation you made, "just in case" something like this happened. This way, your “flashback planning” will be focused on the problems that *do* happen, not the problems that *might* happen.
+One of the best uses for a flashback is when the **engagement roll** goes badly. After the GM describes the trouble you're in, you can call for a flashback to a special preparation you made, "just in case" something like this happened. This way, your "flashback planning" will be focused on the problems that *do* happen, not the problems that *might* happen.
 
 ### Limits of flashbacks
 
@@ -3235,7 +3235,7 @@ Add +1 heat for a high-profile or well-connected target. Add +1 heat if the situ
 
 You mark heat levels on the heat tracker on the crew sheet.
 
-![image alt text](image_2.gif)
+![image alt text](Images/image_2.gif)
 
 When your heat level reaches 9, you gain a wanted level and clear your heat (any excess heat "rolls over," so if your heat was 7 and you took 4 heat, you'd reset with 2 heat marked).
 
@@ -3275,7 +3275,7 @@ Incarceration is dehumanizing and brutal. The renown of your crew is your only r
 
 ## Prison claims
 
-![image alt text](image_3.gif)
+![image alt text](Images/image_3.gif)
 
 ### Allied claim
 
@@ -3335,7 +3335,7 @@ The entanglements are detailed on the following pages. Each has a list of potent
 
 An Inspector presents a case file of evidence to a magistrate, to begin prosecution of your crew. They send a detail to arrest you (a gang at least equal in **scale** to your wanted level). Pay them off with coin equal to your wanted level +3, hand someone over for arrest (this clears your heat), or try to evade capture.
 
-A truncheon bangs on the shutters of the window. "Alright then! Come on out and let's go quietly now!" It sounds like the bald Sergeant. When you peek out, you see a detail of about twenty constables, all geared up for a fight. The Sergeant mumbles under his breath, so only you inside can hear: “Or perhaps I have the wrong address?” He clears his throat and waits for some coin to appear.
+A truncheon bangs on the shutters of the window. "Alright then! Come on out and let's go quietly now!" It sounds like the bald Sergeant. When you peek out, you see a detail of about twenty constables, all geared up for a fight. The Sergeant mumbles under his breath, so only you inside can hear: "Or perhaps I have the wrong address?" He clears his throat and waits for some coin to appear.
 
 ### Cooperation
 
@@ -3405,7 +3405,7 @@ Between scores, your crew spends time at their liberty, attending to personal ne
 
 You may choose the same activity more than once. You can only attempt actions that you're in a position to accomplish. If an activity is contingent on another action, resolve that action first.
 
-A PC can make time for more than two activities, at a cost. **Each additional activity from the list costs** **1** coin or **1** rep. This reflects the time and resulting resource drain while you're "off the clock" and not earning from a score. When you complete a new score, you reset and get two “free” activities again.
+A PC can make time for more than two activities, at a cost. **Each additional activity from the list costs** **1** coin or **1** rep. This reflects the time and resulting resource drain while you're "off the clock" and not earning from a score. When you complete a new score, you reset and get two "free" activities again.
 
 Activities on the downtime list are limited; normal actions are not. During downtime, you can still go places, do things, make action rolls, gather information, talk with other characters, etc. In other words, only activities that are *on the list* are limited.
 
@@ -3427,7 +3427,7 @@ Gain temporary use of an **asset**:
 
 * A **service**. Transport from a smuggler or driver, use of a warehouse for temporary storage, legal representation, etc.
 
-"Temporary use" constitutes one significant period of usage that makes sense for the asset-typically the duration of one score. An asset may also be acquired for “standby” use in the future. You might hire a gang to guard your lair, for example, and they'll stick around until after the first serious battle, or until a week goes by and they lose interest.
+"Temporary use" constitutes one significant period of usage that makes sense for the asset-typically the duration of one score. An asset may also be acquired for "standby" use in the future. You might hire a gang to guard your lair, for example, and they'll stick around until after the first serious battle, or until a week goes by and they lose interest.
 
 To acquire the asset, roll **TIER!** versus a **controlled** (6), **risky** (11), or **desperate** (16) target number. The result indicates the **quality** of the asset you get, using the crew's Tier as the base. A **failure **is Tier - 1; a **success** is Tier, and a **critical** is Tier + *critical multiplier*. You can spend coin to raise the result of this roll by spending **2** coin per additional Tier level added.
 
@@ -3459,9 +3459,9 @@ Recovery is like a long-term project. Your healer rolls (perhaps **Utter **or **
 
 When you fill your healing clock, reduce each instance of harm on your sheet by one level, then clear the clock. If you have more segments to mark, they "roll over."
 
-![image alt text](image_4.gif)
+![image alt text](Images/image_4.gif)
 
-* *Cross has two injuries: a level 3 "Shattered Right Leg" and level 1 “Battered.” During downtime, he gets treatment from Quellyn, a witch friend of the crew's Whisper. Quellyn is a competent healer, so the GM says quality 2 makes sense. The player rolls 2d to recover and gets a 6: three segments on the healing clock. He decides to spend 1 coin to improve the result to a critical to get five segments instead. Four segments fill the clock-all of Cross's harm is reduced by one level, then he clears the clock and marks one more segment. His level 3 harm “Shattered Right Leg” is reduced to level 2 harm. His level 1 harm “Battered” is reduced to zero and goes away. Cross is left with one injury on his sheet: level 2 “Broken Leg.”*
+* *Cross has two injuries: a level 3 "Shattered Right Leg" and level 1 "Battered." During downtime, he gets treatment from Quellyn, a witch friend of the crew's Whisper. Quellyn is a competent healer, so the GM says quality 2 makes sense. The player rolls 2d to recover and gets a 6: three segments on the healing clock. He decides to spend 1 coin to improve the result to a critical to get five segments instead. Four segments fill the clock-all of Cross's harm is reduced by one level, then he clears the clock and marks one more segment. His level 3 harm "Shattered Right Leg" is reduced to level 2 harm. His level 1 harm "Battered" is reduced to zero and goes away. Cross is left with one injury on his sheet: level 2 "Broken Leg."*
 
 You may heal yourself, but you take 2 stress when you do so. You can also choose to simply tough it out and attempt to heal without any treatment-in this case, take 1 stress and roll **d20!** at **Disadvantage**.
 
