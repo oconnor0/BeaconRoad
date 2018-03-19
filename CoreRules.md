@@ -4775,167 +4775,105 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
 #### d4
 
 * Bash
-
     * Requires: BODY d4, Wreck 2, *defensive* weapon
-
     * Cost: Action, Stress 1 (condition 1)
-
     * Target: 1 creature you threaten
-
     * Attack: Wreck/BODY! vs IRON
-
     * Hit (half Wreck)[BODY] *kinetic *damage and *pushed* 5' per attacking action dot.
-
     * Upgrades:
-
         * [ ] Slam and Bash (8 clock) - The target is *slammed *10' per attacking action dot instead of *pushed*.
 
 * Block
-
     * Requires: BODY d4, Skirmish 1, *defensive* weapon
-
     * Cost: Reaction, Stress 1
-
     * Trigger: You or an adjacent ally are hit by an attack.
-
     * Make a melee defensive action roll (Skirmish/BODY!) and use that instead of the targeted defense.
 
 * Goading Stance
-
     * Requires: BODY d4.
-
     * Cost: Action, Stress 1 (condition 1).
-
     * Effect: For the rest of this encounter or until this stance ends, your melee weapon attacks *goad* their targets, hit or miss. Make a basic melee weapon attack.
 
 #### d6
 
 * Disarming Flourish
-
     * Requires: Finesse 1, BODY d6.
-
     * Cost: Action.
-
     * Attack: Finesse/BODY! vs WARD.
-
     * Hit: Target suffers *disarmed*.
 
 * Dodge
-
     * Requires: BODY d6, Prowl 2
-
     * Cost: Reaction, Stress 1
-
     * Trigger: You are targeted by an attack.
-
     * Maneuver up to half your stride.
 
 * Flanking Stance
-
     * Requires: BODY d6.
-
     * Cost: Action, Stress 1.
-
     * Effect: For the rest of this encounter or until this stance ends, your allies and enemies treat you as *flanking* each enemy creature you *threaten*. Make a basic melee weapon attack.
 
 * Parry
-
     * Requires: BODY d6
-
     * Cost: Reaction, Stress 1
-
     * Trigger: You are hit by a melee attack.
-
     * Effect: Make a melee action roll and use that instead of the targeted defense. If the attack no longer hits, you may maneuver 5'.
 
 * Off-Hand Strike
-
     * Requires: BODY d6
-
     * Cost: Action, Stress 0
-
     * Effect: Make a main-hand melee weapon attack. If you hit with that attack, you may immediately make an attack with your off-hand *light* weapon.
 
 * Sidestep
-
     * Requires: BODY d6;
-
     * Cost: Reaction, Stress 0
-
     * Trigger: You hit with an attack.
-
     * Maneuver up to 10'.
 
 #### d8
 
 * Defensive Stance
-
     * Requires: BODY d8.
-
     * Cost: Action, Stress 1 (condition 1).
-
     * Effect: For the rest of this encounter or until this stance ends, you suffer disadvantage on all attack rolls but *deflect kinetic* attacks.
 
 * Deep Cut
-
     * Requires: BODY d8.
-
     * Cost: Action, Stress 1 (condition 1).
-
     * Target: 1 creature you threaten.
-
     * Attack: Finesse/BODY! vs IRON.
-
     * Hit: (half Finesse)[POW] + [BODY] *kinetic* damage, and the target suffers *bleeding d4*.
 
 * Protect
-
     * Requires: BODY d8, *defensive* weapon
-
     * Cost: Reaction, Stress 1
-
     * Trigger: An adjacent ally would be hit by an attack.
-
     * Effect: For one round, you grant the ally *sheltered* while adjacent.
 
 * Riposte
-
     * Requires: BODY d8
-
     * Cost: Reaction, Stress 1
-
     * Trigger: You or an ally are hit by an attack.
-
     * Make a melee attack against the attacking creature you threaten.
 
 #### d10
 
 * Double Strike
-
     * Requires: BODY d10
-
     * Cost: Action + Reaction, Stress 0
-
     * Effect: Make two basic weapon attacks without disadvantage.
 
 * Intercept
-
     * Requires: BODY d10
-
     * Cost: Reaction, Stress 1
-
     * Trigger: An enemy advances toward an ally within your stride.
-
     * Effect: Charge the enemy at any point along its movement.
 
 #### d12
 
 * Triple Strike
-
     * Requires: BODY d10
-
     * Cost: 2× Action, Stress 0
-
     * Effect: Make three basic weapon attacks without disadvantage.
 
 ### MIND
@@ -4943,185 +4881,113 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
 #### d4
 
 * Attack!
-
     * Requires: Command 1, MIND d4.
-
     * Cost: Action, Stress 1; or Reaction, Stress 2.
-
     * Trigger:  An enemy takes an Action or targets an ally.
-
     * Target: 1 allied creature within 30'.
-
     * Effect: Target ally may make 1 basic attack.
 
 * Bolster Defense
-
     * Requires: Survey 1, MIND d4.
-
     * Cost: Action, Stress 1 (condition 1).
-
     * Check: Survey/MIND! vs Risky TN.
-
     * Success: You gain *fortified* for one of your defenses.
 
 * Exploit Opponent
-
     * Requires: Study 1, MIND d4.
-
     * Cost: Action, Stress 2 (condition 1, duration 0, range 1).
-
     * Target: 1 enemy creature within 30'.
-
     * Check: Study/MIND! vs WARD, IRON, and GRIT.
-
     * Success: The target suffers *exposed* for one of the hit defenses (of your choosing).
 
 * Haunt
-
     * Requires: Sway 1, MIND d4.
-
     * Cost: Action, Stress 3 (range 1, force 1, condition 1).
-
     * Attack: Sway/MIND! vs WARD.
-
     * Hit: (Sway)[d4] *psychic *damage, and the target suffers *terrified*.
 
 * Inhale
-
     * Requires: MIND d4, Study 1
-
     * Cost: Action, Stress 0 (range 1)
-
     * Target: 1 creature within 30'.
-
     * Effect: You suffer another's wounds (select 1):
-
         * The target selects 1 wound and loses it. You gain that wound.
-
         * The target rolls a recovery. You lose that many HP.
-
         * The target clears up to 3 stress. You gain that stress.
 
 #### d6
 
 * Clarity
-
     * Requires: MIND d6.
-
     * Cost: Action, Stress 3 (range 1, condition 2).
-
     * Target: 1 creature within 30'.
-
     * Effect: The target gains *focused* for 1 minute (10 rounds).
 
 * Inner Flame
-
     * Requires: MIND d6.
-
     * Cost: Action, Stress 3 (range 1, condition 1 + 1).
-
     * Target: 1 creature within 30'.
-
     * Effect: The creature *heals* (1 + TIER)[d4] and *regenerates* *1* for 1 minute (10 rounds).
 
 * Interrupt
-
     * Requires: MIND d6
-
     * Cost: Reaction, Stress 1
-
     * Trigger: A creature within weapon range makes an action roll.
-
     * Target: The triggering creature.
-
     * Attack: Action/ATTR! vs TN (the triggering check) and WARD.
-
     * Hit: The target loses their current Action without effect.
 
 #### d8
 
 * Cleanse
-
     * Requires: Utter 1, MIND d8.
-
     * Cost: Action, Stress
-
     * Target: 1 allied creature within 30'.
-
     * Effect: One negative condition or wound on them expires.
 
 * Exhale
-
     * Requires: MIND d8, Study 3
-
     * Cost: Action, Stress 2 (range 1, force 1).
-
     * Target: 1 enemy creature within 30'.
-
     * Attack: Study/MIND! vs WARD.
-
     * Hit: The target suffers your wounds (select 1):
-
         * You select 1 wound and lose it. The target gains that wound.
-
         * You roll a recovery. The target suffers *entropic* damage equal to the recovered HP.
-
         * You clear up to 3 stress. The target gains that stress.
 
 * Shadowstep
-
     * Requires: MIND d8
-
     * Cost: Action, Stress 2 (range 2)
-
     * You teleport from a shadow you are in to a shadow within 100' and your line of sight.
 
 #### d10
 
 * Reposition!
-
     * Requires: Command 1, MIND d10.
-
     * Cost: Action, Stress 4 (area 3, condition 1).
-
     * Target: Allied creatures within 25'.
-
     * Effect: *Maneuver* 5'.
 
 * Ink Blot
-
     * Requires MIND d10
-
     * Cost: Action, Stress 5 (range 1, condition 4)
-
     * Target: 1 creature within 30'.
-
     * Attack: Action/MIND! vs IRON
-
     * Hit: Target suffers *blinded*.
 
 #### d12
 
 * Advance!
-
     * Requires: Command 1, MIND d12.
-
     * Cost: Action, Stress 3 (area 3).
-
     * Target: Allied creatures within 25'.
-
     * Effect: Target can spend a *Reaction *to *Advance *up to their *Stride*.
 
 * Mental Imposition
-
     * Requires: MIND d12, Ritual.
-
     * Cost: Downtime Action, Stress 17 (range 6, duration 6, condition 5).
-
     * Target: 1 enemy creature within the city (150000').
-
     * Attack: Command/MIND! vs WARD.
-
     * Hit: Target suffers *dominated* for 1 week.
 
 ### WILL
@@ -5129,235 +4995,140 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
 #### d4
 
 * Fog
-
     * Requires: WILL d4.
-
     * Cost: Action or Reaction, Stress 3 (area 2, duration 1).
-
     * Trigger: An enemy takes an Action or targets an ally.
-
     * Effect: Create a cloud of fog with a 30' diameter centered on you. The cloud *conceals* and lasts one minute (10 rounds) unless removed.
 
 * Carouse
-
     * Requires: Consort 1 or Sway 1, WILL d4.
-
     * Cost: A Few Hours, At Least; Stress 7 (condition 3, duration 4).
-
         * *The Stress cost can be lowered by 2 for each Coin spent (not below 1) on fine food and drink.*
-
     * Target: 1 enemy creature able to talk and interact with you.
-
     * Check: Sway/WILL! vs WARD.
-
     * Success: You *charm* the creature for one day.
-
     * Failure: You suffer *sickened* for one day.
 
 * Ice Dart
-
     * Requires: WILL d4.
-
     * Cost: Action, Stress 3 (range 1, force 1, condition 1).
-
     * Attack: Utter/WILL! vs IRON.
-
     * Hit: (Utter)[d6] *glacial* damage, and target suffers *slowed*.
 
 * Plasmic Darts
-
     * Requires: WILL d4
-
     * Cost: Action, Stress 3 (area 1, range 1, force 1)
-
     * Effect: Make the following attack a number of times equal to your attacking Action Rating.
-
     * Target: 1 enemy creature within 30'.
-
     * Attack: (Action)/WILL! vs IRON.
-
     * Hit: [d4] *plasmic* damage.
 
 * Wolfbite
-
     * *A weapon begins to glow with cold energy. When used to attack, a spectral wolf's head lashes out and bites the target.*
-
     * Requires: WILL d4
-
     * Cost: Action, Stress 2 (condition 1, duration 1)
-
     * Target: 1 weapon within touch.
-
     * Effect: Increase the range of this to 30' by taking 1 stress.
-
     * Effect: For the next minute (10 rounds), that weapon additionally deals *glacial* and *plasmic* damage, and attacks with that weapon are *strengthened* 1 (+1 effect die).
 
 #### d6
 
 * Caustic Flame
-
     * Requires: Utter 1, WILL d6.
-
     * Cost: Action, Stress 6 (area 1, range 1, condition 2 + 2).
-
     * Target: Creatures in 10' cube within 30'.
-
     * Attack: Utter/WILL! vs IRON.
-
     * Effect: Target suffers *Burning *d6 and *Corroding* d6.
 
 * Lightning Bolt
-
     * Requires: WILL d6
-
     * Cost: Action, Stress 5 (area 1, range 1, force 3)
-
     * Target: Creatures in 40' line originating from you.
-
     * Attack: Utter/WILL! vs IRON.
-
     * Hit: (Action)[d8] *electrical* damage.
-
     * Upgrades:
-
         * [ ] Chain Lightning (8 clock) - Make a secondary Lightning Bolt attack originating from one of the original targets. No creature may be targeted more than once by the same attack.
 
 * Shattered Earth
-
     * Requires: Wreck 1, WILL d6.
-
     * Cost: Action, Stress 8 (area 2, range 1, force 4, condition 2)
-
     * Target: 25' square within 100'
-
     * Attack: Wreck/WILL! vs IRON
-
     * Hit: (Wreck)[d10] *kinetic* and *thermal* damage.
-
     * Effect: Targeted creatures suffer *downed*.
-
     * Upgrades:
-
         * [ ] Broken Earth (8 clock) - The targeted area becomes *difficult terrain*.
 
 * Wither
-
     * Requires: WILL d6.
-
     * Cost: Action, Stress 3 (range 1, condition 1 + 1).
-
     * Target: 1 enemy creature within 30'.
-
     * Attack: Utter/WILL! vs IRON and GRIT.
-
     * Hit vs IRON: Target suffers *blighted d4*.
-
     * Hit vs GRIT: Target suffers *weakened 1*.
 
 #### d8
 
 * Acid Arrow
-
     * Requires: WILL d8
-
     * Cost: Action, Stress 7 (range 2, force 5)
-
     * Target: 1 creature within 100'.
-
     * Attack: Utter/WILL! vs IRON
-
     * Hit: (Utter)[d12] *chemical* damage.
-
     * Target: One adjacent creature.
-
     * Effect: (Utter)[d4] *chemical* damage.
 
 * Fireball
-
     * Requires: WILL d8.
-
     * Cost: Action, Stress 8 (range 2, force 3, area 2).
-
     * Target: 25' square within 100'.
-
     * Attack: Utter/WILL! vs IRON.
-
     * Hit: (Utter)[d8] *thermal* damage.
 
 * Plasmic Cage
-
     * Requires: WILL d8.
-
     * Cost: Action, Stress 4 (range 1, condition 3).
-
     * Target: 1 enemy creature within 30'.
-
     * Attack: Utter/WILL! vs IRON.
-
     * Hit: Target suffers *rooted*.
 
 * Rock Slam
-
     * Requires: Wreck 1, WILL d8.
-
     * Cost: Action, Stress 8 (range 1, force 4, condition 3).
-
     * Target: 1 enemy creature within 30.
-
     * Attack: Wreck/WILL! vs IRON.
-
     * Hit: (Wreck)[d10] *kinetic* damage and *slammed* 10' per Wreck Action Rating.
 
 #### d10
 
 * Aegis
-
     * Requires: WILL d10.
-
     * Cost: Action or Reaction, Stress 4 (range 1, condition 3).
-
     * Target: 1 allied creature within 30'.
-
     * Trigger: An enemy targets an ally.
-
     * Effect: Select one damage type. The target gains *resistance* to that damage type for 1 minute (10 rounds).
 
 * Cataclysm
-
     * Requires: WILL d10.
-
     * Cost: Action, Stress 10 (area 2, range 2, force 4, condition 2).
-
     * Target: 25' square within 100'.
-
     * Attack: vs IRON
-
     * Hit: (Action)[d10] *kinetic* and *thermal* damage.
-
     * Effect: Targeted creatures suffer *downed*.
 
 * Thunderclap
-
     * Requires: Utter 1, WILL d10.
-
     * Cost: Action, Stress (area 3, condition 2 + 2, force 2).
-
     * Attack: Utter/WILL! vs IRON and GRIT.
-
     * Hit vs IRON: (Utter)[d6] *kinetic* and *electrical* damage.
-
     * Hit vs GRIT: The target is *dazed* and *deafened*.
 
 #### d12
 
 * Timeslip
-
     * Requires: WILL d12.
-
     * Cost: Action, Stress 5 (range 1, condition 4).
-
     * Target: 1 creature within 30'.
-
     * Effect: Target gains *hastened* for 1 minute (10 rounds).
 
 # Appendix B: Sandbox Tables
@@ -5371,135 +5142,71 @@ While the below names are based on current or historical societies, consider ass
 #### Male
 
     1. Abishai
-
     2. Ahijah
-
     3. Azarel
-
     4. Azariah
-
     5. Benaiah
-
     6. Eleazar
-
     7. Elhanon
-
     8. Elkanah
-
-1.
-
     9. Gamaliel
-
     10. Gareb
-
     11. Helez
-
     12. Hezro
-
     13. Jashobeam
-
     14. Jehoida
-
     15. Jehu
-
     16. Joab
-
     17. Ira
-
     18. Ithai
-
     19. Maharai
-
     20. Makis
-
     21. Mibhar
-
     22. Mishmannah
-
     23. Nadav
-
     24. Obadiah
-
     25. Paarai
-
     26. Pelet
-
     27. Shama
-
     28. Tanami
-
     29. Uzzia
-
     30. Zadok
-
     31. Zalmon
-
     32. Zion
 
 #### Female
 
     1. Abigail
-
     2. Aphra
-
     3. Ariel
-
     4. Ashtoreth
-
     5. Basmath
-
     6. Beulah
-
     7. Channah
-
     8. Damaris
-
     9. Deborah
-
     10. Dinah
-
     11. Esther
-
     12. Gomer
-
     13. Hagar
-
     14. Hannah
-
     15. Hephzibah
-
     16. Jael
-
     17. Jemima
-
     18. Joanna
-
     19. Kandake
-
     20. Keturah
-
     21. Leah
-
     22. Livnah
-
     23. Michal
-
     24. Naomi
-
     25. Nehushta
-
     26. Peninnah
-
     27. Rachab
-
     28. Rhoda
-
     29. Ruth
-
     30. Sarai
-
     31. Tamar
-
     32. Zibiah
 
 ### Hindu Names
@@ -5507,135 +5214,71 @@ While the below names are based on current or historical societies, consider ass
 #### Male
 
     1. Abayankara
-
     2. Adiratha
-
     3. Arunakamala
-
     4. Asokavardhana
-
     5. Baddhanuraga
-
     6. Bahuskti
-
     7. Balamodaka
-
     8. Barhanetra
-
-1.
-
     9. Camikara
-
     10. Catura
-
     11. Davindar
-
     12. Ekodara
-
     13. Gurumurthi
-
     14. Haridhana
-
     15. Jagatkarna
-
     16. Jaigata
-
     17. Kalamurti
-
     18. Karnaka
-
     19. Kriyavidhi
-
     20. Indrasita
-
     21. Lakshman
-
     22. Mahesh
-
     23. Mohinder
-
     24. Muralidhar
-
     25. Natrajan
-
     26. Prabhakaran
-
     27. Ramachandran
-
     28. Sateesha
-
     29. Thakur
-
     30. Umashankar
-
     31. Venkatesha
-
     32. Yashpal
 
 #### Female
 
     1. Aarti
-
     2. Akasaganga
-
     3. Anandamayi
-
     4. Athreya
-
     5. Bachendri
-
     6. Badarayani
-
     7. Baratam
-
     8. Baxi
-
     9. Bhadrasvapna
-
     10. Bhavanika
-
     11. Carudarsana
-
     12. Chandrakanta
-
     13. Danti
-
     14. Ekakini
-
     15. Gajalakshmi
-
     16. Hansanadini
-
     17. Hemaksi
-
     18. Inaksi
-
     19. Jallata
-
     20. Kalakanya
-
     21. Karunya
-
     22. Leena
-
     23. Makara
-
     24. Mohani
-
     25. Ninderjit
-
     26. Pushpa
-
     27. Rochana
-
     28. Sepatha
-
     29. Sri
-
     30. Urmila
-
     31. Vanmala
-
     32. Zubeida
 
 ### Lakota Names
@@ -5645,139 +5288,80 @@ While the below names are based on current or historical societies, consider ass
 1. 1–8
 
     1. Akecheta
-
     2. Appanoose
-
     3. Canowicakte
-
     4. Chankoowashtay
-
     5. Chatan
-
     6. Ciqala
-
     7. Enapay
-
     8. Hanska
 
 2. 9–16
 
     9. Hotah
-
     10. Howahkan
-
     11. Kangee
-
     12. Kohana
-
     13. Lootah
-
     14. Mahkah
-
     15. Mahpee
-
     16. Makhpia-Luta
 
 3. 17–24
 
     17. Mankato
-
     18. Mato Watakpe
-
     19. Napayshni
-
     20. Ogaleesha
-
     21. Ohanzee
-
     22. Ohiyesa
-
     23. Otaktay
-
     24. Sintay Galeska
 
 4. 25–32
 
     25. Tahatan
-
     26. Takoda
-
     27. Tashunka
-
     28. Tatanka Ptecila
-
     29. Wahkan
-
     30. Wambleeska
-
     31. Wapasha
-
     32. Wasechun Tashunka
 
 #### Female
 
     1. Anpaytoo
-
     2. Chapa
-
     3. Chapawee
-
     4. Chumani
-
     5. Dowanhowee
-
     6. Ehawee
-
     7. Hantaywee
-
     8. Kimimela
-
     9. Macha
-
     10. Magaskawee
-
     11. Makawee
-
     12. Mika
-
     13. Mina
-
     14. Ojinjintka
-
     15. Ptaysanwee
-
     16. Shappa
-
     17. Skah
-
     18. Tahcawin
-
     19. Takchawee
-
     20. Talutah
-
     21. Wachiwi
-
     22. Wakanda
-
     23. Wasula
-
     24. Weayaya
-
     25. Weeko
-
     26. Wichahpi
-
     27. Wichapi
-
     28. Wihakayda
-
     29. Winona
-
     30. Witashnah
-
     31. Zitkala
-
     32. Zonta
 
 ### Macedonian Names
@@ -5785,133 +5369,71 @@ While the below names are based on current or historical societies, consider ass
 #### Male
 
     1. Apostol
-
     2. Atanas
-
     3. Blazhe
-
     4. Bojan
-
     5. Bozidar
-
     6. Branislav
-
     7. Czeslaw
-
     8. Dalibor
-
     9. Davor
-
     10. Dragomir
-
     11. Dusan
-
     12. Dzvonimir
-
     13. Ertan
-
     14. Goran
-
     15. Ilarion
-
     16. Ljubomir
-
     17. Matej
-
     18. Mladen
-
     19. Nebojzha
-
     20. Nedelko
-
     21. Radomir
-
     22. Risto
-
     23. Slavisa
-
     24. Slawomir
-
     25. Tihomir
-
     26. Todor
-
     27. Trajan
-
     28. Valentin
-
     29. Vitomir
-
     30. Vukashin
-
     31. Zivko
-
     32. Zlatan
 
 #### Female
 
     1. Aleksandra
-
     2. Biljana
-
     3. Bisera
-
     4. Blagorodna
-
     5. Bozena
-
     6. Branka
-
     7. Denica
-
     8. Dubravka
-
     9. Ekaterina
-
     10. Evdokija
-
     11. Frosina
-
     12. Grosdana
-
     13. Ilinka
-
     14. Jagoda
-
     15. Jasna
-
     16. Kalina
-
     17. Ksenija
-
     18. Ljubica
-
     19. Milena
-
     20. Mira
-
     21. Mitrodora
-
     22. Nevena
-
     23. Ognena
-
     24. Rada
-
     25. Radmila
-
     26. Sashka
-
     27. Slavena
-
     28. Snezhana
-
     29. Teodora
-
     30. Trendafilka
-
     31. Vaska
-
     32. Zaharina
 
 ### Welsh Names
@@ -5919,133 +5441,71 @@ While the below names are based on current or historical societies, consider ass
 #### Male
 
     1. Anarawd
-
     2. Arthfael
-
     3. Bedwyr
-
     4. Brenin llwyd
-
     5. Cadeyrn
-
     6. Cadwalader
-
     7. Celyddon
-
     8. Dilwyn
-
     9. Einion
-
     10. Elidyr
-
     11. Gerallt
-
     12. Gorlassar
-
     13. Guorthigern
-
     14. Gwalchgwyn
-
     15. Gwrgenau
-
     16. Heddwyn
-
     17. Huarwar
-
     18. Idris
-
     19. Iorwerth
-
     20. Islwyn
-
     21. Mawrth
-
     22. Neirin
-
     23. Owain
-
     24. Penllyn
-
     25. Rhisiart
-
     26. Rhydderch
-
     27. Talfryn
-
     28. Teirtu
-
     29. Trahaearn
-
     30. Uchdryd
-
     31. Urien
-
     32. Wyn
 
 #### Female
 
     1. Aeronwy
-
     2. Angharawd
-
     3. Arianrhod
-
     4. Blodeuwedd
-
     5. Branwen
-
     6. Ceinwen
-
     7. Cerridwyn
-
     8. Crearwy
-
     9. Delwyn
-
     10. Dilys
-
     11. Dwynwyn
-
     12. Eilian
-
     13. Esyllt
-
     14. Gwawr
-
     15. Gwenllian
-
     16. Gwyneira
-
     17. Hafren
-
     18. Hefina
-
     19. Llewella
-
     20. Llinos
-
     21. Mairwen
-
     22. Morwenna
-
     23. Myfanwy
-
     24. Nerys
-
     25. Nimue
-
     26. Olwen
-
     27. Owena
-
     28. Rhonwen
-
     29. Rhosyn
-
     30. Seren
-
     31. Talaith
-
     32. Terrwyn
 
 ## Other Sandbox
@@ -6055,133 +5515,79 @@ While the below names are based on current or historical societies, consider ass
 * Aggression
 
     * 1 Peaceable
-
     * 2 Defensive
-
     * 3 Belligerent
-
     * 4 Warlike
 
 * Size
 
     * 1 Tiny
-
     * 2 Small
-
     * 3 Medium
-
     * 4 Medium
-
     * 5 Large
-
     * 6 Huge
 
 * Phenotype
 
     * 1 Aberrant
-
     * 2 Amphibian
-
     * 3 Aquatic
-
     * 4 Avian
-
     * 5 Insectoid
-
     * 6 Mammalian
-
     * 7 Mechanical
-
     * 8 Reptilian
 
 * Archetype
 
     * 1 Warrior
-
     * 2 Scientist
-
     * 3 Parasite
-
     * 4 Symbiote
-
     * 5 Hunter
-
     * 6 Subservient
-
     * 7 Tribal
-
     * 8 Mercantile
-
     * 9 Imperial
-
     * 10 Rigid
 
 * Stat Bonuses?
 
     * 1 -1 to all
-
     * 2 -3 to one
-
     * 3 +4 STR
-
     * 4 +2 INT, WIS, and CHA
-
     * 5 +3 CON, -2 DEX
-
     * 6 +1 CHA, +1 INT
-
     * 7 +1 WIS, +1 STR
-
     * 8 +1 INT, +1 CON
-
     * 9 +1 DEX, +1 WIS
-
     * 10 +1 CON, +1 CHA
-
     * 11 +1 STR, +1 DEX
-
     * 12 +1 to all
 
 * Quirk
 
     * 1 Strictly telepathic
-
     * 2 Sleek bodies
-
     * 3 Curious
-
     * 4 Single area of high tech
-
     * 5 Massive cities
-
     * 6 Nocturnal
-
     * 7 Asymmetric
-
     * 8 Vegetarian
-
     * 9 Asexual reproduction
-
     * 10 Long-winded
-
     * 11 Multiple sets of eyes
-
     * 12 6+ limbs
-
     * 13 8+ limbs
-
     * 14 Flightless wings
-
     * 15 Hairless
-
     * 16 Covered in thick fur
-
     * 17 Sexually dimorphic
-
     * 18 Sexually monomorphic
-
     * 19 Deep voices
-
     * 20 Venomous
 
 ### Animal
@@ -6189,133 +5595,79 @@ While the below names are based on current or historical societies, consider ass
 * Pack Size
 
     * 1 Solitary (1 individual)
-
     * 2 Pairs (2-3 individuals)
-
     * 3 Family (4-10 individuals)
-
     * 4 Herd (11+ individuals)
 
 * Size
 
     * 1 Tiny
-
     * 2 Small
-
     * 3 Medium
-
     * 4 Medium
-
     * 5 Large
-
     * 6 Huge
 
 * Phenotype
 
     * 1 Aberrant
-
     * 2 Amphibian
-
     * 3 Aquatic
-
     * 4 Avian
-
     * 5 Insectoid
-
     * 6 Mammalian
-
     * 7 Mechanical
-
     * 8 Reptilian
 
 * Food
 
     * 1 Vegetarian
-
     * 2 Stalker
-
     * 3 Omnivore
-
     * 4 Continuously hungry
-
     * 5 Blood drinker
-
     * 6 Feeds on refuse
-
     * 7 Eats living prey
-
     * 8 Scavenger
-
     * 9 Photosynthesizer
-
     * 10 Feeds on psychic energy or emotion
 
 * Damage Affinity
 
     * 1 Kinetic
-
     * 2 Kinetic
-
     * 3 Psychic
-
     * 4 Temporal
-
     * 5 Plasmic
-
     * 6 Glacial
-
     * 7 Thermal
-
     * 8 Radiant
-
     * 9 Electrical
-
     * 10 Entropic
-
     * 11 Chemical
-
     * 12 None
 
 * Quirk
 
     * 1 Many eyes
-
     * 2 Sleek body
-
     * 3 Silent
-
     * 4 Constantly makes noise
-
     * 5 Exceedingly dumb
-
     * 6 Surprisingly clever
-
     * 7 Spits
-
     * 8 Flightless wings
-
     * 9 Doesn't die unless killed
-
     * 10  Slow moving
-
     * 11  6+ limbs
-
     * 12  8+ limbs
-
     * 13  Has opposable thumbs
-
     * 14  Lives entirely underground
-
     * 15  Blind
-
     * 16  Jumps long distances
-
     * 17  Strong for its size
-
     * 18  Communicates telepathically with species
-
     * 19  Thrives in a hostile environment
-
     * 20  Can survive empty vacuum
 
 ### Biome
@@ -6323,133 +5675,79 @@ While the below names are based on current or historical societies, consider ass
 * Temperature
 
     * 1 Cold
-
     * 2 Temperate
-
     * 3 Temperate
-
     * 4 Hot
 
 * Population
 
     * 1 Uninhabited or Failed Colony
-
     * 2 Outpost
-
     * 3 Rural (Dozens)
-
     * 4 Small Village (Hundreds)
-
     * 5 Large Town (Thousands)
-
     * 6 Massive Metropolis (Hundreds of Thousands or More)
 
 * Atmosphere
 
     * 1 Airless or Thin Atmosphere
-
     * 2 Inert Gas
-
     * 3 Breathable
-
     * 4 Breathable
-
     * 5 Breathable
-
     * 6 Breathable
-
     * 7 Heavy, Breathable with Mask
-
     * 8 Corrosive or Toxic Atmosphere
 
 * Biosphere
 
     * 1 Barren
-
     * 2 Remnants of Life
-
     * 3 Microbial Life
-
     * 4 Under Terraforming
-
     * 5 Human Compatible
-
     * 6 Human Compatible
-
     * 7 Human Compatible
-
     * 8 Hostile and Incompatible with Humans
-
     * 9 Hostile and Incompatible with Humans
-
     * 10 Engineered
 
 * Tag
 
     * 1 Tombs
-
     * 2 Ancient Ruins
-
     * 3 Unbraked AI
-
     * 4 Theocracy
-
     * 5 Tech Cache
-
     * 6 Hostile Environment
-
     * 7 Floating or Flying Cities
-
     * 8 Sealed Menace
-
     * 9 Bubble Cities
-
     * 10 Desert
-
     * 11 Badlands
-
     * 12 Oceanic
 
 * Tag
 
     * 1 Gold Rush
-
     * 2 Civil War
-
     * 3 Forbidden Tech
-
     * 4 Local Tech
-
     * 5 Major Spaceyard
-
     * 6 Tyranny
-
     * 7 Freak Weather
-
     * 8 Colonized Population
-
     * 9 Abandoned Colony
-
     * 10 Zombies
-
     * 11 Warlords
-
     * 12 Theocracy
-
     * 13 Seismic Instability
-
     * 14 Feral World
-
     * 15 Seagoing Cities
-
     * 16 Thought Control
-
     * 17 Restrictive Laws
-
     * 18 Mutagenic Biosphere
-
     * 19 Primitive
-
     * 20 Xenophobic
 
 ### Corporation
@@ -6457,133 +5755,79 @@ While the below names are based on current or historical societies, consider ass
 * Spread of Influence
 
     * 1 A Single Location (Asteroid, City, Village, etc.).
-
     * 2 A Single Nation or Region.
-
     * 3 A Single Continent.
-
     * 4 Planet- or System-Wide.
 
 * Profitability
 
     * 1 Almost Broke.
-
     * 2 Indebted to Organized Crime and Shadier Entities.
-
     * 3 Never Made Money.
-
     * 4 Profitable.
-
     * 5 Owns a Government or Two.
-
     * 6 Absurdly Wealthy But No Income.
 
 * Reputation
 
     * 1 Their products are cheap, shoddy, and necessary.
-
     * 2 Their customers are fanatical, almost religious.
-
     * 3 Their products are high quality and reliable.
-
     * 4 Their products are astonishingly good.
-
     * 5 Everyone wants to work there and leaves disgruntled.
-
     * 6 They used to be the best and are now embarrassing.
-
     * 7 They are unusually honest and humble.
-
     * 8 Conflicts are resolved through duels.
 
 * Rumor
 
     * 1 The owner is incurably insane.
-
     * 2 Their whole company is a laundering operation for ...
-
     * 3 They have no employees, only wage slaves.
-
     * 4 People who disagree with them disappear.
-
     * 5 The company is only a single individual.
-
     * 6 The company is built on a secret maltech stash.
-
     * 7 They are run by a shadow cabal with ulterior motivations.
-
     * 8 No one knows how they continue to make a profit.
-
     * 9 Their products are destructively addictive.
-
     * 10 They are run by something inhuman and inscrutable.
 
 * Secondary Industry
 
     * 1 Psychic Exploitation
-
     * 2 Slave Trade
-
     * 3 Experiments on Sentients
-
     * 4 Assassinations
-
     * 5 Human Trafficking
-
     * 6 Illicit and Dangerous Drugs
-
     * 7 Maltech Research
-
     * 8 Ecological Destruction and Harvesting
-
     * 9 Eugenics
-
     * 10 Governmental Manipulation
-
     * 11 Weaponizing Sentients
-
     * 12 Creation of Docility and Consumers
 
 * Primary Industry
 
     * 1 Computers
-
     * 2 Food
-
     * 3 Finance
-
     * 4 Entertainment
-
     * 5 Shipping
-
     * 6 Weaponry
-
     * 7 Transportation
-
     * 8 Heavy Industry and Mining
-
     * 9 Deep Space
-
     * 10 Communication
-
     * 11 Luxury Goods
-
     * 12 Clothing
-
     * 13 House Goods
-
     * 14 Security
-
     * 15 Exploration
-
     * 16 Medicine
-
     * 17 Starships
-
     * 18 Genetic Engineering
-
     * 19 Psychics
-
     * 20 Education
 
 ### NPC
@@ -6591,133 +5835,79 @@ While the below names are based on current or historical societies, consider ass
 * Age
 
     * 1 Young
-
     * 2 Adult
-
     * 3 Adult
-
     * 4 Old
 
 * Height
 
     * 1 Very Short
-
     * 2 Short
-
     * 3 Average
-
     * 4 Average
-
     * 5 Tall
-
     * 6 Very Tall
 
 * Bloodline
 
     * 1 Draconic
-
     * 2 Dwarf
-
     * 3 Elf
-
     * 4 Forgeborn
-
     * 5 Halfling
-
     * 6 Human
-
     * 7 Orc
-
     * 8 Troll
 
 * Problems
 
     * 1 Has an authority in their life who disapproves of them.
-
     * 2 Addict
-
     * 3 In debt to bad people
-
     * 4 Rebel against ruling government
-
     * 5 On the run from the law
-
     * 6 Loves someone they can't currently be with
-
     * 7 Blackmailed
-
     * 8 Livelihood is under threat
-
     * 9 Made a deal without realizing the consequences.
-
     * 10 Has a friend/partner/sibling that has gone missing.
 
 * Motivation
 
     * 1 Greed
-
     * 2 Revenge
-
     * 3 Owes debts they cannot avoid.
-
     * 4 Has nothing better to do.
-
     * 5 Threatened with death if they leave.
-
     * 6 Wants to conquer the planet, system, or known space.
-
     * 7 Wants to be near their crush.
-
     * 8 Needs to pay for medical treatment
-
     * 9 Loyalty to family or work
-
     * 10 Longs to leave but is somehow trapped.
-
     * 11 Must succeed regardless of the consequences.
-
     * 12 Religious obligation
 
 * Quirks
 
     * 1 Absent-minded
-
     * 2 Bald
-
     * 3 Hirsute
-
     * 4 Fastidiously neat
-
     * 5 Offensive to outsiders
-
     * 6 No sense of personal space
-
     * 7 Odious body odor
-
     * 8 Repetitious
-
     * 9 Vocally religious
-
     * 10 Terse
-
     * 11 Compulsive liar
-
     * 12 Easily angered
-
     * 13 Unnaturally thin
-
     * 14 Extraordinarily fat
-
     * 15 Constant physical tics
-
     * 16 Dresses differently than everyone else.
-
     * 17 No one can tell them what to do.
-
     * 18 Paranoid
-
     * 19 Sniffles or coughs
-
     * 20 Smokes
 
 ### Religion
@@ -6725,133 +5915,79 @@ While the below names are based on current or historical societies, consider ass
 * Origin or Spread of Influence
 
     * 1 Prehistoric -or- Illegal -or- A Single Location (Asteroid, City, Village, etc.).
-
     * 2 Ancient -or- Legal -or- A Single Nation or Region.
-
     * 3 Historical -or- State Sponsored -or- A Single Continent.
-
     * 4 Modern -or- State Religion -or- Theocracy or Planet- or System-Wide.
 
 * Conception of God
 
     * 1 Atheism (*There is No God*).
-
     * 2 Monotheism (*One Without Others*).
-
     * 3 Polytheism (*Pantheon*).
-
     * 4 Pantheism (*Everything is God*).
-
     * 5 Metahumanism (*We Become God(s)*).
-
     * 6 Dualism (*Two Opposed God(s)*) or Kathenotheism (*One Above Others, Rotating*).
 
 * Iconography and Ornamentation
 
     * 1 Exclusively Plain Clothing.
-
     * 2 Celestial Bodies.
-
     * 3 Exquisite Fashion.
-
     * 4 Disheveled.
-
     * 5 Weaponry and Violence.
-
     * 6 Supernatural Flora and Fauna.
-
     * 7 Natural Flora and Fauna.
-
     * 8 Mathematics.
 
 * Treatment of Outsiders
 
     * 1 Indifference.
-
     * 2 Proselytizing.
-
     * 3 Convert or Die.
-
     * 4 Crusade Against Them.
-
     * 5 Coercive Indoctrination of Them.
-
     * 6 Pity For The Deluded.
-
     * 7 Service or Submission to Them.
-
     * 8 Enslavement and Subjugation of Them.
-
     * 9 Respect of Differences.
-
     * 10 Debate With Them.
 
 * Conversion Process
 
     * 1 Being Born Into The Right Family.
-
     * 2 Giving Large Amounts of Money, Continuously.
-
     * 3 The Applicant's Death.
-
     * 4 Daily Rituals.
-
     * 5 Memorization and Recitation of the Holy Text.
-
     * 6 A Secret Indoctrination Ritual.
-
     * 7 Slaughter of Some Person, Animal, or Thing.
-
     * 8 Belief In Its Truth.
-
     * 9 The Will of God.
-
     * 10 Attendance In Local Religious Meetings.
-
     * 11 Defeating Another Member.
-
     * 12 Prayer, Meditation, and Encounter with the Divine.
 
 * Quirk
 
     * 1 The religion is an obvious scam to outsiders.
-
     * 2 Their teachings are accurate and true.
-
     * 3 The current form is unrecognizable from its start.
-
     * 4 There is no hierarchy or clergy.
-
     * 5 Their ancient teachings are often validated by science.
-
     * 6 No one knows when or how it was started.
-
     * 7 It was started within the last generation.
-
     * 8 It is almost impossible to explain their beliefs.
-
     * 9 Their holy text is untranslated or untranslatable.
-
     * 10  Their holy text is continually changing or updated.
-
     * 11 They have no holy text.
-
     * 12 There is nothing supernatural about their teachings.
-
     * 13 It appeals to a single, specific demographic, race, etc.
-
     * 14 Following all the teachings is impossible.
-
     * 15 The original teachings have been turned to the opposite.
-
     * 16 Their teaching and practices promote true unity.
-
     * 17 Its followers have complete peace about death.
-
     * 18 Its followers are unusually fanatical.
-
     * 19 Its teachings foster anger, fear, and shame.
-
     * 20 Its teachings have an uncanny beauty about them.
 
 ### Village
@@ -6859,133 +5995,79 @@ While the below names are based on current or historical societies, consider ass
 * Population
 
     * 1 < 25
-
     * 2 25-60
-
     * 3 60-100
-
     * 4 100-150
 
 * Primary Good
 
     * 1 Farm Goods
-
     * 2 Chickens
-
     * 3 Local Mine
-
     * 4 Hunted Game
-
     * 5 Fish
-
     * 6 Exotic Trinkets
 
 * Disposition
 
     * 1 Hostile to outsiders
-
     * 2 Unfriendly to outsiders
-
     * 3 Wary of outsiders
-
     * 4 Indifferent to outsiders
-
     * 5 Two fighting factions in town
-
     * 6 Exploitative of outsiders
-
     * 7 Friendly to outsiders
-
     * 8 Enamored with outsiders
 
 * Useful Information and Goods
 
     * 1 The local tribe of ... is ...
-
     * 2 Knows locations of higher tech.
-
     * 3 Make food that lasts for months.
-
     * 4 Sells high quality medkits.
-
     * 5 Has connections to interstellar trade.
-
     * 6 Has connections to the regional authorities.
-
     * 7 Provide safe haven from ...
-
     * 8 Maps to a sacred site exist only here.
-
     * 9 The best food in weeks exists here.
-
     * 10  A rare artifact exists in town.
 
 * Problem
 
     * 1 Their crops no longer grow.
-
     * 2 Their kids keep disappearing one by one.
-
     * 3 Wild animals encroach the village and threaten them.
-
     * 4 Storms continuously destroy much of the village.
-
     * 5 The beloved village elder wants to conquer the world.
-
     * 6 They uncovered a hungry, primordial beast.
-
     * 7 Their taxes are too high to pay and still eat.
-
     * 8 A child is marrying a child from a nearby hated village.
-
     * 9 Equipment needed for survival break without fixes.
-
     * 10 The trade routes changed.
-
     * 11 They are being extorted by a local group.
-
     * 12 They are in conflict or war with a nearby village.
 
 * Quirk
 
     * 1 Everyone eats in a central lodge.
-
     * 2 An unusually high percent of those born are psionicists.
-
     * 3 No one has names.
-
     * 4 The village elder is a lich.
-
     * 5 Everyone is unusually happy.
-
     * 6 Uses technology beyond their understanding.
-
     * 7 The buildings are constructed of something living.
-
     * 8 Everyone has the same hair and eye color.
-
     * 9 No one speaks the same language.
-
     * 10 Each building looks completely different.
-
     * 11 No one from the outside has been here in decades.
-
     * 12 The entire village is underground.
-
     * 13 They hold on to old customs without understanding them.
-
     * 14 They seem to be protected by a local apex predator.
-
     * 15 At night, glowing lights come out.
-
     * 16 Blackmail is a sign of friendship and trust.
-
     * 17 The village is ruled entirely by men/women/children/...
-
     * 18 The moon never sets over this village.
-
     * 19 Vegetation seems drawn into this village and overgrows.
-
     * 20 Everyone wears masks.
 
 # Appendix D: Definitions
