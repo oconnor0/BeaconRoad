@@ -82,7 +82,7 @@ Most dice systems in the game are expressions of this basic format. When you’r
 
 A second kind of roll involves rolling several at once and **summing all rolled dice**. No dice explode in these rolls.
 
-* **Damage Roll. **When an attack hits, make a damage roll and reduce their total hit points by the rolled amount.
+* **Damage Roll.** When an attack hits, make a damage roll and reduce their total hit points by the rolled amount.
 
 * **Healing Roll.** When you successfully heal someone, make a healing roll and restore that many hit points.
 
@@ -94,7 +94,7 @@ A **roll** is written as **Action/ATTRIBUTE! vs TN**. This means making a **Tier
 
 ## Advantage and Disadvantage
 
-Advantage and disadvantage are situational effects that alter the number of d20s rolled for a single roll. **Advantage **increases the number of d20s rolled by 1, and you still only sum the highest d20 rolled. **Disadvantage **increases the number of d20s rolled by 1, but you sum the lowest rolled d20. Advantage and disadvantage stack cumulatively with themselves and each other, canceling each other out one for one. Advantage or disadvantage beyond 1 is written as** advantage N** or** disadvantage N**, for example, advantage 2 represents rolling 2 additional d20s (3 total) and keeping the highest of the 3 rolled dice.
+Advantage and disadvantage are situational effects that alter the number of d20s rolled for a single roll. **Advantage** increases the number of d20s rolled by 1, and you still only sum the highest d20 rolled. **Disadvantage** increases the number of d20s rolled by 1, but you sum the lowest rolled d20. Advantage and disadvantage stack cumulatively with themselves and each other, canceling each other out one for one. Advantage or disadvantage beyond 1 is written as **advantage N** or **disadvantage N**, for example, advantage 2 represents rolling 2 additional d20s (3 total) and keeping the highest of the 3 rolled dice.
 
 * *A character in a Tier 2 crew is making a roll in a precarious situation. The roll gains Advantage 2 from the Tier, and Disadvantage from the precarious situation. Make the final roll at Advantage 1 (2 - 1).*
 
@@ -114,7 +114,7 @@ The phases are a conceptual model to help you organize the game. They’re not m
 
 ## Action Ratings
 
-There are 12 **actions **in the game that characters use to overcome obstacles.
+There are 12 **actions** in the game that characters use to overcome obstacles.
 
 * Command
 
@@ -140,7 +140,7 @@ There are 12 **actions **in the game that characters use to overcome obstacles.
 
 * Wreck
 
-Each action has a rating (from zero to 5) that tells you how many dice to roll when you perform that action. Action ratings don’t just represent knowledge, skill, or training—you’re free to describe *how* your character performs that action based on the type of person they are. Maybe your character is good at **Command **because they have a scary stillness to them, while another character barks orders and intimidates people with their military bearing.
+Each action has a rating (from zero to 5) that tells you how many dice to roll when you perform that action. Action ratings don’t just represent knowledge, skill, or training—you’re free to describe *how* your character performs that action based on the type of person they are. Maybe your character is good at **Command** because they have a scary stillness to them, while another character barks orders and intimidates people with their military bearing.
 
 You choose which action to perform to overcome an obstacle, by describing what your character does. Actions that are poorly suited to the situation may be less effective and may put the character in more danger, but they can still be attempted. Usually, when you perform an action, you’ll make an **action roll** to see how it turns out.
 
@@ -156,7 +156,7 @@ If there’s no danger or trouble at hand, you don’t make an action roll. You 
 
 There are three **attributes** in the game system that the player characters use to act: **BODY**, **MIND**, and **WILL**.
 
-**BODY** measures physical prowess, health, strength, agility, and physical dexterity. **MIND** measures intelligence, learning, memory, speed of thought, perception, and awareness. **WILL** measures determination, drive, courage, force of personality, charisma, and presence. An attribute written in all capitals as **BODY**, **MIND**, or **WILL **refers to the attribute die. ATTR refers to a single attribute but may refer to any of them.
+**BODY** measures physical prowess, health, strength, agility, and physical dexterity. **MIND** measures intelligence, learning, memory, speed of thought, perception, and awareness. **WILL** measures determination, drive, courage, force of personality, charisma, and presence. An attribute written in all capitals as **BODY**, **MIND**, or **WILL** refers to the attribute die. ATTR refers to a single attribute but may refer to any of them.
 
 * *ATTR represents the die, ATTR! represents an exploding die, [ATTR] represents a bounded, non-exploding die.*
 
@@ -290,13 +290,13 @@ When you **Wreck**, you unleash savage force.
 
 * *You might smash down a door or wall with a sledgehammer, or use an explosive to do the same. You might employ chaos or sabotage to create a distraction or overcome an obstacle. You could try to overwhelm an enemy with sheer force in battle (but Skirmishing might be better).*
 
-As you can see, many actions overlap with others. This is by design. As a player, you get to choose which action you roll, by saying what your character does. Can you try to **Wreck **someone during a fight? Sure! The GM tells you the position and effect level of your action in this circumstance. As it says, **Skirmish ***might* be better (less risky or more effective), depending on the situation at hand (sometimes it won’t be better).
+As you can see, many actions overlap with others. This is by design. As a player, you get to choose which action you roll, by saying what your character does. Can you try to **Wreck** someone during a fight? Sure! The GM tells you the position and effect level of your action in this circumstance. As it says, **Skirmish** *might* be better (less risky or more effective), depending on the situation at hand (sometimes it won’t be better).
 
 # Defenses and Hit Points
 
 ## Defense Ratings
 
-There are three **defenses **in the game system that determine if attacks hit:** IRON**, **WARD**, and **GRIT**. **IRON** represents agility, ability to avoid damage, fortitude, and resistance to disease and poison. **WARD** represents mental guard, composure, and skill in social situations. **GRIT** represents willpower, determination, and persistence. Each defense has a rating that serves as the **target number** (**TN**) (written as **DEF 10**) which determines whether an attack hits or not. Each **defense rating** equals **8 plus the size of the associated attribute die plus the character’s Tier.**
+There are three **defenses** in the game system that determine if attacks hit: **IRON**, **WARD**, and **GRIT**. **IRON** represents agility, ability to avoid damage, fortitude, and resistance to disease and poison. **WARD** represents mental guard, composure, and skill in social situations. **GRIT** represents willpower, determination, and persistence. Each defense has a rating that serves as the **target number** (**TN**) (written as **DEF 10**) which determines whether an attack hits or not. Each **defense rating** equals **8 plus the size of the associated attribute die plus the character’s Tier.**
 
 * *IRON = 8 + highest face of BODY + Tier*
 
@@ -308,7 +308,7 @@ There are three **defenses **in the game system that determine if attacks hit:**
 
 A character has **hit points** (**HP**) representing their health, vitality, and will to fight. When an attack hits or at other triggers (e.g. disease, poison, wounds, etc.), a character might suffer **damage** to their hit points. This reduces their current HP by that amount. When a character is reduced to zero or fewer HP, they fall unconscious, becoming *incapacitated*. A character becomes *staggered *when their current hit points are half of or less than their maximum hit points.
 
-* *Hit points **= **6/11/16 + ⌈BODY⌉ + ⌈MIND⌉ + ⌈WILL⌉ + 4/5/6 per TIER*
+* *Hit points = 6/11/16 + ⌈BODY⌉ + ⌈MIND⌉ + ⌈WILL⌉ + 4/5/6 per TIER*
 
     * *HP increases by 4 each Tier for Wizards, 5 each Tier for Rogues and Technicians, and 6 each Tier for Warriors.*
 
@@ -318,13 +318,13 @@ If a character’s hit points are reduced to negative half your maximum hit poin
 
 ## Recovery Dice
 
-A character has **recovery dice **determined by their archetype. Certain spells and abilities ask a character to make a recovery roll. Unless otherwise specified, take 1 stress and roll your recovery dice.
+A character has **recovery dice** determined by their archetype. Certain spells and abilities ask a character to make a recovery roll. Unless otherwise specified, take 1 stress and roll your recovery dice.
 
-* *The wizard’s recovery dice is ***[d6] + TIER[d6]***.*
+* *The wizard’s recovery dice is **[d6] + TIER[d6]**.*
 
-* *The rogue and the technician’s recovery dice is ***[d8] + TIER[d8]***.*
+* *The rogue and the technician’s recovery dice is **[d8] + TIER[d8]**.*
 
-* *The warrior’s recovery dice is ***[d10] + TIER[d10]***.*
+* *The warrior’s recovery dice is **[d10] + TIER[d10]**.*
 
 ## Damage
 
@@ -386,7 +386,7 @@ When they suffer a consequence that they don’t want to accept, they can take s
 
 You can use stress to **push yourself** for greater performance. For each bonus you choose below, take **1 stress** (each can be chosen once for a given action):
 
-* Gain **advantage **on a roll. (This may be used for an action roll or downtime roll or any other kind of roll where extra effort would help you).
+* Gain **advantage** on a roll. (This may be used for an action roll or downtime roll or any other kind of roll where extra effort would help you).
 
 * Roll **+1 effect die**. (This may be used on a damage roll or healing roll.)
 
@@ -520,7 +520,7 @@ The player chooses which **action rating** to roll, following from what their ch
 
 ## 3. The GM Sets the Target Number for the Roll Based on Position and Effect Level.
 
-Once the player chooses their action, the GM sets the **target number **for the roll. In combat, this is the target’s **defense **modified by any present situations - banes, boon, conditions, or wounds - currently affecting the target. Out of combat, the base **target number** is based on your position in the situation: **controlled**, **risky**, and **desperate**. The position represents how dangerous or troublesome the action might be and how composed or disciplined the target is. To choose a position, the GM looks at the profiles for the positions below and picks one that most closely matches the situation at hand. **By default, an action roll is risky.** You wouldn’t be rolling if there was no risk involved. If the situation seems more dangerous, make it desperate. If it seems less dangerous, make it controlled.
+Once the player chooses their action, the GM sets the **target number** for the roll. In combat, this is the target’s **defense** modified by any present situations - banes, boon, conditions, or wounds - currently affecting the target. Out of combat, the base **target number** is based on your position in the situation: **controlled**, **risky**, and **desperate**. The position represents how dangerous or troublesome the action might be and how composed or disciplined the target is. To choose a position, the GM looks at the profiles for the positions below and picks one that most closely matches the situation at hand. **By default, an action roll is risky.** You wouldn’t be rolling if there was no risk involved. If the situation seems more dangerous, make it desperate. If it seems less dangerous, make it controlled.
 
 * *The base controlled target number is 6 + the target’s Tier.*
 
@@ -556,7 +556,7 @@ Characters in *Beacon Road* are scoundrels—they don’t always act in their ow
 
 The Fiend’s Bargain occurs regardless of the outcome of the roll. You make the deal, pay the price, and gain **advantage**.
 
-The Fiend’s Bargain is always a free choice. If you don’t like one, just reject it (or suggest how to alter it so you might consider taking it). You can always just push yourself for **advantage **instead.
+The Fiend’s Bargain is always a free choice. If you don’t like one, just reject it (or suggest how to alter it so you might consider taking it). You can always just push yourself for **advantage** instead.
 
 If it’s ever needed, the GM has final say over which Fiend’s Bargains are valid.
 
@@ -586,13 +586,13 @@ When you narrate the action after the roll, the GM and player collaborate togeth
 
 ### Action Roll
 
-* Roll d20! and **ATTRIBUTE! **dice equal to your **Action Rating**.
+* Roll d20! and **ATTRIBUTE!** dice equal to your **Action Rating**.
 
 * Gain **Advantage** equal to your **Tier**.
 
 * Gain **Advantage** if you have **Assistance**.
 
-* Gain **Advantage **if you **Push** **Yourself **-or- you accept a **Fiend's Bargain**.
+* Gain **Advantage **if you **Push** **Yourself **-or- you accept a** Fiend's Bargain**.
 
 * **Controlled** (base TN = 6 + target’s Tier)—You act on your terms. You exploit a dominant advantage.
 
@@ -702,7 +702,7 @@ The ability to set position and effect as independent variables gives you nine c
 
 *For example, if a character is facing off alone against a small enemy gang, the situation might be:*
 
-* *She fights the gang straight up, rushing into their midst, hacking away in a wild ***Skirmish***. In this case, being threatened by the larger force lowers her position to indicate greater risk, and the scale of the gang reduces her effect (Desperate / Limited).*
+* *She fights the gang straight up, rushing into their midst, hacking away in a wild **Skirmish**. In this case, being threatened by the larger force lowers her position to indicate greater risk, and the scale of the gang reduces her effect (Desperate / Limited).*
 
 * *She fights the gang from a choke-point, like a narrow alleyway where their numbers can’t overwhelm her at once. She’s not threatened by several at once, so her risk is similar to a one-on-one fight, but there’s still a lot of enemies to deal with, so her effect is reduced (Risky / Limited).*
 
@@ -802,9 +802,9 @@ Once you decide to resist a consequence and roll, you suffer the stress indicate
 
 * **Critical:** Clear 1 stress.
 
-* **Success**: Take 2 stress.
+* **Success:** Take 2 stress.
 
-* **Failure: **Take 4 stress.
+* **Failure:** Take 4 stress.
 
 * **Botch:** Take 6 stress.
 
@@ -812,7 +812,7 @@ Once you decide to resist a consequence and roll, you suffer the stress indicate
 
 If you have a type of **armor** that applies to the situation, you can mark an armor box to reduce or avoid a consequence, instead of rolling to resist.
 
-* *Jonadab would suffer a crushing blow that would deal 30 points of damage and stun him - effectively taking him out of the fight. Instead, marking one armor box **negates **the damage dealt and marking a second armor box negates the stun.*
+* *Jonadab would suffer a crushing blow that would deal 30 points of damage and stun him - effectively taking him out of the fight. Instead, marking one armor box **negates** the damage dealt and marking a second armor box negates the stun.*
 
 When an armor box is marked, it can’t be used again until it’s restored. All of your armor is restored when you choose your **load** for the next score.
 
@@ -868,7 +868,7 @@ Other examples of fortune rolls:
 
 ### Fortune Roll
 
-* **Roll d20! **with **Advantage** equal to the **trait rating **versus a **controlled** (6), **risky** (11), or **desperate** (16) target number.
+* **Roll d20!** with **Advantage** equal to the **trait rating** versus a **controlled** (6), **risky** (11), or **desperate** (16) target number.
 
 * **Advantage** for each Major Advantage.
 
@@ -876,7 +876,7 @@ Other examples of fortune rolls:
 
 * **Critical:** Exceptional result / Great, extreme effect.
 
-* **Success: **Good result / Standard, full effect.
+* **Success:** Good result / Standard, full effect.
 
 * **Failure:** Mixed result / Limited, partial  effect.
 
@@ -906,25 +906,25 @@ You track the investigation project using a progress clock. Once the clock is fi
 
 ## Examples & Questions
 
-* You might **Utter **to spirits to manifest echoes of recent spirit activity. *Have any new ghosts been here? How can I find the spirit well that’s calling to them? What should I be worried about?*
+* You might **Utter** to spirits to manifest echoes of recent spirit activity. *Have any new ghosts been here? How can I find the spirit well that’s calling to them? What should I be worried about?*
 
-* You might **Command **a local barkeep to tell you what he knows about the secret meetings held in his back room. *What’s really going on here? What’s he really feeling about this? Is he part of this secret group?*
+* You might **Command** a local barkeep to tell you what he knows about the secret meetings held in his back room. *What’s really going on here? What’s he really feeling about this? Is he part of this secret group?*
 
-* You might **Consort **with a well-connected friend to learn secrets about an enemy, rival, or potential ally. *What do they intend to do? What might I suspect about their motives? How can I discover leverage to manipulate them?*
+* You might **Consort** with a well-connected friend to learn secrets about an enemy, rival, or potential ally. *What do they intend to do? What might I suspect about their motives? How can I discover leverage to manipulate them?*
 
-* You might **Hunt **a courier across the city, to discover who’s receiving satchels of coin from a master duelist. *Where does the package end up? How can I find out who signed for the package at City Hall?*
+* You might **Hunt** a courier across the city, to discover who’s receiving satchels of coin from a master duelist. *Where does the package end up? How can I find out who signed for the package at City Hall?*
 
-* You might **Study **ancient and obscure books to discover an arcane secret. *How can I disable the runes of warding? Will anyone sense if they’re disabled?*
+* You might **Study** ancient and obscure books to discover an arcane secret. *How can I disable the runes of warding? Will anyone sense if they’re disabled?*
 
-* Or you might **Study **a person to read their intentions and feelings. *What are they really feeling? How could I get them to trust me?*
+* Or you might **Study** a person to read their intentions and feelings. *What are they really feeling? How could I get them to trust me?*
 
-* You might **Survey **a manor house to case it for a heist. *What’s a good point of infiltration? What’s the danger here?*
+* You might **Survey** a manor house to case it for a heist. *What’s a good point of infiltration? What’s the danger here?*
 
 * Or you might Survey a charged situation when you meet another gang. *What’s really going on here? Are they about to attack us?*
 
-* You might **Sway **a powerful lord at a party so he divulges his future plans. *What does he intend to do? How can I get him to think I might be a good partner in this venture?*
+* You might **Sway** a powerful lord at a party so he divulges his future plans. *What does he intend to do? How can I get him to think I might be a good partner in this venture?*
 
-* Or you might **Sway **his bodyguard to confide in you about recent events. *Where has he been lately? Who’s he been meeting with?*
+* Or you might **Sway** his bodyguard to confide in you about recent events. *Where has he been lately? Who’s he been meeting with?*
 
 ### Gather Information
 
@@ -978,7 +978,7 @@ One unit of coin in silver pieces or other bulk currency takes up one item slot 
 
 When you mark your character’s final trauma and they retire, the amount of coin they’ve managed to stash away determines their fate. Your stash tracker is on your character sheet.
 
-* **Stash 0-10:** **Poor Soul. **You end up in the gutter, awash in vice and misery.
+* **Stash 0-10: Poor Soul.** You end up in the gutter, awash in vice and misery.
 
 * **Stash 11-20: Meager.** A tiny hovel that you can call your own.
 
@@ -1008,7 +1008,7 @@ You’ll use your Tier rating to roll dice when you acquire an asset, as well as
 
 ### Gang scale by tier
 
-* **T****ier V.** Massive gangs. (80 people)
+* **Tier V.** Massive gangs. (80 people)
 
 * **Tier IV.** Huge gangs. (40 people)
 
@@ -1026,27 +1026,27 @@ On the faction ladder next to the Tier numbers is a letter indicating the streng
 
 ## Development
 
-To move up the ladder and develop your crew, you need **rep**. **Rep **is a measure of clout and renown. When you accrue enough **rep**, the other factions take you more seriously and you attract the support needed to develop and grow.
+To move up the ladder and develop your crew, you need **rep**. **Rep** is a measure of clout and renown. When you accrue enough **rep**, the other factions take you more seriously and you attract the support needed to develop and grow.
 
-When you complete a score, your crew earns **2 **rep. If the target of the score is higher Tier than your crew, you get **+1 rep per Tier higher**. If the target of the score is lower Tier, you get **-1 rep** per Tier lower (minimum zero).
+When you complete a score, your crew earns **2** rep. If the target of the score is higher Tier than your crew, you get **+1 rep per Tier higher**. If the target of the score is lower Tier, you get **-1 rep** per Tier lower (minimum zero).
 
-You need **12 rep** to fill the **rep **tracker on your crew sheet. When you fill the tracker, do one of the following:
+You need **12 rep** to fill the **rep** tracker on your crew sheet. When you fill the tracker, do one of the following:
 
 * If your hold is weak, it becomes strong. **Reset your rep to zero**.
 
-* If your hold is strong, you can pay to increase your crew Tier by one. This costs **coin **equal to your **new Tier x 8**. As long as your rep tracker is full, you don’t earn new **rep **(12 is the max). Once you pay and increase your Tier, **reset your rep to zero** and **reduce your hold to weak**.
+* If your hold is strong, you can pay to increase your crew Tier by one. This costs **coin** equal to your **new Tier x 8**. As long as your rep tracker is full, you don’t earn new **rep** (12 is the max). Once you pay and increase your Tier, **reset your rep to zero** and **reduce your hold to weak**.
 
 ## Turf
 
 Another way to contribute to the crew’s development is by acquiring **turf**. When you seize and hold territory, you establish a more stable basis for your **rep**. Each piece of turf that you claim represents abstracted support for the crew (often a result of the fear you instill in the citizens on that turf).
 
-Turf is marked on your **rep **tracker (see the example below). Each piece of turf you hold reduces the **rep **cost to develop by one. So, if you have 2 turf, you need 10 **rep **to develop. If you have 4 turf, you need 8 **rep **to develop. **You can hold a maximum of 6 turf.** When you develop and reset your **rep**, **you keep the marks from all the turf you hold.**
+Turf is marked on your **rep** tracker (see the example below). Each piece of turf you hold reduces the **rep** cost to develop by one. So, if you have 2 turf, you need 10 **rep** to develop. If you have 4 turf, you need 8 **rep** to develop. **You can hold a maximum of 6 turf.** When you develop and reset your **rep**, **you keep the marks from all the turf you hold.**
 
 ![image alt text](image_1.gif)
 
-* *If you hold 3 pieces of turf, you need only 9 ***rep****_ _***to develop, instead of 12. *
+* *If you hold 3 pieces of turf, you need only 9 **rep** to develop, instead of 12. *
 
-* *When you develop, you’ll clear the 9 ***rep****_ _***marks, but keep the 3 turf marks. Mark turf on the right side, to show the "cap" on how much ***rep****_ _***is needed.*
+* *When you develop, you’ll clear the 9 **rep** marks, but keep the 3 turf marks. Mark turf on the right side, to show the "cap" on how much **rep** is needed.*
 
 Also, when you acquire turf, you expand the scope of your crew’s **hunting grounds**.
 
@@ -1082,7 +1082,7 @@ When you execute an operation, you gain -1 or -2 status with factions that are h
 
 * **-2: Hostile.** This faction will look for opportunities to hurt you as long as it doesn’t create serious problems for them. They expect you to do the same, and take precautions against you.
 
-* **-3: War.** This faction will go out of its way to hurt you even if it’s not in their best interest to do so. They expect you to do the same, and take precautions against you. When you’re at war with any number of factions, your crew suffers +1 **heat **from scores, temporarily loses 1 hold, and PCs get only one downtime action rather than two. You can end a war by eliminating your enemy or by negotiating a mutual agreement to establish a new status rating.
+* **-3: War.** This faction will go out of its way to hurt you even if it’s not in their best interest to do so. They expect you to do the same, and take precautions against you. When you’re at war with any number of factions, your crew suffers +1 **heat** from scores, temporarily loses 1 hold, and PCs get only one downtime action rather than two. You can end a war by eliminating your enemy or by negotiating a mutual agreement to establish a new status rating.
 
 * *If your crew has weak hold when you go to war, the temporary loss of hold causes you to lose one Tier. When the war is over, restore your crew’s Tier back to its pre-war level.*
 
@@ -1130,7 +1130,7 @@ You may mark end-of-session xp on any xp tracks you want (any attribute, your ar
 
 When you fill an xp track, clear all the marks and take an **advance**. When you take an advance from your archetype or bloodline track, you may choose an additional **special ability** from the advancing archetype or bloodline. When you take an advance from an attribute, you may add an **additional action dot** to one of the actions under that attribute.
 
-* *Nadja is playing a Hound. At the end of the session, she reviews her xp triggers and tells the group how much xp she’s getting. She rolled two desperate ***_Hunt _***actions during the session, so she marked 2 xp on her ***_THOUGHT _***xp track. She addressed several challenges with tracking or violence, so she marks 2 xp for that. She expressed her heritage many times when dealing with the gang from her homeland, so she takes 2 xp for that. She also showcased her character’s beliefs, but 2 xp is the maximum for that category, so she doesn’t get any more. She didn’t struggle with her vice or traumas, so no xp there. That’s 4 xp at the end of the session. She decides to put it all in her ***_THOUGHT _***xp track. This fills the track, so she adds a new action dot in ***_Hunt_***.*
+* *Nadja is playing a Hound. At the end of the session, she reviews her xp triggers and tells the group how much xp she’s getting. She rolled two desperate **Hunt** actions during the session, so she marked 2 xp on her **THOUGHT** xp track. She addressed several challenges with tracking or violence, so she marks 2 xp for that. She expressed her heritage many times when dealing with the gang from her homeland, so she takes 2 xp for that. She also showcased her character’s beliefs, but 2 xp is the maximum for that category, so she doesn’t get any more. She didn’t struggle with her vice or traumas, so no xp there. That’s 4 xp at the end of the session. She decides to put it all in her **THOUGHT** xp track. This fills the track, so she adds a new action dot in **Hunt**.*
 
 You can also earn xp by **training** during downtime. When you train, mark xp in one of your attributes or in your playbook. A given xp track can be trained only once per downtime phase.
 
@@ -1138,7 +1138,7 @@ You can also earn xp by **training** during downtime. When you train, mark xp in
 
 At the end of the session, review the crew xp triggers and mark 1 crew xp for each item that occurred during the session. If an item occurred multiple times or in a major way, mark 2 crew xp for it. The crew xp triggers are:
 
-* **Your crew-specific xp trigger**. For example, the Sin-eaters’ is *"When you play this crew, you earn xp when you protect civilization or absorb evil."* If the crew successfully completed an operation from this trigger, mark xp.
+* **Your crew-specific xp trigger.** For example, the Sin-eaters’ is *"When you play this crew, you earn xp when you protect civilization or absorb evil."* If the crew successfully completed an operation from this trigger, mark xp.
 
 * **Contend with challenges above your current station.** If you tangled with higher Tiers or more dangerous opposition, mark xp for this.
 
@@ -1146,9 +1146,9 @@ At the end of the session, review the crew xp triggers and mark 1 crew xp for ea
 
 * **Express the goals, drives, inner conflict, or essential nature of the crew.** This one is very broad! Essentially, did anything happen that highlighted the specific elements that make your crew unique?
 
-**When you fill your crew advancement tracker**, clear the marks and take a new **special ability **or mark **two crew upgrade boxes**.
+**When you fill your crew advancement tracker**, clear the marks and take a new **special ability **or mark** two crew upgrade boxes**.
 
-* *For example, when a crew of Sin-eaters earns a crew advance, they could take a new special ability, like ***_Forged in the Fire_***. Or they could mark two upgrades, like ***_Composed _***and ***_Knowledge of Evil_***.*
+* *For example, when a crew of Sin-eaters earns a crew advance, they could take a new special ability, like **Forged in the Fire**. Or they could mark two upgrades, like **Composed** and **Knowledge of Evil**.*
 
 Say how you’ve obtained this new ability or upgrades for the crew. *Where did it come from? How does it become a new part of the crew?*
 
@@ -1160,7 +1160,7 @@ Every time the crew advances, **each PC gets stash** equal to the crew Tier+2, t
 
 ## Characters
 
-Every character is familiar with all of the various feats represented by the **actions** of the game. They’re all able to **Skirmish **in a knife-fight, **Prowl **in the shadows, **Utter **to strange energy, **Consort **with contacts for information, and so on.
+Every character is familiar with all of the various feats represented by the **actions** of the game. They’re all able to **Skirmish** in a knife-fight, **Prowl** in the shadows, **Utter** to strange energy, **Consort** with contacts for information, and so on.
 
 Of course, you’ll also have your specializations and skills, the qualities that make your character uniquely effective. You might want the ability to compel obedience from ghosts and channel arcane energy through your body, or maybe you want to manipulate the network of the underworld to your advantage and see danger before it strikes, or maybe you just want to be the deadliest fighter with a blade. In this chapter, you’ll learn how to create your own unique scoundrel and choose the abilities that suit the style of play you prefer.
 
@@ -1206,7 +1206,7 @@ Your vice is defined by your bloodline. Every character is in thrall to some vic
 
 * **Anger:** Everything is wrong; and you’re going to fix it.
 
-* **Gluttony: **Gratification from lovers, food, drink, drugs, art, theater, etc.
+* **Gluttony:** Gratification from lovers, food, drink, drugs, art, theater, etc.
 
 * **Greed:** Unnecessary accumulation; and expensive or ostentatious displays of opulence.
 
@@ -1218,7 +1218,7 @@ Your vice is defined by your bloodline. Every character is in thrall to some vic
 
 ## Choose 3 traits
 
-Your character’s **traits **describe unique personality aspects, flaws, perks, strengths, or weaknesses that aren’t easily codified in the game mechanics and that separate you from others and provide motivations, beliefs, or drives. Select 3 of the following traits - or choose your own - and write them on your character sheet. The GM is encouraged to award you a Beacon Point when you play these traits - especially to your detriment.
+Your character’s **traits** describe unique personality aspects, flaws, perks, strengths, or weaknesses that aren’t easily codified in the game mechanics and that separate you from others and provide motivations, beliefs, or drives. Select 3 of the following traits - or choose your own - and write them on your character sheet. The GM is encouraged to award you a Beacon Point when you play these traits - especially to your detriment.
 
 * *Actor, addicted, aloof, alluring, arrogant, audacious, bitter, bold, bloodlust, brash, cautious, charming, clumsy, cold, courageous, crazed, cunning, deranged, dimwitted, dishonest, distractible, dominating, fair, foolish, gullible, honest, humble, impatient, inspiring, intimidating, mysterious, neurotic, patient, rash, respectable, sagacious, socially inept, stubborn, strange, thoughtful, vengeful, visionary, vivacious, zealous.*
 
@@ -1250,7 +1250,7 @@ Some special abilities refer to your **special armor**. Each character sheet has
 
 Derive your hit points, IRON, WARD, and GRIT and write them down.
 
-* **Hit Points. **Archetype base + highest face of BODY + highest face of MIND + highest face of WILL + 4/5/6 per Tier.
+* **Hit Points.** Archetype base + highest face of BODY + highest face of MIND + highest face of WILL + 4/5/6 per Tier.
 
     * Wizard archetype base is 6.
 
@@ -1258,11 +1258,11 @@ Derive your hit points, IRON, WARD, and GRIT and write them down.
 
     * Warrior archetype base is 16.
 
-* **IRON. **8 + highest face of BODY + Tier.
+* **IRON.** 8 + highest face of BODY + Tier.
 
-* **WARD. **8 + highest face of MIND + Tier.
+* **WARD.** 8 + highest face of MIND + Tier.
 
-* **GRIT. **8 + highest face of WILL + Tier.
+* **GRIT.** 8 + highest face of WILL + Tier.
 
 ## Choose one close friend and one rival
 
@@ -1296,7 +1296,7 @@ That’s it! Your character is ready for play. When you start the first session,
 
 1. **Choose an archetype.** Your archetype represents your reputation, your special abilities, and how you advance.
 
-2. **Choose a bloodline. **Your bloodline provides access to unique special abilities related to your ancestry and defines your virtue and your vice.
+2. **Choose a bloodline.** Your bloodline provides access to unique special abilities related to your ancestry and defines your virtue and your vice.
 
 3. **Choose 3 traits.** Traits represent flaws, perks, strengths, and weaknesses. *For example, bitter, deranged, and rash.*
 
@@ -1336,7 +1336,7 @@ You don’t need to select specific items now. Review your personal items and th
 
 **Exemplar.** Increase one of your attribute ratings by 1.
 
-**Seasoned. **You may take a special ability from a different archetype.
+**Seasoned.** You may take a special ability from a different archetype.
 
 ## Rogue
 
@@ -1356,11 +1356,11 @@ You don’t need to select specific items now. Review your personal items and th
 
     * *If you want some guidance when you assign your four starting action dots and special ability, use one of these templates.*
 
-    * **Blackguard****.**
+    * **Blackguard.**
 
     * **Hunter.** Hunt +2, Study +1, Consort +1. **Sharpshooter.**
 
-    * **Keeper****.** Hunt +1, Survey +1, Utter +2.
+    * **Keeper.** Hunt +1, Survey +1, Utter +2.
 
 * Friends and Rivals
 
@@ -1388,7 +1388,7 @@ You don’t need to select specific items now. Review your personal items and th
 
             * *This special ability is good for covering for your team. If they’re all terrible at your favored action, you don’t have to worry about suffering a lot of stress when you lead their group action.*
 
-    * **Like Looking Into The Mirror. **
+    * **Like Looking Into The Mirror.**
 
         * You can always tell when someone is lying to you.
 
@@ -1400,7 +1400,7 @@ You don’t need to select specific items now. Review your personal items and th
 
             * *Since this money comes at the end of downtime, after all downtime actions are resolved, you can’t remove it from your stash and spend it on extra activities until your next downtime phase.*
 
-    * **Reflexes. **
+    * **Reflexes.**
 
         * When there’s a question about who acts first, the answer is you.
 
@@ -1480,7 +1480,7 @@ You don’t need to select specific items now. Review your personal items and th
 
     * **Alchemist.**
 
-        * When you **invent** or **craft** a creation with *alchemical *features, get **+1 quality level** to your roll. You begin with one special formula already known.
+        * When you **invent** or **craft** a creation with *alchemical* features, get **+1 quality level** to your roll. You begin with one special formula already known.
 
             * *Follow the Inventing procedure with the GM to define your first special alchemical formula.*
 
@@ -1490,7 +1490,7 @@ You don’t need to select specific items now. Review your personal items and th
 
     * **Artificer.**
 
-        * When you **invent** or **craft** a creation with *spark-craft *features, get **+1 quality level** to your roll. You begin with one special design already known.
+        * When you **invent** or **craft** a creation with *spark-craft* features, get **+1 quality level** to your roll. You begin with one special design already known.
 
             * *Follow the Inventing procedure with the GM to define your first spark-craft design.*
 
@@ -1500,9 +1500,9 @@ You don’t need to select specific items now. Review your personal items and th
 
             * *If you forget to use this ability during downtime, you can still activate it during the score and flashback to the previous downtime when the extra activity happened.*
 
-    * **Fortitude. **
+    * **Fortitude.**
 
-        * You may expend your **special armor** to resist a consequence of fatigue; weakness; *chemical*, *entropic*, or *thermal *effects, or to **push yourself **when working with technical skill or handling alchemicals.
+        * You may expend your **special armor** to resist a consequence of fatigue; weakness; *chemical*, *entropic*, or *thermal* effects, or to **push yourself** when working with technical skill or handling alchemicals.
 
             * *When you use this ability, tick one special armor box on your character sheet. If you resist a consequence, you avoid it completely. If you use this ability to push yourself, you get one of the benefits (advantage or additional effect die), but you don’t take stress. Your special armor is restored at the beginning of downtime.*
 
@@ -1512,7 +1512,7 @@ You don’t need to select specific items now. Review your personal items and th
 
             * *Training - or far too much practice - is essential to properly administer treatment.*
 
-    * **Strange Methods. **
+    * **Strange Methods.**
 
         * When you **invent** or **craft** a creation with *arcane* features, get **+1 quality level** to your roll. You begin with one arcane design already known.
 
@@ -1556,13 +1556,13 @@ You don’t need to select specific items now. Review your personal items and th
 
     * *If you want some guidance when you assign your four starting action dots and special ability, use one of these templates.*
 
-    * **Berserker****. **+2 Wreck, +2 Hunt. **Deadly****.**
+    * **Berserker.** +2 Wreck, +2 Hunt. **Deadly.**
 
     * **Pugilist.** +2 Prowl, +2 Consort. **Arcane Potency.**
 
-    * **Templar****. **+1 Finesse, +1 Command, +2 Study. **Bodyguard.**
+    * **Templar.** +1 Finesse, +1 Command, +2 Study. **Bodyguard.**
 
-    * **Warden****. **+2 Prowl, +2 Utter. **Battleborn.**
+    * **Warden.** +2 Prowl, +2 Utter. **Battleborn.**
 
 * Friends and Rival
 
@@ -1598,23 +1598,23 @@ You don’t need to select specific items now. Review your personal items and th
 
             * *The protect teamwork maneuver lets you face a consequence for a teammate. If you choose to resist that consequence, this ability gives you Advantage on your resistance roll. Also, when you read a situation to gather information about hidden dangers or potential attackers, you get +1 effect—which means more detailed information.*
 
-    * **Deadly****.**
+    * **Deadly.**
 
         * You may expend your** special armor** to **push yourself** when making melee attacks. When you do, you gain all benefits of **pushing yourself**.
 
             * *When you use this ability, tick one special armor box on your character sheet. If you use this ability to push yourself, you get all of the benefits (advantage, additional effect die, act when dazed or stunned), but you don’t take stress. Your special armor is restored at the beginning of downtime.*
 
-    * **Mule. **
+    * **Mule.**
 
         * Your load limits are higher. Light: 5. Normal: 7. Heavy: 8.
 
             * *This ability is great if you want to wear heavy armor and pack a heavy weapon without attracting lots of attention. Since your exact gear is determined on-the-fly during an operation, having more load also gives you more options to get creative with when dealing with problems during a score.*
 
-    * **Stalwart. **
+    * **Stalwart.**
 
         * You cannot be *pushed* or *slammed*. You gain +2 **Iron**.
 
-    * **Vigorous. **
+    * **Vigorous.**
 
         * You recover from harm faster. Permanently fill in one of your healing clock segments. Gain **Advantage** on healing treatment rolls.
 
@@ -1650,7 +1650,7 @@ You don’t need to select specific items now. Review your personal items and th
 
     * **Inquisitor****.** +2 Skirmish, +1 Hunt, +1 Command. **Warded.**
 
-    * **Librarian. **+1 Study, +2 Survey, +1 Consort. **Spellcraft.**
+    * **Librarian.** +1 Study, +2 Survey, +1 Consort. **Spellcraft.**
 
     * **Pactmage.** +1 Command, +1 Consort, +2 Sway. **Bargain****.**
 
@@ -1670,7 +1670,7 @@ You don’t need to select specific items now. Review your personal items and th
 
     * **Arcane Mind.**
 
-        * You’re always aware of supernatural entities in your presence. Gain **advantage **when you **gather information** about the supernatural by any means.
+        * You’re always aware of supernatural entities in your presence. Gain **advantage** when you **gather information** about the supernatural by any means.
 
     * **Bargain.**
 
@@ -1686,7 +1686,7 @@ You don’t need to select specific items now. Review your personal items and th
 
             * *With this ability, you do not freeze up or flee when confronted by any kind of supernatural entity or strange arcane event.*
 
-    * **Meditation. **
+    * **Meditation.**
 
         * Take **1 stress** to roll **Utter** while performing a different action. Say how you channel your magic to this use.
 
@@ -1694,7 +1694,7 @@ You don’t need to select specific items now. Review your personal items and th
 
     * **Ritual.**
 
-        * You know the arcane methods to perform ritual sorcery. You can **Study **an arcane ritual (or create a new one) to summon a supernatural effect or being. You begin with one ritual already learned.
+        * You know the arcane methods to perform ritual sorcery. You can **Study** an arcane ritual (or create a new one) to summon a supernatural effect or being. You begin with one ritual already learned.
 
 * *Without this special ability, the study and practice of rituals leaves you utterly vulnerable to the powers you supplicate. Such endeavors are not recommended.*
 
@@ -1702,7 +1702,7 @@ You don’t need to select specific items now. Review your personal items and th
 
     * **Spellcraft.**
 
-        * You know the arcane methods to conjure supernatural effects from written spells. You can **Study **a spell (or create a new one) to summon a supernatural effect. You begin with one spell already learned.
+        * You know the arcane methods to conjure supernatural effects from written spells. You can **Study** a spell (or create a new one) to summon a supernatural effect. You begin with one spell already learned.
 
             * *Without this special ability, written spells are only words on a page.*
 
@@ -1812,7 +1812,7 @@ Some examples include: Weapons, clothes, arcane implements, specialized tools, c
 
             * *Follow the Runic Lettering Creation procedure with the GM to define your runic lettering*
 
-    * **Strapping. **Your load limits are higher, and you are not slowed by your load. Light: 5. Normal: 7. Heavy: 8.
+    * **Strapping.** Your load limits are higher, and you are not slowed by your load. Light: 5. Normal: 7. Heavy: 8.
 
         * *Dwarves make Mules look like weaklings.*
 
@@ -1858,7 +1858,7 @@ Some examples include: Weapons, clothes, arcane implements, specialized tools, c
 
     * **The Elders****ong.**
 
-        * You know how to sing to perform ritual sorcery. You can **Study **a song (or create a new one) to summon a supernatural effect or being. You may sing without spending a **downtime action** (as is normal for rituals) but permanently mark one **stress** for each song you know. You begin with one song already learned.
+        * You know how to sing to perform ritual sorcery. You can **Study** a song (or create a new one) to summon a supernatural effect or being. You may sing without spending a **downtime action** (as is normal for rituals) but permanently mark one **stress** for each song you know. You begin with one song already learned.
 
             * *Follow the Ritual creation procedure with the GM to define your first song.*
 
@@ -1950,7 +1950,7 @@ Some examples include: Weapons, clothes, arcane implements, specialized tools, c
 
 * Vice:
 
-    * **Gluttony: **
+    * **Gluttony:**
 
         * Gratification from lovers, food, drink, drugs, art, theater, etc.
 
@@ -2044,11 +2044,11 @@ Some examples include: Weapons, clothes, arcane implements, specialized tools, c
 
     * **Savage.**
 
-        * When you unleash physical violence, it’s especially frightening. When you **Command **a frightened target, gain **advantage**.
+        * When you unleash physical violence, it’s especially frightening. When you **Command** a frightened target, gain **advantage**.
 
             * *You instill fear in those around you when you get violent. How they react depends on the person. Some people will flee from you, some will be impressed, some will get violent in return. The GM judges the response of a given NPC.*
 
-            * *In addition, when you ***_Command _***someone who’s affected by fear (from this ability or otherwise), gain advantage on your roll.*
+            * *In addition, when you **Command** someone who’s affected by fear (from this ability or otherwise), gain advantage on your roll.*
 
     * **Vengeful.**
 
@@ -2078,7 +2078,7 @@ Some examples include: Weapons, clothes, arcane implements, specialized tools, c
 
 * Vice:
 
-    * **Gluttony: **
+    * **Gluttony:**
 
         * Gratification from lovers, food, drink, drugs, art, theater, etc.
 
@@ -2144,7 +2144,7 @@ Your crew is brand-new, but you have chosen some small part of a district as you
 
 * Pay them off. Give them 1 coin in exchange for giving you room to work.
 
-* Pay the faction 2 coin as a show of respect and gain **+1 status **with them.
+* Pay the faction 2 coin as a show of respect and gain **+1 status** with them.
 
 * Keep your money and take **-1 status** with that faction.
 
@@ -2194,9 +2194,9 @@ At your option, these factions are even more concerned with this contact and so 
 
 * **Hidden Lair:** Your lair has a secret location and is disguised to hide it from view. If your lair is discovered, use two downtime activities and pay coin equal to your Tier to relocate it and hide it once again.
 
-* **Mastery: **Your crew has access to master level training. You may advance your PCs’ action ratings to 5 (until you unlock this upgrade, PC action ratings are capped at 4). This costs four upgrade boxes to unlock.
+* **Mastery:** Your crew has access to master level training. You may advance your PCs’ action ratings to 5 (until you unlock this upgrade, PC action ratings are capped at 4). This costs four upgrade boxes to unlock.
 
-* **Quality: **Each upgrade improves the **quality rating **of all the PCs’ items of that type, beyond the quality established by the crew’s Tier and fine items. You can improve the quality of **Documents, Gear** (covers Burglary Gear and Climbing Gear), **Arcane Implements**, **Subterfuge Supplies, Tools** (covers Demolitions Tools and Crafting Tools), and **Weapons**. *So, if you are Tier 0, with fine lockpicks (+1) and the Quality upgrade for gear (+1), you could contend equally with a Tier II quality lock.*
+* **Quality:** Each upgrade improves the **quality rating** of all the PCs’ items of that type, beyond the quality established by the crew’s Tier and fine items. You can improve the quality of **Documents, Gear** (covers Burglary Gear and Climbing Gear), **Arcane Implements**, **Subterfuge Supplies, Tools** (covers Demolitions Tools and Crafting Tools), and **Weapons**. *So, if you are Tier 0, with fine lockpicks (+1) and the Quality upgrade for gear (+1), you could contend equally with a Tier II quality lock.*
 
 * **Quarters:** Your lair includes living quarters for the crew. Without this upgrade, each PC sleeps elsewhere, and is vulnerable when they do so.
 
@@ -2204,7 +2204,7 @@ At your option, these factions are even more concerned with this contact and so 
 
 * **Training:** If you have a Training upgrade, you earn 2 xp (instead of 1) when you train a given xp track during downtime (Deed, Thought, Word, Archetype, or Bloodline xp). This upgrade essentially helps you advance more quickly. *If you have Thought Training, when you train Thought during downtime, you mark 2 xp on the Thought track (instead of just 1). If you have Archetype Training, you mark 2 xp on your Archetype xp track when you train.*
 
-* **Vault: **Your lair has a secure vault, increasing your storage capacity for coin to 8. A second upgrade increases your capacity to 16. A separate part of your vault can be used as a holding cell.
+* **Vault:** Your lair has a secure vault, increasing your storage capacity for coin to 8. A second upgrade increases your capacity to 16. A separate part of your vault can be used as a holding cell.
 
 * **Workshop:** Your lair has a workshop appointed with tools for tinkering and alchemy, as well as a small library of books, documents, and maps. You may accomplish long-term projects with these assets without leaving your lair.
 
@@ -2222,7 +2222,7 @@ Choose a **gang type** from the list below:
 
 * **Rovers:** Sailors, carriage drivers, and deathlands scavengers.
 
-* **Skulks: **Scouts, infiltrators, and thieves.
+* **Skulks:** Scouts, infiltrators, and thieves.
 
 * **Thugs:** Killers, brawlers, and roustabouts.
 
@@ -2244,7 +2244,7 @@ When you create a cohort, give them one or two **edges** and an equal number of 
 
 #### Edges
 
-* **Fearsome: **The cohort is terrifying in aspect and reputation.
+* **Fearsome:** The cohort is terrifying in aspect and reputation.
 
 * **Independent:** The cohort can be trusted to make good decisions and act on their own initiative in the absence of direct orders.
 
@@ -2522,19 +2522,19 @@ If a cohort is destroyed, it may be replaced. Spend coin equal to your Tier +2 t
 
     * You start here.
 
-* **2 ****Turf.**
+* **2 Turf.**
 
-    * You require one less **rep **to advance in tier (max 6).
+    * You require one less **rep** to advance in tier (max 6).
 
 * **Cover Identities.**
 
-    * You gain **advantage **on the **engagement roll** for **deception** and **social** plans.
+    * You gain **advantage** on the **engagement roll** for **deception** and **social** plans.
 
         * *False identities help confuse the opposition.*
 
 * **Ancient Altar.**
 
-    * You gain **advantage** on the **engagement roll** for **arcane **plans.
+    * You gain **advantage** on the **engagement roll** for **arcane** plans.
 
         * *Its blessing is with you.*
 
@@ -2552,43 +2552,43 @@ If a cohort is destroyed, it may be replaced. Spend coin equal to your Tier +2 t
 
 * **Infirmary.**
 
-    * You gain **advantage **on healing treatment rolls.
+    * You gain **advantage** on healing treatment rolls.
 
         * *The infirmary also has beds for long-term convalescence.*
 
 * **Confessional.**
 
-    * You gain **advantage** when **gathering information **for a score.
+    * You gain **advantage** when **gathering information** for a score.
 
         * *People talk freely when it won’t be repeated.*
 
 * **Recognized.**
 
-    * You gain **advantage** on **Command **and **Sway **on your turf.
+    * You gain **advantage** on **Command** and **Sway** on your turf.
 
         * *Locals want nothing to do with you so will attempt to finish their business with you as quickly as possible.*
 
-* **Necessary Evil****. **
+* **Necessary Evil****.**
 
-    * You get **-2** **heat **per score.
+    * You get **-2** **heat** per score.
 
         * *The locals recognize some need to look the other way.*
 
 * **Depository.**
 
-    * Any time during downtime, roll **[d6]** equal to your Tier. You earn **coin **equal to the highest result, minus your **heat**.
+    * Any time during downtime, roll **[d6]** equal to your Tier. You earn **coin** equal to the highest result, minus your **heat**.
 
         * *People leave items, offerings, coin, trinkets, or memorabilia to rid themselves of evil.*
 
-* **Fly On The Wall. **
+* **Fly On The Wall.**
 
-    * You get **+2** **coin **in payoff for scores that involve a single flavor of evil.
+    * You get **+2** **coin** in payoff for scores that involve a single flavor of evil.
 
         * *Your connections notify you of the tastiest meals around.*
 
 * **Local ****Protector****.**
 
-    * You get **+2** **coin **in your payoff for scores that involve battle or show of force.
+    * You get **+2** **coin** in your payoff for scores that involve battle or show of force.
 
         * *Locals are more than willing to pool their resources to resolve a problem they can’t deal with themselves.*
 
@@ -2602,13 +2602,13 @@ If a cohort is destroyed, it may be replaced. Spend coin equal to your Tier +2 t
 
 #### Deadly
 
-Each PC may add +1 action rating to **Hunt**, **Prowl**, or **Skirmish**** **(up to a max rating of 4).
+Each PC may add +1 action rating to **Hunt**, **Prowl**, or **Skirmish** (up to a max rating of 4).
 
 * *Each player may choose the action they prefer (you don’t all have to choose the same one). If you take this ability during initial character and crew creation, it supersedes the normal starting limit of 2 for action ratings.*
 
 #### Death Veil
 
-Due to hard-won experience or arcane ritual, you don’t take extra **heat **when killing is involved on a score.
+Due to hard-won experience or arcane ritual, you don’t take extra **heat** when killing is involved on a score.
 
 #### Fiends
 
@@ -2628,7 +2628,7 @@ During **downtime**, take **-1 **heat. When your heat is 4 or less, you gain **a
 
 #### No Traces
 
-When you keep an operation quiet or make it look like an accident, you get half the **rep **value of the target (round up) instead of zero. When you end downtime with zero heat, take **+1** **rep**.
+When you keep an operation quiet or make it look like an accident, you get half the **rep** value of the target (round up) instead of zero. When you end downtime with zero heat, take **+1** **rep**.
 
 * *No one wants to be associated with a sin-eater. This ability rewards you for honoring that abhorrence.*
 
@@ -2672,7 +2672,7 @@ A list of five upgrades specific to the crew. Some examples:
 
 * **Elite Cohorts (specify type):** All of your cohorts with the specified type gain to quality rolls for related actions.
 
-* **Hardened:** Each PC gets **+1 **trauma** box**. This costs three upgrades to unlock, not just one. *This may bring a PC with 4 *trauma* back into play if you wish.*
+* **Hardened:** Each PC gets **+1 trauma box**. This costs three upgrades to unlock, not just one. *This may bring a PC with 4 *trauma* back into play if you wish.*
 
 * **Composed:** Each PC gets **+1 stress box**. This costs three upgrades to unlock, not just one.
 
@@ -2688,7 +2688,7 @@ A list of five upgrades specific to the crew. Some examples:
 
 **Cover Identities:** You gain Advantage on the **engagement roll** for **deception** and **social** plans. *False identities help confuse the opposition.*
 
-**Cover Operation: **You get **-2** heat per score. *The cover of a legitimate operation helps deflect some of the heat from law enforcement.*
+**Cover Operation:** You get **-2** heat per score. *The cover of a legitimate operation helps deflect some of the heat from law enforcement.*
 
 **Envoy:** You get **+2** coin in **payoff** for scores that involve high-class clients. *This well-connected liaison will help arrange for a better payoff from rich clients.*
 
@@ -2800,7 +2800,7 @@ Sometimes friends are as good as territory. You may treat up to three **+3 facti
 
 ### High society
 
-It’s all about who you know. Take **-1 **heat** **during downtime and roll **Advantage** to **gather information** about the city’s elite.
+It’s all about who you know. Take **-1 heat** during downtime and roll **Advantage** to **gather information** about the city’s elite.
 
 ### Pack rats
 
@@ -2824,7 +2824,7 @@ During **downtime**, one of your **cohorts** may perform a downtime activity for
 
 ### Just passing through
 
-During **downtime**, take **-1 **heat. When your heat is 4 or less, you gain Advantage on deceive people when you pass yourselves off as ordinary citizens.
+During **downtime**, take **-1** heat. When your heat is 4 or less, you gain Advantage on deceive people when you pass yourselves off as ordinary citizens.
 
 # The Score
 
@@ -2904,7 +2904,7 @@ Don’t make the engagement roll and then describe the PCs *approaching* the tar
 
 * **Critical:** Exceptional result. *You’ve already overcome the first obstacle and you’re in a controlled position for what’s next.*
 
-* **Success: **Good result. *You’re in a controlled position when the action starts.*
+* **Success:** Good result. *You’re in a controlled position when the action starts.*
 
 * **Failure:** Mixed result. *You’re in a risky position when the action starts.*
 
@@ -2920,7 +2920,7 @@ If the players want to include a special preparation or clever setup, they can d
 
 ### Outcomes
 
-The outcome of the engagement roll determines the **position** for the PCs’ initial actions when we cut to the score in progress. A **botch** means a desperate position. A **failure** is a risky position. A **success** yields a controlled position. And a **critical **carries the action beyond the initial obstacle, deeper into the action of the score.
+The outcome of the engagement roll determines the **position** for the PCs’ initial actions when we cut to the score in progress. A **botch** means a desperate position. A **failure** is a risky position. A **success** yields a controlled position. And a **critical** carries the action beyond the initial obstacle, deeper into the action of the score.
 
 No matter how low-Tier or outmatched you are, a desperate position is the worst thing that can result from the plan + detail + engagement process. It’s designed this way so the planning process matters, but it doesn’t call for lots of optimization or nitpicking. Even if you’re reckless and just dive in and take your chances, you can’t get too badly burned. Plus, you might even want those desperate rolls to generate more xp for the PCs, which helps to bootstrap starting characters into advancement.
 
@@ -2994,7 +2994,7 @@ A flashback isn’t time travel. It can’t "undo" something that just occurred 
 
 ## Giving up on a score
 
-When you give up on a score, you go into **downtime**. Follow the phases for downtime presented in the next chapter. You’ll usually have zero **payoff**, since you didn’t accomplish anything. You’ll still face **heat **and **entanglements** as usual.
+When you give up on a score, you go into **downtime**. Follow the phases for downtime presented in the next chapter. You’ll usually have zero **payoff**, since you didn’t accomplish anything. You’ll still face **heat** and **entanglements** as usual.
 
 # Teamwork
 
@@ -3012,7 +3012,7 @@ When the team of PCs works together, the characters have access to four special 
 
 ### Assist
 
-When you assist another player who’s rolling, describe what your character does to help. Take 1 stress and give them **advantage** on their roll. If they fail, they may reroll, taking the second roll. In combat, you must take an **action** or **reaction**. You might also suffer any consequences that occur because of the roll, depending on the circumstances. Only one character may assist a given roll.* If you really want to help and someone else is already assisting, consider performing a ***_setup_*** maneuver instead.*
+When you assist another player who’s rolling, describe what your character does to help. Take 1 stress and give them **advantage** on their roll. If they fail, they may reroll, taking the second roll. In combat, you must take an **action** or **reaction**. You might also suffer any consequences that occur because of the roll, depending on the circumstances. Only one character may assist a given roll. *If you really want to help and someone else is already assisting, consider performing a **setup** maneuver instead.*
 
 A character may assist a group action, but only if they aren’t taking part in it directly. You decide which character in the group action rolls with **advantage**.
 
@@ -3068,29 +3068,29 @@ When one side of an argument completes their goal, they have won the argument an
 
 ## Entering Combat
 
-When it is determined that a combat encounter needs to begin, the first step is to determine if any creatures are surprised. Surprise is generally determined by the winner of opposed **Survey **vs **Prowl **rolls. In situations where one side of the combat has no awareness of the other, simply assign *surprised*. If a creature might be aware (or you want to let the dice decide) but isn’t actively watching, those creatures suffer *disadvantage *on the **Survey **check. *Surprised *creatures may not act during the first round of combat. Other creatures act normally, but **ambushing **characters act first, taking a full turn. If no creatures are *surprised*, all creatures may act normally the first round of combat.
+When it is determined that a combat encounter needs to begin, the first step is to determine if any creatures are surprised. Surprise is generally determined by the winner of opposed **Survey** vs **Prowl** rolls. In situations where one side of the combat has no awareness of the other, simply assign *surprised*. If a creature might be aware (or you want to let the dice decide) but isn’t actively watching, those creatures suffer *disadvantage *on the **Survey** check. *Surprised* creatures may not act during the first round of combat. Other creatures act normally, but **ambushing** characters act first, taking a full turn. If no creatures are *surprised*, all creatures may act normally the first round of combat.
 
 A **round of combat** involves the following stages:
 
-1. Each player decides if their character acts **rashly **or **cautiously **and indicates their choice.
+1. Each player decides if their character acts **rashly** or **cautiously** and indicates their choice.
 
-2. All **ambushing **characters act.
+2. All **ambushing** characters act.
 
-3. All player characters acting **rashly **take their turns in an order decided by the players.
+3. All player characters acting **rashly** take their turns in an order decided by the players.
 
-4. All non-player characters act in an order determined by the GM. This is called the **monster **turn.
+4. All non-player characters act in an order determined by the GM. This is called the **monster** turn.
 
-5. All player characters acting **cautiously **take their turns in an order decided by the players.
+5. All player characters acting **cautiously** take their turns in an order decided by the players.
 
-Continue taking rounds until the combat has been decided one way or another whether that is death, defeat, surrender, ceasefire, or retreat. If the player character’s decisions to act *rashly *or *cautiously *is dragging on without resolution have a non-player character take its turn.
+Continue taking rounds until the combat has been decided one way or another whether that is death, defeat, surrender, ceasefire, or retreat. If the player character’s decisions to act *rashly* or *cautiously* is dragging on without resolution have a non-player character take its turn.
 
 ## Actions in Combat
 
 Each round a creature has a two **Actions** and two **Reactions**. Actions are used during a creature’s turn. Reactions are used during other creature’s turns.
 
-Players must decide if their characters are going to act *rashly *or *cautiously *in each round. A character acting *rashly *loses one Action and one Reaction (by default, leaving them with one Action and one Reaction when acting *rashly*). A character acting *cautiously *maintains their full complement of actions.
+Players must decide if their characters are going to act *rashly *or *cautiously *in each round. A character acting *rashly *loses one Action and one Reaction (by default, leaving them with one Action and one Reaction when acting *rashly*). A character acting *cautiously* maintains their full complement of actions.
 
-An **Action **represents the primary focus of your turn and generally involves inflicting your will onto an enemy, aiding an ally, preparing for a future turn, or moving.
+An **Action** represents the primary focus of your turn and generally involves inflicting your will onto an enemy, aiding an ally, preparing for a future turn, or moving.
 
 * Make a basic attack.
 
@@ -3102,19 +3102,19 @@ An **Action **represents the primary focus of your turn and generally involves i
 
 * Pick up an item.
 
-* Aim to gain *advantage *on your next ranged attack this turn.
+* Aim to gain *advantage* on your next ranged attack this turn.
 
-* Make a *resistance roll *to reduce the severity of a Wound.
+* Make a *resistance roll* to reduce the severity of a Wound.
 
 * Use an Action power.
 
-A **Reaction **is something you do in response to the actions of another - whether this is hitting an enemy running wildly past you or interposing yourself between danger and an ally.
+A **Reaction** is something you do in response to the actions of another - whether this is hitting an enemy running wildly past you or interposing yourself between danger and an ally.
 
 * Make a reaction attack against an enemy advancing out of your melee threat.
 
 * Make a reaction attack against an enemy advancing into your melee threat, if you have a longer melee threat than they do.
 
-* Make a *resistance roll *to avoid consequences or reduce damage.
+* Make a *resistance roll* to avoid consequences or reduce damage.
 
 * Respond to help an ally.
 
@@ -3122,9 +3122,9 @@ A **Reaction **is something you do in response to the actions of another - wheth
 
 ## Movement
 
-An **advance **is a voluntary, normal movement. Each creature has a **stride **represented as the number of feet they can advance during an Action in combat. If you spend your Action on an advance, you may move a number of feet up or equal to your stride. A **maneuver **is a voluntary, careful movement that allows you to move without risking reaction attacks. If you spend your Action on a maneuver, you may move 5’. An advance or a maneuver are voluntary movement.
+An **advance** is a voluntary, normal movement. Each creature has a **stride** represented as the number of feet they can advance during an Action in combat. If you spend your Action on an advance, you may move a number of feet up or equal to your stride. A **maneuver** is a voluntary, careful movement that allows you to move without risking reaction attacks. If you spend your Action on a maneuver, you may move 5’. An advance or a maneuver are voluntary movement.
 
-A movement **toward **a target requires that each square of movement ends closer to the target than it started. A movement **away from **a target requires that each 1’ of movement ends farther away from the target than it started. A **push **is a forced movement away from the effect’s origin. A **pull **is a forced movement toward the effect’s origin. A **slide **is a forced movement in any direction. Moving through **difficult terrain **costs an additional 1’ of movement for each 1’ moved. This normally prevents a creature from *maneuvering *into difficult terrain with their Action. A **teleport **places a creature within the specified distance in a location they can enter. A creature cannot enter **impassable ****terrain**. A creature can enter **passable terrain**.
+A movement **toward** a target requires that each square of movement ends closer to the target than it started. A movement **away from** a target requires that each 1’ of movement ends farther away from the target than it started. A **push** is a forced movement away from the effect’s origin. A **pull** is a forced movement toward the effect’s origin. A **slide** is a forced movement in any direction. Moving through **difficult terrain** costs an additional 1’ of movement for each 1’ moved. This normally prevents a creature from *maneuvering* into difficult terrain with their Action. A **teleport** places a creature within the specified distance in a location they can enter. A creature cannot enter **impassable terrain**. A creature can enter **passable terrain**.
 
 ## Conditions
 
@@ -3144,13 +3144,13 @@ While **staggered**, current hit points are less than or equal to half maximum h
 
 * Whether or not a creature is staggered is public information.
 
-A creature **threatens **a target in melee when the creature is able to act, wielding a melee weapon, and the target is within the range of that weapon. A target **is threatened by** creature when the creature is able to act, wielding a melee weapon, and the target is within the range of that weapon. A creature is** in melee** if it either threatens an enemy or is threatened by an enemy.
+A creature **threatens** a target in melee when the creature is able to act, wielding a melee weapon, and the target is within the range of that weapon. A target **is threatened by** creature when the creature is able to act, wielding a melee weapon, and the target is within the range of that weapon. A creature is** in melee** if it either threatens an enemy or is threatened by an enemy.
 
 * *While in melee, a creature’s non-melee, non-touch, non-adjacent attack checks suffer disadvantage. While in melee, a creature gains +4 defense against non-melee attacks targeting it. When a creature advances, if it stops being threatened by an enemy, that enemy may spend a reaction to make a basic attack targeting the advancing creature.*
 
 ## Wounds
 
-Attacks may inflict **wounds**, **hit point damage**, or both. Each wound has a **severity **which defines its duration and how much it affects you. The rating of the action used to inflict a wound must be equal or greater than that wound’s severity. Instead of dealing additional damage on an attack, a critical hit may inflict a wound with severity equal to or less than the critical multiplier.
+Attacks may inflict **wounds**, **hit point damage**, or both. Each wound has a **severity** which defines its duration and how much it affects you. The rating of the action used to inflict a wound must be equal or greater than that wound’s severity. Instead of dealing additional damage on an attack, a critical hit may inflict a wound with severity equal to or less than the critical multiplier.
 
 At the end of your turn, you may reduce by one the severity of a single of your wounds. If this reduces the severity to zero or less, that wound no longer afflicts you.
 
@@ -3160,93 +3160,93 @@ While **bleeding** *(severity 1-5)*, if you are living, you lose HP at the begin
 
 * *Severity 1: POW = d4, Severity 2: POW = d6, Severity 3: POW = d8, Severity 4: POW = d10, Severity 5: POW = d12.*
 
-While **blighted** *(severity 1-5)*, you suffer *entropic *damage at the beginning of your turn.
+While **blighted** *(severity 1-5)*, you suffer *entropic* damage at the beginning of your turn.
 
 * *Severity 1: POW = d4, Severity 2: POW = d6, Severity 3: POW = d8, Severity 4: POW = d10, Severity 5: POW = d12.*
 
 While **blinded** *(severity 4)*, you cannot see and suffer disadvantage on actions that involve sight. Actions entirely dependent upon sight fail.
 
-While **burning** *(severity 1-5)*, you suffer *thermal *damage at the beginning of your turn.
+While **burning** *(severity 1-5)*, you suffer *thermal* damage at the beginning of your turn.
 
 * *Severity 1: POW = d4, Severity 2: POW = d6, Severity 3: POW = d8, Severity 4: POW = d10, Severity 5: POW = d12.*
 
-While **corroding** *(severity 1-5)*, you suffer *chemical *damage at the beginning of your turn.
+While **corroding** *(severity 1-5)*, you suffer *chemical* damage at the beginning of your turn.
 
 * *Severity 1: POW = d4, Severity 2: POW = d6, Severity 3: POW = d8, Severity 4: POW = d10, Severity 5: POW = d12.*
 
-While **charmed*** (severity 3)*, you act on your *charmer’s *behalf without unduly endangering yourself.
+While **charmed** *(severity 3)*, you act on your *charmer’s* behalf without unduly endangering yourself.
 
-While **dazed*** (severity 2)*, you can Act and React one less time each round and do not threaten on other turns. Take **1 stress** to Act once more on your turn.
+While **dazed** *(severity 2)*, you can Act and React one less time each round and do not threaten on other turns. Take **1 stress** to Act once more on your turn.
 
-While **deafened*** (severity 2)*, you cannot hear and suffer disadvantage on any checks that involve sound. Checks entirely dependent upon sound automatically fail.
+While **deafened** *(severity 2)*, you cannot hear and suffer disadvantage on any checks that involve sound. Checks entirely dependent upon sound automatically fail.
 
-When **disarmed*** (severity 1)*, you have one or more items involuntarily removed from your hands.
+When **disarmed** *(severity 1)*, you have one or more items involuntarily removed from your hands.
 
-While **distracted*** (severity 2)*, your suffer disadvantage on all checks.
+While **distracted** *(severity 2)*, your suffer disadvantage on all checks.
 
-While **dominated*** (severity 5)*, you obey your *dominator’s* every whim.
+While **dominated** *(severity 5)*, you obey your *dominator’s* every whim.
 
-While **downed*** (severity 2)*, you suffer **-5** **defense **and do not threaten. You must spend an Action to stand.
+While **downed** *(severity 2)*, you suffer **-5** **defense** and do not threaten. You must spend an Action to stand.
 
-While **exposed*** (severity 1)*, you suffer **-5 to a single defense**.
+While **exposed** *(severity 1)*, you suffer **-5 to a single defense**.
 
-While **goaded*** (severity 1)*, you suffer suffers disadvantage on all attacks that do not include the goading creature. A creature may only be goaded by one enemy at a time, and the newest takes precedence.
+While **goaded** *(severity 1)*, you suffer suffers disadvantage on all attacks that do not include the goading creature. A creature may only be goaded by one enemy at a time, and the newest takes precedence.
 
-While **incapacitated*** (severity 5)*, your **defense **is **6**, can take no actions, and do not threaten.
+While **incapacitated** *(severity 5)*, your **defense** is **6**, can take no actions, and do not threaten.
 
-While **rooted*** (severity 3)*, you cannot voluntarily move or be pulled, pushed, or slid.
+While **rooted** *(severity 3)*, you cannot voluntarily move or be pulled, pushed, or slid.
 
-While **sickened*** (severity 3)*, you suffer *distracted *and *weakened*.
+While **sickened** *(severity 3)*, you suffer *distracted* and *weakened*.
 
-While **slowed*** (severity 1)*, you cannot advance or maneuver out of turn and have your stride halved.
+While **slowed** *(severity 1)*, you cannot advance or maneuver out of turn and have your stride halved.
 
-While **stunned*** (severity 4)*, you cannot Act or React and do not threaten on other turns. Take **1 stress** to Act.
+While **stunned**  *(severity 4)*, you cannot Act or React and do not threaten on other turns. Take **1 stress** to Act.
 
-While **terrified*** (severity 3)*, you suffer disadvantage on checks while the source of your fear is present and cannot move closer to the source of that fear without taking **stress**.
+While **terrified** *(severity 3)*, you suffer disadvantage on checks while the source of your fear is present and cannot move closer to the source of that fear without taking **stress**.
 
-While **vulnerable*** (severity 4)*, you suffer double damage from one chosen damage type. Negating damage of that type takes 1 additional **armor **box.
+While **vulnerable** *(severity 4)*, you suffer double damage from one chosen damage type. Negating damage of that type takes 1 additional **armor** box.
 
-While **weakened*** (severity 1-5)*, you roll **-1** (or -2, -3, -4 or -5) **effect** die.
+While **weakened** *(severity 1-5)*, you roll **-1** (or -2, -3, -4 or -5) **effect** die.
 
 ### Other Conditions or Effects
 
-While **flanked*** (severity 1)*, threatening enemies on opposite sides of you split your attention, and you grant advantage on attacks checks targeting you made by flanking creatures.
+While **flanked** *(severity 1)*, threatening enemies on opposite sides of you split your attention, and you grant advantage on attacks checks targeting you made by flanking creatures.
 
-When **pushed*** (severity 1)*, you are involuntarily moved away from an origin.
+When **pushed** *(severity 1)*, you are involuntarily moved away from an origin.
 
-When **slammed*** (severity 3)*, you are involuntarily and forcefully moved away from an origin. If you stop moving because you hit something else, suffer [d10] *kinetic *damage for every 10’ moved.
+When **slammed** *(severity 3)*, you are involuntarily and forcefully moved away from an origin. If you stop moving because you hit something else, suffer [d10] *kinetic* damage for every 10’ moved.
 
-While **surprised*** (severity 3)*, you suffer **-5 defense** and cannot React.
+While **surprised** *(severity 3)*, you suffer **-5 defense** and cannot React.
 
 ### Boons
 
-While **concealed ***(quality level 2)*, you gain **+5 defense**.
+While **concealed** *(quality level 2)*, you gain **+5 defense**.
 
-While **deflecting ***(quality level 1)*, you gain **+5 defense** against attacks that deal damage from one chosen damage type.
+While **deflecting** *(quality level 1)*, you gain **+5 defense** against attacks that deal damage from one chosen damage type.
 
-While **flanking ***(quality level 1)*, you and an ally threaten an enemy from opposite sides and gain advantage on attack checks targeting the flanked enemy.
+While **flanking** *(quality level 1)*, you and an ally threaten an enemy from opposite sides and gain advantage on attack checks targeting the flanked enemy.
 
-While **focused ***(quality level 2)*,** **you gain advantage on checks.
+While **focused** *(quality level 2)*, you gain advantage on checks.
 
 While **fortified** *(quality level 1)*,** **you gain **+5 to a single defense**.
 
-While **hastened ***(quality level 4)*, you may Act an additional time each round.
+While **hastened** *(quality level 4)*, you may Act an additional time each round.
 
-While **healing ***(quality level 1-5)*, you restore HP.
+While **healing** *(quality level 1-5)*, you restore HP.
 
 * *Quality Level 1: POW = d4, Quality Level 2: POW = d6, Quality Level 3: POW = d8, Quality Level 4: POW = d10, Quality Level 5: POW = d12.*
 
-While **hidden ***(quality level 5)*,** **you cannot be targeted. When you make an attack against a target you are hidden from, gain advantage on the attack check and that target may not take reactions to your attack.
+While **hidden** *(quality level 5)*, you cannot be targeted. When you make an attack against a target you are hidden from, gain advantage on the attack check and that target may not take reactions to your attack.
 
-While **quickened**, you gain** **an additional Move each round.
+While **quickened**, you gain an additional Move each round.
 
-While **regenerating ***(quality level 1-5)*, you restore HP at the beginning of your turn.
+While **regenerating** *(quality level 1-5)*, you restore HP at the beginning of your turn.
 
 * *You restore HP equal to the regenerating quality level + your Tier.*
 
-While **resistant ***(quality level 3)*, you suffer half damage from one chosen damage type.
+While **resistant** *(quality level 3)*, you suffer half damage from one chosen damage type.
 
-While **sheltered ***(quality level 4)*, you gain **+5 defense** and resistance to all damage types.
+While **sheltered** *(quality level 4)*, you gain **+5 defense** and resistance to all damage types.
 
 While **strengthened** *(quality level 1-5)*, you roll **+1** (or +2, +3, +4 or +5) **effect** die.
 
@@ -3276,7 +3276,7 @@ After the downtime activities are resolved, the game returns to free play, and t
 
 After a score, the PCs take stock of their income from the operation. A successful score generates both rep and coin.
 
-The crew earns 2 rep per score by default. If the target of the score is higher Tier than you, take **+1 **rep** per Tier higher**. If the target of the score is lower Tier, you get **-1 **rep** per Tier lower** (minimum zero).
+The crew earns 2 rep per score by default. If the target of the score is higher Tier than you, take **+1 rep per Tier higher**. If the target of the score is lower Tier, you get **-1 rep per Tier lower** (minimum zero).
 
 If your crew is Tier I and you pull off a successful score against a Tier III target, you earn 4 rep (2 rep, +2 rep for a target two tiers above you). If your crew is Tier III and you complete a score against a Tier I target, you earn 0 rep (2 rep, -2 rep for the lower Tier target).
 
@@ -3348,9 +3348,9 @@ Incarceration is dehumanizing and brutal. The renown of your crew is your only r
 
 **Incarceration Roll**
 
-* **Critical: **You make a name for yourself inside. You gain **+3 rep** for your crew, **1 prison claim** and **+1 faction status** with a faction that you assisted while you served your time.
+* **Critical:** You make a name for yourself inside. You gain **+3 rep** for your crew, **1 prison claim** and **+1 faction status** with a faction that you assisted while you served your time.
 
-* **6: **You do your time well. Your crew gains **1 prison claim **and **+1 faction status **with a faction that you assisted while you served your time.
+* **6:** You do your time well. Your crew gains **1 prison claim** and **+1 faction status** with a faction that you assisted while you served your time.
 
 * **4/5:** You keep your head down and do your time without incident.
 
@@ -3546,7 +3546,7 @@ They can hire an NPC by using the acquire asset_ downtime activity. Roll the NPC
 
 ### The Usual Suspects
 
-The cops grab someone in the periphery of your crew. One player volunteers a friend or vice purveyor as the person most likely to be taken. Make a **fortune roll** to find out if they resist questioning (1-3: **+2 **heat**, **4/5:** level 2 harm**), or pay them off with 1 coin.
+The cops grab someone in the periphery of your crew. One player volunteers a friend or vice purveyor as the person most likely to be taken. Make a **fortune roll** to find out if they resist questioning (1-3: **+2 heat**, **4/5:** level 2 harm), or pay them off with 1 coin.
 
 # Downtime Activities
 
@@ -3570,7 +3570,7 @@ A PC can make time for more than two activities, at a cost. **Each additional ac
 
 Activities on the downtime list are limited; normal actions are not. During downtime, you can still go places, do things, make action rolls, gather information, talk with other characters, etc. In other words, only activities that are *on the list* are limited.
 
-For any downtime activity, gain **advantage** on the roll if a **friend** or **contact** helps you. After the roll, you may spend coin to improve the result level. **Increase the result level by one for each **coin** spent.** So, a failure becomes a success, a success becomes a critical, and a critical increases its multiplier by one.
+For any downtime activity, gain **advantage** on the roll if a **friend** or **contact** helps you. After the roll, you may spend coin to improve the result level. **Increase the result level by one for each** coin **spent.** So, a failure becomes a success, a success becomes a critical, and a critical increases its multiplier by one.
 
 * *GM:** If a player can’t decide which downtime activity to pick, offer them a long-term project idea. You know what the player is interested in and what they like. Suggest a project that will head in a fun direction for them.*
 
@@ -3590,7 +3590,7 @@ Gain temporary use of an **asset**:
 
 "Temporary use" constitutes one significant period of usage that makes sense for the asset—typically the duration of one score. An asset may also be acquired for “standby” use in the future. You might hire a gang to guard your lair, for example, and they’ll stick around until after the first serious battle, or until a week goes by and they lose interest.
 
-To acquire the asset, roll **TIER!** versus a **controlled** (6), **risky** (11), or **desperate** (16) target number. The result indicates the **quality** of the asset you get, using the crew’s Tier as the base. A **failure **is Tier - 1; a **success **is Tier, and a **critical** is Tier + *critical multiplier*. You can spend coin to raise the result of this roll by spending **2** coin per additional Tier level added.
+To acquire the asset, roll **TIER!** versus a **controlled** (6), **risky** (11), or **desperate** (16) target number. The result indicates the **quality** of the asset you get, using the crew’s Tier as the base. A **failure **is Tier - 1; a **success** is Tier, and a **critical** is Tier + *critical multiplier*. You can spend coin to raise the result of this roll by spending **2** coin per additional Tier level added.
 
 The GM may set a **minimum quality** level that must be achieved to acquire a particular asset. For example, if you want to get a set of military uniforms and masks, you’d need to acquire a Tier IV asset. A lower result won’t do.
 
@@ -3642,7 +3642,7 @@ When you spend time in training,** mark 1 xp** on the xp track for an **attribut
 
 ### Exercise virtue
 
-Go out into the world to exercise your **virtue **to relieve **stress**.
+Go out into the world to exercise your **virtue** to relieve **stress**.
 
 ### Indulge vice
 
@@ -3660,7 +3660,7 @@ A character’s vice is their obsession. But with this indulgence comes relief f
 
 * Roll dice equal to your **Lowest Attribute** rating.
 
-Clear stress equal to your highest die result. If you clear more stress levels than you had marked, you **_overindulge_**. *If you do not or cannot indulge your vice during downtime, you take stress equal to your ***trauma***.*
+Clear stress equal to your highest die result. If you clear more stress levels than you had marked, you **overindulge**. *If you do not or cannot indulge your vice during downtime, you take stress equal to your **trauma**.*
 
 ## Indulging Your Vice
 
@@ -3776,9 +3776,9 @@ Visit your **vice purveyor** to relieve **stress**. Roll your **lowest attribute
 
 **Overindulge:** You made a bad call because of your vice—in acquiring it or while under its influence*.* What did you do?
 
-* **Attract Trouble: ***Maybe an enemy has tracked you to your vice purveyor and you let your guard down. *Select or roll an additional **entanglement.**
+* **Attract Trouble:** *Maybe an enemy has tracked you to your vice purveyor and you let your guard down.* Select or roll an additional **entanglement.**
 
-* **Brag: ***Maybe you brag about your exploits.* The crew takes **+2 heat**.
+* **Brag:** *Maybe you brag about your exploits.* The crew takes **+2 heat**.
 
 * **Lost:** Play a different character until this one returns from their bender.
 
@@ -3790,7 +3790,7 @@ Supernatural entities and energies have a wide variety of effects and power leve
 
 You can use the magnitude of an entity or power as a dice pool for a **fortune roll** to see how much effect it has, if it’s not obvious or certain.
 
-* *A sea demon summons a crushing wave at the canal dock where the PCs are landing their boat. How badly does this damage the vessel and the crew? Obviously it’s gonna be bad for them, but are they merely sinking or are they immediately wrecked and sunk? **The GM makes a fortune roll with ***_Advantage 6_*** (the magnitude of the demon) versus a risky TN of 17 (11 + 6). On a botch, the wave has only little effect (for a huge wave), causing the craft to take on water and begin sinking. On a failure, the wave has reduced effect, fully swamping the boat and throwing some of the characters and their cargo overboard. On a success, the wave has full effect, immediately sinking the boat and dragging the crew and cargo under. On a critical, the boat is sunk, and also the crew and cargo are badly harmed by flying debris and the crushing force of the wave.*
+* *A sea demon summons a crushing wave at the canal dock where the PCs are landing their boat. How badly does this damage the vessel and the crew? Obviously it’s gonna be bad for them, but are they merely sinking or are they immediately wrecked and sunk? **The GM makes a fortune roll with **Advantage 6** (the magnitude of the demon) versus a risky TN of 17 (11 + 6). On a botch, the wave has only little effect (for a huge wave), causing the craft to take on water and begin sinking. On a failure, the wave has reduced effect, fully swamping the boat and throwing some of the characters and their cargo overboard. On a success, the wave has full effect, immediately sinking the boat and dragging the crew and cargo under. On a critical, the boat is sunk, and also the crew and cargo are badly harmed by flying debris and the crushing force of the wave.*
 
 You can add levels of magnitude together to describe a combination of effects, or simply focus on one key feature for the magnitude assessment, ignoring other elements, even if they’re on the magnitude scale. They’re not *always* additive.
 
@@ -4082,7 +4082,7 @@ Once the source of a ritual is found, you may undertake a long-term project to l
 
 1. GM asks: **"What does the ritual do, and how is it weird?"** Player answers.
 
-2. Player asks: **"What must I do to perform the ritual, and what is its price?" **GM answers. A ritual takes at least one downtime activity to perform and inflicts **stress** on the caster according to its **magnitude**. If performance of the ritual is dangerous or troublesome in some way, it requires an action roll (usually Utter). A ritual may also have additional costs, such as a sacrifice, rare item, the start of a dire progress clock, etc.
+2. Player asks: **"What must I do to perform the ritual, and what is its price?"** GM answers. A ritual takes at least one downtime activity to perform and inflicts **stress** on the caster according to its **magnitude**. If performance of the ritual is dangerous or troublesome in some way, it requires an action roll (usually Utter). A ritual may also have additional costs, such as a sacrifice, rare item, the start of a dire progress clock, etc.
 
 3. GM asks: **"What new belief or fear does knowledge of this ritual and its attendant occult forces instill in you?"** Player answers.
 
@@ -4124,7 +4124,7 @@ Once the source of a spell is found, you may undertake a long-term project to le
 
 * GM asks: **"What does the spell do, and what is its name?"** Player answers.
 
-* Player asks: **"What must I do to cast the spell, and what is its price?" **GM answers. A spell takes at least one Action or Reaction to cast and inflicts **stress** on the caster according to its **magnitude**. If performance of the spell is dangerous or troublesome in some way, it requires an action roll (usually Utter). A damaging spell requires an attack roll against each targeted entity. A spell may also have additional costs, such as a sacrifice, rare item, the start of a dire progress clock, etc.
+* Player asks: **"What must I do to cast the spell, and what is its price?"** GM answers. A spell takes at least one Action or Reaction to cast and inflicts **stress** on the caster according to its **magnitude**. If performance of the spell is dangerous or troublesome in some way, it requires an action roll (usually Utter). A damaging spell requires an attack roll against each targeted entity. A spell may also have additional costs, such as a sacrifice, rare item, the start of a dire progress clock, etc.
 
 * GM asks: **"What new belief or fear does knowledge of this spell and its attendant occult forces instill in you?"** Player answers.
 
@@ -4138,7 +4138,7 @@ Once the source of a spell is found, you may undertake a long-term project to le
 
 # Crafting
 
-During downtime, a PC can Craft with special materials and tools to produce strange** alchemicals**, **build** (or **modify) items**,** **create **spark-craft** gadgets, or enchant **arcane** implements or weapons. The system for each method is similar, with different details depending on the nature of the project.
+During downtime, a PC can Craft with special materials and tools to produce strange **alchemicals**, **build** (or **modify**) **items**, create **spark-craft** gadgets, or enchant **arcane** implements or weapons. The system for each method is similar, with different details depending on the nature of the project.
 
 ## Inventing
 
@@ -4172,11 +4172,11 @@ Common alchemicals (page XX) and ordinary items don’t require special formulas
 
 * **Critical:** Quality level is Tier + *critical multiplier*.
 
-* **Success: **Quality level is Tier.
+* **Success:** Quality level is Tier.
 
 * **Failure:** Quality level is equal to Tier - 1.
 
-To craft something, spend one **downtime activity** to make a **Craft **roll to determine the **quality level** of the item you produce. The base quality level is equal to your crew’s Tier, modified by the result of the roll (see the results on the next page).
+To craft something, spend one **downtime activity** to make a **Craft** roll to determine the **quality level** of the item you produce. The base quality level is equal to your crew’s Tier, modified by the result of the roll (see the results on the next page).
 
 The results are based on your crew’s Tier because it indicates the overall quality of the workspace and materials you have access to. *If you do the work with the ***_Workshop_*** upgrade for your crew, your effective Tier level is one higher for this roll.*
 
@@ -4202,7 +4202,7 @@ A creation or modification may have one or more drawbacks, chosen by the GM.
 
 * **Complex**. You’ll have to create it in multiple stages; the GM will tell you how many. One downtime activity and crafting roll is needed per stage.
 
-* **Conspicuous**. This creation doesn’t go unnoticed. Take **+1** **heat **if it’s used any number of times on an operation.
+* **Conspicuous**. This creation doesn’t go unnoticed. Take **+1** **heat** if it’s used any number of times on an operation.
 
 * **Consumable**. This creation has a limited number of uses (all alchemicals must have this drawback, usually one use).
 
@@ -4220,31 +4220,31 @@ A creation or modification may have one or more drawbacks, chosen by the GM.
 
 The rarity listed in an item’s description is the most common it can be found. For example, as it is listed as "uncommon heavy armor", it cannot be found commonly.
 
-* A **common **item or material is available during character creation and is available for purchase in most locations.
+* A **common** item or material is available during character creation and is available for purchase in most locations.
 
-* An **uncommon **item or material is not available during character creation and is probably not purchasable in smaller or more remote locations.
+* An **uncommon** item or material is not available during character creation and is probably not purchasable in smaller or more remote locations.
 
-* A **rare **item or material is not available during character creation and may not be purchasable in most locations, even large cities.
+* A **rare** item or material is not available during character creation and may not be purchasable in most locations, even large cities.
 
-* A **unique **item or material is not available during character creation, is one of a kind, and is essentially never purchasable or sellable.
+* A **unique** item or material is not available during character creation, is one of a kind, and is essentially never purchasable or sellable.
 
 * A **light** weapon is small and simple enough to use in your off-hand and suffers disadvantage when used to **Wreck**.
 
 * A **heavy** weapon may not be used by creatures smaller than intended and suffers disadvantage when used to **Finesse**.
 
-* An **augment **improves the capability of a given weapon. Only one *augment *may be active on a weapon at a single time.
+* An **augment** improves the capability of a given weapon. Only one *augment* may be active on a weapon at a single time.
 
-* When you spend a move action to **brace **a weapon, before the start of your next turn, gain *advantage *on your first reaction attack using that weapon against a charging enemy.
+* When you spend a move action to **brace** a weapon, before the start of your next turn, gain *advantage* on your first reaction attack using that weapon against a charging enemy.
 
-* A **cumbersome **item can be used only once per round, and no other items can be used in the same round.
+* A **cumbersome** item can be used only once per round, and no other items can be used in the same round.
 
-* A **defensive **item improves your IRON by the listed amount.
+* A **defensive** item improves your IRON by the listed amount.
 
 * An item with **reload** can be used only once per round.
 
-* A **melee **[range] item may be used to take actions against targets up to [range]’ away from you. While wielding a melee weapon and able to act, you threaten enemies within the listed range.
+* A **melee** [range] item may be used to take actions against targets up to [range]’ away from you. While wielding a melee weapon and able to act, you threaten enemies within the listed range.
 
-* A **ranged **[range] item may be used to take actions against targets up to [range]’ away from you. At up to twice the range, those actions suffer *disadvantage*. Beyond that, actions cannot target. A ranged item takes two hands to reload even if it can be used with one hand.
+* A **ranged** [range] item may be used to take actions against targets up to [range]’ away from you. At up to twice the range, those actions suffer *disadvantage*. Beyond that, actions cannot target. A ranged item takes two hands to reload even if it can be used with one hand.
 
 * An **armor piercing** weapon or attack requires an additional armor box to ignore damage or effects from.
 
@@ -4262,7 +4262,7 @@ The rarity listed in an item’s description is the most common it can be found.
 
     * *Uncommon heavy armor (5 load) provides 6 armor boxes.*
 
-* An **exosuit **is a large and heavy enough set of armor that it requires its own power source to wear it, but it provides the most protection. Exoplate is an example of an exosuit.
+* An **exosuit** is a large and heavy enough set of armor that it requires its own power source to wear it, but it provides the most protection. Exoplate is an example of an exosuit.
 
     * *A rare exosuit (6 load) provides 8 armor boxes.*
 
@@ -4302,7 +4302,7 @@ The below weapons are for medium-sized creatures. A large-sized creature increas
 
 * A **handaxe** (like dagger)
 
-* A **battleaxe **(like longsword)
+* A **battleaxe** (like longsword)
 
 * A **greataxe** (like greatsword)
 
@@ -4376,7 +4376,7 @@ The below represent average travel speeds for various modes of transportation ov
 
 * Oxcart
 
-    * 1 km/hr (3,300’/hr)
+    * 1 km/hr (3,300/hr)
 
     * 12 km/day (40,000’/day); 10 hour day
 
@@ -4430,7 +4430,7 @@ The below represent average travel speeds for various modes of transportation ov
 
     * 420’ stride
 
-The distance on the map of Amehratus between Beacon and A is 15 centimeters. The straight-line distance on Amehratus between the two is roughly 1500 km (4,900,000’) - or 100 km/cm. Each hex on the map is about half a centimeter representing about 50 km (164,000’) across. Roll a [d20] and,** **for each hex on the overland map passed through, roll an additional die based on its peril. Sum the d20 and the highest other die:
+The distance on the map of Amehratus between Beacon and A is 15 centimeters. The straight-line distance on Amehratus between the two is roughly 1500 km (4,900,000’) - or 100 km/cm. Each hex on the map is about half a centimeter representing about 50 km (164,000’) across. Roll a [d20] and, for each hex on the overland map passed through, roll an additional die based on its peril. Sum the d20 and the highest other die:
 
 * 0: Entirely Secure - No roll.
 
