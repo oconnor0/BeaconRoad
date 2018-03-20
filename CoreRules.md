@@ -5791,6 +5791,21 @@ While the below names are based on current or historical societies, consider ass
     * 19 Primitive
     * 20 Xenophobic
 
+### Colors
+
+| d10 d4 | 1 Metallic | 2 Gem | 3 Vibrant | 4 Dull |
+|--------|---|---|---|---|
+| **1** White  | | | | |
+| **2** Gray   | | | | |
+| **3** Brown  | | | | |
+| **4** Black  | | | | |
+| **5** Red    | | | | |
+| **6** Orange | | | | |
+| **7** Yellow | | | | |
+| **8** Green  | | | | |
+| **9** Blue   | Cobalt | Lapis | | |
+| **0** Purple | | | | |
+
 ### Corporation
 
 * Spread of Influence
