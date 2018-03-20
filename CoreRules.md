@@ -3155,7 +3155,7 @@ While **healing** *(quality level 1-5)*, you restore HP.
 
 While **hidden** *(quality level 5)*, you cannot be targeted. When you make an attack against a target you are hidden from, gain advantage on the attack check and that target may not take reactions to your attack.
 
-While **quickened**, you gain an additional Move each round.
+While **quickened** *(quality level 3)*, your Stride doubles.
 
 While **regenerating** *(quality level 1-5)*, you restore HP at the beginning of your turn.
 
@@ -4842,7 +4842,7 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
     * Cost: Action, Stress 1 (condition 1).
     * Target: 1 creature you threaten.
     * Attack: Finesse/BODY! vs IRON.
-    * Hit: (half Finesse)[POW] + [BODY] *kinetic* damage, and the target suffers *bleeding d4*.
+    * Hit: (half Finesse)[POW] + [BODY] *kinetic* damage, and target suffers *bleeding d4*.
 
 * Protect
     * Requires: BODY d8, *defensive* weapon
@@ -4869,7 +4869,19 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
     * Trigger: An enemy advances toward an ally within your stride.
     * Effect: Charge the enemy at any point along its movement.
 
+* Sprint
+    * Requires: Prowl 1, BODY d10.
+    * Cost: Action, Stress 3 (condition 3).
+    * Target: Self.
+    * Effect: You become *quickened* for 1 minute (10 rounds).
+
 #### d12
+
+* Stunning Strike
+    * Requires: Wreck 1, BODY d12.
+    * Cost: Action, Stress 4 (condition 4).
+    * Attack: Wreck/BODY! vs IRON.
+    * Hit: (half Wreck)[POW] + [BODY] *kinetic* damage, and target suffers *stunned*.
 
 * Triple Strike
     * Requires: BODY d10
@@ -4923,6 +4935,14 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
     * Target: 1 creature within 30'.
     * Effect: The target gains *focused* for 1 minute (10 rounds).
 
+* Feint
+    * Requires: MIND d6.
+    * Cost: Action, Stress
+    * Target: 1 creature you threaten.
+    * Attack: Study/MIND! vs WARD.
+    * Hit: Make a melee weapon attack with Advantage against the target.
+    * Miss: Make a melee weapon attack with Disadvantage against the target.
+
 * Inner Flame
     * Requires: MIND d6.
     * Cost: Action, Stress 3 (range 1, condition 1 + 1).
@@ -4936,6 +4956,7 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
     * Target: The triggering creature.
     * Attack: Action/ATTR! vs TN (the triggering check) and WARD.
     * Hit: The target loses their current Action without effect.
+    * Miss: The target suffers *distracted* on their current Action.
 
 #### d8
 
@@ -4962,18 +4983,25 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
 
 #### d10
 
+* Ink Blot
+    * Requires: MIND d10
+    * Cost: Action, Stress 5 (range 1, condition 4)
+    * Target: 1 creature within 30'.
+    * Attack: Action/MIND! vs IRON
+    * Hit: Target suffers *blinded*.
+
 * Reposition!
     * Requires: Command 1, MIND d10.
     * Cost: Action, Stress 4 (area 3, condition 1).
     * Target: Allied creatures within 25'.
     * Effect: *Maneuver* 5'.
 
-* Ink Blot
-    * Requires MIND d10
-    * Cost: Action, Stress 5 (range 1, condition 4)
-    * Target: 1 creature within 30'.
-    * Attack: Action/MIND! vs IRON
-    * Hit: Target suffers *blinded*.
+* Sabotage
+    * Requires: Hunt 1, MIND d10.
+    * Cost: Action, Stress (condition 4).
+    * Target: 1 creature within weapon range.
+    * Attack: Hunt/MIND! vs GRIT.
+    * Hit: Select one damage type. Target becomes *vulnerable* to that damage type.
 
 #### d12
 
@@ -5028,7 +5056,7 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
     * Requires: WILL d4
     * Cost: Action, Stress 2 (condition 1, duration 1)
     * Target: 1 weapon within touch.
-    * Effect: Increase the range of this to 30' by taking 1 stress.
+    * Effect: Take 1 Stress to increase the range of this by 30'.
     * Effect: For the next minute (10 rounds), that weapon additionally deals *glacial* and *plasmic* damage, and attacks with that weapon are *strengthened* 1 (+1 effect die).
 
 #### d6
@@ -5083,7 +5111,6 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
     * Cost: Action, Stress 8 (range 2, force 3, area 2).
     * Target: 25' square within 100'.
     * Attack: Utter/WILL! vs IRON.
-    * Hit: (Utter)[d8] *thermal* damage.
 
 * Plasmic Cage
     * Requires: WILL d8.
@@ -5091,6 +5118,13 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
     * Target: 1 enemy creature within 30'.
     * Attack: Utter/WILL! vs IRON.
     * Hit: Target suffers *rooted*.
+
+* Pox
+    * Requires: Utter 3, WILL d8.
+    * Cost: Action, Stress 4 (range 1, condition 3).
+    * Target: 1 enemy creature within 30'.
+    * Attack: Utter/WILL! vs IRON.
+    * Hit: Target suffers *blighted d4* and *sickened*.
 
 * Rock Slam
     * Requires: Wreck 1, WILL d8.
@@ -5118,12 +5152,19 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
 
 * Thunderclap
     * Requires: Utter 1, WILL d10.
-    * Cost: Action, Stress (area 3, condition 2 + 2, force 2).
+    * Cost: Action, Stress 9 (area 3, condition 2 + 2, force 2).
+    * Target: 50' square centered on you.
     * Attack: Utter/WILL! vs IRON and GRIT.
     * Hit vs IRON: (Utter)[d6] *kinetic* and *electrical* damage.
     * Hit vs GRIT: The target is *dazed* and *deafened*.
 
 #### d12
+
+* Invisibility
+    * Requires: Prowl 1, WILL d12.
+    * Cost: Action, Stress 5 (condition 5).
+    * Target: Self.
+    * Effect: You become *hidden* for 1 minute (10 rounds) or until you Act - other than to Move.
 
 * Timeslip
     * Requires: WILL d12.
