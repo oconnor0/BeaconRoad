@@ -1769,7 +1769,7 @@ Some examples include: Weapons, clothes, arcane implements, specialized tools, c
 
         * When there's a question about who acts first, the answer is you.
 
-* *You may choose to act *cautiously *in combat, but if an enemy would attempt to act against you, you may take your turn before they do.*
+* *You may choose to act *cautiously* in combat, but if an enemy would attempt to act against you, you may take your turn before they do.*
 
 * *This ability gives you the initiative in most situations. Some specially trained NPCs might also have reflexes, but otherwise, you're always the first to act, and can interrupt anyone else who tries to beat you to the punch. This ability usually doesn't negate the need to make an action roll that you would otherwise have to make, but it may improve your position or effect.*
 
@@ -2985,7 +2985,7 @@ When one side of an argument completes their goal, they have won the argument an
 
 ## Entering Combat
 
-When it is determined that a combat encounter needs to begin, the first step is to determine if any creatures are surprised. Surprise is generally determined by the winner of opposed **Survey** vs **Prowl** rolls. In situations where one side of the combat has no awareness of the other, simply assign *surprised*. If a creature might be aware (or you want to let the dice decide) but isn't actively watching, those creatures suffer *disadvantage *on the **Survey** check. *Surprised* creatures may not act during the first round of combat. Other creatures act normally, but **ambushing** characters act first, taking a full turn. If no creatures are *surprised*, all creatures may act normally the first round of combat.
+When it is determined that a combat encounter needs to begin, the first step is to determine if any creatures are surprised. Surprise is generally determined by the winner of opposed **Survey** vs **Prowl** rolls. In situations where one side of the combat has no awareness of the other, simply assign *surprised*. If a creature might be aware (or you want to let the dice decide) but isn't actively watching, those creatures suffer *disadvantage* on the **Survey** check. *Surprised* creatures may not act during the first round of combat. Other creatures act normally, but **ambushing** characters act first, taking a full turn. If no creatures are *surprised*, all creatures may act normally the first round of combat.
 
 A **round of combat** involves the following stages:
 
@@ -3005,7 +3005,7 @@ Continue taking rounds until the combat has been decided one way or another whet
 
 Each round a creature has a two **Actions** and two **Reactions**. Actions are used during a creature's turn. Reactions are used during other creature's turns.
 
-Players must decide if their characters are going to act *rashly *or *cautiously *in each round. A character acting *rashly *loses one Action and one Reaction (by default, leaving them with one Action and one Reaction when acting *rashly*). A character acting *cautiously* maintains their full complement of actions.
+Players must decide if their characters are going to act *rashly* or *cautiously* in each round. A character acting *rashly* loses one Action and one Reaction (by default, leaving them with one Action and one Reaction when acting *rashly*). A character acting *cautiously* maintains their full complement of actions.
 
 An **Action** represents the primary focus of your turn and generally involves inflicting your will onto an enemy, aiding an ally, preparing for a future turn, or moving.
 
@@ -4779,9 +4779,9 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
     * Cost: Action, Stress 1 (condition 1)
     * Target: 1 creature you threaten
     * Attack: Wreck/BODY! vs IRON
-    * Hit (half Wreck)[BODY] *kinetic *damage and *pushed* 5' per attacking action dot.
+    * Hit (half Wreck)[BODY] *kinetic* damage and *pushed* 5' per attacking action dot.
     * Upgrades:
-        * [ ] Slam and Bash (8 clock) - The target is *slammed *10' per attacking action dot instead of *pushed*.
+        * [ ] Slam and Bash (8 clock) - The target is *slammed* 10' per attacking action dot instead of *pushed*.
 
 * Block
     * Requires: BODY d4, Skirmish 1, *defensive* weapon
@@ -4904,7 +4904,7 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
     * Requires: Sway 1, MIND d4.
     * Cost: Action, Stress 3 (range 1, force 1, condition 1).
     * Attack: Sway/MIND! vs WARD.
-    * Hit: (Sway)[d4] *psychic *damage, and the target suffers *terrified*.
+    * Hit: (Sway)[d4] *psychic* damage, and the target suffers *terrified*.
 
 * Inhale
     * Requires: MIND d4, Study 1
@@ -4981,7 +4981,7 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
     * Requires: Command 1, MIND d12.
     * Cost: Action, Stress 3 (area 3).
     * Target: Allied creatures within 25'.
-    * Effect: Target can spend a *Reaction *to *Advance *up to their *Stride*.
+    * Effect: Target can spend a *Reaction* to *Advance* up to their *Stride*.
 
 * Mental Imposition
     * Requires: MIND d12, Ritual.
@@ -5038,7 +5038,7 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
     * Cost: Action, Stress 6 (area 1, range 1, condition 2 + 2).
     * Target: Creatures in 10' cube within 30'.
     * Attack: Utter/WILL! vs IRON.
-    * Effect: Target suffers *Burning *d6 and *Corroding* d6.
+    * Effect: Target suffers *Burning* d6 and *Corroding* d6.
 
 * Lightning Bolt
     * Requires: WILL d6
