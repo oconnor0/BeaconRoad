@@ -1,3 +1,8 @@
+---
+author: "Matthew O'Connor"
+title: "Beacon Road Core Rules"
+---
+
 # Beacon Road
 
 ### Who Will You Be?
