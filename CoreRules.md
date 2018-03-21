@@ -298,7 +298,7 @@ An **attack roll** is a specific type of action roll. An attack roll targets one
 
 * If a target is missed, resolve any effects that occur on a miss.
 
-* If a target is reduced to zero or fewer hit points, they fall die or fall unconscious and begin dying.
+* If a target is reduced to zero or fewer hit points, they die or fall unconscious and begin dying.
 
     * If a character is at negative half your maximum hit points, you permanently die.
 
@@ -356,23 +356,27 @@ When you take damage that reduces your HP to zero or less, you fall unconscious,
 
 * **Vicious**: You seek out opportunities to hurt people, even for no good reason.
 
+## Sleeping and Whatnot
+
+When you are able to sleep for a full night and get the rest you need, you restore 1 Stress and heal 1 Recovery.
+
 # Heroic Blessings
 
 The player characters are not normal and so can tap into heroic blessings that enable them to perform nigh-supernatural exploits. Heroic blessings are not related to archetypes, bloodlines, or crew. They are benefits that any player can use. Heroic blessings are represented with **Beacon Points** that a player can spend to activate a blessing. Beacon Points may be spent:
 
 * To avoid death.
 
-* To take an additional Action or Reaction (once per turn).
+* To Act or React an additional time per round.
 
 * To **push yourself**.
+
+* To reroll with Advantage a failed roll.
 
 * To trigger a flashback.
 
 * Instead of taking some amount of Stress (not covered in the above).
 
 # Progress Clocks
-
-
 
 A **progress clock** is a circle divided into segments (see examples). Draw a progress clock when you need to track ongoing effort against an obstacle or the approach of impending trouble.
 
@@ -3008,39 +3012,29 @@ Continue taking rounds until the combat has been decided one way or another whet
 
 ## Actions in Combat
 
-Each round a creature has a two **Actions** and two **Reactions**. Actions are used during a creature's turn. Reactions are used during other creature's turns.
+Each round a creature may **Act** twice and **React** twice. You Act during your turn, and React during other's turns.
 
-Players must decide if their characters are going to act *rashly* or *cautiously* in each round. A character acting *rashly* loses one Action and one Reaction (by default, leaving them with one Action and one Reaction when acting *rashly*). A character acting *cautiously* maintains their full complement of actions.
+Players must decide if their characters are going to act *rashly* or *cautiously* in each round. A character acting *rashly* may Act one fewer times and React one fewer times per round (by default, letting them Act once and React once when acting *rashly*). A character acting *cautiously* maintains their full complement of actions.
 
-An **Action** represents the primary focus of your turn and generally involves inflicting your will onto an enemy, aiding an ally, preparing for a future turn, or moving.
+An **Act** represents the primary focus of your turn and generally involves inflicting your will onto an enemy, aiding an ally, preparing for a future turn, or moving.
 
 * Make a basic attack.
-
 * Charge - choose a target, advance toward that target up to your stride; if you end your movement closer to your target than you started your turn and if you moved at least twice your size (ex., 10' for medium or 20' for large), you make a melee charge attack. Gain advantage on the attack check.
-
 * Advance up to your stride.
-
 * Maneuver 5'.
-
 * Pick up an item.
-
+* Draw or Stow one or two Readied items.
 * Aim to gain *advantage* on your next ranged attack this turn.
-
 * Make a *resistance roll* to reduce the severity of a Wound.
+* Use an Action Power.
 
-* Use an Action power.
-
-A **Reaction** is something you do in response to the actions of another - whether this is hitting an enemy running wildly past you or interposing yourself between danger and an ally.
+You **React** in response to the actions of another - whether this is hitting an enemy running wildly past you or interposing yourself between danger and an ally.
 
 * Make a reaction attack against an enemy advancing out of your melee threat.
-
 * Make a reaction attack against an enemy advancing into your melee threat, if you have a longer melee threat than they do.
-
 * Make a *resistance roll* to avoid consequences or reduce damage.
-
 * Respond to help an ally.
-
-* Use a Reaction power.
+* Use a Reaction Power.
 
 ## Movement
 
@@ -3460,7 +3454,7 @@ In order to work on a project, you might first have to achieve the means to purs
 
 When you recover, you seek treatment and heal your harm. You might visit a physicker who can stitch your wounds and soothe your mind with anatomical science or a witch who specializes in healing charms and restorative alchemy. If you don't have a contact or fellow PC who can provide treatment, you can use the **acquire asset** activity to gain access to a healer, who can provide service for the whole crew.
 
-Recovery is like a long-term project. Your healer rolls (perhaps **Utter** or **Craft** for a PC with the healing special ability the **quality** level of an NPC) versus a **controlled** (6), **risky** (11), or **desperate** (16) target number and then you mark a number of segments on your **healing clock**: **failure**: one segment, **success**: two segments, **critical**: two segments + *critical multiplier*.
+Recovery is like a long-term project. Your healer rolls (perhaps **Utter** or **Craft** for a PC with the healing special ability, or the **quality** level of an NPC) versus a **controlled** (6), **risky** (11), or **desperate** (16) target number and then you mark a number of segments on your **healing clock**: **failure**: one segment, **success**: two segments, **critical**: two segments + *critical multiplier*.
 
 When you fill your healing clock, reduce each instance of harm on your sheet by one level, then clear the clock. If you have more segments to mark, they "roll over."
 

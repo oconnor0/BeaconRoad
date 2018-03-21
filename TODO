@@ -7,18 +7,18 @@ TODO:
 BOOK:
   [ ] **100000** words by December 2018 @due( 2018-12-1) @todo
   [ ] Intro
-  [ ] Core mechanic
-    [ ] Explain dice vs [dice] vs dice!
-  [ ] Combat rules
-    [ ] Initiative
-    [ ] Ambush
-    [ ] Turn order
-    [ ] Turn actions
-    [ ] Damage & healing
-    [ ] Death & unconsciousness
-    [x] Armor & defense
-    [ ] Wounds & their severity
-    [ ] Buffs & their awesomeness
+  [x] Core mechanic @done (18-03-20 22:17)
+    [x] Explain dice vs [dice] vs dice! @done (18-03-20 22:13)
+  [x] Combat rules @done (18-03-20 22:17)
+    [x] Initiative @done (18-03-20 21:50)
+    [x] Ambush @done (18-03-20 21:50)
+    [x] Turn order @done (18-03-20 21:50)
+    [x] Turn actions @done (18-03-20 21:57)
+    [x] Damage & healing @done (18-03-20 22:12)
+    [x] Death & unconsciousness @done (18-03-20 22:12)
+    [x] Armor & defense @done (18-03-20 22:14)
+    [x] Wounds & their severity @done (18-03-20 21:58)
+    [x] Buffs & their awesomeness @done (18-03-20 22:00)
   [ ] Crew/fellowship/party rules
     [ ] Crew sheets
       [ ] Blank
@@ -72,7 +72,7 @@ BOOK:
   [ ] Social maneuvering rules
   [ ] Skill challenge rules (or equivalent)
   [ ] Travel rules
-  [ ] Downtime & respite rules
+  [ ] Downtime rules
     [ ] Crafting
     [ ] Rituals
     [ ] Relaxing
@@ -123,16 +123,28 @@ BOOK:
 
 PREP:
   [ ] Create all 8 pregen characters.
-    [ ] Create power cards.
-    [ ] Create clear character sheets.
+    [ ] Draconic Wizard
+    [ ] Dwarf Warrior
+    [ ] Elf Rogue
+    [ ] Forgeborn Technician
+    [ ] Halfling Tehnician
+    [ ] Human Wizard
+    [ ] Orc Warrior
+    [ ] Troll Rogue
+  [ ] Create power cards.
+  [ ] Create clear character sheets.
   [ ] Write down adventure sketch.
   [ ] Figure out which mechanics to present at what points.
   [ ] Write out NPC stats.
+    [ ] Thugs
+    [ ] Jaron
+    [ ] Nadal
 
 OPEN:
   [ ] Who Will You Be? tagline.
   [ ] Road Master instead of Game Master?
   [ ] Rename Action to Act and Reaction to React?
+  [ ] Deflecting, Exposed, & Fortified are QL 1-5?
   [ ] Clarify Weakened and Strengthened. Related to Effect?
   [ ] Limited, Standard, Great Effect? -1, 0, +1 POW
   [ ] Clarify Buff required Action Ratings.
