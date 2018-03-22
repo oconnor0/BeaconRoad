@@ -1,0 +1,63 @@
+# Draconic Wizard
+
+- Bloodline: Draconic
+- Archetype: Wizard (Inquisitor)
+- Tier: 0
+- Crew:
+    - Name:
+    - Type:
+- Background:
+- Look:
+- Traits:
+- Virtue:
+- Vice:
+
+- Action Ratings:
+    - Deed:
+        - Finesse: 0
+        - Prowl: 0
+        - Skirmish: 2
+        - Wreck: 0
+    - Thought:
+        - Craft: 0
+        - Hunt: 1
+        - Study: 1
+        - Survey: 1
+    - Word:
+        - Command: 0
+        - Consort: 0
+        - Sway: 0
+        - Utter: 2
+- Attributes:
+    - BODY: d4
+    - MIND: d8
+    - WILL: d4
+- Defenses:
+    - IRON: 12
+    - WARD: 16
+    - GRIT: 12
+
+- Hit Points: 22/22
+- Recovery Dice: [d6]
+- Stress: 0/8 `[ ][ ][ ][ ][ ][ ][ ][ ]`
+- Armor: 0/2 `[ ][ ]`
+- Shield: 0/0
+- Special: 0/2 `[ ][ ]`
+
+- Special Abilities:
+    - **Warded.** You may expend your **special armor** to resist a supernatural consequence, or to **push yourself** when you contend with or employ arcane forces.
+- Powers:
+- Load:
+- Items:
+    - `[ ]-[ ]` Greatsword
+    - `[ ]-[ ]` Armored Vestments
+    - `[ ]`
+- Friends & Rivals:
+
+- XP Triggers:
+    - At the end of a session, mark XP if you addressed a challenge with arcane powers or knowledge.
+- XP:
+    - Personal: 0/8 `[ ][ ][ ][ ][ ][ ][ ][ ]`
+    - Deed: 0/6 `[ ][ ][ ][ ][ ][ ]`
+    - Thought: 0/6 `[ ][ ][ ][ ][ ][ ]`
+    - Word: 0/6 `[ ][ ][ ][ ][ ][ ]`

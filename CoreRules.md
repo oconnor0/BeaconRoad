@@ -721,30 +721,26 @@ Once you decide to resist a consequence and roll, you suffer the stress indicate
 ## Resistance Roll
 
 * In combat, spend a Reaction to make a resistance roll.
-
-* TIER! + ATTR! vs attack roll; or controlled, risky, or desperate target number.
-
+    * TIER! + ATTR! vs attack roll; or controlled, risky, or desperate target number.
 * You **reduce** or **avoid** the effects of the consequence (GM chooses).
-
-* **Critical:** Clear 1 stress.
-
-* **Success:** Take 2 stress.
-
-* **Failure:** Take 4 stress.
-
-* **Botch:** Take 6 stress.
+    * **Critical:** Clear 1 stress.
+    * **Success:** Take 2 stress.
+    * **Failure:** Take 4 stress.
+    * **Botch:** Take 6 stress.
 
 ## Armor
 
-If you have a type of **armor** that applies to the situation, you can mark an armor box to reduce or avoid a consequence, instead of rolling to resist.
+If you have a type of **armor** that applies to the situation, you can mark an armor box to reduce or avoid a consequence, instead of rolling to resist. If the armor is relevant to the situation, you may mark an armor box to gain *resistance* to one of the damage types dealt by an attack.
 
-* *Jonadab would suffer a crushing blow that would deal 30 points of damage and stun him - effectively taking him out of the fight. Instead, marking one armor box **negates** the damage dealt and marking a second armor box negates the stun.*
+* *Jonadab would suffer a crushing blow that would deal 30 points of damage and stun him - effectively taking him out of the fight. Instead, marking one armor box grants **kinetic resistance** against that attack (halving the damage taken to 15) and marking a second armor box negates the stun.*
 
 When an armor box is marked, it can't be used again until it's restored. All of your armor is restored when you choose your **load** for the next score.
 
 ## Death
 
 There are a couple ways for a PC to die:
+
+* If a character's hit points are reduced to negative half your maximum hit points, you permanently die.
 
 * If they suffer level 4 fatal harm and they don't resist it, they die. *Sometimes this is a choice a player wants to make, because they feel like it wouldn't make sense for the character to survive or it seems right for their character to die here.*
 
@@ -1622,9 +1618,9 @@ You don't need to select specific items now. Review your personal items and the 
 
         * You know the arcane methods to perform ritual sorcery. You can **Study** an arcane ritual (or create a new one) to summon a supernatural effect or being. You begin with one ritual already learned.
 
-* *Without this special ability, the study and practice of rituals leaves you utterly vulnerable to the powers you supplicate. Such endeavors are not recommended.*
+            * *Without this special ability, the study and practice of rituals leaves you utterly vulnerable to the powers you supplicate. Such endeavors are not recommended.*
 
-* *Follow the Ritual creation procedure with the GM to define your first ritual.*
+            * *Follow the Ritual creation procedure with the GM to define your first ritual.*
 
     * **Spellcraft.**
 
@@ -1645,8 +1641,7 @@ You don't need to select specific items now. Review your personal items and the 
 * Items
 
     * [ ] Vestments
-
-    * [ ][ ] Books and Tomes
+    * [ ]-[ ] Books and Tomes
 
 ## Character items
 
