@@ -1326,9 +1326,9 @@ You don't need to select specific items now. Review your personal items and the 
 
         * When there's a question about who acts first, the answer is you.
 
-* *You may choose to act cautiously in combat, but if an enemy would attempt to act against you, you may take your turn before they do.*
+            * *You may choose to act cautiously in combat, but if an enemy would attempt to act against you, you may take your turn before they do.*
 
-* *This ability gives you the initiative in most situations. Some specially trained NPCs might also have reflexes, but otherwise, you're always the first to act, and can interrupt anyone else who tries to beat you to the punch. This ability usually doesn't negate the need to make an action roll that you would otherwise have to make, but it may improve your position or effect.*
+            * *This ability gives you the initiative in most situations. Some specially trained NPCs might also have reflexes, but otherwise, you're always the first to act, and can interrupt anyone else who tries to beat you to the punch. This ability usually doesn't negate the need to make an action roll that you would otherwise have to make, but it may improve your position or effect.*
 
     * **Shadow.**
 
@@ -1338,7 +1338,7 @@ You don't need to select specific items now. Review your personal items and the 
 
     * **Sharpshooter.**
 
-        * You can **push yourself** to do one of the following: *make a ranged attack at extreme distance beyond what's normal for the weapon-unleash a barrage of rapid fire to suppress the enemy.*
+        * You do not suffer Disadvantage when making ranged weapon attacks at distances beyond their first range increment. You can **push yourself** to do one of the following: *make a ranged attack at extreme distance beyond what's normal for the weapon-unleash a barrage of rapid fire to suppress the enemy.*
 
             * *When you push yourself to activate this ability, you still get one of the normal benefits of pushing yourself (advantage, +1 effect, etc.) in addition to the special ability.*
 
@@ -1677,9 +1677,7 @@ Some examples include: Weapons, clothes, arcane implements, specialized tools, c
 
     * **Greed:**
 
-        * Unnecessary accumulation; and expensive or ostentatious displays of opulence.
-
-        * *While dragons sleep on mountains, their descendents love gold and jewel*
+        * *While dragons sleep on mountains, their descendents love gold and jewel.*
 
 * Special Abilities
 
@@ -4900,6 +4898,7 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
     * Success: You gain *fortified* for one of your defenses.
 
 * Exploit Opponent
+    * *You open a hole in your opponent's defense.*
     * Requires: Study 1, MIND d4.
     * Cost: Action, Stress 2 (condition 1, duration 0, range 1).
     * Target: 1 enemy creature within 30'.
@@ -5049,8 +5048,7 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
     * *A weapon begins to glow with cold energy. When used to attack, a spectral wolf's head lashes out and bites the target.*
     * Requires: WILL d4
     * Cost: Action, Stress 2 (condition 1, duration 1)
-    * Target: 1 weapon within touch.
-    * Effect: Take 1 Stress to increase the range of this by 30'.
+    * Target: 1 weapon within touch. (Take 1 Stress to increase the range of this by 30'.)
     * Effect: For the next minute (10 rounds), that weapon additionally deals *glacial* and *plasmic* damage, and attacks with that weapon are *strengthened* 1 (+1 effect die).
 
 #### d6

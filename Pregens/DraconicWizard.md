@@ -9,8 +9,8 @@
 - Background:
 - Look:
 - Traits:
-- Virtue:
-- Vice:
+- Virtue: **Resonance:** Beauty and splendor in the world reverberate within you and grow around you.
+- Vice: **Greed.** While dragons sleep on mountains, their descendents love gold and jewel.
 
 - Action Ratings:
     - Deed:
@@ -47,6 +47,19 @@
 - Special Abilities:
     - **Warded.** You may expend your **special armor** to resist a supernatural consequence, or to **push yourself** when you contend with or employ arcane forces.
 - Powers:
+    - **Exploit Opponent**
+        - *You open a hole in your opponent's defense.*
+        - Requires: Study 1, MIND d4.
+        - Cost: Action, Stress 2 (condition 1, duration 0, range 1).
+        - Target: 1 enemy creature within 30'.
+        - Check: Study/MIND! vs WARD, IRON, and GRIT.
+        - Success: The target suffers *exposed* for one of the hit defenses (of your choosing).
+    - **Wolfbite**
+        - *A weapon begins to glow with cold energy. When used to attack, a spectral wolf's head lashes out and bites the target.*
+        - Requires: WILL d4
+        - Cost: Action, Stress 2 (condition 1, duration 1)
+        - Target: 1 weapon within touch. (Take 1 Stress to increase the range of this by 30'.)
+        - Effect: For the next minute (10 rounds), that weapon additionally deals *glacial* and *plasmic* damage, and attacks with that weapon are *strengthened* 1 (+1 effect die).
 - Load:
 - Items:
     - `[ ]-[ ]` Greatsword
