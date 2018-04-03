@@ -1,11 +1,15 @@
 #
 
 - XP Triggers:
+    - When you **push yourself** and fail an **action roll**, mark 1 XP in the rolled attribute.
+    - At the end of a session, mark XP 1 or 2 if you addressed a challenge with...
+    - At the end of a session, mark XP 1 or 2 if you expressed your beliefs, drives, traits, or background.
+    - At the end of a session, mark XP 1 or 2 if you struggled with issues from your virtue, vice, or trauma.
 - XP:
-    - Personal: 0/8
-    - Deed: 0/6
-    - Thought: 0/6
-    - Word: 0/6
+    - SELF: 0/8 `[ ][ ][ ][ ][ ][ ][ ][ ]`
+    - BODY: 0/6 `[ ][ ][ ][ ][ ][ ]`
+    - MIND: 0/6 `[ ][ ][ ][ ][ ][ ]`
+    - WILL: 0/6 `[ ][ ][ ][ ][ ][ ]`
 
 - Bloodline:
 - Archetype:
@@ -20,17 +24,17 @@
 - Vice:
 
 - Action Ratings:
-    - Deed:
+    - BODY:
         - Finesse:
         - Prowl:
         - Skirmish:
         - Wreck:
-    - Thought:
+    - MIND:
         - Craft:
         - Hunt:
         - Study:
         - Survey:
-    - Word:
+    - WILL:
         - Command:
         - Consort:
         - Sway:
@@ -46,7 +50,7 @@
 
 - Hit Points:
 - Recovery Dice:
-- Stress: 0/8
+- Stress: 0/8 `[ ][ ][ ][ ][ ][ ][ ][ ]`
 - Armor:
 - Shield:
 - Special:

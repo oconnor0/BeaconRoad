@@ -1,5 +1,13 @@
 # Draconic Wizard
 
+- XP Triggers:
+    - At the end of a session, mark XP if you addressed a challenge with arcane powers or knowledge.
+- XP:
+    - SELF: 0/8 `[ ][ ][ ][ ][ ][ ][ ][ ]`
+    - BODY: 0/6 `[ ][ ][ ][ ][ ][ ]`
+    - MIND: 0/6 `[ ][ ][ ][ ][ ][ ]`
+    - WILL: 0/6 `[ ][ ][ ][ ][ ][ ]`
+
 - Bloodline: Draconic
 - Archetype: Wizard (Inquisitor)
 - Tier: 0
@@ -66,11 +74,3 @@
     - `[ ]-[ ]` Armored Vestments
     - `[ ]`
 - Friends & Rivals:
-
-- XP Triggers:
-    - At the end of a session, mark XP if you addressed a challenge with arcane powers or knowledge.
-- XP:
-    - Personal: 0/8 `[ ][ ][ ][ ][ ][ ][ ][ ]`
-    - Deed: 0/6 `[ ][ ][ ][ ][ ][ ]`
-    - Thought: 0/6 `[ ][ ][ ][ ][ ][ ]`
-    - Word: 0/6 `[ ][ ][ ][ ][ ][ ]`

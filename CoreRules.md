@@ -381,7 +381,7 @@ You can use stress to **push yourself** for greater performance. For each bonus 
 
 * Roll **+1 effect die**. (This may be used on a damage roll or healing roll.)
 
-* Take action while *dazed* or *stunned*.
+* Take action while *slowed* or *stunned*.
 
 ## Trauma
 
@@ -1361,7 +1361,7 @@ You don't need to select specific items now. Review your personal items and the 
 
         * You may expend one box of your **special armor** to resist a consequence from detection or security measures, or to **push yourself** for a feat of athletics or stealth.
 
-            * *When you use this ability, tick one box of your special armor box on your playbook sheet. If you "resist a consequence" of the appropriate type, you avoid it completely. If you use this ability to push yourself, you get one of the benefits (advantage, +1 effect, act despite dazed or stunned) but you don't take 1 stress. Your special armor is restored at the beginning of downtime.*
+            * *When you use this ability, tick one box of your special armor box on your playbook sheet. If you "resist a consequence" of the appropriate type, you avoid it completely. If you use this ability to push yourself, you get one of the benefits (advantage, +1 effect, act despite slowed or stunned) but you don't take 1 stress. Your special armor is restored at the beginning of downtime.*
 
     * **Sharpshooter.**
 
@@ -1539,7 +1539,7 @@ You don't need to select specific items now. Review your personal items and the 
 
         * You may expend your **special armor** to negate a consequence from an attack in combat or to **push yourself** during a fight.
 
-            * *When you use this ability, tick one special armor box on your character sheet. If you "negate a consequence", you completely avoid damage, a wound, or another consequence. If you use this ability to push yourself, you get one of the benefits (advantage, additional effect die, act when dazed or stunned), but you don't take stress. Your special armor is restored at the beginning of downtime.*
+            * *When you use this ability, tick one special armor box on your character sheet. If you "negate a consequence", you completely avoid damage, a wound, or another consequence. If you use this ability to push yourself, you get one of the benefits (advantage, additional effect die, act when slowed or stunned), but you don't take stress. Your special armor is restored at the beginning of downtime.*
 
     * **Bodyguard.**
 
@@ -1551,7 +1551,7 @@ You don't need to select specific items now. Review your personal items and the 
 
         * You may expend your **special armor** to **push yourself** when making melee attacks. When you do, you gain all benefits of **pushing yourself**.
 
-            * *When you use this ability, tick one special armor box on your character sheet. If you use this ability to push yourself, you get all of the benefits (advantage, additional effect die, act when dazed or stunned), but you don't take stress. Your special armor is restored at the beginning of downtime.*
+            * *When you use this ability, tick one special armor box on your character sheet. If you use this ability to push yourself, you get all of the benefits (advantage, additional effect die, act when slowed or stunned), but you don't take stress. Your special armor is restored at the beginning of downtime.*
 
     * **Mule.**
 
@@ -3029,9 +3029,9 @@ Continue taking rounds until the combat has been decided one way or another whet
 
 ## Actions in Combat
 
-Each round a creature may **Act** twice and **React** twice. You Act during your turn, and React during other's turns.
+Each round you may **Act** twice and **React** twice. You Act during your turn, and React during other's turns.
 
-Players must decide if their characters are going to act *rashly* or *cautiously* in each round. A character acting *rashly* may Act one fewer times and React one fewer times per round (by default, letting them Act once and React once when acting *rashly*). A character acting *cautiously* maintains their full complement of actions.
+Players must decide if their characters are going to act *rashly* or *cautiously* in each round. A character acting *rashly* may Act one fewer time and React one fewer time per round (by default, letting them Act once and React once when acting *rashly*). A character acting *cautiously* maintains their full complement of actions.
 
 An **Act** represents the primary focus of your turn and generally involves inflicting your will onto an enemy, aiding an ally, preparing for a future turn, or moving.
 
@@ -3109,8 +3109,6 @@ While **corroding** *(severity 1-5)*, you suffer *chemical* damage at the beginn
 
 While **charmed** *(severity 3)*, you act on your *charmer's* behalf without unduly endangering yourself.
 
-While **dazed** *(severity 2)*, you can Act and React one less time each round and do not threaten on other turns. Take **1 stress** to Act once more on your turn.
-
 While **deafened** *(severity 2)*, you cannot hear and suffer disadvantage on any checks that involve sound. Checks entirely dependent upon sound automatically fail.
 
 When **disarmed** *(severity 1)*, you have one or more items involuntarily removed from your hands.
@@ -3131,7 +3129,7 @@ While **rooted** *(severity 3)*, you cannot voluntarily move or be pulled, pushe
 
 While **sickened** *(severity 3)*, you suffer *distracted* and *weakened*.
 
-While **slowed** *(severity 1)*, you cannot advance or maneuver out of turn and have your stride halved.
+While **slowed** *(severity 2)*, you can Act and React one less time each round and do not threaten on other turns. Take **1 stress** to Act once more on your turn.
 
 While **stunned**  *(severity 4)*, you cannot Act or React and do not threaten on other turns. Take **1 stress** to Act.
 
@@ -5170,7 +5168,7 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
     * Target: 50' square centered on you.
     * Attack: Utter/WILL! vs IRON and GRIT.
     * Hit vs IRON: (Utter)[d6] *kinetic* and *electrical* damage.
-    * Hit vs GRIT: The target is *dazed* and *deafened*.
+    * Hit vs GRIT: The target is *slowed* and *deafened*.
 
 #### d12
 

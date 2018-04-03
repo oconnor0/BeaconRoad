@@ -1,15 +1,15 @@
 # Dwarf Warrior
 
 - XP Triggers:
-    - At the end of a session, mark XP if you addressed a challenge with coercion or violence.
-    - When you **push yourself** and fail an **action roll**.
-    - You expressed your beliefs, drives, traits, or background.
-    - You struggled with issues from your virtue, vice, or trauma.
+    - When you **push yourself** and fail an **action roll**, mark 1 XP in the rolled attribute.
+    - At the end of a session, mark XP 1 or 2 if you addressed a challenge with coercion or violence.
+    - At the end of a session, mark XP 1 or 2 if you expressed your beliefs, drives, traits, or background.
+    - At the end of a session, mark XP 1 or 2 if you struggled with issues from your virtue, vice, or trauma.
 - XP:
-    - Personal: 0/8 `[ ][ ][ ][ ][ ][ ][ ][ ]`
-    - Deed: 0/6 `[ ][ ][ ][ ][ ][ ]`
-    - Thought: 0/6 `[ ][ ][ ][ ][ ][ ]`
-    - Word: 0/6 `[ ][ ][ ][ ][ ][ ]`
+    - SELF: 0/8 `[ ][ ][ ][ ][ ][ ][ ][ ]`
+    - BODY: 0/6 `[ ][ ][ ][ ][ ][ ]`
+    - MIND: 0/6 `[ ][ ][ ][ ][ ][ ]`
+    - WILL: 0/6 `[ ][ ][ ][ ][ ][ ]`
 
 - Bloodline: Dwarf
 - Archetype: Warrior (Pugilist)
@@ -24,17 +24,17 @@
 - Vice: **Greed.** Unnecessary accumulation; and expensive or ostentatious displays of opulence.
 
 - Action Ratings:
-    - Deed:
+    - BODY:
         - Finesse: 0
         - Prowl: 2
         - Skirmish: 2
         - Wreck: 0
-    - Thought:
+    - MIND:
         - Craft: 0
         - Hunt: 0
         - Study: 0
         - Survey: 0
-    - Word:
+    - WILL:
         - Command: 1
         - Consort: 0
         - Sway: 0
