@@ -43,6 +43,7 @@ BOOK:
       [x] Choose traits
       [x] Choose your vice
       [x] Choose your virtue
+      [ ] Choose starting special abilities - 1 from Bloodline, 1 from Archetype?
     [ ] Archetypes
       [x] Rogue
         [ ] Description
@@ -101,13 +102,15 @@ BOOK:
         [x] Orc Justice
   [ ] Faction rules
     [ ] Status
-    [ ] How your actions affect them
-    [ ] How do those factions accomplish their goals
+    [ ] How your actions affect them?
+    [ ] How do those factions accomplish their goals?
   [ ] Powers
     [x] Make, at least, one Power for each Wound, Condition, and Boon. @todo @done (18-03-19 22:41)
     [ ] Ensure all Powers have Action and Attribute requirements.
+    [ ] Or simplify/remove Action and Attribute requirements?
     [ ] Verify Stress requirements of Powers.
     [ ] Check relative power/balance level of Powers.
+    [ ] Move Charge, Aim, "Opportunity Attack", "Defensive Attack" to Powers?
   [ ] Sandbox rules (inspired by Blades and Stars Without Number)
     [ ] Name tables
     [ ] Rumor tables
@@ -133,6 +136,7 @@ PREP:
     [ ] Troll Rogue
   [ ] Create power cards.
   [ ] Create clear character sheets.
+  [ ] Develop GM cheat sheets.
   [ ] Write down adventure sketch.
   [ ] Figure out which mechanics to present at what points.
   [ ] Write out NPC stats.

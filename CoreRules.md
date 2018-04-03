@@ -529,31 +529,7 @@ The GM's choices for effect level and position can be strongly influenced by the
 
 ## 4. Add Bonus Dice
 
-You can normally gain up to **advantage** 2 for your action roll (some special abilities or conditions might give you additional advantage). For one, you can gain **advantage** from a teammate. They take 1 stress, say how they help you, give you **advantage**, and if you fail the roll, you may reroll it. For another, you can either **push yourself** (take 1 stress) or you can accept a **Fiend's Bargain** (you can't get dice for both, it's one or the other).
-
-### The Fiend's Bargain
-
-Characters in *Beacon Road* are scoundrels-they don't always act in their own best interests. To reflect this, the GM or any other player can offer you a bonus die if you accept a Fiend's Bargain. Common Fiend's Bargains include:
-
-* Collateral damage, unintended harm.
-
-* Sacrifice coin or an item.
-
-* Betray a friend or loved one.
-
-* Offend or anger a faction.
-
-* Start and/or tick a troublesome clock.
-
-* Add heat to the crew from evidence or witnesses.
-
-* Suffer harm.
-
-The Fiend's Bargain occurs regardless of the outcome of the roll. You make the deal, pay the price, and gain **advantage**.
-
-The Fiend's Bargain is always a free choice. If you don't like one, just reject it (or suggest how to alter it so you might consider taking it). You can always just push yourself for **advantage** instead.
-
-If it's ever needed, the GM has final say over which Fiend's Bargains are valid.
+You can normally gain up to **advantage** 2 for your action roll (some special abilities, power, or conditions might give you additional advantage). For one, you can gain **advantage** from a teammate. They take 1 stress, say how they help you, give you **advantage**, and if you fail the roll, you may reroll it. For another, you can **push yourself** (take 1 stress).
 
 ## 5. Roll the Dice and Judge the Result
 
@@ -575,7 +551,7 @@ When you narrate the action after the roll, the GM and player collaborate togeth
 
 * The GM establishes the **position** and **effect level** of the action. The choice of position and effect is influenced strongly by the player's choice of action.
 
-* Add up to two bonus dice. 1) **Assistance** from a teammate. 2) **Push yourself** (take 1 stress) or accept a **Fiend's Bargain**.
+* Gain up to Advantage 2. 1) **Assistance** from a teammate. 2) **Push yourself** (take 1 stress).
 
 * Roll the dice and judge the outcome. The players and GM narrate the action together. The GM has final say over what happens and inflicts consequences as called for by the position and the result of the roll.
 
@@ -587,7 +563,7 @@ When you narrate the action after the roll, the GM and player collaborate togeth
 
 * Gain **Advantage** if you have **Assistance**.
 
-* Gain **Advantage** if you **Push Yourself** -or- you accept a **Fiend's Bargain**.
+* Gain **Advantage** if you **Push Yourself**.
 
 * **Controlled** (base TN = 6 + target's Tier)-You act on your terms. You exploit a dominant advantage.
 
