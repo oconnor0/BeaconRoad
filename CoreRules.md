@@ -56,6 +56,7 @@ title: "Beacon Road Core Rules"
     - [Rituals](#rituals)
     - [Spells](#spells)
     - [Crafting](#crafting)
+        - [Equipment](#equipment)
     - [Travel](#travel)
 - [Bestiary and Other Sundry](#bestiary-and-other-sundry)
 - [The World of Beacon](#the-world-of-beacon)
