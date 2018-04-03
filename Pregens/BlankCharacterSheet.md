@@ -1,5 +1,12 @@
 #
 
+- XP Triggers:
+- XP:
+    - Personal: 0/8
+    - Deed: 0/6
+    - Thought: 0/6
+    - Word: 0/6
+
 - Bloodline:
 - Archetype:
 - Tier:
@@ -49,10 +56,3 @@
 - Load:
 - Items:
 - Friends & Rivals:
-
-- XP Triggers:
-- XP:
-    - Personal: 0/8
-    - Deed: 0/6
-    - Thought: 0/6
-    - Word: 0/6

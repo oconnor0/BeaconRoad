@@ -13,6 +13,56 @@ title: "Beacon Road Core Rules"
 >
 > This work is based on Blades in the Dark (found at http://www.bladesinthedark.com/), product of One Seven Design, developed and authored by John Harper, and licensed for our use under the Creative Commons Attribution 3.0 Unported license ([http://creativecommons.org/licenses/by/3.0/](http://creativecommons.org/licenses/by/3.0/)).
 
+# Table of Contents
+
+- [Beacon Road](#beacon-road)
+- [Table of Contents](#table-of-contents)
+- [The Basics](#the-basics)
+- [The Core System](#the-core-system)
+    - [Actions & Attributes](#actions--attributes)
+    - [Defenses & Hit Points](#defenses--hit-points)
+    - [Stress & Trauma](#stress--trauma)
+    - [Heroic Blessings](#heroic-blessings)
+    - [Progress Clocks](#progress-clocks)
+    - [Action Roll](#action-roll)
+    - [Effect](#effect)
+    - [Setting Position & Effect](#setting-position--effect)
+    - [Consequences & Harm](#consequences--harm)
+    - [Resistance & Armor](#resistance--armor)
+    - [Fortune Roll](#fortune-roll)
+    - [Gathering Information](#gathering-information)
+    - [Coin & Stash](#coin--stash)
+    - [The Faction Game](#the-faction-game)
+    - [Advancement](#advancement)
+- [The Characters](#the-characters)
+    - [Character Creation](#character-creation)
+    - [Character Archetypes](#character-archetypes)
+    - [Character Bloodlines](#character-bloodlines)
+- [The Crew](#the-crew)
+    - [Crew Playbook](#crew-playbook)
+- [The Score](#the-score)
+    - [Planning & Engagement](#planning--engagement)
+    - [Teamwork](#teamwork)
+    - [Combat](#combat)
+- [Downtime](#downtime)
+    - [Payoff](#payoff)
+    - [Heat](#heat)
+    - [Entanglements](#entanglements)
+    - [Downtime Activities](#downtime-activities)
+    - [Vice](#vice)
+    - [Virtue](#virtue)
+    - [Downtime Activities in Play](#downtime-activities-in-play)
+    - [Magnitude](#magnitude)
+    - [Rituals](#rituals)
+    - [Spells](#spells)
+    - [Crafting](#crafting)
+    - [Travel](#travel)
+- [Bestiary and Other Sundry](#bestiary-and-other-sundry)
+- [The World of Beacon](#the-world-of-beacon)
+- [Appendix A: Powers](#appendix-a--powers)
+- [Appendix B: Sandbox Tables](#appendix-b--sandbox-tables)
+- [Appendix D: Definitions](#appendix-d--definitions)
+
 # The Basics
 
 ## The Game
@@ -232,7 +282,7 @@ When you **Wreck**, you unleash savage force.
 
 As you can see, many actions overlap with others. This is by design. As a player, you get to choose which action you roll, by saying what your character does. Can you try to **Wreck** someone during a fight? Sure! The GM tells you the position and effect level of your action in this circumstance. As it says, **Skirmish** *might* be better (less risky or more effective), depending on the situation at hand (sometimes it won't be better).
 
-# Defenses and Hit Points
+# Defenses & Hit Points
 
 ## Defense Ratings
 
@@ -1038,7 +1088,7 @@ Each player keeps track of the experience points (**xp**) that their character e
 
 During the game session, mark xp:
 
-* When you make a **push yourself** and fail an **action roll**. Mark 1 xp in the attribute for the action you rolled. For example, if you roll a **Skirmish**action, **push yourself**, and fail, you mark xp in **Prowess***.* When you roll in a **group action** that's desperate, you also mark xp.
+* When you **push yourself** and fail an **action roll**. Mark 1 xp in the attribute for the action you rolled. For example, if you roll a **Skirmish**action, **push yourself**, and fail, you mark xp in **Prowess***.* When you roll in a **group action** that's desperate, you also mark xp.
 
 At the end of the session, review the **xp triggers** on your character sheet. For each one, mark 1 xp if it happened at all, or mark 2 xp if it happened a lot during the session. The xp triggers are:
 
@@ -1068,7 +1118,7 @@ At the end of the session, review the crew xp triggers and mark 1 crew xp for ea
 
 * **Express the goals, drives, inner conflict, or essential nature of the crew.** This one is very broad! Essentially, did anything happen that highlighted the specific elements that make your crew unique?
 
-**When you fill your crew advancement tracker**, clear the marks and take a new **special ability **or mark** two crew upgrade boxes**.
+**When you fill your crew advancement tracker**, clear the marks and take a new **special ability** or mark **two crew upgrade boxes**.
 
 * *For example, when a crew of Sin-eaters earns a crew advance, they could take a new special ability, like **Forged in the Fire**. Or they could mark two upgrades, like **Composed** and **Knowledge of Evil**.*
 
@@ -1204,7 +1254,7 @@ Choose a name for your character from the sample list (page XX), or create your 
 
 * *Face: Mustache, beard, mutton chops, sideburns, clean-shaven or hair-free, strong-jaw, soft-face, high-cheekboned, angular-lined.*
 
-* *Attire: Vest, sleeveless, shirt, blouse, suit coat, dress, rags, gown, tuxedo, pants, kilt, skirt, shorts, rags, armored, battered, unkempt, robes, vestments, uniform.*
+* *Attire: Vest, sleeveless, shirt, blouse, suit coat, dress, rags, gown, tuxedo, pants, kilt, skirt, shorts, rags, armored, battered, unkempt, robes, vestments, uniform, duster.*
 
 * *Feet: Boots, bare feet, sandals, slippers, shoes, clogs, clawed, hooves, cloven, paws.*
 
@@ -1713,13 +1763,13 @@ Some examples include: Weapons, clothes, arcane implements, specialized tools, c
 
 * Virtue:
 
-    * **Industry:**
+    * **Industry.**
 
         * Nothing is impossible with hardwork, elbow grease, and unflagging endurance.
 
 * Vice:
 
-    * **Greed:**
+    * **Greed.**
 
         * Unnecessary accumulation; and expensive or ostentatious displays of opulence.
 
@@ -1742,15 +1792,12 @@ Some examples include: Weapons, clothes, arcane implements, specialized tools, c
 * *An ancient people, elves live beyond and remember before any other metahumans. The length of their lives and their exquisite memories feed their sorrow, their arrogance, their self-absorption. They rarely procreate for fear of passing the pain of the past onto their children.*
 
 * Senses:
-
     * Keen Ears and Starsight.
 
 * Size:
-
     * Medium (5' × 5'), slender and averaging from 6' to 7' tall.
 
 * Stride:
-
     * 30'.
 
 * Virtue:
@@ -4147,7 +4194,7 @@ The below weapons are for medium-sized creatures. A large-sized creature increas
 
 * A **longspear**
 
-    * *An uncommon two-handed longspear (1 load) threatens to 10' and rolls a [d8] effect die.*
+    * *An uncommon two-handed longspear (2 load) threatens to 10' and rolls a [d8] effect die.*
 
 * A **hammer** is a *light*, blunt weapon used for smacking things and throwing.
 
@@ -4155,7 +4202,7 @@ The below weapons are for medium-sized creatures. A large-sized creature increas
 
 * A **warhammer** is a *heavy*, blunt weapon.
 
-    * *A common warhammer (2 load) threatens to 5'  and can be wielded one-handed for a [d8] effect die or two-handed for a [d10].*
+    * *A common warhammer (2 load) threatens to 5' and can be wielded one-handed for a [d8] effect die or two-handed for a [d10].*
 
 * A **mace**
 
@@ -4523,9 +4570,7 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
         * A local noble whose family has been a fixture in the aristocracy of Trellis for centuries and in Beacon for longer. Never awarded the highest titles and lands, but constant across kings, queens, and regimes. A patron of the arts and adventurers. Patient, connected, noble.
 
 * Traits
-
     * WL 6
-
     * Security 4
 
 * Rules
@@ -4846,7 +4891,7 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
     * Requires: BODY d8
     * Cost: Reaction, Stress 1
     * Trigger: You or an ally are hit by an attack.
-    * Make a melee attack against the attacking creature you threaten.
+    * Effect: Make a melee attack against the attacking creature you threaten.
 
 #### d10
 

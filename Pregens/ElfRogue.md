@@ -1,17 +1,26 @@
 # Elf Rogue
+- XP Triggers:
+    - At the end of a session, mark XP if you addressed a challenge with audacity or stealth.
+    - When you **push yourself** and fail an **action roll**.
+    - You expressed your beliefs, drives, traits, or background.
+    - You struggled with issues from your virtue, vice, or trauma.
+- XP:
+    - Personal: 0/8 `[ ][ ][ ][ ][ ][ ][ ][ ]`
+    - Deed: 0/6 `[ ][ ][ ][ ][ ][ ]`
+    - Thought: 0/6 `[ ][ ][ ][ ][ ][ ]`
+    - Word: 0/6 `[ ][ ][ ][ ][ ][ ]`
 
 - Bloodline: Elf
 - Archetype: Rogue (Hunter)
 - Tier: 0
 - Crew:
     - Name:
-    - Type:
-- Background:
-- Look:
-- Traits:
-- Virtue: Remembrance
-- Vice: Sorrow
-
+    - Type: Nomads
+- Background: Escaped Prisoner
+- Look: Gaunt, Hairless, Piercing Gray Hawk-Eyes, Faded Green Duster.
+- Traits: Cold, Fair, Strange.
+- Virtue: **Remembrance.** The past led us to today; allow it to coach us into tomorrow.
+- Vice: **Sorrow.** The weight of past pain weighs heavily on you; do not pass it on to others.
 - Action Ratings:
     - Deed:
         - Finesse: 2
@@ -36,29 +45,40 @@
     - IRON: 14
     - WARD: 14
     - GRIT: 12
-
 - Hit Points: 27/27
 - Recovery Dice: [d8]
 - Stress: 0/8 `[ ][ ][ ][ ][ ][ ][ ][ ]`
 - Armor: 0/2 `[ ][ ]`
 - Shield: 0/0
 - Special: 0/2 `[ ][ ]`
-
 - Special Abilities:
-    - **Sharpshooter.** You do not suffer Disadvantage when making ranged weapon attacks at distances beyond their first range increment. You can **push yourself** to do one of the following: *make a ranged attack at extreme distance beyond what's normal for the weapon-unleash a barrage of rapid fire to suppress the enemy.*
+    - **Sharpshooter.** You do not suffer Disadvantage when making ranged weapon attacks at distances beyond their first range increment. You can **push yourself** to do one of the following: *make a ranged attack at extreme distance beyond what's normal for the weapon---unleash a barrage of rapid fire to suppress the enemy.*
         - *When you push yourself to activate this ability, you still get one of the normal benefits of pushing yourself (advantage, +1 effect, etc.) in addition to the special ability.*
 - Powers:
-- Load:
+    - Clarity
+        - Requires: MIND d6.
+        - Cost: Action, Stress 3 (range 1, condition 2).
+        - Target: 1 creature within 30'.
+        - Effect: The target gains *focused* for 1 minute (10 rounds).
+    - Interrupt
+        - Requires: MIND d6
+        - Cost: Reaction.
+        - Trigger: A creature within weapon range makes an action roll.
+        - Target: The triggering creature.
+        - Attack: Hunt/MIND! with Disadvantage vs TN (the triggering check) and WARD.
+        - Hit: The target loses their current Action without effect.
+        - Miss: The target suffers *distracted* on their current Action.
+    - Sidestep
+        - Requires: BODY d6;
+        - Cost: Reaction, Stress 0
+        - Trigger: You hit with an attack.
+        - Maneuver up to 10'.
+- Senses: Keen Ears and Starsight.
+- Size: Medium (5' × 5'), slender and averaging from 6' to 7' tall.
+- Stride: 30'
+- Load: Medium (5 boxes)
 - Items:
-    - `[ ]-[ ]` Greatbow
-    - `[ ]-[ ]`
-    - `[ ]`
+    - `[ ]-[ ]` Greatbow (2H d10, 150')
+    - `[ ]-[ ]` Leather Armor
+    - `[ ]` Spear (1H d6, 2H d8)
 - Friends & Rivals:
-
-- XP Triggers:
-    - At the end of a session, mark XP if you addressed a challenge with audacity or stealth.
-- XP:
-    - Personal: 0/8 `[ ][ ][ ][ ][ ][ ][ ][ ]`
-    - Deed: 0/6 `[ ][ ][ ][ ][ ][ ]`
-    - Thought: 0/6 `[ ][ ][ ][ ][ ][ ]`
-    - Word: 0/6 `[ ][ ][ ][ ][ ][ ]`

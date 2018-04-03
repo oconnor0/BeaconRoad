@@ -1,0 +1,69 @@
+# Dwarf Warrior
+
+- XP Triggers:
+    - At the end of a session, mark XP if you addressed a challenge with coercion or violence.
+    - When you **push yourself** and fail an **action roll**.
+    - You expressed your beliefs, drives, traits, or background.
+    - You struggled with issues from your virtue, vice, or trauma.
+- XP:
+    - Personal: 0/8 `[ ][ ][ ][ ][ ][ ][ ][ ]`
+    - Deed: 0/6 `[ ][ ][ ][ ][ ][ ]`
+    - Thought: 0/6 `[ ][ ][ ][ ][ ][ ]`
+    - Word: 0/6 `[ ][ ][ ][ ][ ][ ]`
+
+- Bloodline: Dwarf
+- Archetype: Warrior (Pugilist)
+- Tier: 0
+- Crew:
+    - Name:
+    - Type: Nomads
+- Background:
+- Look:
+- Traits:
+- Virtue: **Industry.** Nothing is impossible with hardwork, elbow grease, and unflagging endurance.
+- Vice: **Greed.** Unnecessary accumulation; and expensive or ostentatious displays of opulence.
+
+- Action Ratings:
+    - Deed:
+        - Finesse: 0
+        - Prowl: 2
+        - Skirmish: 2
+        - Wreck: 0
+    - Thought:
+        - Craft: 0
+        - Hunt: 0
+        - Study: 0
+        - Survey: 0
+    - Word:
+        - Command: 1
+        - Consort: 0
+        - Sway: 0
+        - Utter: 2
+- Attributes:
+    - BODY: d6
+    - MIND: 0
+    - WILL: d6
+- Defenses:
+    - IRON: 14
+    - WARD: 8
+    - GRIT: 14
+
+- Hit Points: 28/28
+- Recovery Dice:
+- Stress: 0/8
+- Armor:
+- Shield:
+- Special:
+
+- Special Abilities:
+    - **Arcane Potency.** You may imbue your hands, melee weapons, or tools with energy - allowing them to deal an additional damage type in addition to *kinetic* damage.
+        - *Your fists are now a light, melee weapon that rolls a [d6] effect die and threatens to your reach.*
+        - *When you imbue yourself with arcane energy, how do you do it? What does it look like when the energy manifests?*
+- Powers:
+    - Off-Hand Strike
+        - Requires: BODY d6
+        - Cost: Action, Stress 0
+        - Effect: Make a main-hand melee weapon attack. If you hit with that attack, you may immediately make an attack with your off-hand *light* weapon.
+- Load:
+- Items:
+- Friends & Rivals:

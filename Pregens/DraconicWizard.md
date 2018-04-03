@@ -9,7 +9,7 @@
 - Background:
 - Look:
 - Traits:
-- Virtue: **Resonance:** Beauty and splendor in the world reverberate within you and grow around you.
+- Virtue: **Resonance.** Beauty and splendor in the world reverberate within you and grow around you.
 - Vice: **Greed.** While dragons sleep on mountains, their descendents love gold and jewel.
 
 - Action Ratings:
@@ -62,7 +62,7 @@
         - Effect: For the next minute (10 rounds), that weapon additionally deals *glacial* and *plasmic* damage, and attacks with that weapon are *strengthened* 1 (+1 effect die).
 - Load:
 - Items:
-    - `[ ]-[ ]` Greatsword
+    - `[ ]-[ ]` Greatsword ()
     - `[ ]-[ ]` Armored Vestments
     - `[ ]`
 - Friends & Rivals:
