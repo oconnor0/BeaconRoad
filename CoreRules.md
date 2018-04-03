@@ -1389,101 +1389,54 @@ You don't need to select specific items now. Review your personal items and the 
 
 ## Technician
 
-* Medium length description of the character here. Include what kind of activities they normally partake in.
-
-* XP Triggers
-
-    * At the end of a session, mark XP if you addressed a challenge with calculation or technical skill.
-
-* Starting Actions
-
-    * 2 dots: Craft
-
-    * 1 dot: Hunt
-
-* Starting Builds
-
-    * *If you want some guidance when you assign your four starting action dots and special ability, use one of these templates.*
-
-    * **Apothecary.** +1 Wreck, +1 Hunt, +1 Survey, +1 Sway. **Alchemist.**
-
-    * **Engineer.** +1 Finesse, +1 Study, +2 Survey. **Artificer.**
-
-    * **Felsmith.** +1 Wreck, +2 Utter, +1 Command. **Strange Methods.**
-
-    * **Physician.** +2 Finesse, +2 Study. **Sawbones.**
-
-* Friends and Rivals
-
-    * A frequent client
-
-    * A law officer
-
-    * A merchant
-
-    * A peer
-
-    * A supplier
-
-* Special Abilities
-
-    * **Alchemist.**
-
-        * When you **invent** or **craft** a creation with *alchemical* features, get **+1 quality level** to your roll. You begin with one special formula already known.
-
-            * *Follow the Inventing procedure with the GM to define your first special alchemical formula.*
-
-    * **Analyst.**
-
-        * During downtime, you get **two ticks** to distribute among any long term project clocks that involve investigation or learning a new formula or design plan.
-
-    * **Artificer.**
-
-        * When you **invent** or **craft** a creation with *spark-craft* features, get **+1 quality level** to your roll. You begin with one special design already known.
-
-            * *Follow the Inventing procedure with the GM to define your first spark-craft design.*
-
-    * **Calculating.**
-
-        * Due to your careful planning, during downtime, you may give yourself or another crew member **+1 downtime activity**.
-
-            * *If you forget to use this ability during downtime, you can still activate it during the score and flashback to the previous downtime when the extra activity happened.*
-
-    * **Fortitude.**
-
-        * You may expend your **special armor** to resist a consequence of fatigue; weakness; *chemical*, *entropic*, or *thermal* effects, or to **push yourself** when working with technical skill or handling alchemicals.
-
-            * *When you use this ability, tick one special armor box on your character sheet. If you resist a consequence, you avoid it completely. If you use this ability to push yourself, you get one of the benefits (advantage or additional effect die), but you don't take stress. Your special armor is restored at the beginning of downtime.*
-
-    * **Sawbones.**
-
-        * Gain **advantage** on action rolls to administer treatment, bind wounds, or help someone heal from trauma.
-
-            * *Training - or far too much practice - is essential to properly administer treatment.*
-
-    * **Strange Methods.**
-
-        * When you **invent** or **craft** a creation with *arcane* features, get **+1 quality level** to your roll. You begin with one arcane design already known.
-
-            * *Follow the Inventing procedure with the GM to define your first arcane design.*
-
-* Items
-
-* [ ] Bandolier
-
-* [ ] Clockwork Design
-
-* [ ] Craft Tools
-
-* [ ] Wrecking Tools
-
-* [ ] Mechanism
-
-* [ ]-[ ] Brewer's Pack
-
-* [ ]-[ ] Healer's Pack
-
-* [ ]-[ ] Complex and Large Mechanism
+- Medium length description of the character here. Include what kind of activities they normally partake in.
+- XP Triggers
+    - At the end of a session, mark 1 or 2 XP if you addressed a challenge with calculation or technical skill.
+- Starting Actions
+    - 2 dots: Craft
+    - 1 dot: Hunt
+- Starting Builds
+    - *If you want some guidance when you assign your four starting action dots and special ability, use one of these templates.*
+    - **Apothecary.** +1 Wreck, +1 Hunt, +1 Survey, +1 Sway. **Alchemist.**
+    - **Engineer.** +1 Finesse, +1 Study, +2 Survey. **Artificer.**
+    - **Felsmith.** +1 Wreck, +2 Utter, +1 Command. **Strange Methods.**
+    - **Physician.** +2 Finesse, +2 Study. **Sawbones.**
+- Friends and Rivals
+    - A frequent client
+    - A law officer
+    - A merchant
+    - A peer
+    - A supplier
+- Special Abilities
+    - **Alchemist.**
+        - When you **invent** or **craft** a creation with *alchemical* features, get **+1 quality level** to your roll. You begin with one special formula already known.
+            - *Follow the Inventing procedure with the GM to define your first special alchemical formula.*
+    - **Analyst.**
+        - During downtime, you get **two ticks** to distribute among any long term project clocks that involve investigation or learning a new formula or design plan.
+    - **Artificer.**
+        - When you **invent** or **craft** a creation with *spark-craft* features, get **+1 quality level** to your roll. You begin with one special design already known.
+            - *Follow the Inventing procedure with the GM to define your first spark-craft design.*
+    - **Calculating.**
+        - Due to your careful planning, during downtime, you may give yourself or another crew member **+1 downtime activity**.
+            - *If you forget to use this ability during downtime, you can still activate it during the score and flashback to the previous downtime when the extra activity happened.*
+    - **Fortitude.**
+        - You may expend your **special armor** to resist a consequence of fatigue; weakness; *chemical*, *entropic*, or *thermal* effects, or to **push yourself** when working with technical skill or handling alchemicals.
+            - *When you use this ability, tick one special armor box on your character sheet. If you resist a consequence, you avoid it completely. If you use this ability to push yourself, you get one of the benefits (advantage or additional effect die), but you don't take stress. Your special armor is restored at the beginning of downtime.*
+    - **Sawbones.**
+        - Gain **advantage** on action rolls to administer treatment, bind wounds, or help someone heal from trauma.
+            - *Training - or far too much practice - is essential to properly administer treatment.*
+    - **Strange Methods.**
+        - When you **invent** or **craft** a creation with *arcane* features, get **+1 quality level** to your roll. You begin with one arcane design already known.
+            - *Follow the Inventing procedure with the GM to define your first arcane design.*
+- Items
+    - [ ] Bandolier
+    - [ ] Clockwork Design
+    - [ ] Craft Tools
+    - [ ] Wrecking Tools
+    - [ ] Mechanism
+    - [ ]-[ ] Brewer's Pack
+    - [ ]-[ ] Healer's Pack
+    - [ ]-[ ] Complex and Large Mechanism
 
 ## Warrior
 
@@ -1869,49 +1822,28 @@ Some examples include: Weapons, clothes, arcane implements, specialized tools, c
 
             * *This special ability may be taken twice - once for each of your bloodlines.*
 
-## Halfing
-
-* *A little person given to cheer.*
-
-* Senses:
-
-    * Normal.
-
-* Size:
-
-    * Small (2.5' × 2.5'), averaging between 2' and 3' tall.
-
-* Stride:
-
-    * 20'.
-
-* Virtue:
-
-    * **Cheer:**
-
-        * Your unassailable mood lifts the spirits of others in the darkest of times.
-
-* Vice:
-
-    * **Gluttony:**
-
-        * Gratification from lovers, food, drink, drugs, art, theater, etc.
-
-* Special Abilities
-
-    * **Infiltrator.**
-
-        * You are not affected by **quality** or **Tier** when you bypass security measures.
-
-            * *This ability lets you contend with higher-Tier enemies on equal footing. When you're cracking a safe, picking a lock, or sneaking past elite guards, your effect level is never reduced due to superior Tier or quality level of your opposition.*
-
-            * *Are you a renowned safe cracker? Do people tell stories of how you slipped under the noses of two Chief Inspectors, or are your exceptional talents yet to be discovered?*
-
-    * **Subterfuge.**
-
-        * You may expend **special armor** to resist a consequence from suspicion or persuasion, or to **push yourself** for subterfuge.
-
-            * *When you use this ability, tick one of your special armor boxes on your playbook sheet. If you "resist a consequence" of the appropriate type, you avoid it completely. If you use this ability to push yourself, you get one of the benefits (advantage, +1 effect, etc.) but you don't take 1 stress. Your special armor is restored at the beginning of downtime.*
+## Halfling
+- *A little person given to cheer.*
+- Senses:
+    - Normal.
+- Size:
+    - Small (2.5' × 2.5'), averaging between 2' and 3' tall.
+- Stride:
+    - 20'.
+- Virtue:
+    - **Cheer.**
+        - Your unassailable mood lifts the spirits of others in the darkest of times.
+- Vice:
+    - **Gluttony.**
+        - Gratification from lovers, food, drink, drugs, art, theater, etc.
+- Special Abilities
+    - **Infiltrator.**
+        - You are not affected by **quality** or **Tier** when you bypass security measures.
+            - *This ability lets you contend with higher-Tier enemies on equal footing. When you're cracking a safe, picking a lock, or sneaking past elite guards, your effect level is never reduced due to superior Tier or quality level of your opposition.*
+            - *Are you a renowned safe cracker? Do people tell stories of how you slipped under the noses of two Chief Inspectors, or are your exceptional talents yet to be discovered?*
+    - **Subterfuge.**
+        - You may expend **special armor** to resist a consequence from suspicion or persuasion, or to **push yourself** for subterfuge.
+            - *When you use this ability, tick one of your special armor boxes on your playbook sheet. If you "resist a consequence" of the appropriate type, you avoid it completely. If you use this ability to push yourself, you get one of the benefits (advantage, +1 effect, etc.) but you don't take 1 stress. Your special armor is restored at the beginning of downtime.*
 
 ## Human
 

@@ -1,7 +1,10 @@
 # Draconic Wizard
 
 - XP Triggers:
-    - At the end of a session, mark XP if you addressed a challenge with arcane powers or knowledge.
+    - When you **push yourself** and fail an **action roll**, mark 1 XP in the rolled attribute.
+    - At the end of a session, mark 1 or 2 XP if you addressed a challenge with arcane powers or knowledge.
+    - At the end of a session, mark 1 or 2 XP if you expressed your beliefs, drives, traits, or background.
+    - At the end of a session, mark 1 or 2 XP if you struggled with issues from your virtue, vice, or trauma.
 - XP:
     - SELF: 0/8 `[ ][ ][ ][ ][ ][ ][ ][ ]`
     - BODY: 0/6 `[ ][ ][ ][ ][ ][ ]`
@@ -13,7 +16,7 @@
 - Tier: 0
 - Crew:
     - Name:
-    - Type:
+    - Type: Nomads
 - Background:
 - Look:
 - Traits:
@@ -21,17 +24,17 @@
 - Vice: **Greed.** While dragons sleep on mountains, their descendents love gold and jewel.
 
 - Action Ratings:
-    - Deed:
+    - BODY:
         - Finesse: 0
         - Prowl: 0
         - Skirmish: 2
         - Wreck: 0
-    - Thought:
+    - MIND:
         - Craft: 0
         - Hunt: 1
         - Study: 1
         - Survey: 1
-    - Word:
+    - WILL:
         - Command: 0
         - Consort: 0
         - Sway: 0

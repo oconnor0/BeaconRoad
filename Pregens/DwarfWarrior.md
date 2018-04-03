@@ -2,9 +2,9 @@
 
 - XP Triggers:
     - When you **push yourself** and fail an **action roll**, mark 1 XP in the rolled attribute.
-    - At the end of a session, mark XP 1 or 2 if you addressed a challenge with coercion or violence.
-    - At the end of a session, mark XP 1 or 2 if you expressed your beliefs, drives, traits, or background.
-    - At the end of a session, mark XP 1 or 2 if you struggled with issues from your virtue, vice, or trauma.
+    - At the end of a session, mark 1 or 2 XP if you addressed a challenge with coercion or violence.
+    - At the end of a session, mark 1 or 2 XP if you expressed your beliefs, drives, traits, or background.
+    - At the end of a session, mark 1 or 2 XP if you struggled with issues from your virtue, vice, or trauma.
 - XP:
     - SELF: 0/8 `[ ][ ][ ][ ][ ][ ][ ][ ]`
     - BODY: 0/6 `[ ][ ][ ][ ][ ][ ]`
