@@ -4079,7 +4079,7 @@ The below weapons are for medium-sized creatures. A large-sized creature increas
 
 * A **greatsword** *heavy*
 
-    * *An uncommon two-handed greatsword (2 load) threatens to 5' and rolls a [d10] effect die.*
+    * *An common two-handed greatsword (2 load) threatens to 5' and rolls a [d10] effect die.*
 
 * A **staff**
 
@@ -4097,11 +4097,11 @@ The below weapons are for medium-sized creatures. A large-sized creature increas
 
 * A **spear**
 
-    * *A common spear (1 load) threatens to 5' and can be wielded one-handed for a [d6] effect die or two-handed for a [d8].*
+    * *A common spear (2 load) threatens to 5' and can be wielded one-handed for a [d8] effect die or two-handed for a [d10].*
 
 * A **longspear**
 
-    * *An uncommon two-handed longspear (2 load) threatens to 10' and rolls a [d8] effect die.*
+    * *An common two-handed longspear (3 load) threatens to 10' and rolls a [d10] effect die.*
 
 * A **hammer** is a *light*, blunt weapon used for smacking things and throwing.
 
@@ -4121,7 +4121,7 @@ The below weapons are for medium-sized creatures. A large-sized creature increas
 
 * A **mattock**
 
-    * *A common mattock (1 load) threatens to 5'  and can be wielded one-handed for a [d6] effect die or two-handed for a [d8].*
+    * *A common mattock (1 load) threatens to 5' and can be wielded one-handed for a [d6] effect die or two-handed for a [d8].*
 
 * A **shortbow**
 
@@ -4133,7 +4133,7 @@ The below weapons are for medium-sized creatures. A large-sized creature increas
 
 * A **greatbow**
 
-    * *An uncommon two-handed greatbow (2 load) can effectively shoot to 150' and rolls a [d10] effect die.*
+    * *An common two-handed greatbow (3 load) can effectively shoot to 150' and rolls a [d10] effect die.*
 
 * A **light crossbow**
 
@@ -4141,7 +4141,7 @@ The below weapons are for medium-sized creatures. A large-sized creature increas
 
 * A **heavy crossbow**
 
-    * *A common two-handed heavy crossbow (2 load) can effectively shoot to 150' and rolls a [d10] effect die.*
+    * *A common two-handed heavy crossbow (2 load) can effectively shoot to 150', rolls a [d10] effect die, and takes an Action to reload.*
 
 * A **sling**
 
@@ -5978,7 +5978,7 @@ While the below names are based on current or historical societies, consider ass
     * 7 It was started within the last generation.
     * 8 It is almost impossible to explain their beliefs.
     * 9 Their holy text is untranslated or untranslatable.
-    * 10  Their holy text is continually changing or updated.
+    * 10 Their holy text is continually changing or updated.
     * 11 They have no holy text.
     * 12 There is nothing supernatural about their teachings.
     * 13 It appeals to a single, specific demographic, race, etc.
@@ -5989,6 +5989,52 @@ While the below names are based on current or historical societies, consider ass
     * 18 Its followers are unusually fanatical.
     * 19 Its teachings foster anger, fear, and shame.
     * 20 Its teachings have an uncanny beauty about them.
+
+### Spells
+
+| d6 | Target |
+|----|--------|
+| 1-2 | Single target or 5' cube |
+| 3-4 | 3-6 targets or 10' cube |
+| 5 | 12 targets or 25' cube |
+| 6 | 20 targets or 50' cube |
+
+| d12 | Damage Type  | 1          | 2          | 3          | 4          |
+|-----|--------------|------------|------------|------------|------------|
+| 1   | Kinetic      | Air        | Earth      | Rock       | Wind       |
+| 2   | Psychic      | Illusory   | Inner      | Mental     | Mind       |
+| 3   | Temporal     | Chrono     | Ephemeral  | Persistent | Time       |
+| 4   | Plasmic      | Arcane     | Ethereal   | Force      | Magic      |
+| 5   | Glacial      | Frigid     | Frost      | Ice        | Rime       |
+| 6   | Thermal      | Fire       | Flame      | Lava       | Searing    |
+| 7   | Radiant      | Blinding   | Light      | Prismatic  | Spectral   |
+| 8   | Electrical   | Lightning  | Shocking   | Spark      | Voltaic    |
+| 9   | Entropic     | Corrupted  | Necrotic   | Poison     | Venomous   |
+| 10  | Chemical     | Acid       | Caustic    | Corroding  | Toxic      |
+| 11  | Roll twice   |            |            |            |            |
+| 12  | Roll thrice  |            |            |            |            |
+
+- Spell Effect
+    - 1 Aegis - Shield
+    - 2 Arrow - Bolt - Dart - Missile - Spear
+    - 3 Barrage - Storm - Volley
+    - 4 Bite
+    - 5 Blast - Bomb - Burst - Conflagration - Explosion
+    - 6 Block - Wall
+    - 7 Break
+    - 8 Chain
+    - 9 Cage - Chains - Lure - Noose - Prison
+    - 10 Circle
+    - 11 Cloud - Fog
+    - 12 Flame - Fire
+    - 13 Mark
+    - 14 Push - Ram - Slam
+    - 15 Sight
+    - 16 Sphere - Star
+    - 17 Spike - Splinter
+    - 18 Step - Walk
+    - 19 Strike
+    - 20 Word
 
 ### Village
 
