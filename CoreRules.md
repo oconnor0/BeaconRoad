@@ -5655,6 +5655,61 @@ While the below names are based on current or historical societies, consider ass
     * 19  Thrives in a hostile environment
     * 20  Can survive empty vacuum
 
+### Beast
+
+- - d4
+- Water - d6
+  - 1 Shark
+  - 2 Dolphin
+  - 3 Octopus
+  - 4 Squid
+  - 5 Manta Ray
+  - 6 Eel
+- Air - d8
+  - 1 Chicken - Turkey
+  - 2 Cockatoo - Parrot
+  - 3 Condor - Vulture
+  - 4 Crane - Heron - Stork
+  - 5 Crow - Jay - Magpie - Raven
+  - 6 Dove - Pigeon
+  - 7 Eagle - Falcon - Hawk - Kite - Osprey - Owl
+  - 8 Finch - Shrike
+- Land - d12
+  - 1 Bear
+  - 2 Buffalo
+  - 3 Deer
+  - 4 Elephant
+  - 5 Elk
+  - 6 Hippopotamous
+  - 7 Lion
+  - 8 Monkey
+  - 9 Moose
+  - 10 Tiger
+  - 11 Turtle
+  - 12 Wolf
+- - d10
+- Mythical - d20
+  - 1 Banshee - Ghost - Shade - Wight - Wraith
+  - 2 Basilisk - Cockatrice
+  - 3 Chimera - Griffon - Manticore
+  - 4 Coatl
+  - 5 Dragon
+  - 6 Dryad - Nymph
+  - 7 Fiend
+  - 8 Golem
+  - 9 Hydra
+  - 10 Kraken
+  - 11 Lich
+  - 12 Mummy
+  - 13 Pegasus - Unicorn
+  - 14 Satyr
+  - 15 Skeletal - Skeleton
+  - 16 Vampire
+  - 17 Wendigo
+  - 18 Will-o-wisp
+  - 19 Yeti
+  - 20 Zombie
+
 ### Biome
 
 * Temperature
@@ -6030,7 +6085,7 @@ While the below names are based on current or historical societies, consider ass
     - 13 Mark
     - 14 Push - Ram - Slam
     - 15 Sight
-    - 16 Sphere - Star
+    - 16 Ball - Sphere - Star
     - 17 Spike - Splinter
     - 18 Step - Walk
     - 19 Strike
