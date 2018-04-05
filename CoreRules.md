@@ -1187,9 +1187,9 @@ Your playbook begins with three action dots already placed. You get to add four 
 
 * Assign two more dots anywhere you please (max rating is 2, remember).
 
-## Choose a special ability
+## Choose a special ability for your archetype and your bloodline.
 
-Take a look at the special abilities for your playbook and choose one. If you can't decide which one to pick, go with the first one on the list-it's placed there as a good default choice.
+Take a look at the special abilities for your archetype and your bloodline, and choose one of each. If you can't decide which one to pick, go with the first one on the list-it's placed there as a good default choice.
 
 ### Special Armor
 
@@ -1253,7 +1253,7 @@ That's it! Your character is ready for play. When you start the first session, t
 
 5. **Assign four action dots.** No action may begin with a rating higher than 2 during character creation. *(After creation, action ratings may advance up to 4. When you unlock the Mastery advance for your crew, you can advance actions up to rating 5.)*
 
-6. **Choose a special ability.** They're in the gray column in the middle of the character sheet. If you can't decide, choose the first ability on the list. It's placed there as a good first option.
+6. **Choose a special ability from your archetype and your bloodline.** They're in the gray column in the middle of the character sheet. If you can't decide, choose the first ability on the list. It's placed there as a good first option.
 
 7. **Calculate derived stats.** Evaluate your hit points and defenses.
 
@@ -4033,6 +4033,8 @@ The rarity listed in an item's description is the most common it can be found. F
 
 * An **armor piercing** weapon or attack requires an additional armor box to ignore damage or effects from.
 
+* A **well-made** item takes 1 less load box.
+
 ### Armor
 
 * **Light armor** provides a small amount of protection while remaining thin and supple enough to avoid restricting movement. Leather is an example of light armor.
@@ -5674,6 +5676,7 @@ While the below names are based on current or historical societies, consider ass
   - 6 Dove - Pigeon
   - 7 Eagle - Falcon - Hawk - Kite - Osprey - Owl
   - 8 Finch - Shrike
+- - d10
 - Land - d12
   - 1 Bear
   - 2 Buffalo
@@ -5687,7 +5690,6 @@ While the below names are based on current or historical societies, consider ass
   - 10 Tiger
   - 11 Turtle
   - 12 Wolf
-- - d10
 - Mythical - d20
   - 1 Banshee - Ghost - Shade - Wight - Wraith
   - 2 Basilisk - Cockatrice

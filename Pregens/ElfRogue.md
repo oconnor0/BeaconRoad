@@ -77,7 +77,7 @@
 - Stride: 30'
 - Load: Medium (5 boxes)
 - Items:
-    - `[ ]-[ ]-[ ]` Greatbow (2H d10, 150')
+    - `[ ]-[ ]` Well-made Greatbow (2H d10, 150')
     - `[ ]-[ ]` Leather Armor
-    <!-- - `[ ]` Spear (1H d6, 2H d8) -->
+    - `[ ]` Spear (1H d6, 2H d8, 5')
 - Friends & Rivals:
