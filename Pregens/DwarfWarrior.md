@@ -12,7 +12,7 @@
     - WILL: 0/6 `[ ][ ][ ][ ][ ][ ]`
 
 - Bloodline: Dwarf
-- Archetype: Warrior (Pugilist)
+- Archetype: Warrior (?)
 - Tier: 0
 - Crew:
     - Name:
@@ -26,7 +26,7 @@
 - Action Ratings:
     - BODY:
         - Finesse: 0
-        - Prowl: 2
+        - Prowl: 0
         - Skirmish: 2
         - Wreck: 0
     - MIND:
@@ -38,7 +38,7 @@
         - Command: 1
         - Consort: 0
         - Sway: 0
-        - Utter: 2
+        - Utter: 0
 - Attributes:
     - BODY: d6
     - MIND: 0

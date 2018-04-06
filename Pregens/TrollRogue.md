@@ -1,0 +1,103 @@
+# Troll Rogue
+
+- XP Triggers:
+    - When you **push yourself** and fail an **action roll**, mark 1 XP in the rolled attribute.
+    - At the end of a session, mark 1 or 2 XP if you addressed a challenge with audacity or stealth.
+    - At the end of a session, mark 1 or 2 XP if you expressed your beliefs, drives, traits, or background.
+    - At the end of a session, mark 1 or 2 XP if you struggled with issues from your virtue, vice, or trauma.
+- XP:
+    - SELF: 0/8 `[ ][ ][ ][ ][ ][ ][ ][ ]`
+    - BODY: 0/6 `[ ][ ][ ][ ][ ][ ]`
+    - MIND: 0/6 `[ ][ ][ ][ ][ ][ ]`
+    - WILL: 0/6 `[ ][ ][ ][ ][ ][ ]`
+
+- Bloodline: Troll
+- Archetype: Rogue (Pugilist)
+- Tier: 0
+- Crew:
+    - Name:
+    - Type: Nomads
+- Background: Ex-slave, gladiator.
+- Look: Built, Braids, Gray Eyes, Kilt.
+- Traits: Crazed, Dimwitted, Visionary.
+- Virtue: **Harmony.** "To every thing there is a season, and a time to every purpose under the heaven."
+- Vice: **Gluttony.** "Whose end is destruction, whose god is their belly, and whose glory is in their shame."
+
+- Action Ratings:
+    - BODY:
+        - Finesse: 2
+        - Prowl: 2
+        - Skirmish: 0
+        - Wreck: 0
+    - MIND:
+        - Craft: 0
+        - Hunt: 0
+        - Study: 0
+        - Survey: 1
+    - WILL:
+        - Command: 0
+        - Consort: 2
+        - Sway: 0
+        - Utter: 0
+- Attributes:
+    - BODY: d6
+    - MIND: d4
+    - WILL: d4
+- Defenses:
+    - IRON: 14
+    - WARD: 12
+    - GRIT: 12
+
+- Hit Points: 25/25
+- Recovery Dice: [d8]
+- Stress: 0/8 `[ ][ ][ ][ ][ ][ ][ ][ ]`
+- Armor: 0/2 `[ ][ ]`
+- Shield: 0/0
+- Special: 0/2 `[ ][ ]`
+
+- Special Abilities:
+    - **Arcane Potency.** You may imbue your hands, melee weapons, or tools with energy - allowing them to deal an additional damage type in addition to *kinetic* damage.
+        - *Your fists are now a light, melee weapon that rolls a [d8] effect die and threatens 10'.*
+        - *When you imbue yourself with arcane energy, how do you do it? What does it look like when the energy manifests?*
+    - **Regeneration.** At the beginning of your turn, you may expend one box of your **special armor** to **recover** from **a wound** or **hit point damage.**
+        - *What prevents you from regenerating? What does it look like when you regenerate? Is it painful?*
+        - *When you use this ability, tick one special armor box on your character sheet. Your special armor is restored at the beginning of downtime.*
+- Powers:
+    - Bolster Defense
+        - Requires: Survey 1, MIND d4.
+        - Cost: Action, Stress 1 (condition 1).
+        - Check: Survey/MIND! vs Risky TN.
+        - Success: You gain *fortified* for one of your defenses.
+    - Carouse
+        - Requires: Consort 1 or Sway 1, WILL d4.
+        - Cost: A Few Hours, At Least; Stress 7 (condition 3, duration 4).
+            - *The Stress cost can be lowered by 2 for each Coin spent (not below 1) on fine food and drink.*
+        - Target: 1 enemy creature able to talk and interact with you.
+        - Check: Sway/WILL! vs WARD.
+        - Success: You *charm* the creature for one day.
+        - Failure: You suffer *sickened* for one day.
+    - Dodge
+        - Requires: BODY d6, Prowl 2.
+        - Cost: Reaction, Stress 1.
+        - Trigger: You are targeted by an attack.
+        - Effect: Maneuver up to half your stride.
+    - Disarming Flourish
+        - Requires: BODY d6, Finesse 1.
+        - Cost: Action.
+        - Attack: Finesse/BODY! vs WARD.
+        - Hit: Target suffers *disarmed*.
+    - Off-Hand Strike
+        - Requires: BODY d6.
+        - Cost: Action, Stress 0.
+        - Effect: Make a main-hand melee *light* weapon attack. If you hit with that attack, you may immediately make an attack with your off-hand *light* weapon.
+- Senses:
+    - Darksight.
+- Size:
+    - Large (10' × 10'), averaging between 9' and 12' tall.
+- Stride:
+    - 30'.
+- Load:
+    - Light (3 boxes, +5' to stride).
+- Items:
+  - `[ ]` Well-made leather armor (light).
+- Friends & Rivals:

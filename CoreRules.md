@@ -1125,6 +1125,10 @@ You're selecting the set of initial action ratings and special abilities that yo
 
 Once you've chosen your archetype, follow the steps below to complete your character.
 
+### Select one of your archetype's starting items
+
+Your archetype provides a set of starting items that are better than the generically available ones. Select one of those to start owning and mark it on your sheet.
+
 ## Choose a bloodline
 
 A bloodline represents your ancestry and species; and specifies your virtue and your vice.
@@ -1155,7 +1159,7 @@ Your vice is defined by your bloodline. Every character is in thrall to some vic
 
 * **Anger:** Everything is wrong; and you're going to fix it.
 
-* **Gluttony:** Gratification from lovers, food, drink, drugs, art, theater, etc.
+* **Gluttony:** "Whose end is destruction, whose god is their belly, and whose glory is in their shame."
 
 * **Greed:** Unnecessary accumulation; and expensive or ostentatious displays of opulence.
 
@@ -1223,7 +1227,7 @@ Choose a name for your character from the sample list (page XX), or create your 
 
 * *Age: Youthful, adolescent, mature, middle-aged, aging, graying, wizened.*
 
-* *Build: Lanky, compact, gaunt, corpulent.*
+* *Build: Lanky, compact, gaunt, corpulent, built.*
 
 * *Hair: Shaved or bald, close-cropped, mohawk, long hair, braids, ponytail, tousled, short, bun, cornrows, conk, dreadlocks, fallera, afro, pixie, flat-top, pompadour, updo, turban, coif, hat, cloak, cowl, mask, bandana, helm, helmet, hairless.*
 
@@ -1289,103 +1293,59 @@ You don't need to select specific items now. Review your personal items and the 
 
 ## Rogue
 
-* Medium length description of the character here. Include what kind of activities they normally partake in.
-
-* XP Triggers
-
-    * At the end of a session, mark XP if you addressed a challenge with audacity or stealth.
-
-* Starting Actions
-
-    * 2 dots: Finesse
-
-    * 1 dot: Prowl
-
-* Starting Builds
-
-    * *If you want some guidance when you assign your four starting action dots and special ability, use one of these templates.*
-
-    * **Blackguard.**
-
-    * **Hunter.** Hunt +2, Study +1, Consort +1. **Sharpshooter.**
-
-    * **Keeper.** Hunt +1, Survey +1, Utter +2.
-
-* Friends and Rivals
-
-    * A beggar
-
-    * A gang leader
-
-    * A locksmith
-
-    * A spy
-
-    * A tavern owner
-
-* Special Abilities
-
-    * **Ambush.**
-
-        * When you attack from hiding or spring a trap, you gain **advantage** on your roll.
-
-            * *This ability benefits from preparation- so don't forget you can do that in a flashback.*
-
-    * **Expertise.**
-
-        * Choose one of your action ratings. When you lead a group action using that action, you can suffer only 1 stress at most, regardless of the number of failed rolls.
-
-            * *This special ability is good for covering for your team. If they're all terrible at your favored action, you don't have to worry about suffering a lot of stress when you lead their group action.*
-
-    * **Like Looking Into The Mirror.**
-
-        * You can always tell when someone is lying to you.
-
-            * *This ability works in all situations without restriction. It is very powerful, but also a bit of a curse. You see though every lie, even the kind ones.*
-
-    * **Little Something On The Side.**
-
-        * At the end of each downtime phase, you earn **+2 stash**.
-
-            * *Since this money comes at the end of downtime, after all downtime actions are resolved, you can't remove it from your stash and spend it on extra activities until your next downtime phase.*
-
-    * **Reflexes.**
-
-        * When there's a question about who acts first, the answer is you.
-
-            * *You may choose to act cautiously in combat, but if an enemy would attempt to act against you, you may take your turn before they do.*
-
-            * *This ability gives you the initiative in most situations. Some specially trained NPCs might also have reflexes, but otherwise, you're always the first to act, and can interrupt anyone else who tries to beat you to the punch. This ability usually doesn't negate the need to make an action roll that you would otherwise have to make, but it may improve your position or effect.*
-
-    * **Shadow.**
-
-        * You may expend one box of your **special armor** to resist a consequence from detection or security measures, or to **push yourself** for a feat of athletics or stealth.
-
-            * *When you use this ability, tick one box of your special armor box on your playbook sheet. If you "resist a consequence" of the appropriate type, you avoid it completely. If you use this ability to push yourself, you get one of the benefits (advantage, +1 effect, act despite slowed or stunned) but you don't take 1 stress. Your special armor is restored at the beginning of downtime.*
-
-    * **Sharpshooter.**
-
-        * You do not suffer Disadvantage when making ranged weapon attacks at distances beyond their first range increment. You can **push yourself** to do one of the following: *make a ranged attack at extreme distance beyond what's normal for the weapon-unleash a barrage of rapid fire to suppress the enemy.*
-
-            * *When you push yourself to activate this ability, you still get one of the normal benefits of pushing yourself (advantage, +1 effect, etc.) in addition to the special ability.*
-
-* *The first use of this ability allows you to attempt long-range sniper shots that would otherwise be impossible with typical rudimentary firearms. The second use allows you to keep up a steady rate of fire in a battle (enough to "suppress" a small gang up to six people), rather than stopping for a slow reload or discarding a gun after each shot. When an enemy is suppressed, they're reluctant to maneuver or attack (usually calling for a fortune roll to see if they can manage it).*
-
-    * **Vital Strike.**
-
-        * When you **flank** the single target of an attack you make, when you are **hidden** from it, or when it is **incapacitated**; increase the effect damage die of that attack by d4.
-
-* Items
-
-    * [ ] Fine thievery tools
-
-    * [ ] Light leather armor
-
-    * [ ] Light 2H ranged weapon
-
-    * [ ] *Smoke bombs*
-
-    * [ ] *A vial of poison*
+- Medium length description of the character here. Include what kind of activities they normally partake in.
+- XP Triggers
+    - At the end of a session, mark 1 or 2 XP if you addressed a challenge with audacity or stealth.
+- Starting Actions
+    - 2 dots: Finesse
+    - 1 dot: Prowl
+- Starting Builds
+    - *If you want some guidance when you assign your four starting action dots and special ability, use one of these templates.*
+    - **Blackguard.**
+    - **Hunter.** Hunt +2, Study +1, Consort +1. **Sharpshooter.**
+    - **Keeper.** Hunt +1, Survey +1, Utter +2.
+    - **Pugilist.** +1 Prowl, +1 Survey, +2 Consort. **Arcane Potency.**
+- Friends and Rivals
+    - A beggar
+    - A gang leader
+    - A locksmith
+    - A spy
+    - A tavern owner
+- Special Abilities
+    - **Ambush.**
+        - When you attack from hiding or spring a trap, you gain **advantage** on your roll.
+            - *This ability benefits from preparation- so don't forget you can do that in a flashback.*
+    - **Arcane Potency.**
+        - You may imbue your hands, melee weapons, or tools with energy - allowing them to deal an additional damage type in addition to *kinetic* damage.
+            - *Your fists are now a light, melee weapon that rolls a [d6] for medium, [d4] for small, or [d8] for large effect die and threatens to your reach.*
+            - *When you imbue yourself with arcane energy, how do you do it? What does it look like when the energy manifests?*
+    - **Expertise.**
+        - Choose one of your action ratings. When you lead a group action using that action, you can suffer only 1 stress at most, regardless of the number of failed rolls.
+            - *This special ability is good for covering for your team. If they're all terrible at your favored action, you don't have to worry about suffering a lot of stress when you lead their group action.*
+    - **Like Looking Into The Mirror.**
+        - You can always tell when someone is lying to you.
+            - *This ability works in all situations without restriction. It is very powerful, but also a bit of a curse. You see though every lie, even the kind ones.*
+    - **Little Something On The Side.**
+        - At the end of each downtime phase, you earn **+2 stash**.
+            - *Since this money comes at the end of downtime, after all downtime actions are resolved, you can't remove it from your stash and spend it on extra activities until your next downtime phase.*
+    - **Reflexes.**
+        - When there's a question about who acts first, the answer is you.
+            - *You may choose to act cautiously in combat, but if an enemy would attempt to act against you, you may take your turn before they do.*
+            - *This ability gives you the initiative in most situations. Some specially trained NPCs might also have reflexes, but otherwise, you're always the first to act, and can interrupt anyone else who tries to beat you to the punch. This ability usually doesn't negate the need to make an action roll that you would otherwise have to make, but it may improve your position or effect.*
+    - **Shadow.**
+        - You may expend one box of your **special armor** to resist a consequence from detection or security measures, or to **push yourself** for a feat of athletics or stealth.
+            - *When you use this ability, tick one box of your special armor box on your playbook sheet. If you "resist a consequence" of the appropriate type, you avoid it completely. If you use this ability to push yourself, you get one of the benefits (advantage, +1 effect, act despite slowed or stunned) but you don't take 1 stress. Your special armor is restored at the beginning of downtime.*
+    - **Sharpshooter.**
+        - You do not suffer Disadvantage when making ranged weapon attacks at distances beyond their first range increment. You can **push yourself** to do one of the following: *make a ranged attack at extreme distance beyond what's normal for the weapon-unleash a barrage of rapid fire to suppress the enemy.*
+            - *When you push yourself to activate this ability, you still get one of the normal benefits of pushing yourself (advantage, +1 effect, etc.) in addition to the special ability.*
+            - *The first use of this ability allows you to attempt long-range sniper shots that would otherwise be impossible with typical rudimentary firearms. The second use allows you to keep up a steady rate of fire in a battle (enough to "suppress" a small gang up to six people), rather than stopping for a slow reload or discarding a gun after each shot. When an enemy is suppressed, they're reluctant to maneuver or attack (usually calling for a fortune roll to see if they can manage it).*
+    - **Vital Strike.**
+        - When you **flank** the single target of an attack you make, when you are **hidden** from it, or when it is **incapacitated**; increase the effect damage die of that attack by d4.
+- Items
+    - [ ] Well-made thievery gear.
+    - [ ] Well-made leather armor (light).
+    - [ ] Well-made 2H ranged weapon.
+    - [ ] *Smoke bombs and a vial of poison.*
 
 ## Technician
 
@@ -1440,95 +1400,46 @@ You don't need to select specific items now. Review your personal items and the 
 
 ## Warrior
 
-* Warriors fight and defend. They attack relentlessly and impose themselves on others through their sheer physicality. They use their bodies to stand in the way of harm and protect those unable to do so.
-
-* Who will you be?
-
-* XP Triggers
-
-    * At the end of a session, mark XP if you addressed a challenge with coercion or violence.
-
-* Starting Actions
-
-    * 2 dots: Skirmish
-
-    * 1 dot: Command
-
-* Starting Builds
-
-    * *If you want some guidance when you assign your four starting action dots and special ability, use one of these templates.*
-
-    * **Berserker.** +2 Wreck, +2 Hunt. **Deadly.**
-
-    * **Pugilist.** +2 Prowl, +2 Consort. **Arcane Potency.**
-
-    * **Templar.** +1 Finesse, +1 Command, +2 Study. **Bodyguard.**
-
-    * **Warden.** +2 Prowl, +2 Utter. **Battleborn.**
-
-* Friends and Rival
-
-    * A mercenary
-
-    * A pugilist
-
-    * A sawbones
-
-    * A smith
-
-    * A soldier
-
-* Special Abilities
-
-    * **Arcane Potency.**
-
-        * You may imbue your hands, melee weapons, or tools with energy - allowing them to deal an additional damage type in addition to *kinetic* damage.
-
-            * *Your fists are now a light, melee weapon that rolls a [d6] effect die and threatens to your reach.*
-
-            * *When you imbue yourself with arcane energy, how do you do it? What does it look like when the energy manifests?*
-
-    * **Battleborn.**
-
-        * You may expend your **special armor** to negate a consequence from an attack in combat or to **push yourself** during a fight.
-
-            * *When you use this ability, tick one special armor box on your character sheet. If you "negate a consequence", you completely avoid damage, a wound, or another consequence. If you use this ability to push yourself, you get one of the benefits (advantage, additional effect die, act when slowed or stunned), but you don't take stress. Your special armor is restored at the beginning of downtime.*
-
-    * **Bodyguard.**
-
-        * When you **protect** a teammate, gain **Advantage** on your resistance roll. When you gather info to anticipate possible threats in the current situation, you get **+1 effect**.
-
-            * *The protect teamwork maneuver lets you face a consequence for a teammate. If you choose to resist that consequence, this ability gives you Advantage on your resistance roll. Also, when you read a situation to gather information about hidden dangers or potential attackers, you get +1 effect-which means more detailed information.*
-
-    * **Deadly.**
-
-        * You may expend your **special armor** to **push yourself** when making melee attacks. When you do, you gain all benefits of **pushing yourself**.
-
-            * *When you use this ability, tick one special armor box on your character sheet. If you use this ability to push yourself, you get all of the benefits (advantage, additional effect die, act when slowed or stunned), but you don't take stress. Your special armor is restored at the beginning of downtime.*
-
-    * **Mule.**
-
-        * Your load limits are higher. Light: 5. Normal: 7. Heavy: 8.
-
-            * *This ability is great if you want to wear heavy armor and pack a heavy weapon without attracting lots of attention. Since your exact gear is determined on-the-fly during an operation, having more load also gives you more options to get creative with when dealing with problems during a score.*
-
-    * **Stalwart.**
-
-        * You cannot be *pushed* or *slammed*. You gain +2 **Iron**.
-
-    * **Vigorous.**
-
-        * You recover from harm faster. Permanently fill in one of your healing clock segments. Gain **Advantage** on healing treatment rolls.
-
-            * *Your healing clock becomes a 3-clock, and you gain Advantage when you recover.*
-
-* Items
-
-    * [ ] + Medium Armor
-
-    * [ ]-[ ] 1H Weapon and Heavy Shield
-
-    * [ ]-[ ] Fine 2H Weapon
+- Warriors fight and defend. They attack relentlessly and impose themselves on others through their sheer physicality. They use their bodies to stand in the way of harm and protect those unable to do so.
+- Who will you be?
+- XP Triggers
+    - At the end of a session, mark 1 or 2 XP if you addressed a challenge with coercion or violence.
+- Starting Actions
+    - 2 dots: Skirmish
+    - 1 dot: Command
+- Starting Builds
+    - *If you want some guidance when you assign your four starting action dots and special ability, use one of these templates.*
+    - **Berserker.** +2 Wreck, +2 Hunt. **Deadly.**
+    - **Templar.** +1 Finesse, +1 Command, +2 Study. **Bodyguard.**
+    - **Warden.** +2 Prowl, +2 Utter. **Battleborn.**
+- Friends and Rival
+    - A mercenary
+    - A pugilist
+    - A sawbones
+    - A smith
+    - A soldier
+- Special Abilities
+    - **Battleborn.**
+        - You may expend your **special armor** to negate a consequence from an attack in combat or to **push yourself** during a fight.
+            - *When you use this ability, tick one special armor box on your character sheet. If you "negate a consequence", you completely avoid damage, a wound, or another consequence. If you use this ability to push yourself, you get one of the benefits (advantage, additional effect die, act when slowed or stunned), but you don't take stress. Your special armor is restored at the beginning of downtime.*
+    - **Bodyguard.**
+        - When you **protect** a teammate, gain **Advantage** on your resistance roll. When you gather info to anticipate possible threats in the current situation, you get **+1 effect**.
+            - *The protect teamwork maneuver lets you face a consequence for a teammate. If you choose to resist that consequence, this ability gives you Advantage on your resistance roll. Also, when you read a situation to gather information about hidden dangers or potential attackers, you get +1 effect-which means more detailed information.*
+    - **Deadly.**
+        - You may expend your **special armor** to **push yourself** when making melee attacks. When you do, you gain all benefits of **pushing yourself**.
+            - *When you use this ability, tick one special armor box on your character sheet. If you use this ability to push yourself, you get all of the benefits (advantage, additional effect die, act when slowed or stunned), but you don't take stress. Your special armor is restored at the beginning of downtime.*
+    - **Mule.**
+        - Your load limits are higher. Light: 5. Normal: 7. Heavy: 8.
+            - *This ability is great if you want to wear heavy armor and pack a heavy weapon without attracting lots of attention. Since your exact gear is determined on-the-fly during an operation, having more load also gives you more options to get creative with when dealing with problems during a score.*
+    - **Stalwart.**
+        - You cannot be *pushed* or *slammed*. You gain +2 **Iron**.
+    - **Vigorous.**
+        - You recover from harm faster. Permanently fill in one of your healing clock segments. Gain **Advantage** on healing treatment rolls.
+            - *Your healing clock becomes a 3-clock, and you gain Advantage when you recover.*
+- Items
+    - [ ]-[ ]-[ ] Well-made chain or scale armor (medium).
+    - [ ] Well-made heavy shield.
+    - [ ] Well-made 2H Weapon
 
 ## Wizard
 
@@ -1931,49 +1842,28 @@ Some examples include: Weapons, clothes, arcane implements, specialized tools, c
 
 ## Troll
 
-* *A mountain brought to life.*
-
-* Senses:
-
-    * Darksight.
-
-* Size:
-
-    * Large (10' × 10'), averaging between 9' and 12' tall.
-
-* Stride:
-
-    * 30'.
-
-* Virtue:
-
-    * **Harmony:**
-
-        * "To every thing there is a season, and a time to every purpose under the heaven."
-
-* Vice:
-
-    * **Gluttony:**
-
-        * Gratification from lovers, food, drink, drugs, art, theater, etc.
-
-* Special Abilities
-
-    * **Not To Be Trifled With.**
-
-        * You can **push yourself** to do one of the following: *perform a feat of physical force that verges on the superhuman-engage a small gang on equal footing in close combat.*
-
-            * *When you push yourself to activate this ability, you still get one of the normal benefits of pushing yourself (advantage, +1 effect, etc.) in addition to the special ability.*
-
-            * *If you perform a feat that verges on the superhuman, you might break a metal weapon with your bare hands, tackle a galloping horse, lift a huge weight, etc. If you engage a small gang on equal footing, you don't suffer reduced effect due to scale against a small gang (up to six people)*.
-
-    * **Regeneration.**
-
-        * You may expend one box of your **special armor** to **recover** from **a wound** or **hit point damage.**
-
-            * *What prevents you from regenerating? What does it look like when you regenerate? Is it painful?*
-
-            * *When you use this ability, tick one special armor box on your character sheet. Your special armor is restored at the beginning of downtime.*
+- *A mountain brought to life.*
+- Senses:
+    - Darksight.
+- Size:
+    - Large (10' × 10'), averaging between 9' and 12' tall.
+- Stride:
+    - 30'.
+- Virtue:
+    - **Harmony.**
+        - "To every thing there is a season, and a time to every purpose under the heaven."
+- Vice:
+    - **Gluttony.**
+        - "Whose end is destruction, whose god is their belly, and whose glory is in their shame."
+- Special Abilities
+    - **Not To Be Trifled With.**
+        - You can **push yourself** to do one of the following: *perform a feat of physical force that verges on the superhuman-engage a small gang on equal footing in close combat.*
+            - *When you push yourself to activate this ability, you still get one of the normal benefits of pushing yourself (advantage, +1 effect, etc.) in addition to the special ability.*
+            - *If you perform a feat that verges on the superhuman, you might break a metal weapon with your bare hands, tackle a galloping horse, lift a huge weight, etc. If you engage a small gang on equal footing, you don't suffer reduced effect due to scale against a small gang (up to six people)*.
+    - **Regeneration.**
+        - At the beginning of your turn, you may expend one box of your **special armor** to **recover** from **a wound** or **hit point damage.**
+            - *What prevents you from regenerating? What does it look like when you regenerate? Is it painful?*
+            - *When you use this ability, tick one special armor box on your character sheet. Your special armor is restored at the beginning of downtime.*
 
 # The Crew
 
@@ -4721,7 +4611,7 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
 #### d4
 
 * Bash
-    * Requires: BODY d4, Wreck 2, *defensive* weapon
+    * Requires: BODY d4, Wreck 2, *defensive* weapon.
     * Cost: Action, Stress 1 (condition 1)
     * Target: 1 creature you threaten
     * Attack: Wreck/BODY! vs IRON
@@ -4749,10 +4639,10 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
     * Hit: Target suffers *disarmed*.
 
 * Dodge
-    * Requires: BODY d6, Prowl 2
-    * Cost: Reaction, Stress 1
+    * Requires: BODY d6, Prowl 2.
+    * Cost: Reaction, Stress 1.
     * Trigger: You are targeted by an attack.
-    * Maneuver up to half your stride.
+    * Effect: Maneuver up to half your stride.
 
 * Flanking Stance
     * Requires: BODY d6.
@@ -4766,15 +4656,15 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
     * Effect: Make a melee action roll and use that instead of the targeted defense. If the attack no longer hits, you may maneuver 5'.
 
 * Off-Hand Strike
-    * Requires: BODY d6
-    * Cost: Action, Stress 0
-    * Effect: Make a main-hand melee weapon attack. If you hit with that attack, you may immediately make an attack with your off-hand *light* weapon.
+    * Requires: BODY d6.
+    * Cost: Action, Stress 0.
+    * Effect: Make a main-hand melee *light* weapon attack. If you hit with that attack, you may immediately make an attack with your off-hand *light* weapon.
 
 * Sidestep
     * Requires: BODY d6;
     * Cost: Reaction, Stress 0
     * Trigger: You hit with an attack.
-    * Maneuver up to 10'.
+    * Effect: Maneuver up to 10'.
 
 #### d8
 
