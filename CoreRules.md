@@ -1019,7 +1019,7 @@ Your vice is defined by your bloodline. Every character is in thrall to some vic
 
 Your character's **traits** describe unique personality aspects, flaws, perks, strengths, or weaknesses that aren't easily codified in the game mechanics and that separate you from others and provide motivations, beliefs, or drives. Select 3 of the following traits - or choose your own - and write them on your character sheet. The GM is encouraged to award you a Beacon Point when you play these traits - especially to your detriment.
 
-* *Actor, addicted, aloof, alluring, arrogant, audacious, bitter, bold, bloodlust, brash, cautious, charming, clumsy, cold, courageous, crazed, cunning, deranged, dimwitted, dishonest, distractible, dominating, fair, foolish, gullible, honest, humble, impatient, inspiring, intimidating, mysterious, neurotic, patient, rash, respectable, sagacious, socially inept, stubborn, strange, thoughtful, vengeful, visionary, vivacious, zealous.*
+> *Actor, addicted, aloof, alluring, arrogant, audacious, bitter, bold, bloodlust, brash, cautious, charming, clumsy, cold, courageous, crazed, cunning, deranged, dimwitted, dishonest, distractible, dominating, fair, foolish, gullible, honest, humble, impatient, inspiring, intimidating, mysterious, neurotic, patient, rash, respectable, sagacious, socially inept, stubborn, strange, thoughtful, vengeful, visionary, vivacious, zealous.*
 
 ## Choose a background
 
@@ -1110,7 +1110,7 @@ You don't need to select specific items now. Review your personal items and the 
 
 **Exemplar.** Increase one of your attribute ratings by 1.
 
-**Seasoned.** You may take a special ability from a different archetype.
+**Seasoned.** You may take a special ability from a different archetype. This special ability may be taken 3 times.
 
 ## Rogue
 
@@ -1164,10 +1164,10 @@ You don't need to select specific items now. Review your personal items and the 
     - **Vital Strike.**
         - When you **flank** the single target of an attack you make, when you are **hidden** from it, or when it is **incapacitated**; increase the effect damage die of that attack by d4.
 - Items
-    - [ ] Well-made thievery gear.
-    - [ ] Well-made leather armor (light, 2 armor boxes, -10 damage/box).
-    - [ ] Well-made 2H ranged weapon.
-    - [ ] *Smoke bombs and a vial of poison.*
+    - `[ ]` Well-made thievery gear.
+    - `[ ]` Well-made leather armor (light, 2 armor boxes, -10 damage/box).
+    - `[ ]` Well-made 2H ranged weapon.
+    - `[ ]` *Smoke bombs and a vial of poison.*
 
 ## Technician
 
@@ -1211,14 +1211,14 @@ You don't need to select specific items now. Review your personal items and the 
         - When you **invent** or **craft** a creation with *arcane* features, get **+1 quality level** to your roll. You begin with one arcane design already known.
             - *Follow the Inventing procedure with the GM to define your first arcane design.*
 - Items
-    - [ ] Bandolier
-    - [ ] Clockwork Design
-    - [ ] Craft Tools
-    - [ ] Wrecking Tools
-    - [ ] Mechanism
-    - [ ]-[ ] Brewer's Pack
-    - [ ]-[ ] Healer's Pack
-    - [ ]-[ ] Complex and Large Mechanism
+    - `[ ]` Bandolier
+    - `[ ]` Clockwork Design
+    - `[ ]` Craft Tools
+    - `[ ]` Wrecking Tools
+    - `[ ]` Mechanism
+    - `[ ]-[ ]` Brewer's Pack
+    - `[ ]-[ ]` Healer's Pack
+    - `[ ]-[ ]` Complex and Large Mechanism
 
 ## Warrior
 
@@ -1259,9 +1259,9 @@ You don't need to select specific items now. Review your personal items and the 
         - You recover from harm faster. Permanently fill in one of your healing clock segments. Gain **Advantage** on healing treatment rolls.
             - *Your healing clock becomes a 3-clock, and you gain Advantage when you recover.*
 - Items
-    - [ ]-[ ]-[ ] Well-made chain or scale armor (medium, 4 armor boxes, -12 damage/box).
-    - [ ] Well-made heavy shield (heavy, 4 armor boxes, -15 damage/box).
-    - [ ] Well-made 2H weapon.
+    - `[ ]-[ ]-[ ]` Well-made chain or scale armor (medium, 4 armor boxes, -12 damage/box).
+    - `[ ]` Well-made heavy shield (heavy, 4 armor boxes, -15 damage/box).
+    - `[ ]` Well-made 2H weapon.
 
 ## Wizard
 
@@ -1309,8 +1309,8 @@ You don't need to select specific items now. Review your personal items and the 
         - You may expend your **special armor** to resist a supernatural consequence, or to **push yourself** when you contend with or employ arcane forces.
             - *When you use this ability, tick one special armor box on your character sheet. If you resist a consequence, this ability negates or reduces its severity. If you use this ability to push yourself, you get one of the benefits (advantage or additional effect die), but you don't take stress. Your special armor is restored at the beginning of downtime.*
 - Items
-    - [ ] Vestments
-    - [ ]-[ ] Books and Tomes
+    - `[ ]` Vestments
+    - `[ ]-[ ]` Books and Tomes
 
 ## Character items
 
@@ -1336,7 +1336,7 @@ Some examples include: Weapons, clothes, arcane implements, specialized tools, c
     * **Greed.**
         * *While dragons sleep on mountains, their descendents love gold and jewel.*
 * Special Abilities
-    * **Arcane Fighter.**
+    * **Arcane Potency.**
         * You may imbue your hands, melee weapons, or tools with energy. Your melee attacks then deal an additional **damage type**.
             * What damage type do you imbue yourself with? When you imbue yourself with arcane energy, how do you do it? What does it look like when the energy manifests?
     * **Elemental Affinity.**
@@ -2374,7 +2374,7 @@ While **flanked** *(severity 1)*, threatening enemies on opposite sides of you s
 
 When **pushed** *(severity 1)*, you are involuntarily moved away from an origin.
 
-When **slammed** *(severity 3)*, you are involuntarily and forcefully moved away from an origin. If you stop moving because you hit something else, suffer [d10] *kinetic* damage for every 10' moved.
+When **slammed** *(severity 3)*, you are involuntarily and forcefully moved away from an origin. If you stop moving because you hit something else, suffer \[d10\] *kinetic* damage for every 10' moved.
 
 While **surprised** *(severity 3)*, you suffer **-5 defense** and cannot React.
 
@@ -2783,7 +2783,7 @@ Roll **TIER!** versus a **controlled** (6), **risky** (11), or **desperate** (16
 * **Success:** Tier.
 * **Failure:** Tier - 1.
 
-*Some items require a minimum quality result to acquire. To raise the result, you may spend ***_2_*** ***coin*** per +1 Tier bonus.*
+*Some items require a minimum quality result to acquire. To raise the result, you may spend **2 coin** per +1 Tier bonus.*
 
 ### Long-term Project
 
@@ -2828,7 +2828,7 @@ Supernatural entities and energies have a wide variety of effects and power leve
 
 You can use the magnitude of an entity or power as a dice pool for a **fortune roll** to see how much effect it has, if it's not obvious or certain.
 
-* *A sea demon summons a crushing wave at the canal dock where the PCs are landing their boat. How badly does this damage the vessel and the crew? Obviously it's gonna be bad for them, but are they merely sinking or are they immediately wrecked and sunk? **The GM makes a fortune roll with **Advantage 6** (the magnitude of the demon) versus a risky TN of 17 (11 + 6). On a botch, the wave has only little effect (for a huge wave), causing the craft to take on water and begin sinking. On a failure, the wave has reduced effect, fully swamping the boat and throwing some of the characters and their cargo overboard. On a success, the wave has full effect, immediately sinking the boat and dragging the crew and cargo under. On a critical, the boat is sunk, and also the crew and cargo are badly harmed by flying debris and the crushing force of the wave.*
+* *A sea demon summons a crushing wave at the canal dock where the PCs are landing their boat. How badly does this damage the vessel and the crew? Obviously it's gonna be bad for them, but are they merely sinking or are they immediately wrecked and sunk? The GM makes a fortune roll with **Advantage 6** (the magnitude of the demon) versus a risky TN of 17 (11 + 6). On a botch, the wave has only little effect (for a huge wave), causing the craft to take on water and begin sinking. On a failure, the wave has reduced effect, fully swamping the boat and throwing some of the characters and their cargo overboard. On a success, the wave has full effect, immediately sinking the boat and dragging the crew and cargo under. On a critical, the boat is sunk, and also the crew and cargo are badly harmed by flying debris and the crushing force of the wave.*
 
 You can add levels of magnitude together to describe a combination of effects, or simply focus on one key feature for the magnitude assessment, ignoring other elements, even if they're on the magnitude scale. They're not *always* additive.
 
@@ -3762,7 +3762,7 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
     * Attack: Wreck/BODY! vs IRON.
     * Hit (half Wreck)[BODY] *kinetic* damage and *pushed* 5' per attacking action dot.
     * Upgrades:
-        * [ ] Slam and Bash (8 clock) - The target is *slammed* 10' per attacking action dot instead of *pushed*.
+        * `[ ]` Slam and Bash (8 clock) - The target is *slammed* 10' per attacking action dot instead of *pushed*.
 
 * Block
     * Requires: BODY d4, Skirmish 1, *defensive* weapon.
@@ -4060,9 +4060,10 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
 
 * Wolfbite
     * *A weapon begins to glow with cold energy. When used to attack, a spectral wolf's head lashes out and bites the target.*
-    * Requires: WILL d4
-    * Cost: Action, Stress 2 (condition 1, duration 1)
-    * Target: 1 weapon within touch. (Take 1 Stress to increase the range of this by 30'.)
+    * Requires: WILL d4.
+    * Cost: Action, Stress 2 (condition 1, duration 1).
+    * Target: 1 weapon within touch.
+        * *Take 1 Stress to increase the range of this by 30'.*
     * Effect: For the next minute (10 rounds), that weapon additionally deals *glacial* and *plasmic* damage, and attacks with that weapon are *strengthened* 1 (+1 effect die).
 
 #### d6
@@ -4081,7 +4082,7 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
     * Attack: Utter/WILL! vs IRON.
     * Hit: (Action)[d8] *electrical* damage.
     * Upgrades:
-        * [ ] Chain Lightning (8 clock) - Make a secondary Lightning Bolt attack originating from one of the original targets. No creature may be targeted more than once by the same attack.
+        * `[ ]` Chain Lightning (8 clock) - Make a secondary Lightning Bolt attack originating from one of the original targets. No creature may be targeted more than once by the same attack.
 
 * Shattered Earth
     * Requires: Wreck 1, WILL d6.
@@ -4091,7 +4092,7 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
     * Hit: (Wreck)[d10] *kinetic* and *thermal* damage.
     * Effect: Targeted creatures suffer *downed*.
     * Upgrades:
-        * [ ] Broken Earth (8 clock) - The targeted area becomes *difficult terrain*.
+        * `[ ]` Broken Earth (8 clock) - The targeted area becomes *difficult terrain*.
 
 * Wither
     * Requires: WILL d6.
@@ -4177,6 +4178,8 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
     * Cost: Action, Stress 5 (range 1, condition 4).
     * Target: 1 creature within 30'.
     * Effect: Target gains *hastened* for 1 minute (10 rounds).
+
+* * * * * * * * * *
 
 # Appendix B: Sandbox Tables
 
@@ -4854,18 +4857,18 @@ While the below names are based on current or historical societies, consider ass
 
 ### Colors
 
-| d10 d4 | 1 Metallic | 2 Gem | 3 Vibrant | 4 Dull |
-|--------|---|---|---|---|
-| **1** White  | | | | |
-| **2** Gray   | | | | |
-| **3** Brown  | | | | |
-| **4** Black  | | | | |
-| **5** Red    | | | | |
-| **6** Orange | | | | |
-| **7** Yellow | | | | |
-| **8** Green  | | | | |
-| **9** Blue   | Cobalt | Lapis | | |
-| **0** Purple | | | | |
+| d10 | d4 | 1 Metallic | 2 Gem | 3 Vibrant | 4 Dull |
+|-----|----|---|---|---|---|
+| **1** | White  | | | | |
+| **2** | Gray   | | | | |
+| **3** | Brown  | | | | |
+| **4** | Black  | | | | |
+| **5** | Red    | | | | |
+| **6** | Orange | | | | |
+| **7** | Yellow | | | | |
+| **8** | Green  | | | | |
+| **9** | Blue   | Cobalt | Lapis | | |
+| **0** | Purple | | | | |
 
 ### Corporation
 
@@ -5132,26 +5135,27 @@ While the below names are based on current or historical societies, consider ass
 | 12  | Roll thrice  |            |            |            |            |
 
 - Spell Effect
-    - 1 Aegis - Shield
-    - 2 Arrow - Bolt - Dart - Missile - Spear
-    - 3 Barrage - Storm - Volley
-    - 4 Bite
-    - 5 Blast - Bomb - Burst - Conflagration - Explosion
-    - 6 Block - Wall
-    - 7 Break
-    - 8 Chain
-    - 9 Cage - Chains - Lure - Noose - Prison
-    - 10 Circle
-    - 11 Cloud - Fog
-    - 12 Flame - Fire
-    - 13 Mark
-    - 14 Push - Ram - Slam
-    - 15 Sight
-    - 16 Ball - Sphere - Star
-    - 17 Spike - Splinter
-    - 18 Step - Walk
-    - 19 Strike
-    - 20 Word
+
+    1. Aegis - Shield
+    2. Arrow - Bolt - Dart - Missile - Spear
+    3. Barrage - Storm - Volley
+    4. Bite
+    5. Blast - Bomb - Burst - Conflagration - Explosion
+    6. Block - Wall
+    7. Break
+    8. Chain
+    9. Cage - Chains - Lure - Noose - Prison
+    10. Circle
+    11. Cloud - Fog
+    12. Flame - Fire
+    13. Mark
+    14. Push - Ram - Slam
+    15. Sight
+    16. Ball - Sphere - Star
+    17. Spike - Splinter
+    18. Step - Walk
+    19. Strike
+    20. Word
 
 ### Village
 
