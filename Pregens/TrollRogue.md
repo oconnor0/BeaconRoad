@@ -99,5 +99,5 @@
 - Load:
     - Light (3 boxes, +5' to stride).
 - Items:
-  - `[ ]` Well-made leather armor (light).
+  - `[ ]` Well-made leather armor (light, 2 armor boxes, -10 damage/box).
 - Friends & Rivals:
