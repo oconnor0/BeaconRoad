@@ -112,3 +112,44 @@
 - Items:
   - `[ ]` Well-made leather armor (light, 2 armor boxes, -10 damage/box).
 - Friends & Rivals:
+
+
+### Basic Melee Attack
+
+|||
+|-:|---|
+| **Requires** | *Melee* weapon, Action is Finesse, Skirmish, or Wreck. |
+| **Cost** | Action. |
+| **Target** | 1 creature you threaten. |
+| **Attack** | Action/BODY! vs IRON. |
+| **Hit** | (half Action)[POW] + [BODY] *kinetic* damage. |
+
+|  | **Basic Melee Attack** |
+|-:|--------------------|
+| **Requires** | *Melee* weapon, Action is Finesse, Skirmish, or Wreck. |
+| **Cost** | Action. |
+| **Target** | 1 creature you threaten. |
+| **Attack** | Action/BODY! vs IRON. |
+| **Hit** | (half Action)[POW] + [BODY] *kinetic* damage. |
+
+
+**Basic Melee Attack**
+
+> **Requires:** *Melee* weapon, Action is Finesse, Skirmish, or Wreck.
+
+> **Cost:**  Action.
+
+> **Target:**  1 creature you threaten.
+
+> **Attack:** Action/BODY! vs IRON.
+
+> **Hit:**  (half Action)[POW] + [BODY] *kinetic* damage.
+
+
+| *Basic Melee Attack* |
+|--------------------|
+| **Requires:** *Melee* weapon, Action is Finesse, Skirmish, or Wreck. |
+| **Cost:** Action. |
+| **Target:** 1 creature you threaten. |
+| **Attack:** Action/BODY! vs IRON. |
+| **Hit:** (half Action)[POW] + [BODY] *kinetic* damage. |
