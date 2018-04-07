@@ -1267,7 +1267,7 @@ You don't need to select specific items now. Review your personal items and the 
 
 - Medium length description of the character here. Include what kind of activities they normally partake in.
 - XP Triggers
-    - At the end of a session, mark XP if you addressed a challenge with arcane powers or knowledge.
+    - At the end of a session, mark 1 or 2 XP if you addressed a challenge with arcane powers or knowledge.
 - Starting Actions
     - 2 dots: Utter
     - 1 dot: Study
