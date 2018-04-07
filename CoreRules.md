@@ -3255,20 +3255,20 @@ The rarity listed in an item's description is the most common it can be found. F
 ### Armor
 
 * **Light armor** provides a small amount of protection while remaining thin and supple enough to avoid restricting movement. Leather is an example of light armor.
-    * *Common light armor (2 load) provides 2 armor boxes.*
+    * *Common light armor (2 load) provides 2 armor boxes each of which may be checked to reduce the damage from an attack by 10.*
 * **Medium armor** provides more protection than light armor but may restrict movement and may slow wearers down through its extra weight. Hide and chain mail are examples of medium armor.
-    * *Common medium armor (4 load) provides 4 armor boxes.*
-* **Heavy armor** is predominantly​ built from metal and provides a lot of protection but weighs the most and may slow wearers down simply through its bulk. Plate is an example of heavy armor.
-    * *Uncommon heavy armor (5 load) provides 6 armor boxes.*
+    * *Common medium armor (4 load) provides 4 armor boxes each of which may be checked to reduce the damage from an attack by 12.*
+* **Heavy armor** is predominantly built from metal and provides a lot of protection but weighs the most and may slow wearers down simply through its bulk. Plate is an example of heavy armor.
+    * *Uncommon heavy armor (5 load) provides 6 armor boxes each of which may be checked to reduce the damage from an attack by 15.*
 * An **exosuit** is a large and heavy enough set of armor that it requires its own power source to wear it, but it provides the most protection. Exoplate is an example of an exosuit.
-    * *A rare exosuit (6 load) provides 8 armor boxes.*
+    * *A rare exosuit (6 load) provides 8 armor boxes each of which may be checked to reduce the damage from an attack by 20.*
 
 ### Shields
 
 * A **light shield** can be used to deflect attacks and projectiles without too much encumbrance.
     * *A common light shield (1 load, defensive 1) provides 2 shield boxes (-10 damage/box).*
 * A **heavy shield** is a more efficient defensive tool than a light shield.
-    * *An uncommon heavy shield (2 load, defensive 1) provides 4 shield boxes (-15 damage/box).*
+    * *An common heavy shield (2 load, defensive 1) provides 4 shield boxes (-15 damage/box).*
 
 ### Weaponry
 
