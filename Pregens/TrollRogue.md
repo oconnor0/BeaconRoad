@@ -63,6 +63,12 @@
         - *What prevents you from regenerating? What does it look like when you regenerate? Is it painful?*
         - *When you use this ability, tick one special armor box on your character sheet. Your special armor is restored at the beginning of downtime.*
 - Powers:
+    - Basic Melee Attack
+        - Requires: *Melee* weapon, Action is Finesse, Skirmish, or Wreck.
+        - Cost: Action.
+        - Target: 1 creature you threaten.
+        - Attack: Action/BODY! vs IRON.
+        - Hit: (half Action)[POW] + [BODY] *kinetic* damage.
     - Bolster Defense
         - Requires: Survey 1, MIND d4.
         - Cost: Action, Stress 1 (condition 1).
@@ -90,6 +96,11 @@
         - Requires: BODY d6.
         - Cost: Action, Stress 0.
         - Effect: Make a main-hand melee *light* weapon attack. If you hit with that attack, you may immediately make an attack with your off-hand *light* weapon.
+    - Reaction Attack
+        - Requires: BODY d4.
+        - Cost: Reaction.
+        - Trigger: An enemy creature advances out of your melee threat. Or an enemy creature advances into your melee threat, if you have a longer melee threat than they do.
+        - Effect: Make a basic melee weapon attack against the triggering creature.
 - Senses:
     - Darksight.
 - Size:

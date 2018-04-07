@@ -671,9 +671,9 @@ Once you decide to resist a consequence and roll, you suffer the stress indicate
 
 ## Armor
 
-If you have a type of **armor** that applies to the situation, you can mark an armor box to reduce or avoid a consequence, instead of rolling to resist. If the armor is relevant to the situation, you may mark an armor box to gain *resistance* to one of the damage types dealt by an attack.
+If you have a type of **armor** that applies to the situation, you can mark an armor box to reduce or avoid a consequence, instead of rolling to resist. If the armor is relevant to the situation, you may mark one or more armor boxes to reduce the damage dealt by the amount specified by the armor (usually 10, 12, 15, or 20).
 
-* *Jonadab would suffer a crushing blow that would deal 30 points of damage and stun him - effectively taking him out of the fight. Instead, marking one armor box grants **kinetic resistance** against that attack (halving the damage taken to 15) and marking a second armor box negates the stun.*
+* *Jonadab, while wearing medium armor, would suffer a crushing blow that would deal 30 points of damage and stun him - effectively taking him out of the fight. Instead, marking two armor boxes reduces the damage dealt by 24 (12 per box) to 6 damage and marking a third armor box negates the stun.*
 
 When an armor box is marked, it can't be used again until it's restored. All of your armor is restored when you choose your **load** for the next score.
 
@@ -2269,21 +2269,17 @@ Players must decide if their characters are going to act *rashly* or *cautiously
 An **Act** represents the primary focus of your turn and generally involves inflicting your will onto an enemy, aiding an ally, preparing for a future turn, or moving.
 
 * Make a basic attack.
-* Charge - choose a target, advance toward that target up to your stride; if you end your movement closer to your target than you started your turn and if you moved at least twice your size (ex., 10' for medium or 20' for large), you make a melee charge attack. Gain advantage on the attack check.
 * Advance up to your stride.
 * Maneuver 5'.
 * Pick up an item.
 * Draw or Stow one or two Readied items.
-* Aim to gain *advantage* on your next ranged attack this turn.
 * Make a *resistance roll* to reduce the severity of a Wound.
 * Use an Action Power.
 
 You **React** in response to the actions of another - whether this is hitting an enemy running wildly past you or interposing yourself between danger and an ally.
 
-* Make a reaction attack against an enemy advancing out of your melee threat.
-* Make a reaction attack against an enemy advancing into your melee threat, if you have a longer melee threat than they do.
+* Respond to Aid an ally.
 * Make a *resistance roll* to avoid consequences or reduce damage.
-* Respond to help an ally.
 * Use a Reaction Power.
 
 ## Movement
@@ -3750,27 +3746,46 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
 
 ### BODY
 
+* Basic Melee Attack
+    * Requires: *Melee* weapon, Action is Finesse, Skirmish, or Wreck.
+    * Cost: Action.
+    * Target: 1 creature you threaten.
+    * Attack: Action/BODY! vs IRON.
+    * Hit: (half Action)[POW] + [BODY] *kinetic* damage.
+
 #### d4
 
 * Bash
     * Requires: BODY d4, Wreck 2, *defensive* weapon.
-    * Cost: Action, Stress 1 (condition 1)
-    * Target: 1 creature you threaten
-    * Attack: Wreck/BODY! vs IRON
+    * Cost: Action, Stress 1 (condition 1).
+    * Target: 1 creature you threaten.
+    * Attack: Wreck/BODY! vs IRON.
     * Hit (half Wreck)[BODY] *kinetic* damage and *pushed* 5' per attacking action dot.
     * Upgrades:
         * [ ] Slam and Bash (8 clock) - The target is *slammed* 10' per attacking action dot instead of *pushed*.
 
 * Block
-    * Requires: BODY d4, Skirmish 1, *defensive* weapon
-    * Cost: Reaction, Stress 1
+    * Requires: BODY d4, Skirmish 1, *defensive* weapon.
+    * Cost: Reaction, Stress 1.
     * Trigger: You or an adjacent ally are hit by an attack.
-    * Make a melee defensive action roll (Skirmish/BODY!) and use that instead of the targeted defense.
+    * Effect: Make a melee defensive action roll (Skirmish/BODY!) and use that instead of the targeted defense.
+
+* Charge
+    * Requires: BODY d4, non-*light* melee weapon.
+    * Cost: Action.
+    * Target: 1 creature within your stride.
+    * Effect: Advance up to your stride toward your target, if you end your movement closer to your target than you started your turn, and if you moved at least twice your size (ex., 10' for medium or 20' for large), make a melee weapon charge attack with Advantage against that target.
 
 * Goading Stance
     * Requires: BODY d4.
     * Cost: Action, Stress 1 (condition 1).
     * Effect: For the rest of this encounter or until this stance ends, your melee weapon attacks *goad* their targets, hit or miss. Make a basic melee weapon attack.
+
+* Reaction Attack
+    * Requires: BODY d4.
+    * Cost: Reaction.
+    * Trigger: An enemy creature advances out of your melee threat. Or an enemy creature advances into your melee threat, if you have a longer melee threat than they do.
+    * Effect: Make a basic melee weapon attack against the triggering creature.
 
 #### d6
 
@@ -3868,7 +3883,20 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
 
 ### MIND
 
+* Basic Ranged Attack
+    * Requires: *Ranged* weapon.
+    * Cost: Action.
+    * Target: 1 creature within your weapon's range.
+        * Special: You may target a creature at double your weapon's range by suffering Disadvantage on your attack action roll.
+    * Attack: Hunt/BODY! vs IRON.
+    * Hit: (half Hunt)[POW] + [BODY] *kinetic* damage.
+
 #### d4
+
+* Aim
+    * Requires: MIND d4, Hunt 1.
+    * Cost: Action.
+    * Effect: Gain *advantage* on your next ranged attack this turn.
 
 * Attack!
     * Requires: Command 1, MIND d4.
