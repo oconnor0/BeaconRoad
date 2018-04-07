@@ -60,9 +60,9 @@ title: "Beacon Road Core Rules"
     - [Travel](#travel)
 - [Bestiary and Other Sundry](#bestiary-and-other-sundry)
 - [The World of Beacon](#the-world-of-beacon)
-- [Appendix A: Powers](#appendix-a--powers)
-- [Appendix B: Sandbox Tables](#appendix-b--sandbox-tables)
-- [Appendix D: Definitions](#appendix-d--definitions)
+- [Appendix A: Powers](#appendix-a-powers)
+- [Appendix B: Sandbox Tables](#appendix-b-sandbox-tables)
+- [Appendix D: Definitions](#appendix-d-definitions)
 
 # The Basics
 
