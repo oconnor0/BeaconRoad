@@ -1025,7 +1025,7 @@ Your character's **traits** describe unique personality aspects, flaws, perks, s
 
 Your character's **background** describes what they did before they joined the crew. Choose a background and then write a detail about it that's specific to your character.
 
-* Academic, Commoner, Criminal, Labor, Military, Noble, Outlaw, Religious, Slave.
+* Academic, Commoner, Criminal, Labor, Military, Noble, Outlaw, Religious, Slave, Tribal.
 
 ## Assign four action dots
 
@@ -1233,7 +1233,7 @@ You don't need to select specific items now. Review your personal items and the 
     - *If you want some guidance when you assign your four starting action dots and special ability, use one of these templates.*
     - **Berserker.** +2 Wreck, +2 Hunt. **Deadly.**
     - **Templar.** +1 Finesse, +1 Command, +2 Study. **Bodyguard.**
-    - **Warden.** +2 Prowl, +2 Utter. **Battleborn.**
+    - **Warden.** +2 Prowl, +1 Hunt, +1 Utter. **Battleborn.**
 - Friends and Rival
     - A mercenary
     - A pugilist
@@ -1493,6 +1493,12 @@ Some examples include: Weapons, clothes, arcane implements, specialized tools, c
         * When you unleash physical violence, it's especially frightening. When you **Command** a frightened target, gain **advantage**.
             * *You instill fear in those around you when you get violent. How they react depends on the person. Some people will flee from you, some will be impressed, some will get violent in return. The GM judges the response of a given NPC.*
             * *In addition, when you **Command** someone who's affected by fear (from this ability or otherwise), gain advantage on your roll.*
+            - Savage Strike
+                - Cost: Action.
+                - Target: 1 creature you threaten.
+                - Attack: Skirmish/BODY! vs IRON and GRIT.
+                - Hit vs IRON: (half Skirmish)[POW] + [BODY] *kinetic* damage
+                - Hit vs GRIT: The target suffers *terrified*.
     * **Vengeful.**
         * You gain an additional **xp trigger**: *You got payback against someone who harmed you or someone you care about.* If your crew helped you get payback, also mark crew xp.
 
@@ -3271,7 +3277,7 @@ The rarity listed in an item's description is the most common it can be found. F
 The below weapons are for medium-sized creatures. A large-sized creature increases the effect die by 1 size and the melee range 5'. A medium-sized creature using a large-sized weapon treats it as one increment larger; for example, a human attempting to wield a large-sized longsword would treat it as a medium-sized greatsword. A medium-sized creature cannot wield a large-sized weapon of the largest size. The reverse of the above applies for small-sized creatures. A small-sized dagger has a [d4] effect die. The range of melee weapons for small-sized creatures is the half of the range of medium-sized weapons.
 
 * A **dagger** is a *light*, bladed weapon used for stabbing and slashing and is easily concealed.
-    * *A common one-handed dagger (1 load) threatens to 5', can be effectively thrown to 20', and rolls a [d6] effect die.*
+    * *A common one-handed dagger (2 for 1 load) threatens to 5', can be effectively thrown to 20', and rolls a [d6] effect die.*
 * A **shortsword** is *light*, bladed weapon used for stabbing and slashing.
     * *A common one-handed shortsword (1 load) threatens to 5' and rolls a [d6] effect die.*
 * A **longsword**
@@ -3280,9 +3286,11 @@ The below weapons are for medium-sized creatures. A large-sized creature increas
     * *An common two-handed greatsword (2 load) threatens to 5' and rolls a [d10] effect die.*
 * A **staff**
     * *A common two-handed staff (2 load) threatens to 5' and rolls a [d6] effect die.*
-* A **handaxe** (like dagger)
+* A **handaxe** is a *light*, hafted axe used for cutting.
+    * *A common one-handed handaxe (2 for 1 load) threatens to 5', can be effectively thrown to 20', and rolls a [d6] effect die.*
 * A **battleaxe** (like longsword)
 * A **greataxe** (like greatsword)
+    * *An common two-handed greataxe (2 load) threatens to 5' and rolls a [d10] effect die.*
 * A **shortspear**
     * *A common one-handed shortspear (1 load) threatens to 5', can be effectively thrown to 20', and rolls a [d6] effect die.*
 * A **spear**
@@ -3925,14 +3933,25 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
     * Attack: Sway/MIND! vs WARD.
     * Hit: (Sway)[d4] *psychic* damage, and the target suffers *terrified*.
 
-* Inhale
+* Inhale/Exhale
     * Requires: MIND d4, Study 1
     * Cost: Action, Stress 0 (range 1)
-    * Target: 1 creature within 30'.
+    * Target: 1 allied creature within 30'.
     * Effect: You suffer another's wounds (select 1):
         * The target selects 1 wound and loses it. You gain that wound.
         * The target rolls a recovery. You lose that many HP.
         * The target clears up to 3 stress. You gain that stress.
+
+        On your next turn, you may use the following:
+    * Exhale
+        * Cost: Reaction, Stress 2 (range 1, force 1).
+        * Trigger: An enemy creature within 30' begins its turn.
+        * Target: 1 enemy creature within 30'.
+        * Attack: Study/MIND! vs WARD.
+        * Hit: The target suffers your wounds (select 1):
+            * You select 1 wound and lose it. The target gains that wound.
+            * You roll a recovery. The target suffers *entropic* damage equal to the recovered HP.
+            * You clear up to 3 stress. The target gains that stress.
 
 #### d6
 
@@ -3972,16 +3991,6 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
     * Cost: Action, Stress
     * Target: 1 allied creature within 30'.
     * Effect: One negative condition or wound on them expires.
-
-* Exhale
-    * Requires: MIND d8, Study 3
-    * Cost: Action, Stress 2 (range 1, force 1).
-    * Target: 1 enemy creature within 30'.
-    * Attack: Study/MIND! vs WARD.
-    * Hit: The target suffers your wounds (select 1):
-        * You select 1 wound and lose it. The target gains that wound.
-        * You roll a recovery. The target suffers *entropic* damage equal to the recovered HP.
-        * You clear up to 3 stress. The target gains that stress.
 
 * Shadowstep
     * Requires: MIND d8
