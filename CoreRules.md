@@ -1493,12 +1493,12 @@ Some examples include: Weapons, clothes, arcane implements, specialized tools, c
         * When you unleash physical violence, it's especially frightening. When you **Command** a frightened target, gain **advantage**.
             * *You instill fear in those around you when you get violent. How they react depends on the person. Some people will flee from you, some will be impressed, some will get violent in return. The GM judges the response of a given NPC.*
             * *In addition, when you **Command** someone who's affected by fear (from this ability or otherwise), gain advantage on your roll.*
-            - Savage Strike
-                - Cost: Action.
-                - Target: 1 creature you threaten.
-                - Attack: Skirmish/BODY! vs IRON and GRIT.
-                - Hit vs IRON: (half Skirmish)[POW] + [BODY] *kinetic* damage
-                - Hit vs GRIT: The target suffers *terrified*.
+        - Savage Strike
+            - Cost: Action.
+            - Target: 1 creature you threaten.
+            - Attack: Skirmish/BODY! vs IRON and GRIT.
+            - Hit vs IRON: (half Skirmish)[POW] + [BODY] *kinetic* damage
+            - Hit vs GRIT: The target suffers *terrified*.
     * **Vengeful.**
         * You gain an additional **xp trigger**: *You got payback against someone who harmed you or someone you care about.* If your crew helped you get payback, also mark crew xp.
 
@@ -3943,15 +3943,15 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
         * The target clears up to 3 stress. You gain that stress.
 
         On your next turn, you may use the following:
-    * Exhale
-        * Cost: Reaction, Stress 2 (range 1, force 1).
-        * Trigger: An enemy creature within 30' begins its turn.
-        * Target: 1 enemy creature within 30'.
-        * Attack: Study/MIND! vs WARD.
-        * Hit: The target suffers your wounds (select 1):
-            * You select 1 wound and lose it. The target gains that wound.
-            * You roll a recovery. The target suffers *entropic* damage equal to the recovered HP.
-            * You clear up to 3 stress. The target gains that stress.
+* Exhale
+    * Cost: Reaction, Stress 2 (range 1, force 1).
+    * Trigger: An enemy creature within 30' begins its turn.
+    * Target: 1 enemy creature within 30'.
+    * Attack: Study/MIND! vs WARD.
+    * Hit: The target suffers your wounds (select 1):
+        * You select 1 wound and lose it. The target gains that wound.
+        * You roll a recovery. The target suffers *entropic* damage equal to the recovered HP.
+        * You clear up to 3 stress. The target gains that stress.
 
 #### d6
 

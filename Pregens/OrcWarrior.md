@@ -66,7 +66,8 @@
             - Target: 1 creature you threaten.
             - Attack: Skirmish/BODY! vs IRON and GRIT.
             - Hit vs IRON: (half Skirmish)[POW] + [BODY] *kinetic* damage
-            - Hit vs GRIT: The target suffers *terrified*.- Powers:
+            - Hit vs GRIT: The target suffers *terrified*.
+- Powers:
     - Aim
         - Requires: MIND d4, Hunt 1.
         - Cost: Action.
