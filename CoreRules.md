@@ -2296,7 +2296,7 @@ While **concealed**, gain +5 defense.
 
 While **hidden**, cannot be targeted by attacks.
 
-* *A target gains** hidden versus a creature that cannot see, hear, or otherwise perceive you. When a hidden creature makes an attack against a target it is hidden from, gain advantage on the attack check and that target may not take reactions to this attack.*
+* *A target gains hidden versus a creature that cannot see, hear, or otherwise perceive you. When a hidden creature makes an attack against a target it is hidden from, gain advantage on the attack check and that target may not take reactions to this attack.*
 
 While **sheltered**, gain +5 defense and resistance to all damage types.
 
