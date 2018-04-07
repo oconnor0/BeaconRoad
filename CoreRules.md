@@ -3887,7 +3887,7 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
     * Requires: *Ranged* weapon.
     * Cost: Action.
     * Target: 1 creature within your weapon's range.
-        * Special: You may target a creature at double your weapon's range by suffering Disadvantage on your attack action roll.
+        * *You may target a creature at double your weapon's range by suffering Disadvantage on your attack action roll.*
     * Attack: Hunt/BODY! vs IRON.
     * Hit: (half Hunt)[POW] + [BODY] *kinetic* damage.
 
