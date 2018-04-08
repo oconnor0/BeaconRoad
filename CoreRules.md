@@ -3779,7 +3779,7 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
     * Effect: Make a melee defensive action roll (Skirmish/BODY!) and use that instead of the targeted defense.
 
 * Charge
-    * Requires: BODY d4, non-*light* melee weapon.
+    * Requires: BODY d4, *melee* weapon.
     * Cost: Action.
     * Target: 1 creature within your stride.
     * Effect: Advance up to your stride toward your target, if you end your movement closer to your target than you started your turn, and if you moved at least twice your size (ex., 10' for medium or 20' for large), make a melee weapon charge attack with Advantage against that target.

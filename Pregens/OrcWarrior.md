@@ -51,7 +51,7 @@
 - Hit Points: 32/32
 - Recovery Dice: [d10]
 - Stress: 0/8 `[ ][ ][ ][ ][ ][ ][ ][ ]`
-- Armor:
+- Armor: 0/2 `[ ][ ]`
 - Shield: 0/0
 - Special: 0/2 `[ ][ ]`
 
@@ -114,7 +114,9 @@
 - Stride:
     - 25'.
 - Load:
+    - Medium (5 boxes).
 - Items:
     - `[ ]` Well-made greataxe (2H, 5', [d10] effect die).
     - `[ ]` 2 *light* handaxes (1H, 5', 20' thrown, [d6] effect die).
+    - `[ ]-[ ]` Leather armor (light, 2 armor boxes, -10 damage/box).
 - Friends & Rivals:
