@@ -4188,7 +4188,7 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
     * Target: 1 creature within 30'.
     * Effect: Target gains *hastened* for 1 minute (10 rounds).
 
-* * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
 # Appendix B: Sandbox Tables
 

@@ -1,0 +1,123 @@
+# Human Wizard
+
+- XP Triggers:
+    - When you **push yourself** and fail an **action roll**, mark 1 XP in the rolled attribute.
+    - At the end of a session, mark 1 or 2 XP if you addressed a challenge with coercion or violence.
+    - At the end of a session, mark 1 or 2 XP if you expressed your beliefs, drives, traits, or background.
+    - At the end of a session, mark 1 or 2 XP if you struggled with issues from your virtue, vice, or trauma.
+- XP:
+    - SELF: 0/8 `[ ][ ][ ][ ][ ][ ][ ][ ]`
+    - BODY: 0/6 `[ ][ ][ ][ ][ ][ ]`
+    - MIND: 0/6 `[ ][ ][ ][ ][ ][ ]`
+    - WILL: 0/6 `[ ][ ][ ][ ][ ][ ]`
+
+- Bloodline: Human
+- Archetype: Wizard (Pactmage)
+- Tier: 0
+- Crew:
+    - Name:
+    - Type: Nomads
+- Background: Gamekeeper.
+- Look:
+- Traits:
+- Virtue: **Service.** Beyond what others cannot or will not, you empower those around your with your assistance.
+- Vice: **Pride.** You are better and more important; everything is about you.
+
+- Action Ratings:
+    - BODY:
+        - Finesse: 0
+        - Prowl: 0
+        - Skirmish: 0
+        - Wreck: 0
+    - MIND:
+        - Craft: 0
+        - Hunt: 0
+        - Study: 1
+        - Survey: 0
+    - WILL:
+        - Command: 1
+        - Consort: 1
+        - Sway: 2
+        - Utter: 2
+- Attributes:
+    - BODY: 0
+    - MIND: d4
+    - WILL: d10
+- Defenses:
+    - IRON: 8
+    - WARD: 12
+    - GRIT: 18
+
+- Hit Points: 20/20
+- Recovery Dice: [d6]
+- Stress: 0/8 `[ ][ ][ ][ ][ ][ ][ ][ ]`
+- Armor: 0/2
+- Shield: 0/0
+- Special: 0/0
+
+- Special Abilities:
+    - **Bargain.** You have made a pact with some powerful entity to channel its power - in exchange.
+            - *You suffer other consequences instead of taking stress to use rituals or cast spells. Is this health, coin, luck, relationships, mishaps?*
+            - *Work with the GM to define your pact and your first spell.*
+    - **Connected.** During downtime, you get **+1 result level** when you **acquire an asset** or **reduce heat**.
+        - *Your array of connections can be leveraged to loan assets, pressure a vendor to give you a better deal, intimidate witnesses, etc.*
+- Powers:
+    - Acid Arrow
+        - Requires: WILL d8
+        - Cost: Action, Stress 7 (range 2, force 5)
+        - Target: 1 creature within 100'.
+        - Attack: Utter/WILL! vs IRON
+        - Hit: (Utter)[d12] *chemical* damage.
+        - Target: One adjacent creature.
+        - Effect: (Utter)[d4] *chemical* damage.
+    - Aegis
+        - Requires: WILL d10.
+        - Cost: Action or Reaction, Stress 4 (range 1, condition 3).
+        - Target: 1 allied creature within 30'.
+        - Trigger: An enemy targets an ally.
+        - Effect: Select one damage type. The target gains *resistance* to that damage type for 1 minute (10 rounds).
+    - Basic Melee Attack
+        - Requires: *Melee* weapon.
+        - Cost: Action.
+        - Target: 1 creature you threaten.
+        - Attack: Skirmish/BODY! vs IRON.
+        - Hit: (half Skirmish)[POW] + [BODY] *kinetic* damage.
+    - Basic Ranged Attack
+        - Requires: *Ranged* weapon.
+        - Cost: Action.
+        - Target: 1 creature within your weapon's range.
+            - *You may target a creature at double your weapon's range by suffering Disadvantage on your attack action roll.*
+        - Attack: Hunt/BODY! vs IRON.
+        - Hit: (half Hunt)[POW] + [BODY] *kinetic* damage.
+    - Caustic Flame
+        - Requires: Utter 1, WILL d6.
+        - Cost: Action, Stress 6 (area 1, range 1, condition 2 + 2).
+        - Target: Creatures in 10' cube within 30'.
+        - Attack: Utter/WILL! vs IRON.
+        - Effect: Target suffers *Burning* d6 and *Corroding* d6.
+    - Fog
+        - Requires: WILL d4.
+        - Cost: Action or Reaction, Stress 3 (area 2, duration 1).
+        - Trigger: An enemy takes an Action or targets an ally.
+        - Effect: Create a cloud of fog with a 30' diameter centered on you. The cloud *conceals* and lasts one minute (10 rounds) unless removed.
+    - Plasmic Darts
+        - Requires: WILL d4
+        - Cost: Action, Stress 3 (area 1, range 1, force 1)
+        - Effect: Make the following attack a number of times equal to your attacking Action Rating.
+        - Target: 1 enemy creature within 30'.
+        - Attack: (Action)/WILL! vs IRON.
+        - Hit: [d4] *plasmic* damage.
+
+- Senses:
+    - Normal.
+- Size:
+    - Medium (5' × 5'), averaging from 5' to 6' tall.
+- Stride:
+    - 25'.
+- Load:
+    - Medium (5 boxes).
+- Items:
+    - `[ ]` Well-made greataxe (2H, 5', [d10] effect die).
+    - `[ ]` 2 *light* handaxes (1H, 5', 20' thrown, [d6] effect die).
+    - `[ ]-[ ]` Leather armor (light, 2 armor boxes, -10 damage/box).
+- Friends & Rivals:
