@@ -14,7 +14,7 @@
 - Bloodline: Troll
 - Archetype: Rogue (Pugilist)
 - Tier: 0
-- Crew:
+- Faction:
     - Name:
     - Type: Nomads
 - Background: Ex-slave, gladiator.

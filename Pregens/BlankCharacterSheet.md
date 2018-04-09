@@ -14,7 +14,7 @@
 - Bloodline:
 - Archetype:
 - Tier:
-- Crew:
+- Faction:
     - Name:
     - Type:
 - Background:

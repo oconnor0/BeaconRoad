@@ -14,7 +14,7 @@
 - Bloodline: Human
 - Archetype: Wizard (Pactmage)
 - Tier: 0
-- Crew:
+- Faction:
     - Name:
     - Type: Nomads
 - Background: Gamekeeper.

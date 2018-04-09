@@ -14,7 +14,7 @@
 - Bloodline: Draconic
 - Archetype: Wizard (Inquisitor)
 - Tier: 0
-- Crew:
+- Faction:
     - Name:
     - Type: Nomads
 - Background:

@@ -1,11 +1,8 @@
 ---
 author: "Matthew O'Connor"
 title: "Beacon Road Core Rules"
+subtitle: "Who will you be?"
 ---
-
-# Beacon Road
-
-### Who Will You Be?
 
 > Alpha Core Rules v2
 >
@@ -2844,6 +2841,16 @@ You can add levels of magnitude together to describe a combination of effects, o
 The magnitude table is provided as a tool to help the GM make judgment calls. It's not meant to be a rigid restriction or mathematical formula to replace those judgment calls. Use the levels as a *guideline* for setting a magnitude number that seem appropriate to you.
 
 This table can also be used as a guide to **quality level** when a PC **acquires an asset** or crafts an **alchemical** or **gadget**.
+
+| | Area | Scale |
+|-|-|-|
+|0| A closet (5' cube) | 1 or 2 people |
+|1| A small room (10' cube) | A small gang (3-6) |
+|2| A large room (25' cube) | A medium gang (12) |
+|3| Several rooms (50' cube) | A large gang (20) |
+|4| A small building (100' cube) | A huge gang (40) |
+|5| A large building (200' cube) | A massive gang (80) |
+|6| A city block (400' cube) | A colossal gang (160) |
 
 <table>
   <tr>

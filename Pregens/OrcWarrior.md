@@ -14,7 +14,7 @@
 - Bloodline: Orc
 - Archetype: Warrior (Warden)
 - Tier: 0
-- Crew:
+- Faction:
     - Name:
     - Type: Nomads
 - Background: Exiled Tribal Shaman.

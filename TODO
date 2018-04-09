@@ -2,10 +2,26 @@ Open Tasks and Ideas for Beacon Road Core Rules:
 
 I want Beacon Road to be able to handle D&D-style adventure romps, LOTR-style epics, Blades-style city underbelly stuff.
 
+PROTOTYPE:
+ [ ] What features are needed for a minimum "publishable" prototype?
+ [ ] Characters
+   [ ] Archetypes
+     [ ] Warrior
+     [ ] Wizard
+   [ ] Bloodlines
+     [ ] Human
+     [ ] Orc
+ [ ] Factions
+   [ ] Sin-eaters
+ [ ] Combat Rules
+   [ ] Some Powers
+ [ ]
+
 TODO:
  [ ] Move Aim, Charge, Reaction Strike, Aid/Assist to Powers.
  [ ] Change how armor works to reduce damage by 10/12/15/20 per box (light/medium/heavy/exosuit).
  [ ] What is the halfing tech's arcane design?
+ [ ] Rename Crew to Faction
 
 BOOK:
   [ ] **100000** words by December 2018 @due( 2018-12-1) @todo
@@ -27,13 +43,13 @@ BOOK:
       [ ] Blank
       [ ] Guild
       [ ] Order
-      [ ] Rovers
+      [ ] Rovers/Nomads
       [ ] Sin-eaters
     [ ] Crews
       [ ] Guild
       [ ] Order
-      [ ] Rovers
-      [x] Sin-eaters
+      [ ] Rovers/Nomads
+      [ ] Sin-eaters
   [ ] Character rules
     [ ] Character sheets
       [ ] Blank

@@ -14,7 +14,7 @@
 - Bloodline: Dwarf
 - Archetype: Warrior (?)
 - Tier: 0
-- Crew:
+- Faction:
     - Name:
     - Type: Nomads
 - Background:
