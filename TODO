@@ -19,7 +19,7 @@ PROTOTYPE:
 
 TODO:
  [ ] Move Aim, Charge, Reaction Strike, Aid/Assist to Powers.
- [ ] Change how armor works to reduce damage by 10/12/15/20 per box (light/medium/heavy/exosuit).
+ [x] Change how armor works to reduce damage by 10/12/15/20 per box (light/medium/heavy/exosuit). @done (18-04-08 23:48)
  [ ] What is the halfing tech's arcane design?
  [ ] Rename Crew to Faction
 

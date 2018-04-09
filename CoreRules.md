@@ -276,7 +276,7 @@ There are three **defenses** in the game system that determine if attacks hit: *
 
 A character has **hit points** (**HP**) representing their health, vitality, and will to fight. When an attack hits or at other triggers (e.g. disease, poison, wounds, etc.), a character might suffer **damage** to their hit points. This reduces their current HP by that amount. When a character is reduced to zero or fewer HP, they fall unconscious, becoming *incapacitated*. A character becomes *staggered* when their current hit points are half of or less than their maximum hit points.
 
-* *Hit points = 6/11/16 + ⌈BODY⌉ + ⌈MIND⌉ + ⌈WILL⌉ + 4/5/6 per TIER*
+* *Hit points = 6/11/16 + highest face of BODY + highest face of MIND + highest face of WILL + 4/5/6 per TIER*
     * *HP increases by 4 each Tier for Wizards, 5 each Tier for Rogues and Technicians, and 6 each Tier for Warriors.*
     * *Base depends upon archetype - 6 is Wizard, 11 is Rogue or Technician, 16 is Warrior.*
 
@@ -338,7 +338,6 @@ You can use stress to **push yourself** for greater performance. For each bonus 
 
 * Gain **advantage** on a roll. (This may be used for an action roll or downtime roll or any other kind of roll where extra effort would help you).
 * Roll **+1 effect die**. (This may be used on a damage roll or healing roll.)
-
 * Take action while *slowed* or *stunned*.
 
 ## Trauma
@@ -613,7 +612,9 @@ Your character suffers the penalty indicated at the end of the row if any or all
 
 If you need to mark a harm level, but the row is already filled, the harm moves up to the next row above. So, if you suffered standard harm (level 2) but had no empty spaces in the second row, you'd have to record severe harm (level 3), instead. If you run out of spaces on the top row and need to mark harm there, your character suffers a **catastrophic, permanent consequence** (loss of a limb, sudden death, etc., depending on the circumstances).
 
-![image alt text](Images/image_0.gif)*This character has three harm: a "Shattered Right Leg" (level 3) plus "Drained" and "Battered" (level 1). If they suffer another level 1 harm, it will move up to level 2. If they suffer another level 3 harm, it will move up to level 4: Fatal.*
+![*This character has three harm: a "Shattered Right Leg" (level 3) plus "Drained" and "Battered" (level 1). If they suffer another level 1 harm, it will move up to level 2. If they suffer another level 3 harm, it will move up to level 4: Fatal.*](Images/image_0.gif)
+
+*This character has three harm: a "Shattered Right Leg" (level 3) plus "Drained" and "Battered" (level 1). If they suffer another level 1 harm, it will move up to level 2. If they suffer another level 3 harm, it will move up to level 4: Fatal.*
 
 ### Harm examples
 
@@ -633,9 +634,14 @@ When your PC suffers a consequence that you don't like, you can choose to resist
 
 You make the roll using one of your character's **attributes** (BODY, MIND, or WILL). The GM chooses the attribute, based on the nature of consequences or the targeted defense:
 
-* **BODY**: Consequences from physical strain or injury; or attacks targeting **IRON**.
-* **MIND**: Consequences from deception or understanding; or attacks targeting **WARD**.
-* **WILL**: Consequences from mental strain or willpower; or attacks targeting **GRIT**.
+**BODY**
+: Consequences from physical strain or injury; or attacks targeting **IRON**.
+
+**MIND**
+: Consequences from deception or understanding; or attacks targeting **WARD**.
+
+**WILL**
+: Consequences from mental strain or willpower; or attacks targeting **GRIT**.
 
 Your character suffers **6 stress** when they resist, **minus the highest die result from the resistance roll**. So, if you rolled a 4, you'd suffer 2 stress. If you rolled a 6, you'd suffer zero stress. If you get a critical result, you also **clear 1 stress**.
 
@@ -2843,7 +2849,7 @@ The magnitude table is provided as a tool to help the GM make judgment calls. It
 This table can also be used as a guide to **quality level** when a PC **acquires an asset** or crafts an **alchemical** or **gadget**.
 
 | | Area | Scale |
-|-|-|-|
+|-|------|-------|
 |0| A closet (5' cube) | 1 or 2 people |
 |1| A small room (10' cube) | A small gang (3-6) |
 |2| A large room (25' cube) | A medium gang (12) |
@@ -2852,269 +2858,65 @@ This table can also be used as a guide to **quality level** when a PC **acquires
 |5| A large building (200' cube) | A massive gang (80) |
 |6| A city block (400' cube) | A colossal gang (160) |
 
-<table>
-  <tr>
-    <td>Area/Scale</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>0</td>
-    <td>1</td>
-    <td>2</td>
-    <td>3</td>
-    <td>4</td>
-    <td>5</td>
-    <td>6</td>
-  </tr>
-  <tr>
-    <td>A closet (5' cube)</td>
-    <td>A small room (10' cube)</td>
-    <td>A large room (25' cube)</td>
-    <td>Several rooms (50' cube)</td>
-    <td>A small building (100' cube)</td>
-    <td>A large building (200' cube)</td>
-    <td>A city block (400' cube)</td>
-  </tr>
-  <tr>
-    <td>1 or 2 people</td>
-    <td>A small gang (3-6)</td>
-    <td>A medium gang (12)</td>
-    <td>A large gang (20)</td>
-    <td>A huge gang (40)</td>
-    <td>A massive gang (80)</td>
-    <td>A colossal gang (160)</td>
-  </tr>
-</table>
+| | Duration | Range |
+|-|----------|-------|
+|0|A few moments | Within reach (5') |
+|1|A few minutes | A dozen paces (30') |
+|2|An hour | A stone's throw (100') |
+|3|A few hours | Down the road (600') |
+|4|A day | Several blocks away (4000') |
+|5|Several days | Across the district (25000') |
+|6|A week | Across the city (150000') |
 
+| | Tier & Quality | Force |
+|-|----------|-------|
+|0|Poor | Weak |
+|1|Adequate | Moderate |
+|2|Good | Strong |
+|3|Excellent | Serious |
+|4|Superior | Powerful |
+|5|Impeccable | Overwhelming |
+|6|Legendary | Devastating |
 
-<table>
-  <tr>
-    <td>Duration/Range</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>0</td>
-    <td>1</td>
-    <td>2</td>
-    <td>3</td>
-    <td>4</td>
-    <td>5</td>
-    <td>6</td>
-  </tr>
-  <tr>
-    <td>A few moments</td>
-    <td>A few minutes</td>
-    <td>An hour</td>
-    <td>A few hours</td>
-    <td>A day</td>
-    <td>Several days</td>
-    <td>A week</td>
-  </tr>
-  <tr>
-    <td>Within reach (5')</td>
-    <td>A dozen paces (30')</td>
-    <td>A stone's throw (100')</td>
-    <td>Down the road (600')</td>
-    <td>Several blocks away (4000')</td>
-    <td>Across the district (25000')</td>
-    <td>Across the city (150000')</td>
-  </tr>
-</table>
+| | Quality Examples |
+|-|------------------|
+|0| A rusty knife, worn & tattered clothing, rickety shack on the street |
+|1| A fighting blade, ordinary clothing, shared apartment, cheap food or drugs |
+|2| A pistol, respectable clothing, private rented room, typical ghost |
+|3| A coach, boat, military rifle, fashionable clothing, small home |
+|4| A luxury vehicle, townhouse, typical demon or powerful ghost |
+|5| A large townhouse, small ship, custom-tailored clothing, lightning barrier |
+|6| A mansion, large ship, rare essences or arcane artifacts, powerful demon |
 
+| | Force Examples |
+|-|----------------|
+|0| A firm shove, a candle flame, breeze, tiny spark |
+|1| A solid punch, steady wind, torch flame, electrical shock |
+|2| A powerful blow, howling wind, burning brand |
+|3| A crushing blow, staggering wind, grenade, searing fire, electrical surge |
+|4| A charging horse, burning forge, bomb, whirlwind, electrocution |
+|5| A ship's cannon, raging thunder-storm, massive fire, lightning strike |
+|6| Hurricane wind, molten lava, tidal wave, electrical maelstrom |
 
-<table>
-  <tr>
-    <td>Tier & Quality / Force</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>0</td>
-    <td>1</td>
-    <td>2</td>
-    <td>3</td>
-    <td>4</td>
-    <td>5</td>
-    <td>6</td>
-  </tr>
-  <tr>
-    <td>Poor</td>
-    <td>Adequate</td>
-    <td>Good</td>
-    <td>Excellent</td>
-    <td>Superior</td>
-    <td>Impeccable</td>
-    <td>Legendary</td>
-  </tr>
-  <tr>
-    <td>Weak</td>
-    <td>Moderate</td>
-    <td>Strong</td>
-    <td>Serious</td>
-    <td>Powerful</td>
-    <td>Overwhelming</td>
-    <td>Devastating</td>
-  </tr>
-</table>
+| | | Force (as Damage Rolls) Examples |
+|-|-|----------------|
+|0|  0 | 0 |
+|1|  3 | 1d4 |
+|2|  7 | 2d6, 3d4 |
+|3| 14 | 3d8, 4d6, 6d4 |
+|4| 22 | 4d10, 5d8, 6--7d6, 10d4 |
+|5| 32 | 5d12, 6d10, 7--8d8, 10d6, 15d4 |
+|6| 63 | 6d20, 10d12, 12d10, 15d8, 20d6, 30d4 |
 
-
-<table>
-  <tr>
-    <td>Quality Examples</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>6</td>
-    <td>A mansion, large ship, rare essences or arcane artifacts, powerful demon</td>
-  </tr>
-  <tr>
-    <td>5</td>
-    <td>A large townhouse, small ship, custom-tailored clothing, lightning barrier</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>A luxury vehicle, townhouse, typical demon or powerful ghost</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>A coach, boat, military rifle, fashionable clothing, small home</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>A pistol, respectable clothing, private rented room, typical ghost</td>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>A fighting blade, ordinary clothing, shared apartment, cheap food or drugs</td>
-  </tr>
-  <tr>
-    <td>0</td>
-    <td>A rusty knife, worn & tattered clothing, rickety shack on the street</td>
-  </tr>
-</table>
-
-
-<table>
-  <tr>
-    <td>Force Examples</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>6</td>
-    <td>Hurricane wind, molten lava, tidal wave, electrical maelstrom</td>
-  </tr>
-  <tr>
-    <td>5</td>
-    <td>A ship's cannon, raging thunder-storm, massive fire, lightning strike</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>A charging horse, burning forge, bomb, whirlwind, electrocution</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>A crushing blow, staggering wind, grenade, searing fire, electrical surge</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>A powerful blow, howling wind, burning brand</td>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>A solid punch, steady wind, torch flame, electrical shock</td>
-  </tr>
-  <tr>
-    <td>0</td>
-    <td>A firm shove, a candle flame, breeze, tiny spark</td>
-  </tr>
-</table>
-
-
-<table>
-  <tr>
-    <td>Force (as Damage Rolls) Examples</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>6</td>
-    <td>63: 6d20, 10d12, 12d10, 15d8, 20d6, 30d4</td>
-  </tr>
-  <tr>
-    <td>5</td>
-    <td>32: 5d12, 6d10, 7-8d8, 10d6, 15d4</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>22: 4d10, 5d8, 6-7d6, 10d4</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>14: 3d8, 4d6, 6d4</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>7: 2d6, 3d4</td>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>3: 1d4</td>
-  </tr>
-  <tr>
-    <td>0</td>
-    <td>0</td>
-  </tr>
-</table>
-
-
-<table>
-  <tr>
-    <td>Action Roll Examples</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>6</td>
-    <td>33: 5/d12!, Advantage 4</td>
-  </tr>
-  <tr>
-    <td>5</td>
-    <td>29: 4/d10!, Advantage 3</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>25: 3/d8!, Advantage 2</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>21: 2/d6!, Advantage 1</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>17: 2/d6!, Advantage 0</td>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>14: 1/d4!, Advantage 0</td>
-  </tr>
-  <tr>
-    <td>0</td>
-    <td>11: d20!, Advantage 0</td>
-  </tr>
-</table>
-
+| |    | Action Roll Examples |
+|-|----|----------------------|
+|0| 11 | d20!, Advantage 0    |
+|1| 14 | 1/d4!, Advantage 0   |
+|2| 17 | 2/d6!, Advantage 0   |
+|3| 21 | 2/d6!, Advantage 1   |
+|4| 25 | 3/d8!, Advantage 2   |
+|5| 29 | 4/d10!, Advantage 3  |
+|6| 33 | 5/d12!, Advantage 4  |
 
 # Rituals
 
@@ -3622,140 +3424,83 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
     * Divinity's Embrace
     * Divinity's Vengeance
 
+\pagebreak
+
 # Appendix A: Powers
 
 **Powers** represent masterful skill that enables you to inflict additional wounds or magic than is normal. For every action dot, work with the GM to gain a **power** (usable in combat) using that action. Your powers must meet any listed requirements, and you may not take a power with a stress cost higher than the using action rating. When you gain action dots after the game has begun, you will need to spend downtime actions to learn new powers. The powers below are written with specific Action Ratings and Attributes. If some of these don't make sense for your campaign or character, work with the GM to modify their Action Ratings, Attributes, or Requirements.
 
 ## Magnitude
 
-<table>
-  <tr>
-    <td>Area/Scale</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>0</td>
-    <td>1</td>
-    <td>2</td>
-    <td>3</td>
-    <td>4</td>
-    <td>5</td>
-    <td>6</td>
-  </tr>
-  <tr>
-    <td>A closet (5' cube)</td>
-    <td>A small room (10' cube)</td>
-    <td>A large room (25' cube)</td>
-    <td>Several rooms (50' cube)</td>
-    <td>A small building (100' cube)</td>
-    <td>A large building (200' cube)</td>
-    <td>A city block (400' cube)</td>
-  </tr>
-  <tr>
-    <td>1 or 2 people</td>
-    <td>A small gang (3-6)</td>
-    <td>A medium gang (12)</td>
-    <td>A large gang (20)</td>
-    <td>A huge gang (40)</td>
-    <td>A massive gang (80)</td>
-    <td>A colossal gang (160)</td>
-  </tr>
-</table>
+| | Area | Scale |
+|-|------|-------|
+|0| A closet (5' cube) | 1 or 2 people |
+|1| A small room (10' cube) | A small gang (3-6) |
+|2| A large room (25' cube) | A medium gang (12) |
+|3| Several rooms (50' cube) | A large gang (20) |
+|4| A small building (100' cube) | A huge gang (40) |
+|5| A large building (200' cube) | A massive gang (80) |
+|6| A city block (400' cube) | A colossal gang (160) |
 
+| | Duration | Range |
+|-|----------|-------|
+|0|A few moments | Within reach (5') |
+|1|A few minutes | A dozen paces (30') |
+|2|An hour | A stone's throw (100') |
+|3|A few hours | Down the road (600') |
+|4|A day | Several blocks away (4000') |
+|5|Several days | Across the district (25000') |
+|6|A week | Across the city (150000') |
 
-<table>
-  <tr>
-    <td>Duration/Range</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>0</td>
-    <td>1</td>
-    <td>2</td>
-    <td>3</td>
-    <td>4</td>
-    <td>5</td>
-    <td>6</td>
-  </tr>
-  <tr>
-    <td>A few moments</td>
-    <td>A few minutes</td>
-    <td>An hour</td>
-    <td>A few hours</td>
-    <td>A day</td>
-    <td>Several days</td>
-    <td>A week</td>
-  </tr>
-  <tr>
-    <td>Within reach (5')</td>
-    <td>A dozen paces (30')</td>
-    <td>A stone's throw (100')</td>
-    <td>Down the road (600')</td>
-    <td>Several blocks away (4000')</td>
-    <td>Across the district (25000')</td>
-    <td>Across the city (150000')</td>
-  </tr>
-</table>
+| | Tier & Quality | Force |
+|-|----------|-------|
+|0|Poor | Weak |
+|1|Adequate | Moderate |
+|2|Good | Strong |
+|3|Excellent | Serious |
+|4|Superior | Powerful |
+|5|Impeccable | Overwhelming |
+|6|Legendary | Devastating |
 
+| | Quality Examples |
+|-|------------------|
+|0| A rusty knife, worn & tattered clothing, rickety shack on the street |
+|1| A fighting blade, ordinary clothing, shared apartment, cheap food or drugs |
+|2| A pistol, respectable clothing, private rented room, typical ghost |
+|3| A coach, boat, military rifle, fashionable clothing, small home |
+|4| A luxury vehicle, townhouse, typical demon or powerful ghost |
+|5| A large townhouse, small ship, custom-tailored clothing, lightning barrier |
+|6| A mansion, large ship, rare essences or arcane artifacts, powerful demon |
 
-<table>
-  <tr>
-    <td>Tier & Quality / Force / Action Roll</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>0</td>
-    <td>1</td>
-    <td>2</td>
-    <td>3</td>
-    <td>4</td>
-    <td>5</td>
-    <td>6</td>
-  </tr>
-  <tr>
-    <td>Poor</td>
-    <td>Adequate</td>
-    <td>Good</td>
-    <td>Excellent</td>
-    <td>Superior</td>
-    <td>Impeccable</td>
-    <td>Legendary</td>
-  </tr>
-  <tr>
-    <td>Weak (0)</td>
-    <td>Moderate (3: 1d4)</td>
-    <td>Strong (7: 2d6, 3d4)</td>
-    <td>Serious (14: 3d8, 4d6, 6d4)</td>
-    <td>Powerful (22: 4d10, 5d8, 6-7d6, 10d4)</td>
-    <td>Overwhelming (32: 5d12, 6d10, 7-8d8, 10d6, 15d4)</td>
-    <td>Devastating (63: 6d20, 10d12, 12d10, 15d8, 20d6, 30d4)</td>
-  </tr>
-  <tr>
-    <td>11: d20!, Advantage 0</td>
-    <td>14: 1/d4!, Advantage </td>
-    <td>17: 2/d6!, Advantage 0</td>
-    <td>21: 2/d6!, Advantage 1</td>
-    <td>25: 3/d8!, Advantage 2</td>
-    <td>29: 4/d10!, Advantage 3</td>
-    <td>33: 5/d12!, Advantage 4</td>
-  </tr>
-</table>
+| | Force Examples |
+|-|----------------|
+|0| A firm shove, a candle flame, breeze, tiny spark |
+|1| A solid punch, steady wind, torch flame, electrical shock |
+|2| A powerful blow, howling wind, burning brand |
+|3| A crushing blow, staggering wind, grenade, searing fire, electrical surge |
+|4| A charging horse, burning forge, bomb, whirlwind, electrocution |
+|5| A ship's cannon, raging thunder-storm, massive fire, lightning strike |
+|6| Hurricane wind, molten lava, tidal wave, electrical maelstrom |
 
+| | | Force (as Damage Rolls) Examples |
+|-|-|----------------|
+|0|  0 | 0 |
+|1|  3 | 1d4 |
+|2|  7 | 2d6, 3d4 |
+|3| 14 | 3d8, 4d6, 6d4 |
+|4| 22 | 4d10, 5d8, 6--7d6, 10d4 |
+|5| 32 | 5d12, 6d10, 7--8d8, 10d6, 15d4 |
+|6| 63 | 6d20, 10d12, 12d10, 15d8, 20d6, 30d4 |
+
+| |    | Action Roll Examples |
+|-|----|----------------------|
+|0| 11 | d20!, Advantage 0    |
+|1| 14 | 1/d4!, Advantage 0   |
+|2| 17 | 2/d6!, Advantage 0   |
+|3| 21 | 2/d6!, Advantage 1   |
+|4| 25 | 3/d8!, Advantage 2   |
+|5| 29 | 4/d10!, Advantage 3  |
+|6| 33 | 5/d12!, Advantage 4  |
 
 ## Powers List
 

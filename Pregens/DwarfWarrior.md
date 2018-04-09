@@ -12,27 +12,27 @@
     - WILL: 0/6 `[ ][ ][ ][ ][ ][ ]`
 
 - Bloodline: Dwarf
-- Archetype: Warrior (?)
+- Archetype: Warrior (Templar)
 - Tier: 0
 - Faction:
     - Name:
     - Type: Nomads
-- Background:
-- Look:
-- Traits:
+- Background: Enlisted Military.
+- Look: Sturdy, Scarred, and Haunted, Piercing Blue Eyes.
+- Traits: Cautious, Quiet, Thoughtful.
 - Virtue: **Industry.** Nothing is impossible with hardwork, elbow grease, and unflagging endurance.
 - Vice: **Greed.** Unnecessary accumulation; and expensive or ostentatious displays of opulence.
 
 - Action Ratings:
     - BODY:
         - Finesse: 0
-        - Prowl: 0
+        - Prowl: 2
         - Skirmish: 2
         - Wreck: 0
     - MIND:
         - Craft: 0
-        - Hunt: 0
-        - Study: 0
+        - Hunt: 1
+        - Study: 2
         - Survey: 0
     - WILL:
         - Command: 1
@@ -41,29 +41,36 @@
         - Utter: 0
 - Attributes:
     - BODY: d6
-    - MIND: 0
-    - WILL: d6
+    - MIND: d6
+    - WILL: d4
 - Defenses:
     - IRON: 14
-    - WARD: 8
-    - GRIT: 14
+    - WARD: 14
+    - GRIT: 12
 
-- Hit Points: 28/28
-- Recovery Dice:
-- Stress: 0/8
-- Armor:
-- Shield:
-- Special:
+- Hit Points: 32/32
+- Recovery Dice: [d10]
+- Stress: 0/8 `[ ][ ][ ][ ][ ][ ][ ][ ]`
+- Armor: 0/4 `[ ][ ][ ][ ]`
+- Shield: 0/4 `[ ][ ][ ][ ]`
+- Special: 0/2 `[ ][ ]`
 
 - Special Abilities:
-    - **Arcane Potency.** You may imbue your hands, melee weapons, or tools with energy - allowing them to deal an additional damage type in addition to *kinetic* damage.
-        - *Your fists are now a light, melee weapon that rolls a [d6] effect die and threatens to your reach.*
-        - *When you imbue yourself with arcane energy, how do you do it? What does it look like when the energy manifests?*
+    - **Bodyguard.** When you **protect** a teammate, gain **Advantage** on your resistance roll. When you gather info to anticipate possible threats in the current situation, you get **+1 effect**.
+        - *The protect teamwork maneuver lets you face a consequence for a teammate. If you choose to resist that consequence, this ability gives you Advantage on your resistance roll. Also, when you read a situation to gather information about hidden dangers or potential attackers, you get +1 effect-which means more detailed information.*
+    - **Strapping.** Your load limits are higher, and you are not slowed by your load. Light: 5. Normal: 7. Heavy: 8.
+        - *Dwarves make Mules look like weaklings.*
+        - *This ability is great if you want to wear heavy armor and pack a heavy weapon without attracting lots of attention. Since your exact gear is determined on-the-fly during an operation, having more load also gives you more options to get creative with when dealing with problems during a score.*
 - Powers:
-    - Off-Hand Strike
-        - Requires: BODY d6
-        - Cost: Action, Stress 0
-        - Effect: Make a main-hand melee weapon attack. If you hit with that attack, you may immediately make an attack with your off-hand *light* weapon.
-- Load:
+    - Basic Melee Attack
+        - Requires: *Melee* weapon.
+        - Cost: Action.
+        - Target: 1 creature you threaten.
+        - Attack: Skirmish/BODY! vs IRON.
+        - Hit: (half Skirmish)[POW] + [BODY] *kinetic* damage.
+- Load: Normal (7 boxes) or Heavy (8 boxes).
 - Items:
+    - `[ ]` Mattock (heavy, 1H, 5', d8 effect die).
+    - `[ ]` Well-made heavy shield (heavy, 4 shield boxes, -15 damage/box).
+    - `[ ]-[ ]-[ ]-[ ]` Chainmail (medium, 4 armor boxes, -12 damage/box).
 - Friends & Rivals:

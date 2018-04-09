@@ -64,11 +64,11 @@
         - *When you use this ability, tick one special armor box on your character sheet. Your special armor is restored at the beginning of downtime.*
 - Powers:
     - Basic Melee Attack
-        - Requires: *Melee* weapon, Action is Finesse, Skirmish, or Wreck.
+        - Requires: *Melee* weapon, Action is Finesse.
         - Cost: Action.
         - Target: 1 creature you threaten.
-        - Attack: Action/BODY! vs IRON.
-        - Hit: (half Action)[POW] + [BODY] *kinetic* damage.
+        - Attack: Finesse/BODY! vs IRON.
+        - Hit: (half Finesse)[POW] + [BODY] *kinetic* damage.
     - Bolster Defense
         - Requires: Survey 1, MIND d4.
         - Cost: Action, Stress 1 (condition 1).
