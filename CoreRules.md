@@ -1022,7 +1022,7 @@ Your vice is defined by your bloodline. Every character is in thrall to some vic
 
 Your character's **traits** describe unique personality aspects, flaws, perks, strengths, or weaknesses that aren't easily codified in the game mechanics and that separate you from others and provide motivations, beliefs, or drives. Select 3 of the following traits - or choose your own - and write them on your character sheet. The GM is encouraged to award you a Beacon Point when you play these traits - especially to your detriment.
 
-> *Actor, addicted, aloof, alluring, arrogant, audacious, bitter, bold, bloodlust, brash, cautious, charming, clumsy, cold, courageous, crazed, cunning, deranged, dimwitted, dishonest, distractible, dominating, fair, foolish, gullible, honest, humble, impatient, inspiring, intimidating, mysterious, neurotic, patient, rash, respectable, sagacious, socially inept, stubborn, strange, thoughtful, vengeful, visionary, vivacious, zealous.*
+> *Actor, addicted, aloof, alluring, arrogant, audacious, bitter, bold, bloodlust, brash, cautious, charming, clumsy, cold, courageous, crazed, cruel, cunning, deranged, dimwitted, dishonest, distractible, dominating, fair, foolish, gullible, honest, humble, impatient, inspiring, intimidating, just, loud, mysterious, neurotic, patient, quiet, rash, respectable, sagacious, socially inept, stubborn, strange, thoughtful, vengeful, visionary, vivacious, zealous.*
 
 ## Choose a background
 
@@ -1067,11 +1067,11 @@ Each playbook has a list of NPCs that your character knows. Choose one from the 
 Choose a name for your character from the sample list (page XX), or create your own. If your character uses an alias, make a note of it. Record a few evocative words that describe your character's look (samples provided below).
 
 * *Age: Youthful, adolescent, mature, middle-aged, aging, graying, wizened.*
-* *Build: Lanky, compact, gaunt, corpulent, built.*
+* *Build: Lanky, compact, gaunt, corpulent, sturdy, built.*
 * *Hair: Shaved or bald, close-cropped, mohawk, long hair, braids, ponytail, tousled, short, bun, cornrows, conk, dreadlocks, fallera, afro, pixie, flat-top, pompadour, updo, turban, coif, hat, cloak, cowl, mask, bandana, helm, helmet, hairless.*
 * *Eyes: Piercing, glasses, spectacles, monocle, brown, hazel, blue, green, gray, purple, cat-eyes, golden, hawk-eyes, shark-eyes, glowing, goggles, veil, glassy, white, haunted, dim, sparkling, sharp, crystalline, aglow.*
 * *Face: Mustache, beard, mutton chops, sideburns, clean-shaven or hair-free, strong-jaw, soft-face, high-cheekboned, angular-lined.*
-* *Attire: Vest, sleeveless, shirt, blouse, suit coat, dress, rags, gown, tuxedo, pants, kilt, skirt, shorts, rags, armored, battered, unkempt, robes, vestments, uniform, duster.*
+* *Attire: Vest, sleeveless, shirt, blouse, suit coat, dress, rags, gown, tuxedo, pants, kilt, skirt, shorts, rags, armored, battered, unkempt, robes, vestments, uniform, duster, scarred.*
 * *Feet: Boots, bare feet, sandals, slippers, shoes, clogs, clawed, hooves, cloven, paws.*
 
 ## Review your details

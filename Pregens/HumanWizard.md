@@ -59,6 +59,7 @@
     - **Bargain.** You have made a pact with some powerful entity to channel its power - in exchange.
             - *You suffer other consequences instead of taking stress to use rituals or cast spells. Is this health, coin, luck, relationships, mishaps?*
             - *Work with the GM to define your pact and your first spell.*
+            - *Instead of taking Stress when you use a Power, lose [d4] HP per Stress in the power's cost.*
     - **Connected.** During downtime, you get **+1 result level** when you **acquire an asset** or **reduce heat**.
         - *Your array of connections can be leveraged to loan assets, pressure a vendor to give you a better deal, intimidate witnesses, etc.*
 - Powers:
@@ -115,9 +116,10 @@
 - Stride:
     - 25'.
 - Load:
-    - Medium (5 boxes).
+    - Light (3 boxes).
 - Items:
-    - `[ ]` Well-made greataxe (2H, 5', [d10] effect die).
-    - `[ ]` 2 *light* handaxes (1H, 5', 20' thrown, [d6] effect die).
+    - `[ ]` Well-made staff (2H, 5', [d6] effect die).
+    - `[ ]` 2 *light* daggers (1H, 5', 20' thrown, [d6] effect die).
+    - `[ ]-[ ]` Books and Tomes
     - `[ ]-[ ]` Leather armor (light, 2 armor boxes, -10 damage/box).
 - Friends & Rivals:
