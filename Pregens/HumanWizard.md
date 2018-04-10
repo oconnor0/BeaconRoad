@@ -101,6 +101,25 @@
         - Cost: Action or Reaction, Stress 3 (area 2, duration 1).
         - Trigger: An enemy takes an Action or targets an ally.
         - Effect: Create a cloud of fog with a 30' diameter centered on you. The cloud *conceals* and lasts one minute (10 rounds) unless removed.
+    - Inhale/Exhale
+        - Requires: MIND d4, Study 1
+        - Cost: Action, Stress 0 (range 1)
+        - Target: 1 allied creature within 30'.
+        - Effect: You suffer another's wounds (select 1):
+            - The target selects 1 wound and loses it. You gain that wound.
+            - The target rolls a recovery. You lose that many HP.
+            - The target clears up to 3 stress. You gain that stress.
+
+            On your next turn, you may use the following:
+    - Exhale
+        - Cost: Reaction, Stress 2 (range 1, force 1).
+        - Trigger: An enemy creature within 30' begins its turn.
+        - Target: 1 enemy creature within 30'.
+        - Attack: Study/MIND! vs WARD.
+        - Hit: The target suffers your wounds (select 1):
+            - You select 1 wound and lose it. The target gains that wound.
+            - You roll a recovery. The target suffers *entropic* damage equal to the recovered HP.
+            - You clear up to 3 stress. The target gains that stress.
     - Plasmic Darts
         - Requires: WILL d4
         - Cost: Action, Stress 3 (area 1, range 1, force 1)

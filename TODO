@@ -3,7 +3,7 @@ Open Tasks and Ideas for Beacon Road Core Rules:
 I want Beacon Road to be able to handle D&D-style adventure romps, LOTR-style epics, Blades-style city underbelly stuff.
 
 PROTOTYPE:
- [ ] What features are needed for a minimum "publishable" prototype?
+ [ ] What features are needed for a minimum "distributable" prototype?
  [ ] Characters
    [ ] Archetypes
      [ ] Warrior
@@ -14,8 +14,9 @@ PROTOTYPE:
  [ ] Factions
    [ ] Sin-eaters
  [ ] Combat Rules
-   [ ] Some Powers
- [ ]
+   [ ] Some Powers - 18?
+ [ ] Downtime Rules
+   [ ] Limited
 
 TODO:
  [ ] Move Aim, Charge, Reaction Strike, Aid/Assist to Powers.

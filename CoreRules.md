@@ -1313,6 +1313,7 @@ You don't need to select specific items now. Review your personal items and the 
             - *When you use this ability, tick one special armor box on your character sheet. If you resist a consequence, this ability negates or reduces its severity. If you use this ability to push yourself, you get one of the benefits (advantage or additional effect die), but you don't take stress. Your special armor is restored at the beginning of downtime.*
 - Items
     - `[ ]` Vestments
+    - `[ ]` Well-made staff.
     - `[ ]-[ ]` Books and Tomes
 
 ## Character items
