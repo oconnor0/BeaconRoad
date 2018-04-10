@@ -18,8 +18,8 @@
     - Name:
     - Type: Nomads
 - Background: Gamekeeper.
-- Look:
-- Traits:
+- Look: Shaved Head, Goggles, Suit.
+- Traits: Honest, Impatient.
 - Virtue: **Service.** Beyond what others cannot or will not, you empower those around your with your assistance.
 - Vice: **Pride.** You are better and more important; everything is about you.
 

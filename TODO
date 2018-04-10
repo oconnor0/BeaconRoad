@@ -148,11 +148,11 @@ BOOK:
 PREP:
   [ ] Create all 8 pregen characters.
     [ ] Draconic Wizard
-    [ ] Dwarf Warrior
+    [x] Dwarf Warrior @done (18-04-09 21:28)
     [ ] Elf Rogue
     [ ] Forgeborn Technician
     [ ] Halfling Tehnician
-    [ ] Human Wizard
+    [x] Human Wizard @done (18-04-09 21:23)
     [x] Orc Warrior @done (18-04-07 21:39)
     [x] Troll Rogue @done (18-04-07 21:41)
   [ ] Create power cards.

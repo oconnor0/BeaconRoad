@@ -57,14 +57,33 @@
 - Special: 0/2 `[ ][ ]`
 
 - Special Abilities:
+    - **Reflexes.** When there's a question about who acts first, the answer is you.
+        - *You may choose to act *cautiously* in combat, but if an enemy would attempt to act against you, you may take your turn before they do.*
+        - *This ability gives you the initiative in most situations. Some specially trained NPCs might also have reflexes, but otherwise, you're always the first to act, and can interrupt anyone else who tries to beat you to the punch. This ability usually doesn't negate the need to make an action roll that you would otherwise have to make, but it may improve your position or effect.*
     - **Sharpshooter.** You do not suffer Disadvantage when making ranged weapon attacks at distances beyond their first range increment. You can **push yourself** to do one of the following: *make a ranged attack at extreme distance beyond what's normal for the weapon---unleash a barrage of rapid fire to suppress the enemy.*
         - *When you push yourself to activate this ability, you still get one of the normal benefits of pushing yourself (advantage, +1 effect, etc.) in addition to the special ability.*
 - Powers:
+    - Aim
+        - Requires: MIND d4, Hunt 1.
+        - Cost: Action.
+        - Effect: Gain *advantage* on your next ranged attack this turn.
+    - Basic Ranged Attack
+        - Requires: *Ranged* weapon.
+        - Cost: Action.
+        - Target: 1 creature within your weapon's range.
+            - *You may target a creature at double your weapon's range by suffering Disadvantage on your attack action roll.*
+        - Attack: Hunt/BODY! vs IRON.
+        - Hit: (half Hunt)[POW] + [BODY] *kinetic* damage.
     - Clarity
         - Requires: MIND d6.
         - Cost: Action, Stress 3 (range 1, condition 2).
         - Target: 1 creature within 30'.
         - Effect: The target gains *focused* for 1 minute (10 rounds).
+    - Dodge
+        - Requires: BODY d6, Prowl 1.
+        - Cost: Reaction, Stress 1.
+        - Trigger: You are targeted by an attack.
+        - Effect: Maneuver up to half your stride.
     - Interrupt
         - Requires: MIND d6
         - Cost: Reaction.

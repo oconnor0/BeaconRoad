@@ -62,12 +62,44 @@
         - *Dwarves make Mules look like weaklings.*
         - *This ability is great if you want to wear heavy armor and pack a heavy weapon without attracting lots of attention. Since your exact gear is determined on-the-fly during an operation, having more load also gives you more options to get creative with when dealing with problems during a score.*
 - Powers:
+    - Bash
+        - Requires: BODY d4, Wreck 2, *defensive* weapon.
+        - Cost: Action, Stress 1 (condition 1).
+        - Target: 1 creature you threaten.
+        - Attack: Wreck/BODY! vs IRON.
+        - Hit (half Wreck)[BODY] *kinetic* damage and *pushed* 5' per attacking action dot.
     - Basic Melee Attack
         - Requires: *Melee* weapon.
         - Cost: Action.
         - Target: 1 creature you threaten.
         - Attack: Skirmish/BODY! vs IRON.
         - Hit: (half Skirmish)[POW] + [BODY] *kinetic* damage.
+    - Block
+        - Requires: BODY d4, Skirmish 1, *defensive* weapon.
+        - Cost: Reaction, Stress 1.
+        - Trigger: You or an adjacent ally are hit by an attack.
+        - Effect: Make a melee defensive action roll (Skirmish/BODY!) and use that instead of the targeted defense.
+    - Clarity
+        - Requires: MIND d6.
+        - Cost: Action, Stress 3 (range 1, condition 2).
+        - Target: 1 creature within 30'.
+        - Effect: The target gains *focused* for 1 minute (10 rounds).
+    - Exploit Opponent
+        - *You open a hole in your opponent's defense.*
+        - Requires: Study 1, MIND d4.
+        - Cost: Action, Stress 2 (condition 1, duration 0, range 1).
+        - Target: 1 enemy creature within 30'.
+        - Check: Study/MIND! vs WARD, IRON, and GRIT.
+        - Success: The target suffers *exposed* for one of the hit defenses (of your choosing).
+    - Goading Stance
+        - Requires: BODY d4.
+        - Cost: Action, Stress 1 (condition 1).
+        - Effect: For the rest of this encounter or until this stance ends, your melee weapon attacks *goad* their targets, hit or miss. Make a basic melee weapon attack.
+    - Reaction Attack
+        - Requires: BODY d4.
+        - Cost: Reaction.
+        - Trigger: An enemy creature advances out of your melee threat. Or an enemy creature advances into your melee threat, if you have a longer melee threat than they do.
+        - Effect: Make a basic melee weapon attack against the triggering creature.
 - Load: Normal (7 boxes) or Heavy (8 boxes).
 - Items:
     - `[ ]` Mattock (heavy, 1H, 5', d8 effect die).

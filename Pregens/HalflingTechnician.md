@@ -15,7 +15,7 @@
 - Crew:
     - Name:
     - Type: Nomads
-- Background:
+- Background: Jeweler.
 - Look:
 - Traits:
 - Virtue: **Cheer.** Your unassailable mood lifts the spirits of others in the darkest of times.
