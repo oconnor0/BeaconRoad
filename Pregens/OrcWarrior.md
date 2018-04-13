@@ -17,7 +17,7 @@
 - Faction:
     - Name:
     - Type: Nomads
-- Background: Exiled Tribal Shaman.
+- Background: Tribal (Exiled Shaman).
 - Look: Graying Mutton Chops, Bone Talismans Tied into Rags, Bare Feet.
 - Traits: Bloodlust, Sagacious.
 - Virtue: **Justice.** The afflicted, downtrodden, and oppressed look to you to represent them.
@@ -62,7 +62,7 @@
         - *You instill fear in those around you when you get violent. How they react depends on the person. Some people will flee from you, some will be impressed, some will get violent in return. The GM judges the response of a given NPC.*
         - *In addition, when you **Command** someone who's affected by fear (from this ability or otherwise), gain advantage on your roll.*
         - Savage Strike
-            - Cost: Action.
+            - Cost: Act, Stress 1.
             - Target: 1 creature you threaten.
             - Attack: Skirmish/BODY! vs IRON and GRIT.
             - Hit vs IRON: (half Skirmish)[POW] + [BODY] *kinetic* damage
@@ -70,29 +70,29 @@
 - Powers:
     - Aim
         - Requires: MIND d4, Hunt 1.
-        - Cost: Action.
+        - Cost: Act.
         - Effect: Gain *advantage* on your next ranged attack this turn.
     - Basic Melee Attack
         - Requires: *Melee* weapon.
-        - Cost: Action.
+        - Cost: Act.
         - Target: 1 creature you threaten.
         - Attack: Skirmish/BODY! vs IRON.
         - Hit: (half Skirmish)[POW] + [BODY] *kinetic* damage.
     - Basic Ranged Attack
         - Requires: *Ranged* weapon.
-        - Cost: Action.
+        - Cost: Act.
         - Target: 1 creature within your weapon's range.
             - *You may target a creature at double your weapon's range by suffering Disadvantage on your attack action roll.*
         - Attack: Hunt/BODY! vs IRON.
         - Hit: (half Hunt)[POW] + [BODY] *kinetic* damage.
     - Charge
         - Requires: BODY d4, non-*light* melee weapon.
-        - Cost: Action.
+        - Cost: Act.
         - Target: 1 creature within your stride.
         - Effect: Advance up to your stride toward your target, if you end your movement closer to your target than you started your turn, and if you moved at least twice your size (ex., 10' for medium or 20' for large), make a melee weapon charge attack with Advantage against that target.
     - Goading Stance
         - Requires: BODY d4.
-        - Cost: Action, Stress 1 (condition 1).
+        - Cost: Act, Stress 1 (condition 1).
         - Effect: For the rest of this encounter or until this stance ends, your melee weapon attacks *goad* their targets, hit or miss. Make a basic melee weapon attack.
     - Reaction Attack
         - Requires: BODY d4.
@@ -102,7 +102,7 @@
     - Wolfbite
         - *A weapon begins to glow with cold energy. When used to attack, a spectral wolf's head lashes out and bites the target.*
         - Requires: WILL d4.
-        - Cost: Action, Stress 2 (condition 1, duration 1).
+        - Cost: Act, Stress 2 (condition 1, duration 1).
         - Target: 1 weapon within touch.
             - *Take 1 Stress to increase the range of this by 30'.*
         - Effect: For the next minute (10 rounds), that weapon additionally deals *glacial* and *plasmic* damage, and attacks with that weapon are *strengthened* 1 (+1 effect die).
@@ -119,4 +119,12 @@
     - `[ ]` Well-made greataxe (2H, 5', [d10] effect die).
     - `[ ]` 2 *light* handaxes (1H, 5', 20' thrown, [d6] effect die).
     - `[ ]-[ ]` Leather armor (light, 2 armor boxes, -10 damage/box).
+
 - Friends & Rivals:
+    - `[+]/[-]` A mercenary
+    - `[+]/[-]` A pugilist
+    - `[+]/[-]` A sawbones
+    - `[+]/[-]` A smith
+    - `[+]/[-]` A soldier
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *

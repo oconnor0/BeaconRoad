@@ -5,7 +5,6 @@
     - At the end of a session, mark 1 or 2 XP if you addressed a challenge with audacity or stealth.
     - At the end of a session, mark 1 or 2 XP if you expressed your beliefs, drives, traits, or background.
     - At the end of a session, mark 1 or 2 XP if you struggled with issues from your virtue, vice, or trauma.
-
 - XP:
     - SELF: 0/8 `[ ][ ][ ][ ][ ][ ][ ][ ]`
     - BODY: 0/6 `[ ][ ][ ][ ][ ][ ]`
@@ -18,7 +17,7 @@
 - Faction:
     - Name:
     - Type: Nomads
-- Background: Escaped Prisoner
+- Background: Criminal (Escaped Prisoner).
 - Look: Gaunt, Hairless, Piercing Gray Hawk-Eyes, Faded Green Duster.
 - Traits: Cold, Fair, Strange.
 - Virtue: **Remembrance.** The past led us to today; allow it to coach us into tomorrow.
@@ -65,45 +64,63 @@
 - Powers:
     - Aim
         - Requires: MIND d4, Hunt 1.
-        - Cost: Action.
+        - Cost: Act.
         - Effect: Gain *advantage* on your next ranged attack this turn.
+    - Basic Melee Attack
+        - Requires: *Melee* weapon.
+        - Cost: Act.
+        - Target: 1 creature you threaten.
+        - Attack: Finesse/BODY! vs IRON.
+        - Hit: (half Finesse)[POW] + [BODY] *kinetic* damage.
     - Basic Ranged Attack
         - Requires: *Ranged* weapon.
-        - Cost: Action.
+        - Cost: Act.
         - Target: 1 creature within your weapon's range.
             - *You may target a creature at double your weapon's range by suffering Disadvantage on your attack action roll.*
         - Attack: Hunt/BODY! vs IRON.
         - Hit: (half Hunt)[POW] + [BODY] *kinetic* damage.
     - Clarity
         - Requires: MIND d6.
-        - Cost: Action, Stress 3 (range 1, condition 2).
+        - Cost: Act, Stress 3 (range 1, condition 2).
         - Target: 1 creature within 30'.
         - Effect: The target gains *focused* for 1 minute (10 rounds).
     - Dodge
         - Requires: BODY d6, Prowl 1.
-        - Cost: Reaction, Stress 1.
+        - Cost: React, Stress 1.
         - Trigger: You are targeted by an attack.
         - Effect: Maneuver up to half your stride.
     - Interrupt
         - Requires: MIND d6
-        - Cost: Reaction.
-        - Trigger: A creature within weapon range makes an action roll.
+        - Cost: React.
+        - Trigger: A creature within weapon range makes an Action Roll.
         - Target: The triggering creature.
         - Attack: Hunt/MIND! with Disadvantage vs TN (the triggering check) and WARD.
-        - Hit: The target loses their current Action without effect.
-        - Miss: The target suffers *distracted* on their current Action.
+        - Hit: The target instead botches their Action Roll.
+        - Miss: The target rerolls and suffers *distracted* on their Action Roll.
     - Sidestep
         - Requires: BODY d6;
-        - Cost: Reaction, Stress 0
+        - Cost: React, Stress 0
         - Trigger: You hit with an attack.
         - Maneuver up to 10'.
 
-- Senses: Keen Ears and Starsight.
-- Size: Medium (5' × 5'), slender and averaging from 6' to 7' tall.
-- Stride: 30'
-- Load: Medium (5 boxes)
+- Senses:
+    - Keen Ears and Starsight.
+- Size:
+    - Medium (5' × 5'), slender and averaging from 6' to 7' tall.
+- Stride:
+    - 30'
+- Load:
+    - Medium (5 boxes)
 - Items:
     - `[ ]-[ ]` Well-made Greatbow (2H d10, 150')
     - `[ ]-[ ]` Leather Armor
     - `[ ]` Spear (1H d6, 2H d8, 5')
+
 - Friends & Rivals:
+    - `[+]/[-]` A beggar
+    - `[+]/[-]` A gang leader
+    - `[+]/[-]` A locksmith
+    - `[+]/[-]` A spy
+    - `[+]/[-]` A tavern owner
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *

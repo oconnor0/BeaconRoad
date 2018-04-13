@@ -17,7 +17,7 @@
 - Faction:
     - Name:
     - Type: Nomads
-- Background: Ex-slave, gladiator.
+- Background: Slave (Ex-slave, gladiator).
 - Look: Built, Braids, Gray Eyes, Kilt.
 - Traits: Crazed, Dimwitted, Visionary.
 - Virtue: **Harmony.** "To every thing there is a season, and a time to every purpose under the heaven."
@@ -65,13 +65,13 @@
 - Powers:
     - Basic Melee Attack
         - Requires: *Melee* weapon, Action is Finesse.
-        - Cost: Action.
+        - Cost: Act.
         - Target: 1 creature you threaten.
         - Attack: Finesse/BODY! vs IRON.
         - Hit: (half Finesse)[POW] + [BODY] *kinetic* damage.
     - Bolster Defense
         - Requires: Survey 1, MIND d4.
-        - Cost: Action, Stress 1 (condition 1).
+        - Cost: Act, Stress 1 (condition 1).
         - Check: Survey/MIND! vs Risky TN.
         - Success: You gain *fortified* for one of your defenses.
     - Carouse
@@ -89,18 +89,19 @@
         - Effect: Maneuver up to half your stride.
     - Disarming Flourish
         - Requires: BODY d6, Finesse 1.
-        - Cost: Action.
+        - Cost: Act.
         - Attack: Finesse/BODY! vs WARD.
         - Hit: Target suffers *disarmed*.
     - Off-Hand Strike
         - Requires: BODY d6.
-        - Cost: Action, Stress 0.
+        - Cost: Act, Stress 0.
         - Effect: Make a main-hand melee *light* weapon attack. If you hit with that attack, you may immediately make an attack with your off-hand *light* weapon.
     - Reaction Attack
         - Requires: BODY d4.
-        - Cost: Reaction.
+        - Cost: React.
         - Trigger: An enemy creature advances out of your melee threat. Or an enemy creature advances into your melee threat, if you have a longer melee threat than they do.
         - Effect: Make a basic melee weapon attack against the triggering creature.
+
 - Senses:
     - Darksight.
 - Size:
@@ -111,4 +112,12 @@
     - Light (3 boxes, +5' to stride).
 - Items:
     - `[ ]` Well-made leather armor (light, 2 armor boxes, -10 damage/box).
+
 - Friends & Rivals:
+    - `[+]/[-]` A beggar
+    - `[+]/[-]` A gang leader
+    - `[+]/[-]` A locksmith
+    - `[+]/[-]` A spy
+    - `[+]/[-]` A tavern owner
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *

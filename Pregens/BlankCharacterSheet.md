@@ -2,7 +2,7 @@
 
 - XP Triggers:
     - When you **push yourself** and fail an **action roll**, mark 1 XP in the rolled attribute.
-    - At the end of a session, mark 1 or 2 XP if you addressed a challenge with...
+    - At the end of a session, mark 1 or 2 XP if you addressed a challenge with ...
     - At the end of a session, mark 1 or 2 XP if you expressed your beliefs, drives, traits, or background.
     - At the end of a session, mark 1 or 2 XP if you struggled with issues from your virtue, vice, or trauma.
 - XP:
@@ -57,6 +57,13 @@
 
 - Special Abilities:
 - Powers:
+
+- Senses:
+- Size:
+- Stride:
 - Load:
 - Items:
+
 - Friends & Rivals:
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *

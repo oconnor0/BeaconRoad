@@ -8,6 +8,12 @@ Come play *Beacon Road*; a d20, dice-filled, action-adventure, heroic fantasy RP
 
 Also, [those who have contributed](Contributors.md) and [the license](License.md) are available.
 
+## PDF Generation
+
+Generation of PDFs of the Pregens can be done via pandoc as:
+
+    pandoc -s --pdf-engine=xelatex Pregens/OrcWarrior.md -o OrcWarrior.pdf --variable fontfamily="Garamond"
+
 ## License
 
 > (C) 2017-2018 Matthew O'Connor ([wee.knight.games@gmail.com](mailto:wee.knight.games@gmail.com)).

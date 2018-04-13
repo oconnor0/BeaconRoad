@@ -1028,7 +1028,7 @@ Your character's **traits** describe unique personality aspects, flaws, perks, s
 
 Your character's **background** describes what they did before they joined the crew. Choose a background and then write a detail about it that's specific to your character.
 
-* Academic, Commoner, Criminal, Labor, Military, Noble, Outlaw, Religious, Slave, Tribal.
+* Academic, Artisan, Commoner, Criminal, Labor, Military, Noble, Outlaw, Religious, Slave, Tribal.
 
 ## Assign four action dots
 
@@ -1067,11 +1067,12 @@ Each playbook has a list of NPCs that your character knows. Choose one from the 
 Choose a name for your character from the sample list (page XX), or create your own. If your character uses an alias, make a note of it. Record a few evocative words that describe your character's look (samples provided below).
 
 * *Age: Youthful, adolescent, mature, middle-aged, aging, graying, wizened.*
-* *Build: Lanky, compact, gaunt, corpulent, sturdy, built.*
+* *Build: Lanky, compact, gaunt, corpulent, sturdy, built, frail.*
+* *Complexion or skin: Obsidian, pale, translucent, metallic, red, bronzed, tanned, radiant, aglow, ruddy, cerulean.*
 * *Hair: Shaved or bald, close-cropped, mohawk, long hair, braids, ponytail, tousled, short, bun, cornrows, conk, dreadlocks, fallera, afro, pixie, flat-top, pompadour, updo, turban, coif, hat, cloak, cowl, mask, bandana, helm, helmet, hairless.*
 * *Eyes: Piercing, glasses, spectacles, monocle, brown, hazel, blue, green, gray, purple, cat-eyes, golden, hawk-eyes, shark-eyes, glowing, goggles, veil, glassy, white, haunted, dim, sparkling, sharp, crystalline, aglow.*
 * *Face: Mustache, beard, mutton chops, sideburns, clean-shaven or hair-free, strong-jaw, soft-face, high-cheekboned, angular-lined.*
-* *Attire: Vest, sleeveless, shirt, blouse, suit coat, dress, rags, gown, tuxedo, pants, kilt, skirt, shorts, rags, armored, battered, unkempt, robes, vestments, uniform, duster, scarred.*
+* *Attire: Vest, sleeveless, shirt, blouse, suit coat, dress, rags, gown, tuxedo, pants, kilt, skirt, shorts, robes, armored, battered, unkempt, robes, vestments, uniform, duster, scarred.*
 * *Feet: Boots, bare feet, sandals, slippers, shoes, clogs, clawed, hooves, cloven, paws.*
 
 ## Review your details
@@ -1292,7 +1293,14 @@ You don't need to select specific items now. Review your personal items and the 
     - **Bargain.**
         - You have made a pact with some powerful entity to channel its power - in exchange.
             - *You suffer other consequences instead of taking stress to use rituals or cast spells. Is this health, coin, luck, relationships, mishaps?*
-            - *Work with the GM to define your pact and your first spell.*
+            - *Work with the GM to define your pact and your first spell. If you aren't certain, choose Bloodpact.*
+        - **Bloodpact.** *Instead of taking Stress when you use a Power, lose \[d4\] HP per Stress in the power's cost. Gain Draw Blood.*
+        - **Draw Blood**
+            - Prerequisites: Bargain.
+            - Requires: A dagger (or other blade).
+            - Cost: Act Once.
+            - Target: Self.
+            - Effect: Select an ACTION. Lose up to 1 + ACTION HP. The next time you Act or React, if you use a Power with that ACTION, reduce the Stress cost by the number of HP lost (not below 1).
     - **Inhuman Resolve.**
         - You are immune to the terror that some supernatural entities inflict. You gain +2 **Grit**.
             - *With this ability, you do not freeze up or flee when confronted by any kind of supernatural entity or strange arcane event.*
@@ -1307,13 +1315,19 @@ You don't need to select specific items now. Review your personal items and the 
         - You know the arcane methods to conjure supernatural effects from written spells. You can **Study** a spell (or create a new one) to summon a supernatural effect. You begin with one spell already learned.
             - *Without this special ability, written spells are only words on a page.*
             - *Follow the Spell Creation procedure with the GM to define your first spell.*
-            - *The stress cost of any spells you cast is lowered by the action rating of the casting action - a 6 stress power would cost a character with Utter 2 only 4 stress.*
+        - **Spell Mastery.** *Spell Mastery provides 1 + TIER + UTTER points to reduce Stress costs of Powers using UTTER by 1 for each point (not below 1).*
+        - **Read and Recite**
+            - Prerequisites: Spellcraft.
+            - Requires: Your spellbook or tome.
+            - Cost: Act.
+            - Target: Self.
+            - Effect: Select a Power. If you use that Power the next time you Act or React, reduce the Stress cost by the invoking ACTION (not below 1).
     - **Warded.**
         - You may expend your **special armor** to resist a supernatural consequence, or to **push yourself** when you contend with or employ arcane forces.
             - *When you use this ability, tick one special armor box on your character sheet. If you resist a consequence, this ability negates or reduces its severity. If you use this ability to push yourself, you get one of the benefits (advantage or additional effect die), but you don't take stress. Your special armor is restored at the beginning of downtime.*
 - Items
-    - `[ ]` Vestments
-    - `[ ]` Well-made staff.
+    - `[ ]` Well-made vestments (light, 2 armor boxes, -10 damage/box).
+    - `[ ]` Well-made staff (2H, 5', [d6] effect die).
     - `[ ]-[ ]` Books and Tomes
 
 ## Character items
@@ -1347,6 +1361,12 @@ Some examples include: Weapons, clothes, arcane implements, specialized tools, c
         * You may expend one box of your **special armor** to negate one consequence from an attack of a single **damage type**, or to **push yourself** to breathe destructive energy.
             * *What element do you breathe? What elements do you have an affinity for? What elements are you vulnerable to?*
             * *When you use this ability, tick one special armor box on your character sheet. If you negate a consequence, you ignore it completely. If you use this ability to push yourself, you get one of the benefits (advantage or additional effect die), but you don't take stress. Your special armor is restored at the beginning of downtime.*
+        * **Elemental Breath**
+            * Prerequisites: Elemental Affinity.
+            * Cost: Act, 1 Special Box.
+            * Target: 10' cube within 60'.
+            * Attack: Action/ATTR! vs IRON.
+            * Hit: (Action)[ATTR] *elemental* damage.
 
 ## Dwarf
 
@@ -3544,7 +3564,7 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
 
 * Reaction Attack
     * Requires: BODY d4.
-    * Cost: Reaction.
+    * Cost: React.
     * Trigger: An enemy creature advances out of your melee threat. Or an enemy creature advances into your melee threat, if you have a longer melee threat than they do.
     * Effect: Make a basic melee weapon attack against the triggering creature.
 
@@ -3557,7 +3577,7 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
     * Hit: Target suffers *disarmed*.
 
 * Dodge
-    * Requires: BODY d6, Prowl 2.
+    * Requires: BODY d6, Prowl 1.
     * Cost: Reaction, Stress 1.
     * Trigger: You are targeted by an attack.
     * Effect: Maneuver up to half your stride.
@@ -3730,12 +3750,12 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
 
 * Interrupt
     * Requires: MIND d6
-    * Cost: Reaction, Stress 1
-    * Trigger: A creature within weapon range makes an action roll.
+    * Cost: React.
+    * Trigger: A creature within weapon range makes an Action Roll.
     * Target: The triggering creature.
-    * Attack: Action/ATTR! vs TN (the triggering check) and WARD.
-    * Hit: The target loses their current Action without effect.
-    * Miss: The target suffers *distracted* on their current Action.
+    * Attack: Hunt/MIND! with Disadvantage vs TN (the triggering check) and WARD.
+    * Hit: The target instead botches their Action Roll.
+    - Miss: The target rerolls and suffers *distracted* on their Action Roll.
 
 #### d8
 
@@ -3806,19 +3826,17 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
     * Success: You *charm* the creature for one day.
     * Failure: You suffer *sickened* for one day.
 
-* Ice Dart
+* Frost Spear
     * Requires: WILL d4.
     * Cost: Action, Stress 3 (range 1, force 1, condition 1).
     * Attack: Utter/WILL! vs IRON.
     * Hit: (Utter)[d6] *glacial* damage, and target suffers *slowed*.
 
-* Plasmic Darts
-    * Requires: WILL d4
-    * Cost: Action, Stress 3 (area 1, range 1, force 1)
-    * Effect: Make the following attack a number of times equal to your attacking Action Rating.
-    * Target: 1 enemy creature within 30'.
-    * Attack: (Action)/WILL! vs IRON.
-    * Hit: [d4] *plasmic* damage.
+- Plasmic Darts
+    - Requires: WILL d4.
+    - Cost: Act, Stress 3 (area 1, range 1, force 1)
+    - Target: A number of enemy creatures equal to 1 + UTTER within 30'.
+    - Effect: [d4] *plasmic* damage.
 
 * Wolfbite
     * *A weapon begins to glow with cold energy. When used to attack, a spectral wolf's head lashes out and bites the target.*
@@ -3890,8 +3908,8 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
 
 * Pox
     * Requires: Utter 3, WILL d8.
-    * Cost: Action, Stress 4 (range 1, condition 3).
-    * Target: 1 enemy creature within 30'.
+    * Cost: Action, Stress 5 (area 1, range 1, condition 3).
+    * Target: 2 + \[d4\] enemy creatures within 30'.
     * Attack: Utter/WILL! vs IRON.
     * Hit: Target suffers *blighted d4* and *sickened*.
 

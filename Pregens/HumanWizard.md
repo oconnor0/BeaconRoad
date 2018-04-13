@@ -17,7 +17,7 @@
 - Faction:
     - Name:
     - Type: Nomads
-- Background: Gamekeeper.
+- Background: Labor for Noble (Gamekeeper).
 - Look: Shaved Head, Goggles, Suit.
 - Traits: Honest, Impatient.
 - Virtue: **Service.** Beyond what others cannot or will not, you empower those around your with your assistance.
@@ -51,59 +51,52 @@
 - Hit Points: 20/20
 - Recovery Dice: [d6]
 - Stress: 0/8 `[ ][ ][ ][ ][ ][ ][ ][ ]`
-- Armor: 0/2
+- Armor: 0/2 `[ ][ ]`
 - Shield: 0/0
 - Special: 0/0
 
 - Special Abilities:
     - **Bargain.** You have made a pact with some powerful entity to channel its power - in exchange.
-            - *You suffer other consequences instead of taking stress to use rituals or cast spells. Is this health, coin, luck, relationships, mishaps?*
-            - *Work with the GM to define your pact and your first spell.*
-            - *Instead of taking Stress when you use a Power, lose [d4] HP per Stress in the power's cost.*
+        - *You suffer other consequences instead of taking stress to use rituals or cast spells. Is this health, coin, luck, relationships, mishaps?*
+        - *Work with the GM to define your pact and your first spell.*
+        - **Bloodpact.** *Instead of taking Stress when you use a Power, lose \[d4\] HP per Stress in the power's cost. Gain Draw Blood.*
+        - **Draw Blood**
+            - Prerequisites: Bargain.
+            - Requires: A dagger (or other blade).
+            - Cost: Act.
+            - Target: Self.
+            - Effect: Select an ACTION. Lose up to 1 + ACTION HP. The next time you Act or React, if you use a Power with that ACTION, reduce the Stress cost by the number of HP lost (not below 1).
     - **Connected.** During downtime, you get **+1 result level** when you **acquire an asset** or **reduce heat**.
         - *Your array of connections can be leveraged to loan assets, pressure a vendor to give you a better deal, intimidate witnesses, etc.*
 - Powers:
-    - Acid Arrow
-        - Requires: WILL d8
-        - Cost: Action, Stress 7 (range 2, force 5)
-        - Target: 1 creature within 100'.
-        - Attack: Utter/WILL! vs IRON
-        - Hit: (Utter)[d12] *chemical* damage.
-        - Target: One adjacent creature.
-        - Effect: (Utter)[d4] *chemical* damage.
     - Aegis
         - Requires: WILL d10.
-        - Cost: Action or Reaction, Stress 4 (range 1, condition 3).
+        - Cost: Act or React, Stress 4 (range 1, condition 3).
         - Target: 1 allied creature within 30'.
         - Trigger: An enemy targets an ally.
         - Effect: Select one damage type. The target gains *resistance* to that damage type for 1 minute (10 rounds).
     - Basic Melee Attack
         - Requires: *Melee* weapon.
-        - Cost: Action.
+        - Cost: Act.
         - Target: 1 creature you threaten.
         - Attack: Skirmish/BODY! vs IRON.
         - Hit: (half Skirmish)[POW] + [BODY] *kinetic* damage.
     - Basic Ranged Attack
         - Requires: *Ranged* weapon.
-        - Cost: Action.
+        - Cost: Act.
         - Target: 1 creature within your weapon's range.
             - *You may target a creature at double your weapon's range by suffering Disadvantage on your attack action roll.*
         - Attack: Hunt/BODY! vs IRON.
         - Hit: (half Hunt)[POW] + [BODY] *kinetic* damage.
     - Caustic Flame
         - Requires: Utter 1, WILL d6.
-        - Cost: Action, Stress 6 (area 1, range 1, condition 2 + 2).
+        - Cost: Act, Stress 6 (area 1, range 1, condition 2 + 2).
         - Target: Creatures in 10' cube within 30'.
         - Attack: Utter/WILL! vs IRON.
         - Effect: Target suffers *Burning* d6 and *Corroding* d6.
-    - Fog
-        - Requires: WILL d4.
-        - Cost: Action or Reaction, Stress 3 (area 2, duration 1).
-        - Trigger: An enemy takes an Action or targets an ally.
-        - Effect: Create a cloud of fog with a 30' diameter centered on you. The cloud *conceals* and lasts one minute (10 rounds) unless removed.
     - Inhale/Exhale
         - Requires: MIND d4, Study 1
-        - Cost: Action, Stress 0 (range 1)
+        - Cost: Act, Stress 0 (range 1)
         - Target: 1 allied creature within 30'.
         - Effect: You suffer another's wounds (select 1):
             - The target selects 1 wound and loses it. You gain that wound.
@@ -112,7 +105,7 @@
 
             On your next turn, you may use the following:
     - Exhale
-        - Cost: Reaction, Stress 2 (range 1, force 1).
+        - Cost: React, Stress 2 (range 1, force 1).
         - Trigger: An enemy creature within 30' begins its turn.
         - Target: 1 enemy creature within 30'.
         - Attack: Study/MIND! vs WARD.
@@ -121,12 +114,10 @@
             - You roll a recovery. The target suffers *entropic* damage equal to the recovered HP.
             - You clear up to 3 stress. The target gains that stress.
     - Plasmic Darts
-        - Requires: WILL d4
-        - Cost: Action, Stress 3 (area 1, range 1, force 1)
-        - Effect: Make the following attack a number of times equal to your attacking Action Rating.
-        - Target: 1 enemy creature within 30'.
-        - Attack: (Action)/WILL! vs IRON.
-        - Hit: [d4] *plasmic* damage.
+        - Requires: WILL d4.
+        - Cost: Act, Stress 3 (area 1, range 1, force 1)
+        - Target: A number of enemy creatures equal to 1 + UTTER within 30'.
+        - Effect: [d4] *plasmic* damage.
 
 - Senses:
     - Normal.
@@ -135,10 +126,16 @@
 - Stride:
     - 25'.
 - Load:
-    - Light (3 boxes).
+    - Light (3 boxes, +5' stride).
 - Items:
-    - `[ ]` Well-made staff (2H, 5', [d6] effect die).
     - `[ ]` 2 *light* daggers (1H, 5', 20' thrown, [d6] effect die).
-    - `[ ]-[ ]` Books and Tomes
-    - `[ ]-[ ]` Leather armor (light, 2 armor boxes, -10 damage/box).
+    - `[ ]` Well-made vestments (light, 2 armor boxes, -10 damage/box).
+
 - Friends & Rivals:
+    - `[+]/[-]` An archivist
+    - `[+]/[-]` A cold killer
+    - `[+]/[-]` An inspector
+    - `[+]/[-]` A servant
+    - `[+]/[-]` A supernatural entity
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *

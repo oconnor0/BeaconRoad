@@ -1,4 +1,5 @@
 # Halfling Technician
+
 - XP Triggers:
     - When you **push yourself** and fail an **action roll**, mark 1 XP in the rolled attribute.
     - At the end of a session, mark 1 or 2 XP if you addressed a challenge with calculation or technical skill.
@@ -9,17 +10,19 @@
     - BODY: 0/6 `[ ][ ][ ][ ][ ][ ]`
     - MIND: 0/6 `[ ][ ][ ][ ][ ][ ]`
     - WILL: 0/6 `[ ][ ][ ][ ][ ][ ]`
+
 - Bloodline: Halfling
 - Archetype: Technician (Felsmith)
 - Tier: 0
 - Crew:
     - Name:
     - Type: Nomads
-- Background: Jeweler.
+- Background: Artisan (Jeweler).
 - Look:
 - Traits:
 - Virtue: **Cheer.** Your unassailable mood lifts the spirits of others in the darkest of times.
 - Vice: **Gluttony.** Gratification from lovers, food, drink, drugs, art, theater, etc.
+
 - Action Ratings:
     - Deed:
         - Finesse: 0
@@ -44,12 +47,14 @@
     - IRON: 12
     - WARD: 14
     - GRIT: 14
+
 - Hit Points: 27/27
 - Recovery Dice: [d8]
 - Stress: 0/8 `[ ][ ][ ][ ][ ][ ][ ][ ]`
 - Armor: 0/2 `[ ][ ]`
 - Shield: 0/0
 - Special: 0/2 `[ ][ ]`
+
 - Special Abilities:
     - **Infiltrator.**
         - You are not affected by **quality** or **Tier** when you bypass security measures.
@@ -62,6 +67,7 @@
         - When you **invent** or **craft** a creation with *arcane* features, get **+1 quality level** to your roll. You begin with one arcane design already known.
             - *Follow the Inventing procedure with the GM to define your first arcane design.*
 - Powers:
+
 - Senses:
     - Normal.
 - Size:
@@ -80,4 +86,7 @@
     - `[ ]-[ ]` Brewer's Pack
     - `[ ]-[ ]` Healer's Pack
     - `[ ]-[ ]` Complex and Large Mechanism
+
 - Friends & Rivals:
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *

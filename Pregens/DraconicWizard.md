@@ -12,14 +12,14 @@
     - WILL: 0/6 `[ ][ ][ ][ ][ ][ ]`
 
 - Bloodline: Draconic
-- Archetype: Wizard (Inquisitor)
+- Archetype: Wizard (Librarian)
 - Tier: 0
 - Faction:
     - Name:
     - Type: Nomads
-- Background:
-- Look:
-- Traits:
+- Background: Academic (Professor Stripped of Tenure)
+- Look: Wizened; Frail; Obsidian Skin; Old, Embroidered Robes.
+- Traits: Charming, Dishonest.
 - Virtue: **Resonance.** Beauty and splendor in the world reverberate within you and grow around you.
 - Vice: **Greed.** While dragons sleep on mountains, their descendents love gold and jewel.
 
@@ -27,28 +27,28 @@
     - BODY:
         - Finesse: 0
         - Prowl: 0
-        - Skirmish: 2
+        - Skirmish: 0
         - Wreck: 0
     - MIND:
         - Craft: 0
-        - Hunt: 1
-        - Study: 1
-        - Survey: 1
+        - Hunt: 0
+        - Study: 2
+        - Survey: 2
     - WILL:
         - Command: 0
-        - Consort: 0
+        - Consort: 1
         - Sway: 0
         - Utter: 2
 - Attributes:
-    - BODY: d4
-    - MIND: d8
-    - WILL: d4
+    - BODY: 0
+    - MIND: d6
+    - WILL: d6
 - Defenses:
-    - IRON: 12
-    - WARD: 16
-    - GRIT: 12
+    - IRON: 8
+    - WARD: 14
+    - GRIT: 14
 
-- Hit Points: 22/22
+- Hit Points: 18/18
 - Recovery Dice: [d6]
 - Stress: 0/8 `[ ][ ][ ][ ][ ][ ][ ][ ]`
 - Armor: 0/2 `[ ][ ]`
@@ -56,24 +56,65 @@
 - Special: 0/2 `[ ][ ]`
 
 - Special Abilities:
-    - **Warded.** You may expend your **special armor** to resist a supernatural consequence, or to **push yourself** when you contend with or employ arcane forces.
+    - **Elemental Affinity (Entropic).** You may expend one box of your **special armor** to negate one consequence from an attack of a single **damage type**, or to **push yourself** to breathe destructive energy.
+        - *What element do you breathe? What elements do you have an affinity for? What elements are you vulnerable to?*
+        - *When you use this ability, tick one special armor box on your character sheet. If you negate a consequence, you ignore it completely. If you use this ability to push yourself, you get one of the benefits (advantage or additional effect die), but you don't take stress. Your special armor is restored at the beginning of downtime.*
+        - **Elemental Breath**
+            - Prerequisites: Elemental Affinity.
+            - Cost: Act, 1 Special Box.
+            - Target: 10' cube within 60'.
+            - Attack: Utter/WILL! vs IRON.
+            - Hit: (Utter)[WILL] *entropic* damage.
+    - **Spellcraft.** *You know the arcane methods to conjure supernatural effects from written spells. You can **Study** a spell (or create a new one) to summon a supernatural effect. You begin with one spell already learned.*
+        - *Without this special ability, written spells are only words on a page.*
+        - *Follow the Spell Creation procedure with the GM to define your first spell.*
+        - *The stress cost of any spells you cast is lowered by the action rating of the casting action - a 6 stress power would cost a character with Utter 2 only 4 stress.*
+        - **Spell Mastery.** *Spell Mastery provides 1 + TIER + UTTER points to reduce Stress costs of Powers using UTTER by 1 for each point (not below 1).*
+        - **Read and Recite**
+            - Prerequisites: Spellcraft.
+            - Requires: Your spellbook or tome.
+            - Cost: Act.
+            - Target: Self.
+            - Effect: Select a Power. If you use that Power the next time you Act or React, reduce the Stress cost by the invoking ACTION (not below 1).
 - Powers:
-    - **Exploit Opponent**
-        - *You open a hole in your opponent's defense.*
-        - Requires: Study 1, MIND d4.
-        - Cost: Action, Stress 2 (condition 1, duration 0, range 1).
-        - Target: 1 enemy creature within 30'.
-        - Check: Study/MIND! vs WARD, IRON, and GRIT.
-        - Success: The target suffers *exposed* for one of the hit defenses (of your choosing).
-    - **Wolfbite**
-        - *A weapon begins to glow with cold energy. When used to attack, a spectral wolf's head lashes out and bites the target.*
-        - Requires: WILL d4
-        - Cost: Action, Stress 2 (condition 1, duration 1)
-        - Target: 1 weapon within touch. (Take 1 Stress to increase the range of this by 30'.)
-        - Effect: For the next minute (10 rounds), that weapon additionally deals *glacial* and *plasmic* damage, and attacks with that weapon are *strengthened* 1 (+1 effect die).
+    - Acid Arrow
+        - Requires: WILL d8
+        - Cost: Act, Stress 7 (range 2, force 5)
+        - Target: 1 creature within 100'.
+        - Attack: Utter/WILL! vs IRON
+        - Hit: (Utter)[d12] *chemical* damage.
+        - Target: One adjacent creature.
+        - Effect: (Utter)[d4] *chemical* damage.
+    - Fog
+        - Requires: WILL d4.
+        - Cost: Act or React, Stress 3 (area 2, duration 1).
+        - Trigger: An enemy Acts or targets an ally.
+        - Effect: Create a cloud of fog with a 30' diameter centered on you. The cloud *conceals* and lasts one minute (10 rounds) unless removed.
+    - Pox
+        - Requires: Utter 3, WILL d8.
+        - Cost: Act, Stress 5 (area 1, range 1, condition 3).
+        - Target: 2 + \[d4\] enemy creatures within 30'.
+        - Attack: Utter/WILL! vs IRON.
+        - Hit: Target suffers *blighted d4* and *sickened*.
+
+- Senses:
+    - Normal.
+- Size:
+    - Medium (5' × 5'), averaging from 6' to 7' tall.
+- Stride:
+    - 25'.
 - Load:
+    - Light (5 boxes).
 - Items:
-    - `[ ]-[ ]` Greatsword ()
-    - `[ ]-[ ]` Armored Vestments
-    - `[ ]`
+    - `[ ]` Well-made staff (2H, 5', [d6] effect die).
+    - `[ ]` Vestments (light, 2 armor boxes, -10 damage/box).
+    - `[ ]-[ ]` Books and Tomes.
+
 - Friends & Rivals:
+    - `[+]/[-]` An archivist
+    - `[+]/[-]` A cold killer
+    - `[+]/[-]` An inspector
+    - `[+]/[-]` A servant
+    - `[+]/[-]` A supernatural entity
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
