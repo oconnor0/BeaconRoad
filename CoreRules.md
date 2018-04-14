@@ -367,7 +367,6 @@ The player characters are not normal and so can tap into heroic blessings that e
 
 * To avoid death.
 * To Act or React an additional time per round.
-* To **push yourself**.
 * To reroll with Advantage a failed roll.
 * To trigger a flashback.
 * Instead of taking some amount of Stress (not covered in the above).
@@ -1315,7 +1314,8 @@ You don't need to select specific items now. Review your personal items and the 
         - You know the arcane methods to conjure supernatural effects from written spells. You can **Study** a spell (or create a new one) to summon a supernatural effect. You begin with one spell already learned.
             - *Without this special ability, written spells are only words on a page.*
             - *Follow the Spell Creation procedure with the GM to define your first spell.*
-        - **Spell Mastery.** *Spell Mastery provides 1 + TIER + UTTER points to reduce Stress costs of Powers using UTTER by 1 for each point (not below 1).*
+        - **Studied Spells.** *Studied Spells allows you to reduce Stress costs of Powers using UTTER. Select appropriate Powers. Reduce their Stress costs (not below 1). You cannot reduce Stress costs more than a cumulative 1 + TIER + UTTER.*
+            - *For example, if you are Tier 2 with Utter 4 (so 1 + 2 + 4 = 7), you could reduce the Stress cost of one Power by 3 and another by 4.*
         - **Read and Recite**
             - Prerequisites: Spellcraft.
             - Requires: Your spellbook or tome.
@@ -2821,7 +2821,7 @@ Work on a **long-term project**, if you have the means.
 
 Mark segments on the clock according to your result:
 
-* **Critical:** Three + *critical multiplier* ticks.
+* **Critical:** Two + *critical multiplier* ticks.
 * **Success:** Two ticks.
 * **Failure:** One tick.
 
@@ -2833,7 +2833,7 @@ Get **treatment** to tick your **healing clock** (like a long-term project). *Wh
 
 Say how you reduce **heat** on the crew and roll your action. Reduce **heat** according to the result level:
 
-* **Critical:** Clear three + *critical multiplier* **heat**.
+* **Critical:** Clear two + *critical multiplier* **heat**.
 * **Success:** Clear two **heat**.
 * **Failure:** Clear one **heat**.
 
