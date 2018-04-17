@@ -13,6 +13,7 @@ Also, [those who have contributed](Contributors.md) and [the license](License.md
 Generation of PDFs of the Pregens can be done via pandoc as:
 
     pandoc -s --pdf-engine=xelatex Pregens/OrcWarrior.md -o OrcWarrior.pdf --variable fontfamily="Garamond"
+    pandoc -s --pdf-engine=xelatex -V fontfamily="Garamond" DraconicWizard.md PageBreak.md DwarfWarrior.md PageBreak.md ElfRogue.md PageBreak.md ForgebornTechnician.md PageBreak.md HalflingTechnician.md PageBreak.md HumanWizard.md PageBreak.md OrcWarrior.md PageBreak.md TrollRogue.md -o Pregens.pdf
 
 ## License
 

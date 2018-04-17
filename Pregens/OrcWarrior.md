@@ -16,7 +16,7 @@
 - Tier: 0
 - Faction:
     - Name:
-    - Type: Nomads
+    - Type: Sin-eaters
 - Background: Tribal (Exiled Shaman).
 - Look: Graying Mutton Chops, Bone Talismans Tied into Rags, Bare Feet.
 - Traits: Bloodlust, Sagacious.
@@ -56,6 +56,8 @@
 - Special: 0/2 `[ ][ ]`
 
 - Special Abilities:
+    - **Oath of Veracity.** *To lie you must take 1 **stress**. If you break your word, take 1 **stress**. When you **gather information**, gain **Advantage** when attempting to discern the truth or to detect lies.*
+        - *You vow to always tell the truth and to follow through on whatever you say. You become supernaturally aware of other's lies.*
     - **Battleborn.** You may expend your **special armor** to negate a consequence from an attack in combat or to **push yourself** during a fight.
         - *When you use this ability, tick one special armor box on your character sheet. If you "negate a consequence", you completely avoid damage, a wound, or another consequence. If you use this ability to push yourself, you get one of the benefits (advantage, additional effect die, act when slowed or stunned), but you don't take stress. Your special armor is restored at the beginning of downtime.*
     - **Savage.** When you unleash physical violence, it's especially frightening. When you **Command** a frightened target, gain **advantage**.

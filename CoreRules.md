@@ -3134,7 +3134,7 @@ The below weapons are for medium-sized creatures. A large-sized creature increas
 * A **mace**
     * *A common one-handed mace (1 load) threatens to 5' and rolls a [d6] effect die.*
 * A **flail**
-    * *A common one-handed flair (1 load) threatens to 5' and rolls a [d8] effect die.*
+    * *A common one-handed flail (1 load) threatens to 5' and rolls a [d8] effect die.*
 * A **mattock**
     * *A common mattock (1 load) threatens to 5' and can be wielded one-handed for a [d6] effect die or two-handed for a [d8].*
 * A **shortbow**
@@ -3146,7 +3146,7 @@ The below weapons are for medium-sized creatures. A large-sized creature increas
 * A **light crossbow**
     * *A common two-handed light crossbow (2 load) can effectively shoot to 50' and rolls a [d8] effect die, and takes an Action to reload.*
 * A **heavy crossbow**
-    * *A common two-handed heavy crossbow (2 load) can effectively shoot to 150', rolls a [d10] effect die, and takes an Action to reload.*
+    * *A common two-handed heavy crossbow (3 load) can effectively shoot to 150', rolls a [d10] effect die, and takes an Action to reload.*
 * A **sling**
     * *A common light one-handed sling (1 load) can effectively shoot to 100' and rolls a [d8] effect die.*
 * A **spear-thrower**
@@ -3525,6 +3525,12 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
 
 ## Powers List
 
+* Assist
+    * Cost: React, Stress 1.
+    * Trigger: An ally Acts.
+    * Target: 1 allied creature you can see.
+    * Effect: Describe how you aid them. If plausible, they gain Advantage on their roll and may reroll, taking the second roll, if they dislike the first result.
+
 ### BODY
 
 * Basic Melee Attack
@@ -3537,7 +3543,7 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
 #### d4
 
 * Bash
-    * Requires: BODY d4, Wreck 2, *defensive* weapon.
+    * Requires: BODY d4, Wreck 1, *defensive* weapon.
     * Cost: Action, Stress 1 (condition 1).
     * Target: 1 creature you threaten.
     * Attack: Wreck/BODY! vs IRON.
@@ -3599,7 +3605,7 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
     * Effect: Make a main-hand melee *light* weapon attack. If you hit with that attack, you may immediately make an attack with your off-hand *light* weapon.
 
 * Sidestep
-    * Requires: BODY d6;
+    * Requires: BODY d6.
     * Cost: Reaction, Stress 0
     * Trigger: You hit with an attack.
     * Effect: Maneuver up to 10'.
@@ -3680,9 +3686,9 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
     * Effect: Gain *advantage* on your next ranged attack this turn.
 
 * Attack!
-    * Requires: Command 1, MIND d4.
+    * Requires: MIND d4.
     * Cost: Action, Stress 1; or Reaction, Stress 2.
-    * Trigger:  An enemy takes an Action or targets an ally.
+    * Trigger:  An enemy Acts or targets an ally.
     * Target: 1 allied creature within 30'.
     * Effect: Target ally may make 1 basic attack.
 
@@ -3736,7 +3742,7 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
 
 * Feint
     * Requires: MIND d6.
-    * Cost: Action, Stress
+    * Cost: Action.
     * Target: 1 creature you threaten.
     * Attack: Study/MIND! vs WARD.
     * Hit: Make a melee weapon attack with Advantage against the target.
@@ -3829,6 +3835,7 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
 * Frost Spear
     * Requires: WILL d4.
     * Cost: Action, Stress 3 (range 1, force 1, condition 1).
+    * Target: 1 enemy creature within 30'.
     * Attack: Utter/WILL! vs IRON.
     * Hit: (Utter)[d6] *glacial* damage, and target suffers *slowed*.
 

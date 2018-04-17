@@ -16,7 +16,7 @@
 - Tier: 0
 - Faction:
     - Name:
-    - Type: Nomads
+    - Type: Sin-eaters
 - Background: Slave (Ex-slave, gladiator).
 - Look: Built, Braids, Gray Eyes, Kilt.
 - Traits: Crazed, Dimwitted, Visionary.
@@ -56,6 +56,8 @@
 - Special: 0/2 `[ ][ ]`
 
 - Special Abilities:
+    - **Oath of Veracity.** *To lie you must take 1 **stress**. If you break your word, take 1 **stress**. When you **gather information**, gain **Advantage** when attempting to discern the truth or to detect lies.*
+        - *You vow to always tell the truth and to follow through on whatever you say. You become supernaturally aware of other's lies.*
     - **Arcane Potency.** You may imbue your hands, melee weapons, or tools with energy - allowing them to deal an additional damage type in addition to *kinetic* damage.
         - *Your fists are now a light, melee weapon that rolls a [d8] effect die and threatens 10'.*
         - *When you imbue yourself with arcane energy, how do you do it? What does it look like when the energy manifests?*

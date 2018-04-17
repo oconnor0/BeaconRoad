@@ -16,7 +16,7 @@
 - Tier: 0
 - Faction:
     - Name:
-    - Type: Nomads
+    - Type: Sin-eaters
 - Background: Academic (Professor Stripped of Tenure)
 - Look: Wizened; Frail; Obsidian Skin; Old, Embroidered Robes.
 - Traits: Charming, Dishonest.
@@ -56,6 +56,8 @@
 - Special: 0/2 `[ ][ ]`
 
 - Special Abilities:
+    - **Oath of Veracity.** *To lie you must take 1 **stress**. If you break your word, take 1 **stress**. When you **gather information**, gain **Advantage** when attempting to discern the truth or to detect lies.*
+        - *You vow to always tell the truth and to follow through on whatever you say. You become supernaturally aware of other's lies.*
     - **Elemental Affinity (Entropic).** You may expend one box of your **special armor** to negate one consequence from an attack of a single **damage type**, or to **push yourself** to breathe destructive energy.
         - *What element do you breathe? What elements do you have an affinity for? What elements are you vulnerable to?*
         - *When you use this ability, tick one special armor box on your character sheet. If you negate a consequence, you ignore it completely. If you use this ability to push yourself, you get one of the benefits (advantage or additional effect die), but you don't take stress. Your special armor is restored at the beginning of downtime.*

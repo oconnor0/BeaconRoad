@@ -16,7 +16,7 @@
 - Tier: 0
 - Faction:
     - Name:
-    - Type: Nomads
+    - Type: Sin-eaters
 - Background: Military (Enlisted).
 - Look: Sturdy, Scarred, and Haunted, Piercing Blue Eyes.
 - Traits: Cautious, Quiet, Thoughtful.
@@ -56,6 +56,8 @@
 - Special: 0/2 `[ ][ ]`
 
 - Special Abilities:
+    - **Oath of Veracity.** *To lie you must take 1 **stress**. If you break your word, take 1 **stress**. When you **gather information**, gain **Advantage** when attempting to discern the truth or to detect lies.*
+        - *You vow to always tell the truth and to follow through on whatever you say. You become supernaturally aware of other's lies.*
     - **Bodyguard.** When you **protect** a teammate, gain **Advantage** on your resistance roll. When you gather info to anticipate possible threats in the current situation, you get **+1 effect**.
         - *The protect teamwork maneuver lets you face a consequence for a teammate. If you choose to resist that consequence, this ability gives you Advantage on your resistance roll. Also, when you read a situation to gather information about hidden dangers or potential attackers, you get +1 effect-which means more detailed information.*
     - **Strapping.** Your load limits are higher, and you are not slowed by your load. Light: 5. Normal: 7. Heavy: 8.

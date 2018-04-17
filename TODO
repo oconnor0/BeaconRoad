@@ -147,12 +147,12 @@ BOOK:
     [ ] Color tables
 
 PREP:
-  [ ] Create all 8 pregen characters.
+  [x] Create all 8 pregen characters. @done (18-04-16 22:06)
     [x] Draconic Wizard @done (18-04-12 21:54)
     [x] Dwarf Warrior @done (18-04-09 21:28)
     [x] Elf Rogue @done (18-04-09 21:32)
-    [ ] Forgeborn Technician
-    [ ] Halfling Tehnician
+    [x] Forgeborn Technician @done (18-04-16 22:06)
+    [x] Halfling Tehnician @done (18-04-16 21:40)
     [x] Human Wizard @done (18-04-09 21:23)
     [x] Orc Warrior @done (18-04-07 21:39)
     [x] Troll Rogue @done (18-04-07 21:41)

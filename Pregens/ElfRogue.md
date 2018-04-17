@@ -16,7 +16,7 @@
 - Tier: 0
 - Faction:
     - Name:
-    - Type: Nomads
+    - Type: Sin-eaters
 - Background: Criminal (Escaped Prisoner).
 - Look: Gaunt, Hairless, Piercing Gray Hawk-Eyes, Faded Green Duster.
 - Traits: Cold, Fair, Strange.
@@ -56,6 +56,8 @@
 - Special: 0/2 `[ ][ ]`
 
 - Special Abilities:
+    - **Oath of Veracity.** *To lie you must take 1 **stress**. If you break your word, take 1 **stress**. When you **gather information**, gain **Advantage** when attempting to discern the truth or to detect lies.*
+        - *You vow to always tell the truth and to follow through on whatever you say. You become supernaturally aware of other's lies.*
     - **Reflexes.** When there's a question about who acts first, the answer is you.
         - *You may choose to act *cautiously* in combat, but if an enemy would attempt to act against you, you may take your turn before they do.*
         - *This ability gives you the initiative in most situations. Some specially trained NPCs might also have reflexes, but otherwise, you're always the first to act, and can interrupt anyone else who tries to beat you to the punch. This ability usually doesn't negate the need to make an action roll that you would otherwise have to make, but it may improve your position or effect.*

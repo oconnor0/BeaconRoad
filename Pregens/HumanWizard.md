@@ -16,7 +16,7 @@
 - Tier: 0
 - Faction:
     - Name:
-    - Type: Nomads
+    - Type: Sin-eaters
 - Background: Labor for Noble (Gamekeeper).
 - Look: Shaved Head, Goggles, Suit.
 - Traits: Honest, Impatient.
@@ -56,6 +56,8 @@
 - Special: 0/0
 
 - Special Abilities:
+    - **Oath of Veracity.** *To lie you must take 1 **stress**. If you break your word, take 1 **stress**. When you **gather information**, gain **Advantage** when attempting to discern the truth or to detect lies.*
+        - *You vow to always tell the truth and to follow through on whatever you say. You become supernaturally aware of other's lies.*
     - **Bargain.** You have made a pact with some powerful entity to channel its power - in exchange.
         - *You suffer other consequences instead of taking stress to use rituals or cast spells. Is this health, coin, luck, relationships, mishaps?*
         - *Work with the GM to define your pact and your first spell.*
