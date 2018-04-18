@@ -1,42 +1,120 @@
 ---
 title: "Conditions"
+fontfamily: "Garamond"
+geometry: margin=1in
 ---
+[//]: # (pandoc -s --pdf-engine=xelatex ConditionsCheatsheet.md -o ConditionsCheatsheet.pdf)
 
-- ☐ **Bleeding** (if you are living, you lose *[d4]/[d6]/[d8]/[d10]/[d12]* HP at the beginning of your turn)
-- ☐ **Blighted** (*[d4]/[d6]/[d8]/[d10]/[d12]* *entropic* damage at the beginning of your turn)
-- ☐ **Blinded** (you cannot see and suffer Disadvantage on actions involving sight, Actions entirely dependent upon sight fail)
-- ☐ **Burning** (*[d4]/[d6]/[d8]/[d10]/[d12]* *thermal* damage at the beginning of your turn)
-- ☐ **Corroding** (*[d4]/[d6]/[d8]/[d10]/[d12]* *chemical* damage at the beginning of your turn)
-- ☐ **Charmed** (you act on your *charmer's* behalf without unduly endangering yourself)
-- ☐ **Deafened** (you cannot hear and suffer Disadvantage on any rolls that involve sound Checks entirely dependent upon sound automatically fail)
-- ☐ **Disarmed** (you have one or more items involuntarily removed from your hands)
-- ☐ **Distracted** (Disadvantage on all rolls)
-- ☐ **Dominated** (you obey your *dominator's* every whim)
-- ☐ **Downed** (**-5** **defense** and do not threaten You must spend an Action to stand)
-- ☐ **Exposed** (**-5 to a single defense**)
-- ☐ **Goaded** (Disadvantage on attacks that do not include the *goader*)
-- ☐ **Incapacitated** (**defense** is **6**, cannot Act, do not Threaten)
-- ☐ **Rooted** (cannot move or be moved)
-- ☐ **Sickened** (*distracted* and *weakened*)
-- ☐ **Slowed** (Act and React one less time each round and do not Threaten on other turns, **1 stress** to Act once more on your turn)
-- ☐ **Stunned**  (cannot Act or React and do not Threaten on other turns, **1 stress** to Act)
-- ☐ **Terrified** (Disadvantage on rolls while the source of your fear is present and cannot move closer to the source of that fear without taking **stress**)
-- ☐ **Vulnerable** (2× damage from one type)
-- ☐ **Weakened** (*-1/-2/-3/-4/-5* **effect** die)
-- ☐ **Flanked** (threatening enemies on opposite sides of you split your attention, and you grant Advantage on attacks checks targeting you made by flanking creatures)
-- ☐ **Pushed** (involuntarily moved)
-- ☐ **Slammed** (involuntarily moved; \[d10\] *kinetic* damage for every 10' moved)
-- ☐ **Surprised** (**-5 defense** and cannot React)
-- ☐ **Concealed** (**+5 defense**)
-- ☐ **Deflecting** (**+5 defense** against attacks that deal damage from one chosen damage type)
-- ☐ **Flanking** (you and an ally threaten an enemy from opposite sides and gain Advantage on attack checks targeting the flanked enemy)
-- ☐ **Focused** (Advantage on rolls)
-- ☐ **Fortified** (**+5 to a single defense**)
-- ☐ **Hastened** (you may Act an additional time each round)
-- ☐ **Healing** (you restore *(1 + TIER) [d4]/[d6]/[d8]/[d10]/[d12]* HP)
-- ☐ **Hidden** (you cannot be targeted When you make an attack against a target you are hidden from, gain Advantage on the attack check and that target may not take reactions to your attack)
-- ☐ **Quickened** (your Stride doubles)
-- ☐ **Regenerating** (restore *1/2/3/4/5 + TIER* HP at the beginning of your turn)
-- ☐ **Resistant** (half damage from one type)
-- ☐ **Sheltered** (**+5 defense** and *resistance*)
-- ☐ **Strengthened** (*+1/+2/+3/+4/+5* **effect** die)
+Bleeding
+: if living, lose *[d4]/[d6]/[d8]/[d10]/[d12]* HP at the beginning of your turn
+
+Blighted
+: *[d4]/[d6]/[d8]/[d10]/[d12]* *entropic* damage at the beginning of your turn
+
+Blinded
+: cannot see and suffer Disadvantage on Acts involving sight, Acts entirely dependent upon sight fail
+
+Burning
+: *[d4]/[d6]/[d8]/[d10]/[d12]* *thermal* damage at the beginning of your turn
+
+Charmed
+: Act and React on your *charmer's* behalf without unduly endangering yourself
+
+Concealed
+: *+5 Defense*
+
+Corroding
+: *[d4]/[d6]/[d8]/[d10]/[d12]* *chemical* damage at the beginning of your turn
+
+Deafened
+: cannot hear, Disadvantage on any rolls that involve sound, Acts entirely dependent upon sound automatically fail
+
+Deflecting
+: *+5 Defense* against attacks that deal damage from one type
+
+Disarmed
+: one or more items involuntarily removed from your hands
+
+Distracted
+: Disadvantage on all rolls
+
+Dominated
+: obey your *dominator's* every whim
+
+Downed
+: *-5* *Defense*, do not Threaten, Act to stand
+
+Exposed
+: *-5 to a single Defense*
+
+Flanked
+: Threatening enemies on opposite sides of you split your attention, and you grant Advantage on attacks checks targeting you made by flanking creatures
+
+Flanking
+: you and an ally Threaten an enemy from opposite sides and gain Advantage on attack checks targeting the flanked enemy
+
+Focused
+: Advantage on rolls
+
+Fortified
+: *+5 to a single Defense*
+
+Goaded
+: Disadvantage on attacks that do not include the *goader*
+
+Hastened
+: Act an additional time each round
+
+Healing
+: restore *(1 + TIER) [d4]/[d6]/[d8]/[d10]/[d12]* HP
+
+Hidden
+: cannot be Targeted, When you make an attack against a target you are hidden from, gain Advantage on the attack check and that target may not take reactions to your attack
+
+Incapacitated
+: *Defense* is *6*, cannot Act, do not Threaten
+
+Pushed
+: involuntarily moved
+
+Quickened
+: your Stride doubles
+
+Regenerating
+: restore *1/2/3/4/5 + TIER* HP at the beginning of your turn
+
+Resistant
+: half damage from one type
+
+Rooted
+: cannot move or be moved
+
+Sheltered
+: *+5 Defense* and *resistance*
+
+Sickened
+: *distracted* and *weakened*
+
+Slammed
+: involuntarily moved; \[d10\] *kinetic* damage for every 10' moved
+
+Slowed
+: Act and React one less time each round, do not Threaten on other turns, *1 stress* to Act once more on your turn
+
+Strengthened
+: *+1/+2/+3/+4/+5* *effect* die
+
+Stunned
+: cannot Act or React and do not Threaten on other turns, *1 stress* to Act
+
+Surprised
+: *-5 Defense* and cannot React
+
+Terrified
+: Disadvantage on rolls while your fear is present and cannot move closer without taking *stress*
+
+Vulnerable
+: 2× damage from one type
+
+Weakened
+: *-1/-2/-3/-4/-5* *effect* die

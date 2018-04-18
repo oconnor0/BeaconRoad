@@ -194,6 +194,8 @@ OPEN:
   [ ] How to handle effect duration and saving throws?
   [ ] Wounds and death rules
   [ ] Make checks for heals vs effect just happens?
+  [ ] Rename "Check" to "Roll".
+  [ ] Capitalize defined terms.
   [ ] Dispel? Cleanse?
   [ ] How to handle upkeeps? Remove them? Keep them? I think I need them to balance buff stacking to infinity.
   [ ] Fix dispel rules since there may be no initiating check. Dispel check must be at least 10 + power grade + caster level to affect? 10 + twice caster level?
