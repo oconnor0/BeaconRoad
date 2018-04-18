@@ -19,12 +19,13 @@ PROTOTYPE:
    [ ] Limited
 
 TODO:
- [ ] Move Aim, Charge, Reaction Strike, Aid/Assist to Powers.
+ [x] Move Aim, Charge, Reaction Strike, Aid/Assist to Powers. @done (18-04-17 21:34)
  [x] Change how armor works to reduce damage by 10/12/15/20 per box (light/medium/heavy/exosuit). @done (18-04-08 23:48)
- [ ] What is the halfing tech's arcane design?
+ [x] What is the halfing tech's arcane design? @done (18-04-17 21:34)
  [ ] Rename Crew to Faction
  [ ] Carouse sucks. Make it downtime action for cheaper stress?
- [ ] Special boxes need a new name!
+ [ ] Special boxes need a new name! Powers Boxes
+ [ ] Work out Recovery rules.
 
 BOOK:
   [ ] **100000** words by December 2018 @due( 2018-12-1) @todo
@@ -41,14 +42,14 @@ BOOK:
     [x] Armor & defense @done (18-03-20 22:14)
     [x] Wounds & their severity @done (18-03-20 21:58)
     [x] Buffs & their awesomeness @done (18-03-20 22:00)
-  [ ] Crew/fellowship/party rules
-    [ ] Crew sheets
+  [ ] Faction (Player) Rules
+    [ ] Faction sheets
       [ ] Blank
       [ ] Guild
       [ ] Order
       [ ] Rovers/Nomads
       [ ] Sin-eaters
-    [ ] Crews
+    [ ] Factions
       [ ] Guild
       [ ] Order
       [ ] Rovers/Nomads
@@ -70,7 +71,7 @@ BOOK:
       [x] Rogue
         [ ] Description
         [ ] Starting Builds
-        [ ] Special Abilities - remove 1?
+        [ ] Special Abilities
       [x] Technician
         [ ] Description
         [ ] Items
@@ -122,7 +123,7 @@ BOOK:
         [x] Troll Harmony
         [x] Human Service
         [x] Orc Justice
-  [ ] Faction rules
+  [ ] Faction (GM) rules
     [ ] Status
     [ ] How your actions affect them?
     [ ] How do those factions accomplish their goals?
@@ -132,7 +133,7 @@ BOOK:
     [ ] Or simplify/remove Action and Attribute requirements?
     [ ] Verify Stress requirements of Powers.
     [ ] Check relative power/balance level of Powers.
-    [ ] Move Charge, Aim, "Opportunity Attack", "Defensive Attack" to Powers?
+    [x] Move Charge, Aim, "Opportunity Attack", "Defensive Attack" to Powers? @done (18-04-17 21:35)
   [ ] Sandbox rules (inspired by Blades and Stars Without Number)
     [ ] Name tables
     [ ] Rumor tables

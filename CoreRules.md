@@ -2394,7 +2394,7 @@ While **stunned**  *(severity 4)*, you cannot Act or React and do not threaten o
 
 While **terrified** *(severity 3)*, you suffer disadvantage on checks while the source of your fear is present and cannot move closer to the source of that fear without taking **stress**.
 
-While **vulnerable** *(severity 4)*, you suffer double damage from one chosen damage type. Negating damage of that type takes 1 additional **armor** box.
+While **vulnerable** *(severity 4)*, you suffer double damage from one chosen damage type.
 
 While **weakened** *(severity 1-5)*, you roll **-1** (or -2, -3, -4 or -5) **effect** die.
 
