@@ -14,7 +14,7 @@
     * Handled by **pushing yourself** and taking **stress**.
   * What are the things the game is about?
     * You can push yourself beyond normal limits. (pushing yourself with stress)
-    * You are a part of something bigger than yourself. (crew)
+    * You are a part of something bigger than yourself. (faction)
     * You have the capacity for good and evil (vice and virtue).
   * What is the game not about?
     * Fiddly things - tracking copper.
