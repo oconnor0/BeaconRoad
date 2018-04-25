@@ -274,7 +274,7 @@ There are three **defenses** in the game system that determine if attacks hit: *
 
 ## Hit Points
 
-A character has **hit points** (**HP**) representing their health, vitality, and will to fight. When an attack hits or at other triggers (e.g. disease, poison, wounds, etc.), a character might suffer **damage** to their hit points. This reduces their current HP by that amount. When a character is reduced to zero or fewer HP, they fall unconscious, becoming *incapacitated*. A character becomes *staggered* when their current hit points are half of or less than their maximum hit points.
+A character has **hit points** (**HP**) representing their health, vitality, and will to fight. When an attack hits or at other triggers (e.g. disease, poison, wounds, etc.), a character might suffer **damage** to their hit points. This reduces their current HP by that amount. When a character is reduced to zero or fewer HP, they fall unconscious, becoming *incapacitated*. A character becomes *winded* when their current hit points are half of or less than their maximum hit points.
 
 * *Hit points = 6/11/16 + highest face of BODY + highest face of MIND + highest face of WILL + 4/5/6 per TIER*
     * *HP increases by 4 each Tier for Wizards, 5 each Tier for Rogues and Technicians, and 6 each Tier for Warriors.*
@@ -2332,9 +2332,9 @@ While **sheltered**, gain +5 defense and resistance to all damage types.
 
 * *A target gains sheltered versus attacks when line-of-sight from the attack's origin is partially obscured by something that would stop attacks - for example, a sturdy wall, structure, obstruction, or boulder.*
 
-While **staggered**, current hit points are less than or equal to half maximum hit points.
+While **winded**, current hit points are less than or equal to half maximum hit points.
 
-* Whether or not a creature is staggered is public information.
+* *Whether or not a creature is winded is public information.*
 
 A creature **threatens** a target in melee when the creature is able to act, wielding a melee weapon, and the target is within the range of that weapon. A target **is threatened by** creature when the creature is able to act, wielding a melee weapon, and the target is within the range of that weapon. A creature is **in melee** if it either threatens an enemy or is threatened by an enemy.
 
