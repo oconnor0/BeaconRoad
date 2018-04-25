@@ -29,8 +29,8 @@ TODO:
  [-] Utter needs a new name? @cancelled (18-04-23 11:55)
  [ ] Give Hunter/Rogue pet that uses Command
  [-] Rename Special Abilities to Feats? No, not now. @cancelled (18-04-23 11:55)
- [ ] Remove Powers Boxes and add 2 starting Stress Boxes. Replace references to Powers Boxes with references to Stress Boxes (possibly with a higher cost than 1). ?
- [ ] Unify Armor/Shield Boxes into Soak Boxes? Replace varying damage reduction per box with 10 damage per box.
+ [x] Remove Powers Boxes and add 2 starting Stress Boxes. Replace references to Powers Boxes with references to Stress Boxes (possibly with a higher cost than 1). ? @done (18-04-24 22:04)
+ [x] Unify Armor/Shield Boxes into Soak Boxes? Replace varying damage reduction per box with 10 damage per box. @done (18-04-24 22:04)
  [ ] Rename Advantage vs Disadvantage to Edge vs Flaw/Snag/something? This would help separate the mechanic from D&D 5e - especially since Advantage/Disadvantage stack in BR.
  [ ] I have little idea of how to get Exemplify Virtue and Indulge Vice to work well in the game, but V&V is a good representation of the dividing line between good and evil running through the heart of every man so I want to keep it.
  [ ] I'm pretty happy with the MIND & WILL Actions, but I think I want to rework the BODY Actions. Maybe Prowl, Traverse, Finesse, Skirmish (or Wreck). Survival?

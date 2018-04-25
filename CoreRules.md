@@ -325,7 +325,7 @@ The GM judges the threat level of the enemies and uses these "preemptive" resist
 
 ## Stress
 
-Characters in *Beacon Road* have a special reserve called **stress**. A character starts with 8 maximum stress and may not get more than 12 maximum stress
+Characters in *Beacon Road* have a special reserve called **Stress**. A character starts with 10 maximum stress and may not get more than 12 maximum stress
 
 When they suffer a consequence that they don't want to accept, they can take stress instead. The result of the **resistance roll** determines how much stress it costs to avoid a bad outcome.
 
@@ -673,7 +673,7 @@ Once you decide to resist a consequence and roll, you suffer the stress indicate
 
 ## Armor & Shields
 
-If you have a type of **armor** or **shield** that applies to the situation, you can mark a Soak Box to reduce or avoid a consequence, instead of rolling to resist. If the armor is relevant to the situation, you may mark one or more Soak Box to reduce the damage dealt by 10.
+If you have a type of **armor** or **shield** that applies to the situation, you can mark a Soak Box to reduce or avoid a consequence, instead of rolling to resist. If the armor or shield is relevant to the situation, you may mark one or more Soak Boxes to reduce the damage dealt by 10.
 
 * *Jonadab, while wearing medium armor, would suffer a crushing blow that would deal 30 points of damage and Stun him - effectively taking him out of the fight. Instead, marking two Soak Boxes reduces the damage dealt by 20 (10 per box) to 10 damage and marking a third Soak Box negates the Stun.*
 
@@ -1041,10 +1041,6 @@ Your playbook begins with three action dots already placed. You get to add four 
 
 Take a look at the special abilities for your archetype and your bloodline, and choose one of each. If you can't decide which one to pick, go with the first one on the list-it's placed there as a good default choice.
 
-### Special Armor
-
-Some special abilities refer to your **special armor**. Each character sheet has three sets of boxes to track usage of armor (armor, shield, and special). If you have any abilities that use your special armor, tick one of its box when you activate one of them. If you don't have any special abilities that use special armor, then you can't use those armor boxes. You start with 2 special armor boxes and gain additional boxes equal to your Tier.
-
 ## Calculate derived stats
 
 Derive your hit points, IRON, WARD, and GRIT and write them down.
@@ -1138,8 +1134,8 @@ You don't need to select specific items now. Review your personal items and the 
     - A tavern owner
 - Special Abilities
     - **Ambush.**
-        - When you attack from hiding or spring a trap, you gain **advantage** on your roll.
-            - *This ability benefits from preparation- so don't forget you can do that in a flashback.*
+        - When you attack from hiding or spring a trap, you gain **Advantage** on your roll.
+            - *This ability benefits from preparation---so don't forget you can do that in a flashback.*
     - **Arcane Potency.**
         - You may imbue your hands, melee weapons, or tools with energy - allowing them to deal an additional damage type in addition to *kinetic* damage.
             - *Your fists are now a light, melee weapon that rolls a [d6] for medium, [d4] for small, or [d8] for large effect die and threatens to your reach.*
@@ -1158,10 +1154,10 @@ You don't need to select specific items now. Review your personal items and the 
             - *You may choose to act cautiously in combat, but if an enemy would attempt to act against you, you may take your turn before they do.*
             - *This ability gives you the initiative in most situations. Some specially trained NPCs might also have reflexes, but otherwise, you're always the first to act, and can interrupt anyone else who tries to beat you to the punch. This ability usually doesn't negate the need to make an action roll that you would otherwise have to make, but it may improve your position or effect.*
     - **Shadow.**
-        - You may expend one box of your **special armor** to resist a consequence from detection or security measures, or to **push yourself** for a feat of athletics or stealth.
-            - *When you use this ability, tick one box of your special armor box on your playbook sheet. If you "resist a consequence" of the appropriate type, you avoid it completely. If you use this ability to push yourself, you get one of the benefits (advantage, +1 effect, act despite slowed or stunned) but you don't take 1 stress. Your special armor is restored at the beginning of downtime.*
+        - You may expend one Stress to resist a consequence from detection or security measures. Gain Advantage on feats of athletics or stealth.
+            - *When you use this ability, tick one Stress on your character sheet. If you "resist a consequence" of the appropriate type, you avoid it completely.*
     - **Sharpshooter.**
-        - You do not suffer Disadvantage when making ranged weapon attacks at distances beyond their first range increment. You can **push yourself** to do one of the following: *make a ranged attack at extreme distance beyond what's normal for the weapon-unleash a barrage of rapid fire to suppress the enemy.*
+        - You do not suffer Disadvantage when making ranged weapon attacks at distances beyond their first range increment. You can **push yourself** to do one of the following: *make a ranged attack at extreme distance beyond what's normal for the weapon---unleash a barrage of rapid fire to suppress the enemy.*
             - *When you push yourself to activate this ability, you still get one of the normal benefits of pushing yourself (advantage, +1 effect, etc.) in addition to the special ability.*
             - *The first use of this ability allows you to attempt long-range sniper shots that would otherwise be impossible with typical rudimentary firearms. The second use allows you to keep up a steady rate of fire in a battle (enough to "suppress" a small gang up to six people), rather than stopping for a slow reload or discarding a gun after each shot. When an enemy is suppressed, they're reluctant to maneuver or attack (usually calling for a fortune roll to see if they can manage it).*
     - **Vital Strike.**
@@ -1205,10 +1201,10 @@ You don't need to select specific items now. Review your personal items and the 
         - Due to your careful planning, during downtime, you may give yourself or another crew member **+1 downtime activity**.
             - *If you forget to use this ability during downtime, you can still activate it during the score and flashback to the previous downtime when the extra activity happened.*
     - **Fortitude.**
-        - You may expend your **special armor** to resist a consequence of fatigue; weakness; *chemical*, *entropic*, or *thermal* effects, or to **push yourself** when working with technical skill or handling alchemicals.
-            - *When you use this ability, tick one special armor box on your character sheet. If you resist a consequence, you avoid it completely. If you use this ability to push yourself, you get one of the benefits (advantage or additional effect die), but you don't take stress. Your special armor is restored at the beginning of downtime.*
+        - You may expend one Stress to resist a consequence of fatigue; weakness; *chemical*, *entropic*, or *thermal* effects. Gain Advantage when working with technical skill or handling alchemicals.
+            - *When you use this ability, tick one Stress on your character sheet. If you resist a consequence, you avoid it completely.*
     - **Sawbones.**
-        - Gain **advantage** on action rolls to administer treatment, bind wounds, or help someone heal from trauma.
+        - Gain **Advantage** on action rolls to administer treatment, bind wounds, or help someone heal from trauma.
             - *Training - or far too much practice - is essential to properly administer treatment.*
     - **Strange Methods.**
         - When you **invent** or **craft** a creation with *arcane* features, get **+1 quality level** to your roll. You begin with one arcane design already known.
@@ -1245,22 +1241,19 @@ You don't need to select specific items now. Review your personal items and the 
     - A soldier
 - Special Abilities
     - **Battleborn.**
-        - You may expend your **special armor** to negate a consequence from an attack in combat or to **push yourself** during a fight.
-            - *When you use this ability, tick one special armor box on your character sheet. If you "negate a consequence", you completely avoid damage, a wound, or another consequence. If you use this ability to push yourself, you get one of the benefits (advantage, additional effect die, act when slowed or stunned), but you don't take stress. Your special armor is restored at the beginning of downtime.*
+        - You may expend one Stress Box to negate a consequence from an attack in combat.
     - **Bodyguard.**
-        - When you **protect** a teammate, gain **Advantage** on your resistance roll. When you gather info to anticipate possible threats in the current situation, you get **+1 effect**.
+        - When you **protect** a teammate, gain **Advantage** on your resistance roll. When you gather information to anticipate possible threats in the current situation, you get **+1 effect**.
             - *The protect teamwork maneuver lets you face a consequence for a teammate. If you choose to resist that consequence, this ability gives you Advantage on your resistance roll. Also, when you read a situation to gather information about hidden dangers or potential attackers, you get +1 effect-which means more detailed information.*
     - **Deadly.**
-        - You may expend your **special armor** to **push yourself** when making melee attacks. When you do, you gain all benefits of **pushing yourself**.
-            - *When you use this ability, tick one special armor box on your character sheet. If you use this ability to push yourself, you get all of the benefits (advantage, additional effect die, act when slowed or stunned), but you don't take stress. Your special armor is restored at the beginning of downtime.*
+        - When you **Push Yourself** when making melee attacks, gain all benefits of **Pushing Yourself**.
     - **Mule.**
         - Your load limits are higher. Light: 5. Normal: 7. Heavy: 8.
             - *This ability is great if you want to wear heavy armor and pack a heavy weapon without attracting lots of attention. Since your exact gear is determined on-the-fly during an operation, having more load also gives you more options to get creative with when dealing with problems during a score.*
     - **Stalwart.**
         - You cannot be *pushed* or *slammed*. You gain +2 **Iron**.
     - **Vigorous.**
-        - You recover from harm faster. Permanently fill in one of your healing clock segments. Gain **Advantage** on healing treatment rolls.
-            - *Your healing clock becomes a 3-clock, and you gain Advantage when you recover.*
+        - Gain **Advantage** on healing treatment rolls. Increase your Recovery by *3 + TIER*.
 - Items
     - `[ ]-[ ]-[ ]` Well-made chain or scale armor (medium, 4 Soak Boxes, -10 damage/box).
     - `[ ]` Well-made heavy shield (heavy, 4 Soak Boxes, -10 damage/box).
@@ -1323,8 +1316,7 @@ You don't need to select specific items now. Review your personal items and the 
             - Target: Self.
             - Effect: Select a Power. If you use that Power the next time you Act or React, reduce the Stress cost by the invoking ACTION (not below 1).
     - **Warded.**
-        - You may expend your **special armor** to resist a supernatural consequence, or to **push yourself** when you contend with or employ arcane forces.
-            - *When you use this ability, tick one special armor box on your character sheet. If you resist a consequence, this ability negates or reduces its severity. If you use this ability to push yourself, you get one of the benefits (advantage or additional effect die), but you don't take stress. Your special armor is restored at the beginning of downtime.*
+        - You may expend one Stress to resist a supernatural consequence. Gain +1 WARD.
 - Items
     - `[ ]` Well-made vestments (light, 2 Soak Boxes, -10 damage/box).
     - `[ ]` Well-made staff (2H, 5', [d6] effect die).
@@ -1358,12 +1350,11 @@ Some examples include: Weapons, clothes, arcane implements, specialized tools, c
         * You may imbue your hands, melee weapons, or tools with energy. Your melee attacks then deal an additional **damage type**.
             * What damage type do you imbue yourself with? When you imbue yourself with arcane energy, how do you do it? What does it look like when the energy manifests?
     * **Elemental Affinity.**
-        * You may expend one box of your **special armor** to negate one consequence from an attack of a single **damage type**, or to **push yourself** to breathe destructive energy.
+        * You may expend one Stress to negate a consequence from an attack of a single **damage type**, or to breathe destructive energy.
             * *What element do you breathe? What elements do you have an affinity for? What elements are you vulnerable to?*
-            * *When you use this ability, tick one special armor box on your character sheet. If you negate a consequence, you ignore it completely. If you use this ability to push yourself, you get one of the benefits (advantage or additional effect die), but you don't take stress. Your special armor is restored at the beginning of downtime.*
         * **Elemental Breath**
             * Prerequisites: Elemental Affinity.
-            * Cost: Act, 1 Special Box.
+            * Cost: Act, 2 Stress.
             * Target: 10' cube within 60'.
             * Attack: Action/ATTR! vs IRON.
             * Hit: (Action)[ATTR] *elemental* damage.
@@ -1471,8 +1462,7 @@ Some examples include: Weapons, clothes, arcane implements, specialized tools, c
             - *This ability lets you contend with higher-Tier enemies on equal footing. When you're cracking a safe, picking a lock, or sneaking past elite guards, your effect level is never reduced due to superior Tier or quality level of your opposition.*
             - *Are you a renowned safe cracker? Do people tell stories of how you slipped under the noses of two Chief Inspectors, or are your exceptional talents yet to be discovered?*
     - **Subterfuge.**
-        - You may expend **special armor** to resist a consequence from suspicion or persuasion, or to **push yourself** for subterfuge.
-            - *When you use this ability, tick one of your special armor boxes on your playbook sheet. If you "resist a consequence" of the appropriate type, you avoid it completely. If you use this ability to push yourself, you get one of the benefits (advantage, +1 effect, etc.) but you don't take 1 stress. Your special armor is restored at the beginning of downtime.*
+        - You may expend one Stress to resist a consequence from suspicion or persuasion. Gain Advantage on subterfuge.
 
 ## Human
 
@@ -1494,8 +1484,7 @@ Some examples include: Weapons, clothes, arcane implements, specialized tools, c
         * During downtime, you get **+1 result level** when you **acquire an asset** or **reduce heat**.
             * *Your array of connections can be leveraged to loan assets, pressure a vendor to give you a better deal, intimidate witnesses, etc.*
     * **Mastermind.**
-        * You may expend **special armor** to **protect** a teammate, or to **push yourself** when you gather information or work on a long-term project.
-            * *When you use this ability, tick one special armor box on your playbook sheet. If you protect a teammate, this ability negates or reduces the severity of a consequence or harm that your teammate is facing. You don't have to be present to use this ability-say how you prepared for this situation in the past. If you use this ability to push yourself, you get one of the benefits (advantage, +1 effect), but you don't take 1 stress. Your special armor is restored at the beginning of downtime.*
+        * You may expend one Stress to **protect** a teammate. Gain Advantage when you gather information or work on a long-term project.
 
 ## Orc
 
@@ -1514,7 +1503,7 @@ Some examples include: Weapons, clothes, arcane implements, specialized tools, c
         * Everything is wrong; and you're going to fix it.
 * Special Abilities
     * **Savage.**
-        * When you unleash physical violence, it's especially frightening. When you **Command** a frightened target, gain **advantage**.
+        * When you unleash physical violence, it's especially frightening. When you **Command** a frightened target, gain **Advantage**.
             * *You instill fear in those around you when you get violent. How they react depends on the person. Some people will flee from you, some will be impressed, some will get violent in return. The GM judges the response of a given NPC.*
             * *In addition, when you **Command** someone who's affected by fear (from this ability or otherwise), gain advantage on your roll.*
         - Savage Strike
@@ -1547,9 +1536,8 @@ Some examples include: Weapons, clothes, arcane implements, specialized tools, c
             - *When you push yourself to activate this ability, you still get one of the normal benefits of pushing yourself (advantage, +1 effect, etc.) in addition to the special ability.*
             - *If you perform a feat that verges on the superhuman, you might break a metal weapon with your bare hands, tackle a galloping horse, lift a huge weight, etc. If you engage a small gang on equal footing, you don't suffer reduced effect due to scale against a small gang (up to six people)*.
     - **Regeneration.**
-        - At the beginning of your turn, you may expend one box of your **special armor** to **recover** from **a wound** or **hit point damage.**
+        - At the beginning of your turn, you may expend one Stress to **Recover** from **a wound** or **hit point damage.**
             - *What prevents you from regenerating? What does it look like when you regenerate? Is it painful?*
-            - *When you use this ability, tick one special armor box on your character sheet. Your special armor is restored at the beginning of downtime.*
 
 # The Crew
 
