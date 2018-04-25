@@ -53,7 +53,7 @@
 - Stress: 0/8 `[ ][ ][ ][ ][ ][ ][ ][ ]`
 - Armor: 0/2 `[ ][ ]`
 - Shield: 0/0
-- Special: 0/2 `[ ][ ]`
+- Powers: 0/2 `[ ][ ]`
 
 - Special Abilities:
     - **Oath of Veracity.** *To lie you must take 1 **stress**. If you break your word, take 1 **stress**. When you **gather information**, gain **Advantage** when attempting to discern the truth or to detect lies.*
@@ -61,7 +61,7 @@
     - **Arcane Potency.** You may imbue your hands, melee weapons, or tools with energy - allowing them to deal an additional damage type in addition to *kinetic* damage.
         - *Your fists are now a light, melee weapon that rolls a [d8] effect die and threatens 10'.*
         - *When you imbue yourself with arcane energy, how do you do it? What does it look like when the energy manifests?*
-    - **Regeneration.** At the beginning of your turn, you may expend one box of your **special armor** to **recover** from **a wound** or **hit point damage.**
+    - **Regeneration.** At the beginning of your turn, you may expend one **powers box** to **recover** from **a wound** or **hit point damage.**
         - *What prevents you from regenerating? What does it look like when you regenerate? Is it painful?*
         - *When you use this ability, tick one special armor box on your character sheet. Your special armor is restored at the beginning of downtime.*
 - Powers:

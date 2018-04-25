@@ -53,7 +53,7 @@
 - Stress: 0/8 `[ ][ ][ ][ ][ ][ ][ ][ ]`
 - Armor:
 - Shield:
-- Special:
+- Powers: 0/2 `[ ][ ]`
 
 - Special Abilities:
 - Powers:

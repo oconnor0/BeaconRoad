@@ -6,6 +6,11 @@ geometry: margin=1in
 
 # Conditions
 
+Resistance Roll
+: end of turn or Act, *(1 + TIER)/d20!* vs Controlled (*6*), Risky (*11*), or Desperate (*16*)
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
 Bleeding
 : if living, lose *[d4]/[d6]/[d8]/[d10]/[d12]* HP at the beginning of your turn.
 

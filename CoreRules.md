@@ -1127,7 +1127,7 @@ You don't need to select specific items now. Review your personal items and the 
 - Starting Builds
     - *If you want some guidance when you assign your four starting action dots and special ability, use one of these templates.*
     - **Blackguard.**
-    - **Hunter.** Hunt +2, Study +1, Consort +1. **Sharpshooter.**
+    - **Hunter.** Hunt +2, Study +1, Command +1. **Sharpshooter.**
     - **Keeper.** Hunt +1, Survey +1, Utter +2.
     - **Pugilist.** +1 Prowl, +1 Survey, +2 Consort. **Arcane Potency.**
 - Friends and Rivals
@@ -3675,8 +3675,8 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
     * Cost: Action.
     * Target: 1 creature within your weapon's range.
         * *You may target a creature at double your weapon's range by suffering Disadvantage on your attack action roll.*
-    * Attack: Hunt/BODY! vs IRON.
-    * Hit: (half Hunt)[POW] + [BODY] *kinetic* damage.
+    * Attack: Hunt/MIND! vs IRON.
+    * Hit: (half Hunt)[POW] + [MIND] *kinetic* damage.
 
 #### d4
 

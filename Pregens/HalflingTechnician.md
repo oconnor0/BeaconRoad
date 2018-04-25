@@ -53,7 +53,7 @@
 - Stress: 0/8 `[ ][ ][ ][ ][ ][ ][ ][ ]`
 - Armor: 0/2 `[ ][ ]`
 - Shield: 0/0
-- Special: 0/0
+- Powers: 0/2 `[ ][ ]`
 
 - Special Abilities:
     - **Oath of Veracity.** *To lie you must take 1 **stress**. If you break your word, take 1 **stress**. When you **gather information**, gain **Advantage** when attempting to discern the truth or to detect lies.*

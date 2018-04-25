@@ -22,10 +22,21 @@ TODO:
  [x] Move Aim, Charge, Reaction Strike, Aid/Assist to Powers. @done (18-04-17 21:34)
  [x] Change how armor works to reduce damage by 10/12/15/20 per box (light/medium/heavy/exosuit). @done (18-04-08 23:48)
  [x] What is the halfing tech's arcane design? @done (18-04-17 21:34)
- [ ] Rename Crew to Faction
+ [ ] Rename Crew to Faction and Chapter.
  [ ] Carouse sucks. Make it downtime action for cheaper stress?
- [ ] Special boxes need a new name! Powers Boxes
- [ ] Work out Recovery rules.
+ [-] Special boxes need a new name! Powers Boxes @cancelled (18-04-23 11:55)
+ [ ] Work out Recovery rules. Recovery becomes 1/2 HP instead of Dice. Or 1/3 HP? 1/4 HP? 1/5 HP?
+ [-] Utter needs a new name? @cancelled (18-04-23 11:55)
+ [ ] Give Hunter/Rogue pet that uses Command
+ [-] Rename Special Abilities to Feats? No, not now. @cancelled (18-04-23 11:55)
+ [ ] Remove Powers Boxes and add 2 starting Stress Boxes. Replace references to Powers Boxes with references to Stress Boxes (possibly with a higher cost than 1). ?
+ [ ] Unify Armor/Shield Boxes into Soak Boxes? Replace varying damage reduction per box with 10 damage per box.
+ [ ] Rename Advantage vs Disadvantage to Edge vs Flaw/Snag/something? This would help separate the mechanic from D&D 5e - especially since Advantage/Disadvantage stack in BR.
+ [ ] I have little idea of how to get Exemplify Virtue and Indulge Vice to work well in the game, but V&V is a good representation of the dividing line between good and evil running through the heart of every man so I want to keep it.
+ [ ] I'm pretty happy with the MIND & WILL Actions, but I think I want to rework the BODY Actions. Maybe Prowl, Traverse, Finesse, Skirmish (or Wreck). Survival?
+ [ ] Staggered to Winded?
+ [ ] Change session XP triggers to 1 XP?
+ [ ] Tell me one thing that is true about Trolls/Warriors/etc. in this world.
 
 BOOK:
   [ ] **100000** words by December 2018 @due( 2018-12-1) @todo
@@ -157,19 +168,19 @@ PREP:
     [x] Human Wizard @done (18-04-09 21:23)
     [x] Orc Warrior @done (18-04-07 21:39)
     [x] Troll Rogue @done (18-04-07 21:41)
-  [ ] Create power cards.
-  [ ] Create clear character sheets.
-  [ ] Develop GM cheat sheets.
-  [ ] Write down adventure sketch.
-  [ ] Figure out which mechanics to present at what points.
-  [ ] Write out NPC stats.
-    [ ] Thugs
-    [ ] Jaron
-    [ ] Nadal
+  [-] Create power cards. @cancelled (18-04-24 10:46)
+  [x] Create clear character sheets. @done (18-04-24 10:45)
+  [x] Develop GM cheat sheets. @done (18-04-24 10:46)
+  [-] Write down adventure sketch. @cancelled (18-04-24 10:46)
+  [-] Figure out which mechanics to present at what points. @cancelled (18-04-24 10:46)
+  [x] Write out NPC stats. @done (18-04-24 10:45)
+    [x] Thugs @done (18-04-24 10:45)
+    [x] Jaron @done (18-04-24 10:45)
+    [x] Nadal @done (18-04-24 10:45)
 
 OPEN:
   [ ] Who Will You Be? tagline.
-  [ ] Road Master instead of Game Master?
+  [ ] Road Master instead of Game Master? Moderator? Facilitator?
   [ ] Rename Action to Act and Reaction to React?
   [ ] How to handle a character wanting to Bargain and Spellcraft?
   [ ] Deflecting, Exposed, & Fortified are QL 1-5?
