@@ -671,13 +671,13 @@ Once you decide to resist a consequence and roll, you suffer the stress indicate
     * **Failure:** Take 4 stress.
     * **Botch:** Take 6 stress.
 
-## Armor
+## Armor & Shields
 
-If you have a type of **armor** that applies to the situation, you can mark an armor box to reduce or avoid a consequence, instead of rolling to resist. If the armor is relevant to the situation, you may mark one or more armor boxes to reduce the damage dealt by the amount specified by the armor (usually 10, 12, 15, or 20).
+If you have a type of **armor** or **shield** that applies to the situation, you can mark a Soak Box to reduce or avoid a consequence, instead of rolling to resist. If the armor is relevant to the situation, you may mark one or more Soak Box to reduce the damage dealt by 10.
 
-* *Jonadab, while wearing medium armor, would suffer a crushing blow that would deal 30 points of damage and stun him - effectively taking him out of the fight. Instead, marking two armor boxes reduces the damage dealt by 24 (12 per box) to 6 damage and marking a third armor box negates the stun.*
+* *Jonadab, while wearing medium armor, would suffer a crushing blow that would deal 30 points of damage and Stun him - effectively taking him out of the fight. Instead, marking two Soak Boxes reduces the damage dealt by 20 (10 per box) to 10 damage and marking a third Soak Box negates the Stun.*
 
-When an armor box is marked, it can't be used again until it's restored. All of your armor is restored when you choose your **load** for the next score.
+When a Soak Box is marked, it can't be used again until it's restored. All of Soak Boxes are restored when you choose your **load** for the next score.
 
 ## Death
 
@@ -810,10 +810,10 @@ One unit of coin in silver pieces or other bulk currency takes up one item slot 
 
 When you mark your character's final trauma and they retire, the amount of coin they've managed to stash away determines their fate. Your stash tracker is on your character sheet.
 
-* **Stash 0-10: Poor Soul.** You end up in the gutter, awash in vice and misery.
-* **Stash 11-20: Meager.** A tiny hovel that you can call your own.
-* **Stash 21-39: Modest.** A simple home or apartment, with some small comforts. You might operate a tavern or small business.
-* **Stash 40-49: Fine.** A well-appointed home or apartment, claiming a few luxuries. You might operate a medium business.
+* **Stash 0--10: Poor Soul.** You end up in the gutter, awash in vice and misery.
+* **Stash 11--20: Meager.** A tiny hovel that you can call your own.
+* **Stash 21--39: Modest.** A simple home or apartment, with some small comforts. You might operate a tavern or small business.
+* **Stash 40--49: Fine.** A well-appointed home or apartment, claiming a few luxuries. You might operate a medium business.
 * **Stash 50: Wealthy.** A large home or mansion, with any luxuries you desire. You might operate a large business.
 
 In addition, each full row of stash (10 **coins**) indicates the **quality level of the character's lifestyle**, from zero (street life) to five (luxury).
@@ -840,7 +840,7 @@ You'll use your Tier rating to roll dice when you acquire an asset, as well as f
 * **Tier IV.** Huge gangs. (40 people)
 * **Tier III.** Large gangs. (20 people)
 * **Tier II.** Medium gangs. (12 people)
-* **Tier I.** Small gangs. (3-6 people)
+* **Tier I.** Small gangs. (3--6 people)
 * **Tier 0.** 1 or 2 people
 
 ## Hold
@@ -1096,10 +1096,10 @@ That's it! Your character is ready for play. When you start the first session, t
 
 You have access to all of the **items** on your character sheet. For each operation, decide what your character's **load** will be. During the operation, you may say that your character has an item on hand by checking the box for the item you want to use-up to a number of items equal to your chosen load. Your load also determines your movement speed and conspicuousness:
 
-* 1-3 load: **Light.** *You're faster (increasing your stride by 5'), less conspicuous; you more easily blend in.*
+* 1--3 load: **Light.** *You're faster (increasing your stride by 5'), less conspicuous; you more easily blend in.*
 * 4/5 load: **Normal**. *You look like a scoundrel, ready for trouble.*
 * 6 load: **Heavy.** *You're slower (decreasing your stride by 5'). You look like an operative on a mission.*
-* 7-9 load: **Encumbered.** *You're overburdened and can't do anything except move very slowly.*
+* 7--9 load: **Encumbered.** *You're overburdened and can't do anything except move very slowly.*
 
 Some special abilities increase the load limits.
 
@@ -1168,7 +1168,7 @@ You don't need to select specific items now. Review your personal items and the 
         - When you **flank** the single target of an attack you make, when you are **hidden** from it, or when it is **incapacitated**; increase the effect damage die of that attack by d4.
 - Items
     - `[ ]` Well-made thievery gear.
-    - `[ ]` Well-made leather armor (light, 2 armor boxes, -10 damage/box).
+    - `[ ]` Well-made leather armor (light, 2 Soak Boxes, -10 damage/box).
     - `[ ]` Well-made 2H ranged weapon.
     - `[ ]` *Smoke bombs and a vial of poison.*
 
@@ -1262,8 +1262,8 @@ You don't need to select specific items now. Review your personal items and the 
         - You recover from harm faster. Permanently fill in one of your healing clock segments. Gain **Advantage** on healing treatment rolls.
             - *Your healing clock becomes a 3-clock, and you gain Advantage when you recover.*
 - Items
-    - `[ ]-[ ]-[ ]` Well-made chain or scale armor (medium, 4 armor boxes, -12 damage/box).
-    - `[ ]` Well-made heavy shield (heavy, 4 armor boxes, -15 damage/box).
+    - `[ ]-[ ]-[ ]` Well-made chain or scale armor (medium, 4 Soak Boxes, -10 damage/box).
+    - `[ ]` Well-made heavy shield (heavy, 4 Soak Boxes, -10 damage/box).
     - `[ ]` Well-made 2H weapon.
 
 ## Wizard
@@ -1326,7 +1326,7 @@ You don't need to select specific items now. Review your personal items and the 
         - You may expend your **special armor** to resist a supernatural consequence, or to **push yourself** when you contend with or employ arcane forces.
             - *When you use this ability, tick one special armor box on your character sheet. If you resist a consequence, this ability negates or reduces its severity. If you use this ability to push yourself, you get one of the benefits (advantage or additional effect die), but you don't take stress. Your special armor is restored at the beginning of downtime.*
 - Items
-    - `[ ]` Well-made vestments (light, 2 armor boxes, -10 damage/box).
+    - `[ ]` Well-made vestments (light, 2 Soak Boxes, -10 damage/box).
     - `[ ]` Well-made staff (2H, 5', [d6] effect die).
     - `[ ]-[ ]` Books and Tomes
 
@@ -2230,7 +2230,7 @@ A character may assist a group action, but only if they aren't taking part in it
 
 When you lead a group action, you coordinate multiple members of the team to tackle a problem together. Describe how your character leads the team in a coordinated effort. Do you bark orders, give subtle hand signals, or provide charismatic inspiration?
 
-Each PC who's involved makes an **action roll** (using the same action) and **the team counts the single best result** as the overall effort for everyone who rolled. However, the character leading the group action takes **1 stress** for each PC that rolled 1-3 as their best result.
+Each PC who's involved makes an **action roll** (using the same action) and **the team counts the single best result** as the overall effort for everyone who rolled. However, the character leading the group action takes **1 stress** for each PC that rolled 1--3 as their best result.
 
 This is how you do the "we all sneak into the building" scene. Everyone who wants to sneak in rolls their Prowl action, and the best result counts for the whole team. The leader suffers stress for everyone who does poorly. It's tough covering for the stragglers.
 
@@ -2348,21 +2348,21 @@ At the end of your turn, you may reduce by one the severity of a single of your 
 
 ### Wounds and their Severity
 
-While **bleeding** *(severity 1-5)*, if you are living, you lose HP at the beginning of your turn.
+While **bleeding** *(severity 1--5)*, if you are living, you lose HP at the beginning of your turn.
 
 * *Severity 1: POW = d4, Severity 2: POW = d6, Severity 3: POW = d8, Severity 4: POW = d10, Severity 5: POW = d12.*
 
-While **blighted** *(severity 1-5)*, you suffer *entropic* damage at the beginning of your turn.
+While **blighted** *(severity 1--5)*, you suffer *entropic* damage at the beginning of your turn.
 
 * *Severity 1: POW = d4, Severity 2: POW = d6, Severity 3: POW = d8, Severity 4: POW = d10, Severity 5: POW = d12.*
 
 While **blinded** *(severity 4)*, you cannot see and suffer disadvantage on actions that involve sight. Actions entirely dependent upon sight fail.
 
-While **burning** *(severity 1-5)*, you suffer *thermal* damage at the beginning of your turn.
+While **burning** *(severity 1--5)*, you suffer *thermal* damage at the beginning of your turn.
 
 * *Severity 1: POW = d4, Severity 2: POW = d6, Severity 3: POW = d8, Severity 4: POW = d10, Severity 5: POW = d12.*
 
-While **corroding** *(severity 1-5)*, you suffer *chemical* damage at the beginning of your turn.
+While **corroding** *(severity 1--5)*, you suffer *chemical* damage at the beginning of your turn.
 
 * *Severity 1: POW = d4, Severity 2: POW = d6, Severity 3: POW = d8, Severity 4: POW = d10, Severity 5: POW = d12.*
 
@@ -2396,7 +2396,7 @@ While **terrified** *(severity 3)*, you suffer disadvantage on checks while the 
 
 While **vulnerable** *(severity 4)*, you suffer double damage from one chosen damage type.
 
-While **weakened** *(severity 1-5)*, you roll **-1** (or -2, -3, -4 or -5) **effect** die.
+While **weakened** *(severity 1--5)*, you roll **-1** (or -2, -3, -4 or -5) **effect** die.
 
 ### Other Conditions or Effects
 
@@ -2422,7 +2422,7 @@ While **fortified** *(quality level 1)*, you gain **+5 to a single defense**.
 
 While **hastened** *(quality level 4)*, you may Act an additional time each round.
 
-While **healing** *(quality level 1-5)*, you restore HP.
+While **healing** *(quality level 1--5)*, you restore HP.
 
 * *Quality Level 1: POW = d4, Quality Level 2: POW = d6, Quality Level 3: POW = d8, Quality Level 4: POW = d10, Quality Level 5: POW = d12.*
 
@@ -2430,7 +2430,7 @@ While **hidden** *(quality level 5)*, you cannot be targeted. When you make an a
 
 While **quickened** *(quality level 3)*, your Stride doubles.
 
-While **regenerating** *(quality level 1-5)*, you restore HP at the beginning of your turn.
+While **regenerating** *(quality level 1--5)*, you restore HP at the beginning of your turn.
 
 * *You restore HP equal to the regenerating quality level + your Tier.*
 
@@ -2438,7 +2438,7 @@ While **resistant** *(quality level 3)*, you suffer half damage from one chosen 
 
 While **sheltered** *(quality level 4)*, you gain **+5 defense** and resistance to all damage types.
 
-While **strengthened** *(quality level 1-5)*, you roll **+1** (or +2, +3, +4 or +5) **effect** die.
+While **strengthened** *(quality level 1--5)*, you roll **+1** (or +2, +3, +4 or +5) **effect** die.
 
 # Downtime
 
@@ -2526,7 +2526,7 @@ Incarceration is dehumanizing and brutal. The renown of your crew is your only r
 * **Critical:** You make a name for yourself inside. You gain **+3 rep** for your crew, **1 prison claim** and **+1 faction status** with a faction that you assisted while you served your time.
 * **6:** You do your time well. Your crew gains **1 prison claim** and **+1 faction status** with a faction that you assisted while you served your time.
 * **4/5:** You keep your head down and do your time without incident.
-* **1-3:** It's horrific. You suffer a level of **trauma** from the experience.
+* **1--3:** It's horrific. You suffer a level of **trauma** from the experience.
 
 ## Prison claims
 
@@ -2562,22 +2562,22 @@ Your crew didn't just spring into existence tonight. You have a complex history 
 
 After payoff and heat are determined, the GM generates an entanglement for the crew using the lists below. Find the column that matches the crew's current heat level. Then roll a number of **[d6]** equal to their wanted level, and use the result of the roll to select which sort of entanglement manifests. *If wanted level is zero, roll two dice and keep the lowest result.*
 
-|| Heat 0-3 |
+|| Heat 0--3 |
 |---|---|
-| 1-3 | Gang Trouble or The Usual Suspects |
-| 4-5 | Rivals or Unquiet Dead |
+| 1--3 | Gang Trouble or The Usual Suspects |
+| 4--5 | Rivals or Unquiet Dead |
 | 6 | Cooperation |
 
-|| Heat 4-5 |
+|| Heat 4--5 |
 |---|---|
-| 1-3 | Gang Trouble or Questioning |
-| 4-5 | Reprisals or Unquiet Dead |
+| 1--3 | Gang Trouble or Questioning |
+| 4--5 | Reprisals or Unquiet Dead |
 | 6 | Show of Force |
 
 || Heat 6 |
 |---|---|
-| 1-3 | Flipped or Interrogation |
-| 4-5 | Demonic Notice or Show of Force |
+| 1--3 | Flipped or Interrogation |
+| 4--5 | Demonic Notice or Show of Force |
 | 6 | Arrest |
 
 Bring the entanglement into play immediately, or hold off until an appropriate moment. For example, if you get the *Interrogation* entanglement, you might wait until a PC indulges their vice, then say the constables picked them up when they were distracted by its pleasures.
@@ -2640,7 +2640,7 @@ They can hire an NPC by using the acquire asset_ downtime activity. Roll the NPC
 
 ### The Usual Suspects
 
-The cops grab someone in the periphery of your crew. One player volunteers a friend or vice purveyor as the person most likely to be taken. Make a **fortune roll** to find out if they resist questioning (1-3: **+2 heat**, **4/5:** level 2 harm), or pay them off with 1 coin.
+The cops grab someone in the periphery of your crew. One player volunteers a friend or vice purveyor as the person most likely to be taken. Make a **fortune roll** to find out if they resist questioning (1--3: **+2 heat**, **4/5:** level 2 harm), or pay them off with 1 coin.
 
 # Downtime Activities
 
@@ -2872,7 +2872,7 @@ This table can also be used as a guide to **quality level** when a PC **acquires
 | | Area | Scale |
 |-|------|-------|
 |0| A closet (5' cube) | 1 or 2 people |
-|1| A small room (10' cube) | A small gang (3-6) |
+|1| A small room (10' cube) | A small gang (3--6) |
 |2| A large room (25' cube) | A medium gang (12) |
 |3| Several rooms (50' cube) | A large gang (20) |
 |4| A small building (100' cube) | A huge gang (40) |
@@ -3081,26 +3081,26 @@ The rarity listed in an item's description is the most common it can be found. F
 * You must Act to reload and item with **reload** (instead of reloading as part of using it).
 * A **melee** [range] item may be used to take actions against targets up to [range]' away from you. While wielding a melee weapon and able to act, you threaten enemies within the listed range.
 * A **ranged** [range] item may be used to take actions against targets up to [range]' away from you. At up to twice the range, those actions suffer *disadvantage*. Beyond that, actions cannot target. A ranged item takes two hands to reload even if it can be used with one hand.
-* An **armor piercing** weapon or attack requires an additional armor box to ignore damage or effects from.
+* An **armor piercing** weapon or attack requires an additional Soak Box to ignore damage or effects from.
 * A **well-made** item takes 1 less load box.
 
 ### Armor
 
 * **Light armor** provides a small amount of protection while remaining thin and supple enough to avoid restricting movement. Leather is an example of light armor.
-    * *Common light armor (2 load) provides 2 armor boxes each of which may be checked to reduce the damage from an attack by 10.*
+    * *Common light armor (2 load) provides 2 Soak Boxes each of which may be checked to reduce the damage from an attack by 10.*
 * **Medium armor** provides more protection than light armor but may restrict movement and may slow wearers down through its extra weight. Hide and chain mail are examples of medium armor.
-    * *Common medium armor (4 load) provides 4 armor boxes each of which may be checked to reduce the damage from an attack by 12.*
+    * *Common medium armor (4 load) provides 4 Soak Boxes each of which may be checked to reduce the damage from an attack by 10.*
 * **Heavy armor** is predominantly built from metal and provides a lot of protection but weighs the most and may slow wearers down simply through its bulk. Plate is an example of heavy armor.
-    * *Uncommon heavy armor (5 load) provides 6 armor boxes each of which may be checked to reduce the damage from an attack by 15.*
+    * *Uncommon heavy armor (5 load) provides 6 Soak Boxes each of which may be checked to reduce the damage from an attack by 10.*
 * An **exosuit** is a large and heavy enough set of armor that it requires its own power source to wear it, but it provides the most protection. Exoplate is an example of an exosuit.
-    * *A rare exosuit (6 load) provides 8 armor boxes each of which may be checked to reduce the damage from an attack by 20.*
+    * *A rare exosuit (6 load) provides 8 Soak Boxes each of which may be checked to reduce the damage from an attack by 10.*
 
 ### Shields
 
 * A **light shield** can be used to deflect attacks and projectiles without too much encumbrance.
-    * *A common light shield (1 load, defensive 1) provides 2 shield boxes (-10 damage/box).*
+    * *A common light shield (1 load, defensive 1) provides 2 Soak Boxes each of which may be checked to reduce the damage from an attack by 10.*
 * A **heavy shield** is a more efficient defensive tool than a light shield.
-    * *An common heavy shield (2 load, defensive 1) provides 4 shield boxes (-15 damage/box).*
+    * *An common heavy shield (2 load, defensive 1) provides 4 Soak Boxes each of which may be checked to reduce the damage from an attack by 10.*
 
 ### Weaponry
 
@@ -3456,7 +3456,7 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
 | | Area | Scale |
 |-|------|-------|
 |0| A closet (5' cube) | 1 or 2 people |
-|1| A small room (10' cube) | A small gang (3-6) |
+|1| A small room (10' cube) | A small gang (3--6) |
 |2| A large room (25' cube) | A medium gang (12) |
 |3| Several rooms (50' cube) | A large gang (20) |
 |4| A small building (100' cube) | A huge gang (40) |
@@ -4432,8 +4432,8 @@ While the below names are based on current or historical societies, consider ass
 * Pack Size
 
     * 1 Solitary (1 individual)
-    * 2 Pairs (2-3 individuals)
-    * 3 Family (4-10 individuals)
+    * 2 Pairs (2--3 individuals)
+    * 3 Family (4--10 individuals)
     * 4 Herd (11+ individuals)
 
 * Size
@@ -4901,8 +4901,8 @@ While the below names are based on current or historical societies, consider ass
 
 | d6 | Target |
 |----|--------|
-| 1-2 | Single target or 5' cube |
-| 3-4 | 3-6 targets or 10' cube |
+| 1--2 | Single target or 5' cube |
+| 3--4 | 3--6 targets or 10' cube |
 | 5 | 12 targets or 25' cube |
 | 6 | 20 targets or 50' cube |
 
@@ -4949,9 +4949,9 @@ While the below names are based on current or historical societies, consider ass
 * Population
 
     * 1 < 25
-    * 2 25-60
-    * 3 60-100
-    * 4 100-150
+    * 2 25--60
+    * 3 60--100
+    * 4 100--150
 
 * Primary Good
 
