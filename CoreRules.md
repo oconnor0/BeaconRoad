@@ -282,13 +282,9 @@ A character has **hit points** (**HP**) representing their health, vitality, and
 
 If a character's hit points are reduced to negative half your maximum hit points, you permanently die.
 
-## Recovery Dice
+## Recovery
 
-A character has **recovery dice** determined by their archetype. Certain spells and abilities ask a character to make a recovery roll. Unless otherwise specified, take 1 stress and roll your recovery dice.
-
-* *The wizard's recovery dice is **[d6] + TIER[d6]**.*
-* *The rogue and the technician's recovery dice is **[d8] + TIER[d8]**.*
-* *The warrior's recovery dice is **[d10] + TIER[d10]**.*
+A character can Recover HP equal to one quarter (round up) of their maximum HP. The normal way to achieve this is by spending one Stress during Downtime.
 
 ## Damage
 
@@ -356,10 +352,6 @@ When you take damage that reduces your HP to zero or less, you fall unconscious,
 * **Soft**: You lose your edge; you become sentimental, passive, gentle.
 * **Unstable**: Your emotional state is volatile. You can instantly rage, or fall into despair, act impulsively, or freeze up.
 * **Vicious**: You seek out opportunities to hurt people, even for no good reason.
-
-## Sleeping and Whatnot
-
-When you are able to sleep for a full night and get the rest you need, you restore 1 Stress and heal 1 Recovery.
 
 # Heroic Blessings
 
@@ -3706,7 +3698,7 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
     * Target: 1 allied creature within 30'.
     * Effect: You suffer another's wounds (select 1):
         * The target selects 1 wound and loses it. You gain that wound.
-        * The target rolls a recovery. You lose that many HP.
+        * The target Recovers. You lose that many HP.
         * The target clears up to 3 stress. You gain that stress.
 
         On your next turn, you may use the following:
@@ -3717,7 +3709,7 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
     * Attack: Study/MIND! vs WARD.
     * Hit: The target suffers your wounds (select 1):
         * You select 1 wound and lose it. The target gains that wound.
-        * You roll a recovery. The target suffers *entropic* damage equal to the recovered HP.
+        * You Recover. The target suffers *entropic* damage equal to the Recovered HP.
         * You clear up to 3 stress. The target gains that stress.
 
 #### d6
