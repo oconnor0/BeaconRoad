@@ -37,3 +37,13 @@
   * Violence vs peace
   * Journey and destination
   * Power vs weakness
+
+Prerequisites for Special Abilities & Powers:
+Which make sense?
+
+1. Action Rating
+2. Attribute
+3. Other Special Ability
+4. Other Power
+5. Bloodline
+6. Archetype

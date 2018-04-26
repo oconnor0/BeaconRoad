@@ -1,15 +1,40 @@
 # Beacon Road Outline
 
 1. Intro
-2. Game Mechanics
-3. Characters
+2. The World of Beacon
+3. Faction Chapters
     a. Creation
-    b. Archetypes
-    c. Bloodlines
-4. Faction Chapters
-5. The World of Beacon
+    b. Factions
+        i. Guilds
+        ii. Orders
+        iii. Nomads
+        iv. Sin-eaters
+4. Characters
+    a. Creation
+    b. Bloodlines
+        i. Draconic
+        ii. Dwarf
+        iii. Elf
+        iv. Forgeborn
+        v. Halfblood
+        vi. Halfling
+        vii. Human
+        viii. Orc
+        viv. Troll
+    c. Archetypes
+        i. Rogue
+        ii. Technician
+        iii. Warrior
+        iv. Wizard
+5. Rules
+    a. The Core Mechanic
+    b. Engagement
+    c. Combat
+    d. Downtime
 6. GM Guide
-7. Appendices
+    a. Bestiary
+7. Introductory Adventure (Cultic Initiation)
+8. Appendices
     a. Powers
     b. Sandbox (under GM guide instead?)
     c. Definitions
