@@ -3506,7 +3506,7 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
 ## Powers List
 
 * Assist
-    * Cost: React, Stress 1.
+    * Cost: Act or React, Stress 1.
     * Trigger: An ally Acts.
     * Target: 1 allied creature you can see.
     * Effect: Describe how you aid them. If plausible, they gain Advantage on their roll and may reroll, taking the second roll, if they dislike the first result.

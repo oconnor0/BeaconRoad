@@ -1,3 +1,5 @@
-# Chapter 4: Rules
+# Archetypes
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+\pagebreak

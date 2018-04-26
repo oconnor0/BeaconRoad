@@ -1,3 +1,3 @@
-# Chapter 4: Rules
+# Character Creation
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *

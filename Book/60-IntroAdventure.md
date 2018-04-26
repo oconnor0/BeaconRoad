@@ -1,3 +1,3 @@
-# Introductory Adventure (Cultic Initiation)
+# Chapter 6: Introductory Adventure (Cultic Initiation)
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *

@@ -1,3 +1,3 @@
-# Characters
+# Chapter 3: Characters
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
