@@ -36,6 +36,7 @@ TODO:
  [ ] I'm pretty happy with the MIND & WILL Actions, but I think I want to rework the BODY Actions. Maybe Prowl, Traverse, Finesse, Skirmish (or Wreck). Survival?
  [x] Staggered to Winded? @done (18-04-24 21:13)
  [ ] Change session XP triggers to 1 XP?
+ [ ] Score becomes?
  [ ] Rate Primary, Secondary, and Tertiary Attributes for 3, 2, 1 Action dots in each.
  [ ] GM Section
    [ ] Beginning a Campaign
@@ -216,6 +217,10 @@ OPEN:
   [ ] How to handle upkeeps? Remove them? Keep them? I think I need them to balance buff stacking to infinity.
   [ ] Fix dispel rules since there may be no initiating check. Dispel check must be at least 10 + power grade + caster level to affect? 10 + twice caster level?
   [ ] Write example bestiary - turtle dragons.
+    [ ] Turtle Dragons
+    [ ] Fiends
+    [ ] Jabberwocky, Bandersnatch, Borogroves, etc.
+    [ ] Guards, Soldiers, Shaman, Wizard, etc.
   [ ] Flesh out monster rules
   [ ] Determine how to aid another
   [ ] Flesh out skill encounters
