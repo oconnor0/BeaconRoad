@@ -23,7 +23,7 @@
             * Target: 1 allied creature you can see.
             * Effect: Describe how you aid them. If plausible, they gain Advantage on their roll and may reroll, taking the second roll, if they dislike the first result.
     * **Mode.**
-        * When you **train** during a **downtime action**, you may switch two of your **attribute ratings**.
+        * When you **Train** during a **Downtime Action**, you may switch two of your **Attribute Ratings**.
 * What is one thing that is true about forgeborn in this world?
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
