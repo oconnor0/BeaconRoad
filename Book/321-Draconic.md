@@ -28,7 +28,7 @@
             * Target: 10' cube within 60'.
             * Attack: Action/ATTR! vs IRON.
             * Hit: (Action)[ATTR] *selected Energy Type* damage.
-* What is one thing that is true about draconics in this world?
+* What is one thing that is true about Draconics in this world?
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 

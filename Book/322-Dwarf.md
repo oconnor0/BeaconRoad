@@ -20,7 +20,7 @@
     * **Strapping.** Your load limits are higher, and you are not slowed by your load. Light: 5. Normal: 7. Heavy: 8.
         * Dwarves make Mules look like weaklings.
         * This ability is great if you want to wear heavy armor and pack a heavy weapon without attracting lots of attention. Since your exact gear is determined on-the-fly during an operation, having more load also gives you more options to get creative with when dealing with problems during a score.
-* What is one thing that is true about dwarves in this world?
+* What is one thing that is true about Dwarves in this world?
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 

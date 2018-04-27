@@ -24,7 +24,7 @@
             * Effect: Describe how you aid them. If plausible, they gain Advantage on their roll and may reroll, taking the second roll, if they dislike the first result.
     * **Mode.**
         * When you **Train** during a **Downtime Action**, you may switch two of your **Attribute Ratings**.
-* What is one thing that is true about forgeborn in this world?
+* What is one thing that is true about Forgeborn in this world?
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
