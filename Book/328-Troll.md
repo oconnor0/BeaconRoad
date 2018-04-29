@@ -1,6 +1,8 @@
 ## Troll
 
-- *A mountain brought to life.*
+- A mountain brought to life.
+* Living:
+    * You are ensouled and biologically alive.
 - Senses:
     - Darksight. You can see in the dim and the dark as well as in the light.
 - Size:

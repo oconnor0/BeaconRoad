@@ -1,6 +1,8 @@
 ## Draconic
 
-* *The dragons of Esgyrn are intrinsically linked to beauty. Their humanoid descendents likewise find themselves tied to beauty---to its creation or its destruction, to collecting it for others or to hoarding it.*
+* The dragons of Esgyrn are intrinsically linked to beauty. Their descendents among metahumanity likewise find themselves tied to beauty---to its creation or its destruction, to collecting it for others or to hoarding it.
+* Living:
+    * You are ensouled and biologically alive.
 * Senses:
     * Normal. You cannot see in the dark and in dim light suffer Disadvantage on Action Rolls requiring sight.
 * Size:

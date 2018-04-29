@@ -1,6 +1,8 @@
 ## Dwarf
 
-* *Built from stone.*
+* Built from stone. Dwarves reach maturity in their mid 20s but are considered young until their 60s and, on average, live to be 300 years old. Dwarves are, in some ways, defined by their greed. It can be a force for great good in dwarven communities when it promotes industry, wealth, prosperity, exploration, and kinship; but it brings great destructive power when it leads to jealous murder, hoarding, and the gold-madness.
+* Living:
+    * You are ensouled and biologically alive.
 * Senses:
     * Dimsight. You can see normally in dim light and when in the dark suffer Disadvantage on Action Rolls requiring sight.
 * Size:

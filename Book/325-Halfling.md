@@ -1,6 +1,8 @@
 ## Halfling
 
-- *A little person given to cheer.*
+- A little person given to cheer. Halflings reach maturity in their mid 30s and, on average, live to be 120 years old. Halflings love of comfort and cheer and good food often cover their innate boldness and courage. A bold halfling may rush in to save a friend in a burning building or insult a powerful, insecure king. That same halfling may descend into the indolence of drink, food, and oblivion or may rise and provide hope and light to those willing to listen.
+* Living:
+    * You are ensouled and biologically alive.
 - Senses:
     - Normal. You cannot see in the dark and in dim light suffer Disadvantage on Action Rolls requiring sight.
 - Size:

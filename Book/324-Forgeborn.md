@@ -1,6 +1,8 @@
 ## Forgeborn
 
-* *Created full-size by the forges for labor and war and imbued with sentience, the forgeborn seek purpose.*
+* Created full-size by the forges for labor and war and imbued with sentience, the forgeborn seek purpose.
+* Construct:
+    * You are constructed machine---ensouled---but not biological.
 * Senses:
     * Infravision. You can see heat regardless of how dark it is allowing you to Act normally in combat against living and constructs. Otherwise you cannot see in the dark and in dim light suffer Disadvantage on Action Rolls requiring sight.
 * Size:
