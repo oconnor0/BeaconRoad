@@ -6,7 +6,7 @@ While this book defines aspects of each of these Bloodlines that are true on Esg
 
 ## Halfblood
 
-* Not fully in one world or another, the question, "Who am I", sits deeper in the halfblood's soul than in others.
+* Not fully in one world or another, the question, "Who am I", sits deeper in the Halfblood's soul than in others.
 * When you select Halfblood as your Bloodline, choose 2 different Bloodlines representing your immediate parentage or remote ancestry. Even though this is called Halfblood, you may select Forgeborn as 1 of your Bloodlines---perhaps you were born a Troll, seriously wounded, and grafted onto an existing Forgeborn husk.
 * Senses, Size, Stride:
     * *How do your two bloodlines manifest in your senses, size, and stride?*
