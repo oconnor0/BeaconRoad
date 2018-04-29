@@ -1,6 +1,6 @@
 ## Draconic
 
-* *A humanoid descendent of a dragon.*
+* *The dragons of Esgyrn are intrinsically linked to beauty. Their humanoid descendents likewise find themselves tied to beauty---to its creation or its destruction, to collecting it for others or to hoarding it.*
 * Senses:
     * Normal. You cannot see in the dark and in dim light suffer Disadvantage on Action Rolls requiring sight.
 * Size:
@@ -11,7 +11,7 @@
     * **Resonance.**
         * Beauty and splendor in the world reverberate within you and grow around you.
 * Vice:
-    * **Greed.**
+    * **Avarice.**
         * While dragons sleep on mountains, their descendents love gold and jewel.
 * Special Abilities
     * **Arcane Potency.**
@@ -19,8 +19,8 @@
             * Your fists are now a light, melee weapon that rolls a \[d6\] (for Medium, \[d4\] for Small, and \[d8\] for Large) effect die and threatens to your reach.
             * What damage type do you imbue yourself with? When you imbue yourself with arcane energy, how do you do it? What does it look like when the energy manifests?
     * **Elemental Affinity.**
-        * You may expend one Stress to negate a consequence from an elemental type. You gain the ability to breathe destructive elemental energy.
-            * What element do you breathe? What elements do you have an affinity for? What elements are you vulnerable to?
+        * What element do you have an affinity for?
+        * You may expend 1 Stress to negate a consequence from an attack dealing only your elemental damage; or to Resist a consequence from an attack that deals your elemental damage and other damage.
             * What Action and Attribute is your breath tied to (Skirmish/BODY, Hunt/MIND, or Utter/WILL)?
         * **Elemental Breath**
             * Prerequisites: Elemental Affinity.

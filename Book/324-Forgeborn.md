@@ -16,7 +16,7 @@
 * Special Abilities
     * **Foresight.**
         * Twice per score you can **Assist** a teammate without paying Stress. Describe how you prepared for this.
-            * *You can narrate an event in the past that helps your teammate now, or you might explain how you expected this situation and planned a helpful contingency that you reveal now.*
+            * You can narrate an event in the past that helps your teammate now, or you might explain how you expected this situation and planned a helpful contingency that you reveal now.
         * **Assist**
             * Cost: Act or React, 1 Stress (`[ ][ ]` Free from Foresight)
             * Trigger: An ally Acts.
