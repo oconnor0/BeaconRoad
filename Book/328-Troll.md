@@ -1,6 +1,6 @@
 ## Troll
 
-- A mountain brought to life.
+- A mountain brought to life. Trolls do not age as others do and so do not die of old age. Instead they change over time as Esgyrn itself does. A Troll might look and act like a moss-covered rock for decades or centuries before slowly eroding into what appears to be a copse of trees atop a hill.
 * Living:
     * You are ensouled and biologically alive.
 - Senses:

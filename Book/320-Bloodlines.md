@@ -1,6 +1,8 @@
 # Bloodlines
 
-Your Bloodline represents not your training or skill or profession but your ancestry and your heritage. Your Bloodline represents your biological ties to some of metahumanity on Esgyrn.
+Your Bloodline represents not your training or skill or profession but your ancestry and your heritage. Your Bloodline represents biological ties to other metahumanity on Esgyrn. This book defines 8 character Bloodlines: Draconic, Dwarf, Elf, Forgeborn, Halfling, Human, Orc, and Troll---of which 1, Forgeborn, is not living, but constructed.
+
+While this book defines aspects of each of these Bloodlines that are true on Esgyrn, it invites the players to answer the question "What is one thing that is true about your Bloodline in this world?", shaping the world and its inhabitants to the game you want to play. If multiple players play the same Bloodlines, be courteous and work together when answering this question---as you are each defining an aspect of their character and yours.
 
 ## Halfblood
 
