@@ -1,0 +1,66 @@
+## Wizard
+
+- Medium length description of the character here. Include what kind of activities they normally partake in.
+- XP Triggers
+    - At the end of a session, mark 1 or 2 XP if you addressed a challenge with arcane powers or knowledge.
+- Starting Actions
+    - 2 dots: Utter
+    - 1 dot: Study
+- Starting Builds
+    - *If you want some guidance when you assign your four starting action dots and special ability, use one of these templates.*
+    - **Adept.** +1 Prowl, +1 Survey, +2 Command. **Meditation.**
+    - **Inquisitor.** +2 Skirmish, +1 Hunt, +1 Command. **Warded.**
+    - **Librarian.** +1 Study, +2 Survey, +1 Consort. **Spellcraft.**
+    - **Pactmage.** +1 Command, +1 Consort, +2 Sway. **Bargain.**
+- Friends and Rivals
+    - An archivist
+    - A cold killer
+    - An inspector
+    - A servant
+    - A supernatural entity
+- Special Abilities
+    - **Arcane Mind.**
+        - You're always aware of supernatural entities in your presence. Gain **advantage** when you **gather information** about the supernatural by any means.
+    - **Bargain.**
+        - You have made a pact with some powerful entity to channel its power - in exchange.
+            - *You suffer other consequences instead of taking stress to use rituals or cast spells. Is this health, coin, luck, relationships, mishaps?*
+            - *Work with the GM to define your pact and your first spell. If you aren't certain, choose Bloodpact.*
+        - **Bloodpact.** *Instead of taking Stress when you use a Power, lose \[d4\] HP per Stress in the power's cost. Gain Draw Blood.*
+        - **Draw Blood**
+            - Prerequisites: Bargain.
+            - Requires: A dagger (or other blade).
+            - Cost: Act Once.
+            - Target: Self.
+            - Effect: Select an ACTION. Lose up to 1 + ACTION HP. The next time you Act or React, if you use a Power with that ACTION, reduce the Stress cost by the number of HP lost (not below 1).
+    - **Inhuman Resolve.**
+        - You are immune to the terror that some supernatural entities inflict. You gain +2 **Grit**.
+            - *With this ability, you do not freeze up or flee when confronted by any kind of supernatural entity or strange arcane event.*
+    - **Meditation.**
+        - Take **1 stress** to roll **Utter** while performing a different action. Say how you channel your magic to this use.
+            - *This is the "jack-of-all-trades" ability. If you want to attempt lots of different sorts of actions and still have a good dice pool to roll, this is the special ability for you.*
+    - **Ritual.**
+        - You know the arcane methods to perform ritual sorcery. You can **Study** an arcane ritual (or create a new one) to summon a supernatural effect or being. You begin with one ritual already learned.
+            - *Without this special ability, the study and practice of rituals leaves you utterly vulnerable to the powers you supplicate. Such endeavors are not recommended.*
+            - *Follow the Ritual creation procedure with the GM to define your first ritual.*
+    - **Spellcraft.**
+        - You know the arcane methods to conjure supernatural effects from written spells. You can **Study** a spell (or create a new one) to summon a supernatural effect. You begin with one spell already learned.
+            - *Without this special ability, written spells are only words on a page.*
+            - *Follow the Spell Creation procedure with the GM to define your first spell.*
+        - **Studied Spells.** *Studied Spells allows you to reduce Stress costs of Powers using UTTER. Select appropriate Powers. Reduce their Stress costs (not below 1). You cannot reduce Stress costs more than a cumulative 1 + TIER + UTTER.*
+            - *For example, if you are Tier 2 with Utter 4 (so 1 + 2 + 4 = 7), you could reduce the Stress cost of one Power by 3 and another by 4.*
+        - **Read and Recite**
+            - Prerequisites: Spellcraft.
+            - Requires: Your spellbook or tome.
+            - Cost: Act.
+            - Target: Self.
+            - Effect: Select a Power. If you use that Power the next time you Act or React, reduce the Stress cost by the invoking ACTION (not below 1).
+    - **Warded.**
+        - You may expend one Stress to resist a supernatural consequence. Gain +1 WARD.
+- Items
+    - `[ ]` Well-made vestments (light, 2 Soak Boxes, -10 damage/box).
+    - `[ ]` Well-made staff (2H, 5', [d6] effect die).
+    - `[ ]-[ ]` Books and Tomes
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+\pagebreak
