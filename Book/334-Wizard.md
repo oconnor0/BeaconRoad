@@ -29,7 +29,7 @@
         - **Draw Blood**
             - Prerequisites: Bargain.
             - Requires: A dagger (or other blade).
-            - Cost: Act Once.
+            - Cost: Act.
             - Target: Self.
             - Effect: Select an ACTION. Lose up to 1 + ACTION HP. The next time you Act or React, if you use a Power with that ACTION, reduce the Stress cost by the number of HP lost (not below 1).
     - **Inhuman Resolve.**
