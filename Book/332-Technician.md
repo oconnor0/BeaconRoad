@@ -3,6 +3,30 @@
 - Medium length description of the character here. Include what kind of activities they normally partake in.
 - XP Triggers
     - At the end of a session, mark 1 or 2 XP if you addressed a challenge with calculation or technical skill.
+- Starting Builds
+    - If you want some guidance when you assign your 6 starting Action dots, select your special ability, starting powers, and starting items, use one of these templates.
+    - **Apothecary**
+        - BODY (Secondary Attribute)
+            - 1 in each of Finesse and Prowl
+        - MIND (Primary Attribute)
+            - 1 in each of Craft, Hunt, Study, and Survey
+        - WILL (Tertiary Attribute)
+            - 1 in Command
+        - Special Ability
+            - Alchemist
+        - Starting Powers
+        - Starting Items
+    - **Felsmith**
+        - BODY (Primary Attribute)
+            - 1 in each of Finesse, Prowl, and Traverse
+        - MIND (Secondary Attribute)
+            - 1 in each of Craft and Study
+        - WILL (Secondary Attribute)
+            - 1 in each of Command and Consort
+        - Special Ability
+            - Arcane Artisan
+        - Starting Powers
+        - Starting Items
 - Starting Actions
     - 2 dots: Craft
     - 1 dot: Hunt
@@ -24,6 +48,9 @@
             - *Follow the Inventing procedure with the GM to define your first special alchemical formula.*
     - **Analyst.**
         - During downtime, you get **two ticks** to distribute among any long term project clocks that involve investigation or learning a new formula or design plan.
+    - **Arcane Artisan.**
+        - When you **invent** or **craft** a creation with *arcane* features, get **+1 quality level** to your roll. You begin with one arcane design already known.
+            - *Follow the Inventing procedure with the GM to define your first arcane design.*
     - **Artificer.**
         - When you **invent** or **craft** a creation with *spark-craft* features, get **+1 quality level** to your roll. You begin with one special design already known.
             - *Follow the Inventing procedure with the GM to define your first spark-craft design.*
@@ -36,9 +63,6 @@
     - **Sawbones.**
         - Gain **Advantage** on action rolls to administer treatment, bind wounds, or help someone heal from trauma.
             - *Training - or far too much practice - is essential to properly administer treatment.*
-    - **Strange Methods.**
-        - When you **invent** or **craft** a creation with *arcane* features, get **+1 quality level** to your roll. You begin with one arcane design already known.
-            - *Follow the Inventing procedure with the GM to define your first arcane design.*
 - Items
     - `[ ]` Bandolier
     - `[ ]` Clockwork Design

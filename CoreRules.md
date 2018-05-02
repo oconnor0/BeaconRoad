@@ -3122,7 +3122,7 @@ The below weapons are for medium-sized creatures. A large-sized creature increas
 * A **longbow**
     * *A common two-handed longbow (2 load) can effectively shoot to 100' and rolls a [d8] effect die.*
 * A **greatbow**
-    * *An common two-handed greatbow (3 load) can effectively shoot to 150' and rolls a [d10] effect die.*
+    * *A common two-handed greatbow (3 load) can effectively shoot to 150' and rolls a [d10] effect die.*
 * A **light crossbow**
     * *A common two-handed light crossbow (2 load) can effectively shoot to 50' and rolls a [d8] effect die, and takes an Action to reload.*
 * A **heavy crossbow**

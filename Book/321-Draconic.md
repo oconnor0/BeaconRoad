@@ -21,8 +21,7 @@
             * Your fists are now a light, melee weapon that rolls a \[d6\] (for Medium, \[d4\] for Small, and \[d8\] for Large) effect die and threatens to your reach.
             * What damage type do you imbue yourself with? When you imbue yourself with arcane energy, how do you do it? What does it look like when the energy manifests?
     * **Elemental Affinity.**
-        * What element do you have an affinity for?
-        * You may expend 1 Stress to negate a consequence from an attack dealing only your elemental damage; or to Resist a consequence from an attack that deals your elemental damage and other damage.
+        * You are attuned to a specific elemental energy. You may expend 1 Stress to negate a consequence from an attack solely comprised of that energy; or to Resist a consequence from an attack that includes that elemental energy.
             * What Action and Attribute is your breath tied to (Skirmish/BODY, Hunt/MIND, or Utter/WILL)?
         * **Elemental Breath**
             * Prerequisites: Elemental Affinity.
