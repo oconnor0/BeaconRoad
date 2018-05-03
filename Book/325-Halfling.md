@@ -1,6 +1,9 @@
 ## Halfling
 
 - A little person given to cheer. Halflings reach maturity in their mid 30s and, on average, live to be 120 years old. Halflings love of comfort and cheer and good food often cover their innate boldness and courage. A bold halfling may rush in to save a friend in a burning building or insult a powerful, insecure king. That same halfling may descend into the indolence of drink, food, and oblivion or may rise and provide hope and light to those willing to listen.
+* XP Triggers
+    * At the end of a session, mark 1 XP if you struggled with issues from your Vice. Mark XP for this if your Vice tempted you to some bad action. Simply Indulging your Vice doesn’t count as struggling with it (unless you overindulge).
+    * At the end of a session, mark 1 XP if you struggled with issues from your Virtue. Mark XP for this if your Virtue drove you toward some good action that complicated the situation. Simply Exemplifying your Vice doesn’t count as struggling with it.
 * Living:
     * You are ensouled and biologically alive.
 - Senses:

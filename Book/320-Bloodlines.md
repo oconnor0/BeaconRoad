@@ -7,6 +7,9 @@ While this book defines aspects of each of these Bloodlines that are true on Esg
 ## Halfblood
 
 * Not fully in one world or another, the question, "Who am I", sits deeper in the Halfblood's soul than in others.
+* XP Triggers
+    * At the end of a session, mark 1 XP if you struggled with issues from your Vice. Mark XP for this if your Vice tempted you to some bad action. Simply Indulging your Vice doesn’t count as struggling with it (unless you overindulge).
+    * At the end of a session, mark 1 XP if you struggled with issues from your Virtue. Mark XP for this if your Virtue drove you toward some good action that complicated the situation. Simply Exemplifying your Vice doesn’t count as struggling with it.
 * When you select Halfblood as your Bloodline, choose 2 different Bloodlines representing your immediate parentage or remote ancestry. Even though this is called Halfblood, you may select Forgeborn as 1 of your Bloodlines---perhaps you were born a Troll, seriously wounded, and grafted onto an existing Forgeborn husk.
 * Senses, Size, Stride:
     * *How do your two bloodlines manifest in your senses, size, and stride?*

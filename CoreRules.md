@@ -2400,7 +2400,7 @@ While **focused** *(quality level 2)*, you gain advantage on checks.
 
 While **fortified** *(quality level 1)*, you gain **+5 to a single defense**.
 
-While **hastened** *(quality level 4)*, you may Act an additional time each round.
+While **hastened** *(quality level 4)*, you may Act or React an additional time each round.
 
 While **healing** *(quality level 1--5)*, you restore HP.
 
@@ -3124,9 +3124,9 @@ The below weapons are for medium-sized creatures. A large-sized creature increas
 * A **greatbow**
     * *A common two-handed greatbow (3 load) can effectively shoot to 150' and rolls a [d10] effect die.*
 * A **light crossbow**
-    * *A common two-handed light crossbow (2 load) can effectively shoot to 50' and rolls a [d8] effect die, and takes an Action to reload.*
+    * *A common two-handed light crossbow (1 load) can effectively shoot to 50' and rolls a [d8] effect die, and you must Act to reload it.*
 * A **heavy crossbow**
-    * *A common two-handed heavy crossbow (3 load) can effectively shoot to 150', rolls a [d10] effect die, and takes an Action to reload.*
+    * *A common two-handed heavy crossbow (2 load) can effectively shoot to 150', rolls a [d10] effect die, and you must Act to reload it.*
 * A **sling**
     * *A common light one-handed sling (1 load) can effectively shoot to 100' and rolls a [d8] effect die.*
 * A **spear-thrower**
@@ -3138,7 +3138,7 @@ The below weapons are for medium-sized creatures. A large-sized creature increas
 
 The below represent average travel speeds for various modes of transportation over long distances. The listed day length represents a normal day of travel in that conveyance. A longer travel day may be possible but may require extra fuel and will take its toll on the people and vehicles involved.
 
-* *GM: Feel free to inflict stress, hit point damage, wounds, or other appropriate consequences on the characters for pushing themselves beyond normal travel speeds and lengths.*
+* *GM: Feel free to inflict stress, hit point damage, wounds, or other appropriate consequences on the characters for pushing themselves beyond normal travel speed or duration.*
 
 * Oxcart
     * 1 km/hr (3,300/hr)
@@ -3532,10 +3532,12 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
         * `[ ]` Slam and Bash (8 clock) - The target is *slammed* 10' per attacking action dot instead of *pushed*.
 
 * Block
-    * Requires: BODY d4, Skirmish 1, *defensive* weapon.
+    * Requires: BODY d4, Skirmish 1, *Defensive* weapon.
     * Cost: Reaction, Stress 1.
     * Trigger: You or an adjacent ally are hit by an attack.
     * Effect: Make a melee defensive action roll (Skirmish/BODY!) and use that instead of the targeted defense.
+    * Upgrades:
+        * `[ ]` Aggravating Block (6 Clock) - The attacker suffers Non-lethal Psychic damage equal to the amount that your Action Roll exceeds the Attack Roll.
 
 * Charge
     * Requires: BODY d4, *melee* weapon.
@@ -3823,7 +3825,7 @@ The city of Beacon is ruled by SOMEONE -  Zenith of Metahumanity, Capstone of Ho
     - Requires: WILL d4.
     - Cost: Act, Stress 3 (area 1, range 1, force 1)
     - Target: A number of enemy creatures equal to 1 + UTTER within 30'.
-    - Effect: [d4] *plasmic* damage.
+    - Effect: [d4] *Plasmic* damage.
 
 * Wolfbite
     * *A weapon begins to glow with cold energy. When used to attack, a spectral wolf's head lashes out and bites the target.*

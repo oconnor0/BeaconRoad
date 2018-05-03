@@ -1,6 +1,9 @@
 ## Human
 
 * You and I. Humans reach maturity in their late teens to early 20s and, on average, live to be 70 years old. Humans are often pride incarnate. They believe they are right and the best. Occasionally, history backs that claim. Pride can enable a human to defend family and honor or to kill another to avoid embarrassment. But when humanity relinquishes pride, it finds itself best able to serve any and all.
+* XP Triggers
+    * At the end of a session, mark 1 XP if you struggled with issues from your Vice. Mark XP for this if your Vice tempted you to some bad action. Simply Indulging your Vice doesn’t count as struggling with it (unless you overindulge).
+    * At the end of a session, mark 1 XP if you struggled with issues from your Virtue. Mark XP for this if your Virtue drove you toward some good action that complicated the situation. Simply Exemplifying your Vice doesn’t count as struggling with it.
 * Living:
     * You are ensouled and biologically alive.
 * Senses:

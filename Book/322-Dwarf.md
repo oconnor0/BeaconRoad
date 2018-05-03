@@ -1,6 +1,9 @@
 ## Dwarf
 
 * Built from stone. Dwarves reach maturity in their mid 20s but are considered young until their 60s and, on average, live to be 300 years old. Dwarves are, in some ways, defined by their greed. It can be a force for great good in dwarven communities when it promotes industry, wealth, prosperity, exploration, and kinship; but it brings great destructive power when it leads to jealous murder, hoarding, and the gold-madness.
+* XP Triggers
+    * At the end of a session, mark 1 XP if you struggled with issues from your Vice. Mark XP for this if your Vice tempted you to some bad action. Simply Indulging your Vice doesn’t count as struggling with it (unless you overindulge).
+    * At the end of a session, mark 1 XP if you struggled with issues from your Virtue. Mark XP for this if your Virtue drove you toward some good action that complicated the situation. Simply Exemplifying your Vice doesn’t count as struggling with it.
 * Living:
     * You are ensouled and biologically alive.
 * Senses:

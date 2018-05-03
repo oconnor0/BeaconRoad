@@ -3,7 +3,7 @@
 - Medium length description of the character here. Include what kind of activities they normally partake in.
 - "Darkness is my closest friend."
 - XP Triggers
-    - At the end of a session, mark 1 or 2 XP if you addressed a challenge with audacity or stealth.
+    - At the end of a session, mark 1 XP if you addressed a challenge with audacity or stealth.
 - Starting Builds
     - If you want some guidance when you assign your 6 starting Action dots, select your special ability, starting powers, and starting items, use one of these templates.
     - **Hunter**
@@ -44,7 +44,7 @@
             - This ability benefits from preparation---so don't forget you can do that in a flashback.
     - **Arcane Potency.**
         - You may imbue your hands, melee weapons, or tools with energy - allowing them to deal an additional damage type in addition to *kinetic* damage.
-            - Your fists are now a light, melee weapon that rolls a [d6] for medium, [d4] for small, or [d8] for large effect die and threatens to your reach.
+            - Your fists are now an Agile, Melee Weapon that rolls a [d6] for medium, [d4] for small, or [d8] for large effect die and threatens to your reach.
             - When you imbue yourself with arcane energy, how do you do it? What does it look like when the energy manifests?
     - **Expertise.**
         - Choose one of your action ratings. When you lead a group action using that action, you can suffer only 1 Stress at most, regardless of the number of failed rolls.
@@ -71,7 +71,7 @@
     - `[ ]` Well-made 2H ranged weapon.
     - `[ ]` Well-made greatbow (3 Load, Common, 2H, 150' range, [d10] effect die).
     - `[ ]` *Smoke bombs and a vial of poison.*
-    - `[ ][ ]` Pet
+    - `[ ][ ]` Small Pet (from Bestiary on page XX or create following page XX)
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 

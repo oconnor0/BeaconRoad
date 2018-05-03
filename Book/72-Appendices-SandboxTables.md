@@ -1,6 +1,6 @@
 # Appendix B: Sandbox Tables
 
-# Names
+## Names
 
 While the below names are based on current or historical societies, consider assigning them to different nations, societies, bloodlines, or other groupings to give them unique cultural feels. For example, perhaps the underclass of Beacon uses primarily Lakotan names, or elves use Hebrew names. Or ignore these entirely! It's your game.
 

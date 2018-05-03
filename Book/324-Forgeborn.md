@@ -1,6 +1,9 @@
 ## Forgeborn
 
 * Created full-size by the forges for labor and war and imbued with sentience, the forgeborn seek purpose.
+* XP Triggers
+    * At the end of a session, mark 1 XP if you struggled with issues from your Vice. Mark XP for this if your Vice tempted you to some bad action. Simply Indulging your Vice doesn’t count as struggling with it (unless you overindulge).
+    * At the end of a session, mark 1 XP if you struggled with issues from your Virtue. Mark XP for this if your Virtue drove you toward some good action that complicated the situation. Simply Exemplifying your Vice doesn’t count as struggling with it.
 * Construct:
     * You are constructed machine---ensouled---but not biological.
 * Senses:
