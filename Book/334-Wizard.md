@@ -4,6 +4,7 @@
 - Who will you be?
 - XP Triggers
     - At the end of a session, mark 1 XP if you addressed a challenge with arcane powers or knowledge.
+- HP = 6 + highest face of BODY + highest face of MIND + highest face of WILL + 4 per Tier.
 - Starting Builds
     - If you want some guidance when you assign your 6 starting Action dots, select your special ability, starting powers, and starting items, use one of these templates.
     - **Librarian**
