@@ -70,11 +70,17 @@
 
     Take a look at the Special Abilities for your Bloodline and your Archetype, and choose one of each. If you can't decide which one to pick, go with the first one on the list---it's placed there as a good default choice.
 
-10. Select 1 of your Archetype's starting items.
+10. Choose 1 Power for each Action Dot.
+
+    Powers (listed in Appendix A: Powers, page XX) represent masterful skill. They are things your character can do---without having to negotiate with the GM. Each Power has various Prerequisites and Requirements. Ensure you meet those before taking them.
+
+    If the powers don't make sense for your character or you have different ideas, work with your GM to create new Powers.
+
+11. Select 1 of your Archetype's starting items.
 
     Your Archetype provides a set of starting items that are better than the generally available ones. Select 1 of those you own at the start.
 
-11. Calculate derived stats.
+12. Calculate derived stats.
 
     Derive your Hit Points and Defenses (Iron, Ward, and Grit) and write them down.
 
@@ -86,11 +92,11 @@
     * **Ward** = 8 + highest face of MIND + Tier.
     * **Grit** = 8 + highest face of WILL + Tier.
 
-12. Choose one close friend and one rival.
+13. Choose one close friend and one rival.
 
     Each Archetype lists NPCs that your character might know. Choose one from the list who is a close relationship (a good friend, a lover, a family relation, etc.). Write them down and mark the upward-pointing triangle next to their name. Then choose another NPC on the list who's your rival or enemy. Write them down and mark the downward-pointing triangle next to their name.
 
-13. Record your name, alias, & look.
+14. Record your name, alias, & look.
 
     Choose a name for your character from the sample list (Appendix B: Sandbox Tables, Names, page XX), or create your own. If your character uses an alias, make a note of it. Record a few evocative words that describe your character's look (samples provided below).
 
@@ -103,7 +109,7 @@
     * Attire: Vest, sleeveless, shirt, blouse, suit coat, dress, rags, gown, tuxedo, pants, kilt, skirt, shorts, robes, armored, battered, unkempt, robes, vestments, uniform, duster, scarred.
     * Feet: Boots, bare feet, sandals, slippers, shoes, clogs, clawed, hooves, cloven, paws.
 
-14. Review your details
+15. Review your details
 
     Take a look at the details on your character sheet. You begin with access to all of the items on your sheet, so don't worry about picking specific things---you'll decide what your character is carrying later on, when you're on the job.
 
