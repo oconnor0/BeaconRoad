@@ -48,8 +48,8 @@
             - Your fists are now an Agile, Melee Weapon that rolls a [d6] for medium, [d4] for small, or [d8] for large effect die and threatens to your reach.
             - When you imbue yourself with arcane energy, how do you do it? What does it look like when the energy manifests?
     - **Expertise.**
-        - Choose one of your action ratings. When you lead a group action using that action, you can suffer only 1 Stress at most, regardless of the number of failed rolls.
-            - This special ability is good for covering for your team. If they're all terrible at your favored action, you don't have to worry about suffering a lot of Stress when you lead their group action.
+        - Choose one of your Action Ratings. When you Act Together, leading with that Action, you can suffer only 1 Stress at most, regardless of the number of failed rolls.
+            - This special ability is good for covering for your team. If they're all terrible at your favored Action, you don't have to worry about suffering a lot of stress when you lead their group action.*
     - **Like Looking Into The Mirror.**
         - You can always tell when someone is lying to you.
             - This ability works in all situations without restriction. It is very powerful, but also a bit of a curse. You see though every lie, even the kind ones.
@@ -72,7 +72,7 @@
     - `[ ]` Well-made 2H ranged weapon.
     - `[ ]` Well-made greatbow (3 Load, Common, 2H, 150' range, [d10] effect die).
     - `[ ]` *Smoke bombs and a vial of poison.*
-    - `[ ][ ]` Small Pet (from Bestiary on page XX or create following page XX)
+    - `[ ]-[ ]` Small Pet (from Bestiary on page XX or create following page XX)
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 

@@ -8,6 +8,10 @@
 
     When you choose a Bloodline, you're choosing a set of Special Abilities (which give your character ways to break the rules in various ways), a set of XP Triggers (which determine how you earn experience for character advancement), and your Virtue and Vice (which allow your character to regain Expended Stress).
 
+    After choosing your Bloodline, make sure to answer the question:
+
+    > What is one thing that is true about your Bloodline in this world?
+
 3. Choose an Archetype.
 
     An Archetype represents your training, skill, interests, and desired role.
@@ -70,7 +74,7 @@
 
     Take a look at the Special Abilities for your Bloodline and your Archetype, and choose one of each. If you can't decide which one to pick, go with the first one on the list---it's placed there as a good default choice.
 
-10. Choose 1 Power for each Action Dot.
+10. Choose 1 Common Power for each Action Dot.
 
     Powers (listed in Appendix A: Powers, page XX) represent masterful skill. They are things your character can do---without having to negotiate with the GM. Each Power has various Prerequisites and Requirements. Ensure you meet those before taking them.
 

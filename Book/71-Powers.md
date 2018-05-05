@@ -6,6 +6,7 @@ Powers represent masterful skill that enables you to inflict additional wounds o
 
 * Frost Spear
     * Prerequisites: WILL d4, Utter 1.
+    * Rarity: Uncommon
     * Cost: Action, 4 Stress (range 1, force 2, condition 1).
     * Target: 1 enemy creature within 30'.
     * Attack: Utter/WILL! vs IRON.
@@ -14,16 +15,18 @@ Powers represent masterful skill that enables you to inflict additional wounds o
         - `[ ]` Freezing Spear (6 Clock) - Target suffers *Stunned* instead of *Slowed* on a Critical Hit.
 - Plasmic Dart
     - Prerequisites: WILL d4, Utter 1.
+    * Rarity: Uncommon
     - Cost: Act, 1 Stress (range 1, force 1)
     - Target: 1 enemy creature within 30'.
     - Effect: [d4] *Plasmic* damage.
     - Upgrades:
-        - `[ ]` Plasmic Darts (6 Clock) - By spending 3 Stress, target a number of enemy creatures equal to 1 + UTTER within 30'.
-        - `[ ]` Plasmic Bolt (6 Clock) - Now deals [d6] *Plasmic* damage.
+        - `[ ]` Plasmic Darts (6 Clock) - By spending 3 Stress instead of 1, target a number of enemy creatures equal to 1 + UTTER within 30'.
+        - `[ ]` Plasmic Bolt (6 Clock) - Deal [d6] *Plasmic* damage.
 
 ## Weapon Powers
 
 * Block
+    * Rarity: Common
     * Prerequisites: BODY d4, Skirmish 1.
     * Requires: *Defensive* weapon.
     * Cost: React, 1 Stress.
@@ -32,6 +35,7 @@ Powers represent masterful skill that enables you to inflict additional wounds o
     * Upgrades:
         * `[ ]` Aggravating Block (6 Clock) - The attacker suffers Non-lethal Psychic damage equal to the amount that your Action Roll exceeds the Attack Roll.
 * Charge
+    * Rarity: Common
     * Prerequisites: BODY d4, Skirmish 1 or Finesse 1.
     * Requires: *Melee* weapon.
     * Cost: Act, 1 Stress.

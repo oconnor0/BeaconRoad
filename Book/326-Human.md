@@ -20,8 +20,8 @@
         * You are better and more important; everything is about you.
 * Special Abilities
     - **Expertise.**
-        - Choose one of your Action Ratings. When you lead a group action using that action, you can suffer only 1 Stress at most, regardless of the number of failed rolls.
-            - This special ability is good for covering for your team. If they're all terrible at your favored action, you don't have to worry about suffering a lot of stress when you lead their group action.*
+        - Choose one of your Action Ratings. When you Act Together, leading with that Action, you can suffer only 1 Stress at most, regardless of the number of failed rolls.
+            - This special ability is good for covering for your team. If they're all terrible at your favored Action, you don't have to worry about suffering a lot of stress when you lead their group action.*
     * **Leader.**
         * When you Command an ally in combat, they gain Advantage on 1 Action Roll they make because of your leadership. You may React to protect an ally from consequence.
         * **Protective Leadership.**

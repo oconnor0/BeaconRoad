@@ -12,6 +12,9 @@ Non-lethal
 Powerful
 : weapons suffer Disadvantage on Finesse Action Rolls.
 
+Well-made
+: items take 1 less Load than normal. Items that normally take 1 Load fit an additional item in 1 Load.
+
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
 \pagebreak

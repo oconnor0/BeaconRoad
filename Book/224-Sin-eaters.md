@@ -1,7 +1,5 @@
 ## Sin-eaters
 
-* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
-
 * Sin-eaters exist to take the world's evil into themselves and prevent metahumanity from consuming itself. Each sin-eater voluntarily takes a sacred oath that binds them to their cause for their remaining days and banishes them from civilization. You are a necessary evil - hated and used by all.
 * **When you play this crew, you earn xp when you protect civilization or absorb evil.**
 * *How voluntary were your oaths? Where did your banishment take you - the wilds, the city's underbelly, across the known world? How do you avoid death and imprisonment from those who hate you? What flavors of evil do you devour?*
@@ -120,5 +118,7 @@
 * **Quiet Efficacy.**
     * You get **+1 rep** per score.
         * *You are known and appreciated for quickly and quietly resolving the problem of evil.*
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
 \pagebreak

@@ -64,7 +64,7 @@
         - When you wreck, destroy, damage, or ruin structures, items, or mechanism, your work is much quieter than it should be, and the damage is very well-hidden from casual inspection.
             - You can drill holes in things, melt stuff with acid, even use a muffled explosive, and it will all be very quiet and extremely hard to notice.
     - **Sawbones.**
-        - Gain **Advantage** on action rolls to administer treatment, bind wounds, or help someone heal from trauma.
+        - Gain **Advantage** on Action Rolls to administer treatment, bind wounds, or help someone heal from trauma.
             - Training - or far too much practice - is essential to properly administer treatment.
 - Select one of the below starting items:
     - `[ ]` Bandolier `([ ][ ][ ])` (Contains up to 3 Alchemical Formulas)
