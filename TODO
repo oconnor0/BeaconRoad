@@ -34,6 +34,8 @@ NAMES:
  [ ] Group Action to Act As A Group
  [ ] Action vs Action Rating vs ACTION
  [ ] Coin to Gold?
+ [ ] Minimal, Half, Full, and Encumbered Load?
+ [ ] Negate vs Resist vs Immunity vs Mitigate a Consequence?
 
 TODO:
  [ ] All caps is dice? Or all caps is "number" - either dots, rating, or dice?
@@ -65,6 +67,8 @@ TODO:
  [ ] How to handle Ranged Attacks in Melee? Disadvantage? Cannot make them. If target someone not in Melee, those in Melee can make Reaction Strikes?
  [ ] Cut Heat and Wanted Level?
  [ ] Resistance against any type in attack works, Immunity needs all types in attack
+ [ ] Religion Curses, Blessings, After-life, Eschatology, Soteriology, Perspectives on other Religions
+ [ ] Bloodline and archetype perspectives on other bloodlines and archetypes?
  [ ] GM Section
    [ ] Beginning a Campaign
      [ ] Remember to ask: Tell me one thing that is true about Trolls/Warriors/etc. in this world.

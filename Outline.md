@@ -27,10 +27,25 @@
         iii. Warrior
         iv. Wizard
 5. Rules
-    a. The Core Mechanic
-    b. Engagement
-    c. Combat
+    a. The Core Mechanic(s)
+        Actions
+        Action Roll
+        Stress & Push Yourself
+        Heroic Blessings
+    b. Adventure
+        Gather Information
+        b. Engagement
+        Encounter
+            Teamwork
+        c. Combat
+            Life, Armor, Turns, Rounds, Death, etc.
     d. Downtime
+        Payoff
+        Rep
+        Crafting?
+        Faction Game
+    e. Advancement?
+    f. Between Sessions
 6. GM Guide
     a. Bestiary
 7. Introductory Adventure (Cultic Initiation)

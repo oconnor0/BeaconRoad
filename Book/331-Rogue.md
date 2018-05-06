@@ -33,6 +33,19 @@
             - Off-Hand Strike
         - Starting Items
             - `[ ]` Well-made leather armor (2 Load, Light, 2 Soak Boxes, -10 damage/box).
+    - **Rook**
+        - BODY (Tertiary Attribute)
+            - 1 in Finesse
+        - MIND (Secondary Attribute)
+            - 1 in each of Study and Survey
+        - WILL (Primary Attribute)
+            - 1 in each of Command, Consort, and Sway
+        - Special Ability
+            - Like Looking Into The Mirror
+        - Starting Powers
+            - Feint
+        - Starting Items
+            - `[ ]` Well-made dueling cane (1 Load, Agile, 5', [d8] effect die).
 - Friends and Rivals
     - A beggar
     - A gang leader
