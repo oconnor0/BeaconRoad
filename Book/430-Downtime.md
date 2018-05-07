@@ -146,8 +146,8 @@ If your vice roll clears more stress levels than you had marked, you overindulge
 
 When you overindulge, you make a bad call because of your vice---in acquiring it or while under its influence. To bring the effect of this bad decision into the game, select an overindulgence from the list:
 
-* **Attract Trouble.** Select or roll an additional **entanglement**.
-* **Brag about your exploits.** **+2** heat.
+* **Attract Trouble.** Suffer additional consequences.
+* **Brag about your exploits.** **-2 Rep**.
 * **Lost.** Your character vanishes for a few weeks. Play a different character until this one returns from their bender. When your character returns, they've also healed any harm they had.
 * **Tapped.** Your current purveyor cuts you off. Find a new source for your vice.
 
