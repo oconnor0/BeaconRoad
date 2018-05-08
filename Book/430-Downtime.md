@@ -58,7 +58,7 @@ For any Downtime Activity, gain **Advantage** on the roll if a **friend** or **c
 * GM: If a player can't decide which Downtime Activity to pick, offer them a Long-Term Project idea. You know what the player is interested in and what they like. Suggest a project that will head in a fun direction for them.
 * "Remember how you had that weird vision at the altar to the forgotten gods? Yeah, do you want to get to the bottom of that? Okay, start a Long-Term Project---6 Segments---called... ‘Weird God Vibes.' What do you do to work on that?"
 
-## Acquire Asset
+### Acquire Asset
 
 Gain temporary use of an **Asset**:
 
@@ -81,7 +81,7 @@ If you want to acquire an Asset permanently, you can either gain it as a Chapter
 
 * Zibiah is an accomplished duelist and would like a fine sword to add to her permanent items. Her player starts a Long-Term Project: "Get My Family Sword Back from the Pawn Shop." The GM says this is an 8--clock (she can work on it by Consorting or Swaying the pawn shop owner or maybe rolling her lifestyle level to represent small payments).
 
-## Long-Term Project
+### Long-Term Project
 
 When you work on a Long-Term Project (either a brand new one, or an already existing one), describe what your character does to advance the Project Clock, and make an Action Roll versus a **Controlled** (6), **Risky** (11), or **Desperate** (16) target number. Mark Segments on the clock according to your result: **Failure**: 1 Segment, **Success**: 2 Segments, **Critical**: 2 Segments + *Critical multiplier*.
 
@@ -91,7 +91,7 @@ Based on the goal of the project, the GM will tell you the Clock(s) to create an
 
 In order to work on a project, you might first have to achieve the means to pursue it---which can be a project in itself. For example, you might want to make friends with a member of the City Council, but you have no connection to them. You could first work on a project to Consort in their circles so you have the opportunity to meet one of them. Once that's accomplished, you could start a new project to form a friendly relationship.
 
-## Healing and Recovery
+### Healing and Recovery
 
 Recovery from injury comes in 2 different forms:
 
@@ -104,43 +104,43 @@ You may heal yourself by rolling against a **Desperate** (16) target number, but
 
 Note that it's the recovering Character that takes the Recovery Activity. Healing someone else does not cost a Downtime Activity for the healer.
 
-## Train
+### Train
 
 When you spend time in training, **mark 1 XP** on the XP track for an **Attribute** or **Self** advancement. If you have the appropriate Chapter Training upgrade unlocked, mark **+1 XP** (2 total). See **Chapter Upgrades**, page XX.
 
 > You can train a given XP track only once per downtime.
 
-## Exemplify Virtue or Indulge Vice
+### Exemplify Virtue or Indulge Vice
 
 Go out into the world to exercise and exemplify your **Virtue** to relieve **Stress**. Or visit your **Vice Purveyor** to relieve **Stress**.
 
-## Virtue Roll
+#### Virtue Roll
 
 * Roll [d6].
 
 Clear Stress equal to your roll.
 
-## Vice Roll
+#### Vice Roll
 
 * Roll [d10].
 
 Clear Stress equal to your roll. If you clear more Stress boxes than you had marked, you **Overindulge**.
 
-## Stress Relief
+#### Stress Relief
 
 Your characters are a special lot. They defy the powers-that-be and dare to prey on those who are considered to be their betters. They push themselves further than ordinary people are willing to go. But this comes at a cost. Their life is one of constant stress. Often they turn to their innate strength and virtue to release stress. But far too often, each turns to the seduction of a **Vice** in order to cope.
 
 A character's Virtue is their healthiest way to deal with chaos in life and to try to make the world a better place. With this comes relief from stress and the ability to once again face the overwhelming challenge of their daring life. A character's Vice is their obsession. But with this indulgence comes relief from stress and the ability to once again face the overwhelming challenge of their daring life.
 
-## Exemplifying Your Virtue
+#### Exemplifying Your Virtue
 
 When you exemplify your vice, you clear some stress from your character's stress track. Say how your character exemplifies their virtue. This takes time, so it can only be done when the Chapter has **Downtime**. Alternately, you may choose to release your character to be "characterizing their virture" during a game session, allowing them to indulge off-camera while you play a different character. A gang member, friend, or contact of the Chapter might be created as an alternate character to play, thus fleshing out the landscape of Characters.
 
-## Indulging Your Vice
+#### Indulging Your Vice
 
 When you indulge your vice, you clear some stress from your character's stress track. Say how your character indulges their vice, including which **purveyor of vice** they use to satisfy their needs. This indulgence takes time, so it can only be done when the Chapter has **Downtime**. Alternately, you may choose to release your character to be "lost in their vice" during a game session, allowing them to indulge off-camera while you play a different character. A gang member, friend, or contact of the Chapter might be created as an alternate character to play, thus fleshing out the landscape of Characters.
 
-## Overindulgence
+### Overindulgence
 
 If your vice roll clears more stress levels than you had marked, you overindulge. A vice is not a reliable, controllable habit. It's a risk---and one that can drive your character to act against their own best interests.
 
@@ -154,8 +154,6 @@ When you overindulge, you make a bad call because of your vice---in acquiring it
 ### Roleplaying & XP
 
 Along with your character's heritage and background, their vice tells us what kind of person they are. This obsession impacts their motivations, goals, and behavior. When you ponder what your character might do or say next, you can always consider their vice to help you think of something. As an added benefit, by playing to the nature of your character's vice, you earn XP at the end of the session.
-
-## Downtime Activities in Play
 
 ## NPC & faction downtime
 
@@ -173,6 +171,104 @@ NPCs and factions also do things when the Characters have downtime. The GM **adv
 If you're not sure how far to progress a faction's clock, make a fortune roll using their Tier as the base trait, modified up or down depending on the opposition or circumstances. Given **Failure**: tick 1 Segment, **Success**: tick 2 Segments, **Critical**: tick 2 Segments + Critical multiplier.
 
 When factions do things that are known in the criminal underworld, **tell the players about it** through one of their **friends** or **contacts** or **vice purveyors**. These rumors and bits of gossip can lead to future scores and opportunities for the Characters.
+
+## The Faction Game
+
+### Tier
+
+Each notable faction is ranked by **Tier**-a measure of wealth, influence, and scale. At the highest level are the Tier 5 and 6 factions, the true powers of the world. Your Chapter begins at Tier 0.
+
+You'll use your Tier rating to roll dice when you acquire an asset, as well as for any fortune roll for which your Chapter's overall power level and influence is the primary trait. Most importantly, your Tier determines the **Quality Level** of your items as well as the quality and **Scale** of the gangs your Chapter employs---and thereby what size of enemy you can expect to handle.
+
+* *Remember that you gain Advantage equal to your Tier on Action Rolls.*
+
+| Tier | Gang Scale |
+|------|------------|
+| 0 | 1 or 2 people |
+| 1 | Small gangs. (3--6 people) |
+| 2 | Medium gangs. (12 people) |
+| 3 | Large gangs. (20 people) |
+| 4 | Huge gangs. (40 people) |
+| 5 | Massive gangs. (80 people) |
+
+### Hold
+
+On the faction ladder next to the Tier numbers is a letter indicating the strength of each faction's **Hold**. Hold represents how well a faction can maintain their current position on the ladder. W indicates **Weak** hold. S indicates **Strong** hold. Your Chapter begins with **Strong** hold at **Tier 0**.
+
+### Development
+
+To move up the ladder and develop your Chapter, you need **Rep**. **Rep** is a measure of clout and renown. When you accrue enough **Rep**, the other factions take you more seriously, and you attract the support needed to develop and grow.
+
+When you complete a score, your Chapter earns **2 Rep**. If the target of the score is higher Tier than your Chapter, you get **+1 Rep per Tier higher**. If the target of the score is lower Tier, you get **-1 Rep** per Tier lower (minimum zero).
+
+You need **12 Rep** to fill the **Rep** tracker on your Chapter sheet. When you fill the tracker, do one of the following:
+
+* If your hold is Weak, it becomes Strong. **Reset your Rep to 0**.
+* If your hold is Strong, you can pay to increase your Chapter Tier by 1. This costs **Coin** equal to your **new Tier × 5**. As long as your Rep tracker is full, you don't earn new **Rep** (12 is the max). Once you pay and increase your Tier, **reset your Rep to 0** and **reduce your hold to Weak**.
+
+### Turf
+
+Another way to contribute to the Chapter's development is by acquiring **Turf**. When you seize and hold territory, you establish a more stable basis for your **Rep**. Each piece of turf that you claim represents abstracted support for the Chapter.
+
+Turf is marked on your **Rep** tracker (see the example below). Each piece of turf you hold reduces the **Rep** cost to develop by one. So, if you have 2 turf, you need 10 **Rep** to develop. If you have 4 turf, you need 8 **Rep** to develop. **You can hold a maximum of 6 Turf.** When you develop and reset your **Rep**, **you keep the marks from all the Turf you hold.**
+
+![image alt text](../Images/image_1.gif)
+
+> If you hold 3 pieces of turf, you need only 9 **Rep** to develop, instead of 12.
+> When you develop, you'll clear the 9 **Rep** marks, but keep the 3 turf marks. Mark turf on the right side, to show the "cap" on how much **Rep** is needed.
+
+Also, when you acquire turf, you expand the scope of your Chapter's **Hunting Grounds**.
+
+### Reducing Hold
+
+You may perform an operation specifically to reduce the hold of another faction, if you know how they're vulnerable. If the operation succeeds, the target faction loses 1 level of hold. If their hold is weak and it drops, the faction loses 1 Tier and stays weak.
+
+When a faction is at war, it temporarily loses 1 Hold.
+
+Your Chapter can lose hold, too, following the same rules above. If your Chapter is Tier 0, with weak hold, and you lose hold for any reason, your lair comes under threat by your enemies or by a faction seeking to profit from your misfortune.
+
+### Faction Status
+
+Your Chapter's **status** with each faction indicates how well you are liked or hated. Status is rated from -3 to +3, with zero (neutral) being the default starting status. You track your status with each faction on the faction sheet.
+
+When you create your Chapter, you assign some positive and negative status ratings to reflect recent history. The ratings will then change over time based on your actions in play.
+
+#### Faction status changes
+
+When you execute an operation, you gain -1 or -2 status with factions that are hurt by your actions. You may also gain +1 status with a faction that your operation helps. (If you keep your operation completely quiet then your status doesn't change.) Your status may also change if you do a favor for a faction or if you refuse one of their demands.
+
+#### Faction Status Levels
+
+* **+3: Allies.** This faction will help you even if it's not in their best interest to do so. They expect you to do the same for them.
+* **+2: Friendly.** This faction will help you if it doesn't create serious problems for them. They expect you to do the same.
+* **+1: Helpful.** This faction will help you if it causes no problems or significant cost for them. They expect the same from you.
+* **0: Neutral.**
+* **-1: Interfering.** This faction will look for opportunities to cause trouble for you (or profit from your misfortune) as long as it causes no problems or significant cost for them. They expect the same from you.
+* **-2: Hostile.** This faction will look for opportunities to hurt you as long as it doesn't create serious problems for them. They expect you to do the same, and take precautions against you.
+* **-3: War.** This faction will go out of its way to hurt you even if it's not in their best interest to do so. They expect you to do the same, and take precautions against you. When you're at war with any number of factions, your Chapter suffers +1 **heat** from scores, temporarily loses 1 hold, and PCs get only one downtime action rather than two. You can end a war by eliminating your enemy or by negotiating a mutual agreement to establish a new status rating.
+* *If your Chapter has weak hold when you go to war, the temporary loss of hold causes you to lose one Tier. When the war is over, restore your Chapter's Tier back to its pre-war level.*
+
+### Claims
+
+Each Chapter sheet has a map of claims available to be seized. The claim map displays a default roadmap for your Chapter type. Claims should usually be seized in an orderly sequence, by following the paths from the central square, the Chapter's lair.
+
+*However, you may attempt to seize any claim on your map*, ignoring the paths (or even seek out a special claim not on your map) but these operations will always be especially difficult and require exceptional efforts to discover and achieve.
+
+#### Seizing a claim
+
+Every claim is already controlled by a faction. To acquire one for yourself, you have to take it from someone else. To seize a claim, tell the GM which claim on your map your Chapter intends to capture. The GM will detail the claim with a location and a description and will tell you which faction currently controls that claim. Or the GM might offer you a choice of a few options if they're available.
+
+If you choose to ignore the roadmap paths when seizing a claim, the GM might tell you that you'll need to investigate and gather information in order to discover a claim of that type before you can attempt to seize it.
+
+Execute the operation like any other **score**, and if you succeed, you seize the claim and the targeted faction loses the claim.
+
+Seizing a claim is a serious attack on a faction, usually resulting in -2 faction status with the target, and potentially +1 status with its enemies.
+
+As soon as you seize a claim, you enjoy the listed benefit for as long as you hold the claim. Some claims count as **turf**. Others provide special benefits to the Chapter, such as advantage in certain circumstances, extra coin generated for the Chapter's treasury, or new opportunities for action.
+
+#### Losing a claim
+
+An enemy faction may try to seize a claim that your Chapter holds. You can fight to defend it, or negotiate a deal with the faction, depending on the situation. If you lose a claim, you lose all the benefits of that claim. If your lair is lost, you lose the benefits of all of your claims until you can restore your lair or establish a new one. To restore or establish a new lair, accomplish a score to do so.
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 

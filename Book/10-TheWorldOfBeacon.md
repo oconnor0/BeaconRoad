@@ -54,6 +54,8 @@ Esgyrn has 2 significant moons: Lua orbiting in a roughly circular orbit every 3
 
     The light of Beacon
 
+Esgyrn is intended to be treated like a sandbox---some of the pieces in the world are intended to be fixed structures (at least from the perspective of this book) while other pieces are intended to be molded by the players.
+
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
 \pagebreak

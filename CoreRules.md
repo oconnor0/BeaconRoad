@@ -495,9 +495,9 @@ When you narrate the action after the roll, the GM and player collaborate togeth
     * **Success:** You do it, but there's a consequence: you suffer **harm**, a **complication** occurs, you have **reduced effect**, you end up in a **desperate** position.
     * **Failure:** Things go badly. You suffer **harm**, a **complication** occurs, you end up in a **desperate** position, you **lose this opportunity**.
 * **Desperate** (base TN = 16 + target's Tier)-You overreach your capabilities. You're in serious trouble.
-* **Critical:** You do it with **increased effect** proportional to the critical multiplier.
-* **Success:** You do it, but there's a consequence: you suffer **severe harm**, a **serious complication** occurs, you have **reduced effect**.
-* **Failure:** It's the worst outcome. You suffer **severe harm**, a **serious complication** occurs, you **lose this opportunity** for action.
+    * **Critical:** You do it with **increased effect** proportional to the critical multiplier.
+    * **Success:** You do it, but there's a consequence: you suffer **severe harm**, a **serious complication** occurs, you have **reduced effect**.
+    * **Failure:** It's the worst outcome. You suffer **severe harm**, a **serious complication** occurs, you **lose this opportunity** for action.
 
 ### Double-duty Rolls
 
