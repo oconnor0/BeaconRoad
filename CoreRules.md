@@ -1185,7 +1185,7 @@ You don't need to select specific items now. Review your personal items and the 
         - When you **invent** or **craft** a creation with *alchemical* features, get **+1 quality level** to your roll. You begin with one special formula already known.
             - *Follow the Inventing procedure with the GM to define your first special alchemical formula.*
     - **Analyst.**
-        - During downtime, you get **two ticks** to distribute among any long term project clocks that involve investigation or learning a new formula or design plan.
+        - During downtime, you get **2 Ticks** to distribute among any long term project clocks that involve investigation or learning a new formula or design plan.
     - **Artificer.**
         - When you **invent** or **craft** a creation with *spark-craft* features, get **+1 quality level** to your roll. You begin with one special design already known.
             - *Follow the Inventing procedure with the GM to define your first spark-craft design.*
@@ -1235,7 +1235,7 @@ You don't need to select specific items now. Review your personal items and the 
     - **Battleborn.**
         - You may expend one Stress Box to negate a consequence from an attack in combat.
     - **Bodyguard.**
-        - When you **protect** a teammate, gain **Advantage** on your resistance roll. When you gather information to anticipate possible threats in the current situation, you get **+1 effect**.
+        - When you **Protect** a teammate, gain **Advantage** on your resistance roll. When you gather information to anticipate possible threats in the current situation, you get **+1 Effect**.
             - *The protect teamwork maneuver lets you face a consequence for a teammate. If you choose to resist that consequence, this ability gives you Advantage on your resistance roll. Also, when you read a situation to gather information about hidden dangers or potential attackers, you get +1 effect-which means more detailed information.*
     - **Deadly.**
         - When you **Push Yourself** when making melee attacks, gain all benefits of **Pushing Yourself**.

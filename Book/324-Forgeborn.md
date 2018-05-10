@@ -7,7 +7,7 @@
 * Construct:
     * You are constructed machine---ensouled---but not biological.
 * Senses:
-    * Infravision. You can see heat regardless of how dark it is allowing you to Act normally in combat against living and constructs. Otherwise you cannot see in the dark and in dim light suffer Disadvantage on Action Rolls requiring sight.
+    * Infravision. You can see heat regardless of how dark it is allowing you to Act normally in combat against living and constructs. Otherwise you cannot see in the dark and in dim light suffer Snag on Action Rolls requiring sight.
 * Size:
     * Medium (5' × 5'), from 5' to 8' tall, and 200 to 600 pounds.
 * Stride:
@@ -26,9 +26,9 @@
             * Cost: Act or React, 1 Stress (`[ ][ ]` Free from Foresight)
             * Trigger: An ally Acts.
             * Target: 1 allied creature you can see.
-            * Effect: Describe how you aid them. If plausible, they gain Advantage on their roll and may reroll, taking the second roll, if they dislike the first result.
+            * Effect: Describe how you aid them. If plausible, they gain Edge on their roll and may reroll, taking the second roll, if they dislike the first result.
     * **Mode.**
-        * When you **Train** during a **Downtime Action**, you may switch two of your **Attribute Ratings**.
+        * When you **Train** during a **Downtime Activity**, you may switch two of your **Attribute Ratings**.
 * What is one thing that is true about Forgeborn in this world?
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *

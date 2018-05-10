@@ -19,7 +19,12 @@ When you choose a plan, you provide a missing **detail**, like the point of atta
 
 ### Item Loadouts
 
-After the plan and detail are in place, each player chooses their character's **Load**. This indicates how much stuff they're carrying on the operation. They don't have to select individual items---just the maximum amount they'll have access to during the action.
+After the plan and detail are in place, choose your character's **Load**. This indicates how much stuff you're carrying on the operation. They don't have to select individual items (as you have access to all of the **items** on your character sheet)---just the maximum amount you'll have access to during the action. During the operation, you may say that your character has an item on hand by checking the box (or boxes) for the item you want to use---up to a number of boxes equal to your chosen load. Your load also determines your movement speed and conspicuousness:
+
+* 1--3 load: **Minimal.** *You're faster (increasing your Stride by 5'), less conspicuous; you more easily blend in.*
+* 4/5 load: **Half**. *You look like a scoundrel, ready for trouble.*
+* 6 load: **Full.** *You're slower (decreasing your Stride by 5'). You look like an operative on a mission.*
+* 7--9 load: **Encumbered.** *You're overburdened and can't do anything except move very slowly.*
 
 ### Engagement Roll
 
@@ -29,20 +34,20 @@ The engagement roll is an Action Roll based on whoever is leading the introducti
 
 ### Major Advantages / Disadvantages
 
-* Is this operation particularly bold or daring? Gain Advantage. Is this operation overly complex or contingent on many factors? Roll Disadvantage.
-* Does the **plan's detail** expose a vulnerability of the target or hit them where they're weakest? Gain Advantage. Is the target strongest against this approach, or do they have particular defenses or special preparations? Roll Disadvantage.
-* Can any of your **friends or contacts** provide aid or insight for this operation? Gain Advantage. Are any **enemies or rivals** interfering in the operation? Roll Disadvantage.
-* Are there any **other elements** that you want to consider? Maybe a lower-Tier target will give you Advantage. Maybe a higher-Tier target will give you Disadvantage. Maybe there's a situation that makes the operation more or less tricky.
+* Is this operation particularly bold or daring? Gain Edge. Is this operation overly complex or contingent on many factors? Roll Snag.
+* Does the **plan's detail** expose a vulnerability of the target or hit them where they're weakest? Gain Edge. Is the target strongest against this approach, or do they have particular defenses or special preparations? Roll Snag.
+* Can any of your **friends or contacts** provide aid or insight for this operation? Gain Edge. Are any **enemies or rivals** interfering in the operation? Roll Snag.
+* Are there any **other elements** that you want to consider? Maybe a lower-Tier target will give you Edge. Maybe a higher-Tier target will give you Snag. Maybe there's a situation that makes the operation more or less tricky.
 
-The engagement roll assumes that the Characters are approaching the target as intelligently as they can, given the plan and detail they provided, so we don't need to play out tentative probing maneuvers, special precautions, or other ponderous non-action. The engagement roll covers all of that. The Characters are already in action, facing the first obstacle-up on the rooftop, picking the lock on the window; kicking down the door of the rival gang's lair; maneuvering to speak with a Lord at the masquerade party; etc.
+The engagement roll assumes that the Characters are approaching the target as intelligently as they can, given the plan and detail they provided, so we don't need to play out tentative probing maneuvers, special precautions, or other ponderous non-action. The engagement roll covers all of that. The Characters are already in action, facing the first obstacle---up on the rooftop, picking the lock on the window; kicking down the door of the rival gang's lair; maneuvering to speak with a Lord at the masquerade party; etc.
 
-Don't make the engagement roll and then describe the Characters *approaching* the target. It's the approach that the engagement roll resolves. Cut to the action that results *because of* that initial approach-to the first serious obstacle in their path.
+Don't make the engagement roll and then describe the Characters *approaching* the target. It's the approach that the engagement roll resolves. Cut to the action that results *because of* that initial approach---to the first serious obstacle in their path.
 
 ### Engagement Roll
 
 * Action Roll versus **controlled**, **risky**, or **desperate** target number.
-* **Advantage** for each **Major** **Advantage.**
-* **Disadvantage** for each **Major** **Disadvantage.**
+* **Edge** for each **Major Advantage.**
+* **Snag** for each **Major Disadvantage.**
 * **Critical:** Exceptional result. *You've already overcome the first obstacle and you're in a controlled position for what's next.*
 * **Success:** Good result. *You're in a controlled position when the action starts.*
 * **Failure:** Mixed result. *You're in a risky position when the action starts.*
@@ -55,7 +60,7 @@ If the players want to include a special preparation or clever setup, they can d
 
 ### Outcomes
 
-The outcome of the engagement roll determines the **position** for the Characters' initial actions when we cut to the Adventure in progress. A **botch** means a desperate position. A **failure** is a risky position. A **success** yields a controlled position. And a **critical** carries the action beyond the initial obstacle, deeper into the action of the Adventure.
+The outcome of the engagement roll determines the **Position** for the Characters' initial actions when we cut to the Adventure in progress. A **Botch** means a desperate position. A **Failure** is a risky position. A **Success** yields a controlled position. And a **Critical** carries the action beyond the initial obstacle, deeper into the action of the Adventure.
 
 No matter how low-Tier or outmatched you are, a desperate position is the worst thing that can result from the plan + detail + engagement process. It's designed this way so the planning process matters, but it doesn't call for lots of optimization or nitpicking. Even if you're reckless and just dive in and take your chances, you can't get too badly burned. Plus, you might even want that desperate position to require your characters to Push Themselves and fail generating more XP for the Characters, which helps to bootstrap starting characters into advancement.
 
@@ -69,7 +74,7 @@ The engagement roll determines the starting position for the Characters' actions
 
 Sometimes an operation seems to call for a couple of plans linked together. A common scenario is a team that wants a two-pronged approach. "You create a diversion at the tavern, and when they send thugs over there, we'll break into their lair." There are two ways to handle this.
 
-1. The diversion is a **setup maneuver** that a team member performs as part of the plan. A successful setup maneuver can improve **position** for teammates (possibly offsetting a bad engagement roll) or give increased effect. An unsuccessful setup maneuver might cause trouble for the second part of the plan---an easy consequence is to give the engagement roll Disadvantage. *If it makes sense, the team member who performed the setup can drift back into the main operation and join the team later so they don't have to sit out and wait.*
+1. The diversion is a **Setup Maneuver** that a team member performs as part of the plan. A successful setup maneuver can improve **Position** for teammates (possibly offsetting a bad engagement roll) or give increased effect. An unsuccessful setup maneuver might cause trouble for the second part of the plan---an easy consequence is to give the engagement roll Snag. *If it makes sense, the team member who performed the setup can drift back into the main operation and join the team later so they don't have to sit out and wait.*
 2. The diversion is its own plan, engagement, and operation, whose outcome creates the opportunity for a future plan. Use this option when the first part of the plan is required for the next part to happen at all. For example, you might execute a stealth plan to steal an artifact from the Museum of the Ancients, then later use that artifact in an occult plan to consecrate a temple for your forgotten god. In this case, you go into downtime (and payoff, heat, etc.) after the first part of the plan, as normal.
 
 Either approach is fine. It's usually a question of interest. Is the linked plan idea interesting enough on its own to play out moment by moment? Is it required for the second plan to make sense? If so, make it a separate operation. If not, just use a setup maneuver.

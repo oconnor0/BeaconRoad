@@ -42,7 +42,7 @@ Powers represent masterful skill that enables you to inflict additional wounds o
     * Target: 1 creature within your Stride.
     * Effect: Advance up to your Stride toward your target, if you end your movement closer to your target than you started your turn, and if you moved at least twice your size (ex., 10' for medium or 20' for large), make a Melee Weapon Charge Attack against that target.
     * Upgrades:
-        * `[ ]` Building Fury (6 Clock) - Gain Advantage on your Charge Attack Roll for each attack that hits you while charging.
+        * `[ ]` Building Fury (6 Clock) - Gain Edge on your Charge Attack Roll for each attack that hits you while charging.
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 

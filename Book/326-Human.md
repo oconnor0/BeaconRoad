@@ -7,7 +7,7 @@
 * Living:
     * You are ensouled and biologically alive.
 * Senses:
-    * Normal. You cannot see in the dark and in dim light suffer Disadvantage on Action Rolls requiring sight.
+    * Normal. You cannot see in the dark and in dim light suffer Snag on Action Rolls requiring sight.
 * Size:
     * Medium (5' × 5'), averaging from 5' to 6' tall and 120 to 220 pounds.
 * Stride:
@@ -23,7 +23,7 @@
         - Choose one of your Action Ratings. When you Act Together, leading with that Action, you can suffer only 1 Stress at most, regardless of the number of failed rolls.
             - This special ability is good for covering for your team. If they're all terrible at your favored Action, you don't have to worry about suffering a lot of stress when you lead their group action.*
     * **Leader.**
-        * When you Command an ally in combat, they gain Advantage on 1 Action Roll they make because of your leadership. You may React to protect an ally from consequence.
+        * When you Command an ally in combat, they gain Edge on 1 Action Roll they make because of your leadership. You may React to protect an ally from consequence.
         * **Protective Leadership.**
             * Cost: React, 2 Stress.
             * Trigger: An Ally would suffer a consequence.

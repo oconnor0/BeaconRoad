@@ -36,9 +36,9 @@ Record the Coin on the Chapter sheet, or divvy it up among the Chapter members a
 
 GM, definitely don't screw around with the players when it comes to the payoff. Don't say that the client lied and there's no reward. Or that the meeting for the payment is actually a trap, or whatever. The Characters have enough problems coming at them from every direction already. When it comes to getting paid, just give them what they earned.
 
-## Downtime Work
+## Downtime Activities
 
-Between Adventures, your Chapter spends time at their liberty, attending to personal needs and side projects. These are called **Downtime Activities** (see the list below). Each Character may **Work twice during Downtime**. *When you're at war, each Character has time for only one.*
+Between Adventures, your Chapter spends time at their liberty, attending to personal needs and side projects. These are called **Downtime Activities** (see the list below). Each Character may work on **2 Activities during Downtime**. *When you're at war, each Character has time for only 1.*
 
 * Acquire Asset
 * Long-Term Project
@@ -49,11 +49,11 @@ Between Adventures, your Chapter spends time at their liberty, attending to pers
 
 You may choose to Work on any Activity more than once. You can only Work on Activities you're in a position to accomplish. If an Activity is contingent on other Work, resolve that Work first.
 
-A Character can Work more than twice per Downtime, at a cost. **Each additional Activity from the list costs 1 Coin or 1 Rep**. This reflects the time and resulting resource drain while you're "off the clock" and not earning from a Adventure. When you complete a new Adventure, you reset and get two "free" Activities again.
+A Character can work more than twice per Downtime, at a cost. **Each additional Activity from the list costs 1 Coin or 1 Rep**. This reflects the time and resulting resource drain while you're "off the clock" and not earning from a Adventure. When you complete a new Adventure, you reset and get two "free" Activities again.
 
 Activities on the Downtime list are limited; normal activities are not. During Downtime, you can still go places, do things, make Action Rolls, Gather Information, talk with other characters, etc. In other words, only Activities that are *on the list* are limited.
 
-For any Downtime Activity, gain **Advantage** on the roll if a **friend** or **contact** helps you. After the roll, you may spend Coin to improve the Result Level. **Increase the Result Level by 1 for each Coin spent**. So, a Failure becomes a Success, a Success becomes a Critical, and a Critical increases its multiplier by one.
+For any Downtime Activity, gain **Edge** on the roll if a **friend** or **contact** helps you. After the roll, you may spend Coin to improve the Result Level. **Increase the Result Level by 1 for each Coin spent**. So, a Failure becomes a Success, a Success becomes a Critical, and a Critical increases its multiplier by one.
 
 * GM: If a player can't decide which Downtime Activity to pick, offer them a Long-Term Project idea. You know what the player is interested in and what they like. Suggest a project that will head in a fun direction for them.
 * "Remember how you had that weird vision at the altar to the forgotten gods? Yeah, do you want to get to the bottom of that? Okay, start a Long-Term Project---6 Segments---called... ‘Weird God Vibes.' What do you do to work on that?"
@@ -73,7 +73,7 @@ To acquire the Asset, make an Action Roll versus a **Controlled** (6), **Risky**
 
 The GM may set a **minimum quality** level that must be achieved to acquire a particular Asset. For example, if you want to get a set of military uniforms and masks, you'd need to acquire a Tier IV Asset. A lower result won't do.
 
-If you acquire the same Asset again, you gain **Advantage** on your roll. If you continue to re-acquire an Asset every time it's used, you can effectively rent it indefinitely.
+If you acquire the same Asset again, you gain **Edge** on your roll. If you continue to re-acquire an Asset every time it's used, you can effectively rent it indefinitely.
 
 Alchemicals, poisons, bombs, and dangerous gadgets are highly restricted. When you acquire one of these items (rather than crafting it yourself), you'll need to p
 
@@ -100,7 +100,7 @@ Recovery from injury comes in 2 different forms:
 
 Your healer rolls (perhaps **Utter** or **Craft** for a Character with the healing special ability, or the **Quality Level** of an NPC) versus a **Risky** (11) target number and then you Recover based on the roll: **Failure**: Recover 1×, **Success**: Recover 2×, **Critical**: Recover 2× + *Critical multiplier*.
 
-You may heal yourself by rolling against a **Desperate** (16) target number, but you take 2 stress when you do so. You can also choose to simply tough it out and attempt to heal without any treatment---in this case, take 1 stress and suffer Disadvantage on the Action Roll.
+You may heal yourself by rolling against a **Desperate** (16) target number, but you take 2 stress when you do so. You can also choose to simply tough it out and attempt to heal without any treatment---in this case, take 1 stress and suffer Snag on the Action Roll.
 
 Note that it's the recovering Character that takes the Recovery Activity. Healing someone else does not cost a Downtime Activity for the healer.
 
@@ -180,7 +180,7 @@ Each notable faction is ranked by **Tier**-a measure of wealth, influence, and s
 
 You'll use your Tier rating to roll dice when you acquire an asset, as well as for any fortune roll for which your Chapter's overall power level and influence is the primary trait. Most importantly, your Tier determines the **Quality Level** of your items as well as the quality and **Scale** of the gangs your Chapter employs---and thereby what size of enemy you can expect to handle.
 
-* *Remember that you gain Advantage equal to your Tier on Action Rolls.*
+* *Remember that you gain Edge equal to your Tier on Action Rolls.*
 
 | Tier | Gang Scale |
 |------|------------|

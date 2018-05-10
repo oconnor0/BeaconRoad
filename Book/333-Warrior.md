@@ -43,17 +43,17 @@
     - **Battleborn.**
         - While not wearing armor, gain 4 Soak Boxes. Gain +1 **Iron**.
     - **Bodyguard.**
-        - When you **protect** a teammate, gain **Advantage** on your resistance roll. When you gather information to anticipate possible threats in the current situation, you get **+1 effect**.
-            - *The protect teamwork maneuver lets you face a consequence for a teammate. If you choose to resist that consequence, this ability gives you Advantage on your resistance roll. Also, when you read a situation to gather information about hidden dangers or potential attackers, you get +1 effect-which means more detailed information.*
+        - When you **protect** a teammate, gain **Edge** on your resistance roll. When you gather information to anticipate possible threats in the current situation, you get **+1 effect**.
+            - *The protect teamwork maneuver lets you face a consequence for a teammate. If you choose to resist that consequence, this ability gives you Edge on your resistance roll. Also, when you read a situation to gather information about hidden dangers or potential attackers, you get +1 effect-which means more detailed information.*
     - **Deadly.**
         - When you **Push Yourself** when making melee attacks, gain all benefits of **Pushing Yourself**.
     - **Mule.**
-        - Your load limits are higher. Light: 5. Normal: 7. Heavy: 8.
+        - Your load limits are higher. Minimal: 5. Half: 7. Full: 8.
             - *This ability is great if you want to wear heavy armor and pack a heavy weapon without attracting lots of attention. Since your exact gear is determined on-the-fly during an operation, having more load also gives you more options to get creative with when dealing with problems during a score.*
     - **Stalwart.**
         - You cannot be *Pushed* or *Slammed*. Gain +1 **Iron**.
     - **Vigorous.**
-        - Healing treatment rolls on you gain Advantage. Increase your Recovery by *3 + TIER*.
+        - Healing treatment rolls on you gain Edge. Increase your Recovery by *3 + TIER*.
 - Select one of the below starting items:
     - `[ ]-[ ]-[ ]` Well-made chain or scale armor (Medium Armor, 4 Soak Boxes, -10 damage/box).
     - `[ ]` Well-made heavy shield (Heavy Shield, 4 Soak Boxes, -10 damage/box).

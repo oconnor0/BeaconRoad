@@ -19,22 +19,23 @@ PROTOTYPE:
    [ ] Limited
 
 NAMES:
- [ ] Rename Crew to Faction and Chapter.
- [ ] Rename Advantage vs Disadvantage to Edge vs Flaw/Snag/something? This would help separate the mechanic from D&D 5e - especially since Advantage/Disadvantage stack in BR.
- [ ] Score becomes Adventure, Mission, Quest, Excursion, Outing, Foray?
+ [x] Rename Crew to Faction and Chapter. @done (18-05-10 00:25)
+ [x] Rename Advantage vs Disadvantage to Edge vs Snag? This would help separate the mechanic from D&D 5e - especially since Advantage/Disadvantage stack in BR. @done (18-05-10 00:25)
+ [x] Score becomes Adventure. @done (18-05-10 00:25)
  [ ] Damage Type becomes Energy or Energy Type?
  [ ] Light weapons to Agile weapons; Heavy weapons to Powerful weapons
- [ ] Light, medium, heavy, exosuit armor to ?
- [ ] Light, normal, heavy, encumbered load to ?
+ [-] Light, medium, heavy, exosuit armor to ? @cancelled (18-05-09 21:23)
+ [x] Light, normal, heavy, encumbered load to Minimal, Half, Full, Encumbered? @done (18-05-09 21:21)
+ [ ] Does Full Load cause Disadvantage for stealth?
  [ ] Rename Action to Act and Reaction to React?
  [ ] Road Master instead of Game Master? Moderator? Facilitator?
  [ ] Beaconwalkers? Roadwalkers. Roadfinders.
- [ ] Rename "Check" to "Roll".
+ [x] Rename "Check" to "Roll". @done (18-05-09 21:41)
  [ ] HP to Life, Life Points, Life Boxes, Hit Boxes?
- [ ] Group Action to Act As A Group or Act Together
+ [x] Group Action to Act As A Group or Act Together @done (18-05-09 21:39)
  [ ] Action vs Action Rating vs ACTION
  [ ] Coin to Gold?
- [ ] Minimal, Half, Full, and Encumbered Load?
+ [x] Minimal, Half, Full, and Encumbered Load? @done (18-05-09 21:35)
  [ ] Negate vs Resist vs Immunity vs Mitigate a Consequence?
  [-] Downtime Work rather than Downtime Action @cancelled (18-05-07 00:08)
 
@@ -54,10 +55,10 @@ TODO:
  [ ] Warrior - **Berserker.** +2 Wreck, +2 Hunt. **Deadly.**
  [ ] Wizard - **Adept.** +1 Prowl, +1 Survey, +2 Command. **Meditation.**
  [ ] Wizard - **Inquisitor.** +2 Skirmish, +1 Hunt, +1 Command. **Warded.**
- [ ] Empower/Infuse Weapon - cast Spell through next weapon attack
+ [x] Empower/Infuse Weapon - cast Spell through next weapon attack @done (18-05-09 20:50)
  [ ] Strengthened is +d4/d6/d8/d10/d12?
  [ ] Weakened is half damage (and no criticals)?
- [ ] d10 Vice, d6 Virtue ?
+ [x] d10 Vice, d6 Virtue ? @done (18-05-09 20:50)
  [ ] Resistance Roll is Action Roll?
  [x] Fill out Character Creation. @done (18-05-03 21:24)
  [ ] Reduce Ranges and use stacking Disadvantage to balance?
@@ -66,10 +67,12 @@ TODO:
  [ ] Experts usually don't show up in battle---but would as Veterans. Likely.
  [ ] I realized I can, if I want to, incorporate Gumshoe into BR by adding "Investigative Abilities/Skills/Specialties" that a player can use to obtain core clues and when a player wants more information make an Action Roll as normal.
  [ ] How to handle Ranged Attacks in Melee? Disadvantage? Cannot make them. If target someone not in Melee, those in Melee can make Reaction Strikes?
- [ ] Cut Heat and Wanted Level?
+ [x] Cut Heat and Wanted Level? @done (18-05-09 20:53)
  [ ] Resistance against any type in attack works, Immunity needs all types in attack
  [ ] Religion Curses, Blessings, After-life, Eschatology, Soteriology, Perspectives on other Religions
  [ ] Bloodline and archetype perspectives on other bloodlines and archetypes?
+ [ ] Some Powers/Weapons/whatever deal permanent wounds
+ [ ] Voluntarily Botch (which gives GM Botch Point) and gain Beacon Point. If triggered by Virtue or Vice, relieve 1 Stress or gain 1 XP.
  [ ] GM Section
    [ ] Beginning a Campaign
      [ ] Remember to ask: Tell me one thing that is true about Trolls/Warriors/etc. in this world.
