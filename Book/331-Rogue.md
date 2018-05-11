@@ -71,7 +71,7 @@
             - You may choose to act Cautiously in combat, but if an enemy would attempt to act against you, you may take your turn before they do.
             - This ability gives you the initiative in most situations. Some specially trained NPCs might also have Reflexes, but otherwise, you're always the first to act, and can interrupt anyone else who tries to beat you to the punch. This ability usually doesn't negate the need to make an action roll that you would otherwise have to make, but it may improve your position or effect.
     - **Shadow.**
-        - You may expend 1 Stress to resist a consequence from detection or security measures. Gain Edge on feats of athletics or stealth.
+        - You may take 1 Stress to resist a consequence from detection or security measures. Gain Edge on feats of athletics or stealth.
             - When you use this ability, tick 1 Stress on your character sheet. If you "resist a consequence" of the appropriate type, you avoid it completely.*
     - **Sharpshooter.**
         - You do not suffer Snag when making ranged weapon attacks at distances beyond their first range increment. You can **Push Yourself** to do one of the following: *make a ranged attack at extreme distance beyond what's normal for the weapon---unleash a barrage of rapid fire to suppress the enemy.*

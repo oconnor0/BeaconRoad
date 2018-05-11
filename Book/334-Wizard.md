@@ -78,7 +78,7 @@
         - Studied Spells allows you to reduce Stress costs of Powers using UTTER. Select appropriate Powers. Reduce their Stress costs (not below 1). You cannot reduce Stress costs more than a cumulative 1 + TIER + UTTER.
             - For example, if you are Tier 2 with Utter 4 (so 1 + 2 + 4 = 7), you could reduce the Stress cost of one Power by 3 and another by 4.
     - **Warded.**
-        - You may expend 1 Stress to resist a supernatural consequence. Gain +1 WARD.
+        - You may take 1 Stress to resist a supernatural consequence. Gain +1 WARD.
 - Select one of the below starting items:
     - `[ ]` Well-made vestments (Light Armor, 2 Soak Boxes, -10 damage/box).
     - `[ ]` Well-made staff (2H, 5', [d6] effect die).

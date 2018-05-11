@@ -95,7 +95,7 @@ In order to work on a project, you might first have to achieve the means to purs
 
 Recovery from injury comes in 2 different forms:
 
-1. During Downtime, you can expend 1 Stress to Recover (regaining one-quarter of your maximum HP).
+1. During Downtime, you can take 1 Stress to Recover (regaining one-quarter of your maximum HP).
 2. You can spend a Downtime Activity seeking treatment and healing injury. You might visit a physician who can stitch your wounds and soothe your mind with anatomical science or a witch who specializes in healing charms and restorative alchemy. If you don't have a contact or fellow Character who can provide treatment, you can use the **Acquire Asset** activity to gain access to a healer, who can provide service for the whole Chapter.
 
 Your healer rolls (perhaps **Utter** or **Craft** for a Character with the healing special ability, or the **Quality Level** of an NPC) versus a **Risky** (11) target number and then you Recover based on the roll: **Failure**: Recover 1×, **Success**: Recover 2×, **Critical**: Recover 2× + *Critical multiplier*.

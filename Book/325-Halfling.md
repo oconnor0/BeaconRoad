@@ -22,7 +22,7 @@
     - **Bold.**
         - You *Deflect* (+5 Defense) attempts to *Terrify* you. When you Push Yourself in awkward, difficult, or social situations with those above your station, gain all the benefits of Pushing Yourself.
     - **Subterfuge.**
-        - You may expend one Stress to resist a consequence from subterfuge, infiltration, suspicion, or persuasion; or to quickly React to hide from sight.
+        - You may take 1 Stress to resist a consequence from subterfuge, infiltration, suspicion, or persuasion; or to quickly React to hide from sight.
 * What is one thing that is true about Halflings in this world?
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *

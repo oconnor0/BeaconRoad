@@ -20,7 +20,8 @@ PROTOTYPE:
 
 NAMES:
  [x] Rename Crew to Faction and Chapter. @done (18-05-10 00:25)
- [x] Rename Advantage vs Disadvantage to Edge vs Snag? This would help separate the mechanic from D&D 5e - especially since Advantage/Disadvantage stack in BR. @done (18-05-10 00:25)
+ [x] Rename Advantage vs Disadvantage to Edge vs Snag? This would help separate the mechanic from D&D 5e - especially since Advantage/Disadvantage stack in BR. @done (18-05-10 23:29)
+ [ ] Rename Edge/Snag back to Advantage/Disadvantage
  [x] Score becomes Adventure. @done (18-05-10 00:25)
  [ ] Damage Type becomes Energy or Energy Type?
  [ ] Light weapons to Agile weapons; Heavy weapons to Powerful weapons

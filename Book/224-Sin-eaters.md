@@ -44,13 +44,13 @@
     * The vow never to return.
 * **Oaths**
     * Oath of Veracity.
-        * To lie you must take 1 **stress**. If you break your word, take 1 **stress**. When you **gather information**, gain **advantage** when attempting to discern the truth or to detect lies.
+        * To lie you must take 1 **Stress**. If you break your word, take 1 **Stress**. When you **Gather Information**, gain **Edge** when attempting to discern the truth or to detect lies.
             * *You vow to always tell the truth and to follow through on whatever you say. You become supernaturally aware of other's lies.*
-    * Oath of Poverty.
+* **Banishments**
+    * Banishment from Coin.
         * Gain 1 XP for each coin you give away without benefit to yourself or your crew.
             * *No helping allies or buying weapons for another crew member or bribing a guard, etc.*
             * *Your crew may also gain XP in this manner.*
-* **Banishments**
 * Starting Upgrades
 * Word Training
 * Quarters

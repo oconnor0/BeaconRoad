@@ -16,8 +16,8 @@ There are 12 **Actions** in the game that characters use to overcome obstacles.
 * Study
 * Survey
 * Sway
+* Traverse
 * Utter
-* Wreck
 
 Each Action has a Rating (from 0 to 5) that tells you how many dice to roll when you perform that Action. Action Ratings don't just represent knowledge, skill, or training---you're free to describe *how* your character performs that Action based on the type of person they are. Maybe your character is good at **Command** because they have a scary stillness to them, while another character barks orders and intimidates people with their military bearing.
 
@@ -47,7 +47,7 @@ Edge and Snag are situational effects that alter the number of d20s rolled for a
 
 ## Effect Roll
 
-Under some situations, an Action Roll is insufficient to fully resolve a character's actions. Perhaps we need to determine how much damage an attack does in combat. This kind of roll, called an **Effect Roll** involves rolling several dice at once and **summing all rolled dice**. No dice explode in these rolls. For example, when an attack hits, make a damage roll and reduce their remaining Life by the rolled amount.
+Under some situations, an Action Roll is insufficient to fully resolve a character's actions. Perhaps we need to determine how much damage an attack does in combat. This kind of roll, called an **Effect Roll** involves rolling several dice at once and **summing all rolled dice**. No dice explode in these rolls. For example, when an attack hits, make a damage roll and reduce their remaining HP by the rolled amount.
 
 ## Attribute Ratings
 
@@ -114,7 +114,7 @@ When you **Sway**, you influence with guile, charm, or argument.
 
 * *You might lie convincingly. You might persuade someone to do what you want. You might argue a compelling case that leaves no clear rebuttal. You could try to trick people into affection or obedience (but Consorting or Commanding might be better).*
 
-When you **Traverse**, you climb, hike, run and move with power.
+When you **Traverse**, you climb, hike, run and move with purpose.
 
 * *You might run to escape chasing monsters. You might hike across a grueling desert. You might climb a sheer canyon wall. You could try to move across a courtyard (but Prowling might be better).*
 

@@ -26,7 +26,7 @@
             - Trigger: You Act and Push Yourself.
             - Effect: You cannot be Flanked for the remainder of this combat. You are not treated as being outnumbered.
     - **Regeneration.**
-        - At the beginning of your turn, you may expend one Stress to **Recover** (regain 1/4 of your maximum HP).
+        - At the beginning of your turn, you may take 1 Stress to **Recover** (regain 1/4 of your maximum HP).
             - *What prevents you from regenerating? What does it look like when you regenerate? Is it painful?*
 * What is one thing that is true about Trolls in this world?
 

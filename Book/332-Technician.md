@@ -23,7 +23,7 @@
             - `[ ]` Bandolier `([ ][ ][ ])` (Contains up to 3 Alchemical Formulas)
     - **Felsmith**
         - BODY (Primary Attribute)
-            - 1 in each of Skirmish, Prowl, and Traverse
+            - 1 in each of Prowl, Skirmish, and Traverse
         - MIND (Secondary Attribute)
             - 1 in each of Craft and Study
         - WILL (Tertiary Attribute)
@@ -56,7 +56,7 @@
         - When you **Invent** or **Craft** a creation with *arcane* features, get **+1 quality level** to your roll. You begin with 1 Common and 1 Uncommon arcane design already known.
             - Follow the Inventing procedure with the GM to define your first arcane design--or select them from Appendix D: Equipment, Arcane Designs on page XX.
     - **Fortitude.**
-        - You may expend one Stress to resist a consequence of fatigue; weakness; *chemical*, *entropic*, or *thermal* effects. Gain Edge when working with technical skill or handling alchemicals.
+        - You may take 1 Stress to resist a consequence of fatigue; weakness; *chemical*, *entropic*, or *thermal* effects. Gain Edge when working with technical skill or handling alchemicals.
             - When you use this ability, tick one Stress on your character sheet. If you resist a consequence, you avoid it completely.
     - **Infuse Weapon**
         - Instead of attacking with a Damaging Attack Power, you may Act to infuse a weapon you hold with that Power. The next attack you make with that weapon will discharge that power. Use the Weapon Attack Roll instead of the Power Attack Roll. A weapon can only be infused with a single Power; infusing it with a second causes the first to expire.
