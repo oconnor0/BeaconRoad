@@ -15,6 +15,9 @@ Powerful
 Well-made
 : items take 1 less Load than normal. Items taking 1 Load fit an additional item in 1 Load.
 
+Winded
+: creatures are at half or less of their maximum HP.
+
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
 \pagebreak

@@ -89,13 +89,13 @@
     Derive your Hit Points and Defenses (Iron, Ward, and Grit) and write them down. Your starting amounts are listed below:
 
     * Starting Hit Points (assuming no Action Rating higher than 1 and 6 starting Action Dots)
-        * Wizard hit points start at 24.
-        * Rogue and technician hit points start at 29.
-        * Warrior hit points start at 34.
+        * Wizard Hit Points start at 24.
+        * Rogue and technician Hit Points start at 29.
+        * Warrior Hit Points start at 34.
     * Starting Defenses
-        * The d8 Attribute starts at 16.
-        * The d6 Attribute starts at 14.
-        * The d4 Attribute starts at 12.
+        * The d8 Attribute starts at Defense 16.
+        * The d6 Attribute starts at Defense 14.
+        * The d4 Attribute starts at Defense 12.
 
     * **Hit Points** = Archetype base + 4/5/6 per Tier + highest face of BODY + highest face of MIND + highest face of WILL.
         * Wizard archetype base is 2.
