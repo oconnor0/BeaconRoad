@@ -7,7 +7,7 @@
     - Cost: Act.
     - Target: 10' cube within 30' (roll at -1 Tier to extend to 60').
     - Attack: Hunt/MIND! vs Iron.
-    - Hit: 2[d4] *glacial* damage, and target *Slows* (Act and React one less time per round).
+    - Hit: 2[d4] *glacial* damage and *Slowed* (Act and React one less time per round).
 - Healing Salve
     - Rarity: Common
     - Cost: Act.
@@ -30,7 +30,7 @@
 - Harrowing
     - Rarity: Uncommon
     - Type: Upgrade (Weapon)
-    - Effect: If an attack with this weapon hits the target's Ward, it suffers Distracted (-1 Tier on all rolls) for one round.
+    - Effect: If an attack with this weapon hits the target's Ward, it suffers *Distracted* (-1 Tier on all rolls) for one round.
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
