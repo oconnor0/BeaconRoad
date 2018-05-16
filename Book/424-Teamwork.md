@@ -3,7 +3,7 @@
 When the team of Characters works together, the characters have access to four special **teamwork maneuvers**. They're listed at the bottom of the character sheets to help remind the players of them. The four maneuvers are:
 
 * **Assist** another Character who's Acting.
-* **Act Together**.
+* **Act Together** to accomplish a single goal.
 * **Protect** a teammate.
 * **Set up** a character who will follow through on your action.
 
@@ -29,7 +29,7 @@ Your character doesn't have to be especially skilled at the action at hand in or
 
 You step in to face a consequence that one of your teammates would otherwise face. **You suffer it instead of them. You may roll to resist it as normal.** In combat, you must **Act** or **React**. Describe how you intervene.
 
-This is how you do the "I'll dive in front of the bullet" You cover for a teammate, suffering any harm or consequences that still linger after you've rolled to resist. It hurts, cost stress, and may leave you in a bad spot. But hey, you're a hero.
+This is how you do the "I'll dive in front of the bullet". You cover for a teammate, suffering any harm or consequences that still linger after you've rolled to resist. It hurts, cost stress, and may leave you in a bad spot. But hey, you're a hero.
 
 ### Set up
 
