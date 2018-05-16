@@ -7,9 +7,9 @@
 * Living:
     * You are ensouled and biologically alive.
 - Senses:
-    - Normal. You cannot see in the dark and in dim light suffer Snag on Action Rolls requiring sight.
+    - Normal. You cannot see in the dark and in dim light suffer -1 Tier on Action Rolls requiring sight.
 - Size:
-    - Small (2.5' × 2.5'), averaging between 2' and 3' tall and 20 to 60 pounds. Gain Edge when Prowling.
+    - Small (2.5' × 2.5'), averaging between 2' and 3' tall and 20 to 60 pounds. Gain +1 Tier when Prowling.
 - Stride:
     - 20'. During combat, you may Act to move 20' through normal terrain.
 - Virtue:

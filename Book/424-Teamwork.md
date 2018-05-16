@@ -9,9 +9,9 @@ When the team of Characters works together, the characters have access to four s
 
 ### Assist
 
-When you assist another player who's rolling, describe what your character does to help. Take 1 stress and give them **Edge** on their roll. If they fail, they may reroll, taking the second roll. In combat, you must **Act** or **React** to assist. You might also suffer any consequences that occur because of the roll, depending on the circumstances. Only one character may assist a given roll. *If you really want to help and someone else is already assisting, consider performing a **setup** maneuver instead.*
+When you assist another player who's rolling, describe what your character does to help. Take 1 Stress and give them +1 Tier on their roll. If they fail, they may reroll, taking the second roll. In combat, you must **Act** or **React** to assist. You might also suffer any consequences that occur because of the roll, depending on the circumstances. Only one character may assist a given roll. *If you really want to help and someone else is already assisting, consider performing a **setup** maneuver instead.*
 
-A character may assist others Acting Together, but only if they aren't taking part in it directly. You decide which character rolls with **Edge**.
+A character may assist others Acting Together, but only if they aren't taking part in it directly. You decide which character rolls with +1 Tier.
 
 ### Act Together
 

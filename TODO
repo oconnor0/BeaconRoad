@@ -21,18 +21,18 @@ PROTOTYPE:
 NAMES:
  [x] Rename Crew to Faction and Chapter. @done (18-05-10 00:25)
  [x] Rename Advantage vs Disadvantage to Edge vs Snag? This would help separate the mechanic from D&D 5e - especially since Advantage/Disadvantage stack in BR. @done (18-05-10 23:29)
- [ ] Rename Edge/Snag back to Advantage/Disadvantage
+ [-] Rename Edge/Snag back to Advantage/Disadvantage @cancelled (18-05-15 22:32)
  [x] Score becomes Adventure. @done (18-05-10 00:25)
  [ ] Damage Type becomes Energy or Energy Type?
  [ ] Light weapons to Agile weapons; Heavy weapons to Powerful weapons
  [-] Light, medium, heavy, exosuit armor to ? @cancelled (18-05-09 21:23)
  [x] Light, normal, heavy, encumbered load to Minimal, Half, Full, Encumbered? @done (18-05-09 21:21)
  [ ] Does Full Load cause Disadvantage for stealth?
- [ ] Rename Action to Act and Reaction to React?
- [ ] Road Master instead of Game Master? Moderator? Facilitator?
- [ ] Beaconwalkers? Roadwalkers. Roadfinders.
+ [x] Rename Action to Act and Reaction to React? @done (18-05-15 22:32)
+ [-] Road Master instead of Game Master? Moderator? Facilitator? @cancelled (18-05-15 22:32)
+ [-] Beaconwalkers? Roadwalkers. Roadfinders. @cancelled (18-05-15 22:32)
  [x] Rename "Check" to "Roll". @done (18-05-09 21:41)
- [ ] HP to Life, Life Points, Life Boxes, Hit Boxes?
+ [-] HP to Life, Life Points, Life Boxes, Hit Boxes? @cancelled (18-05-15 22:32)
  [x] Group Action to Act As A Group or Act Together @done (18-05-09 21:39)
  [ ] Action vs Action Rating vs ACTION
  [ ] Coin to Gold?
@@ -41,6 +41,7 @@ NAMES:
  [-] Downtime Work rather than Downtime Action @cancelled (18-05-07 00:08)
 
 TODO:
+ [x] +1/-1 Tier, +1/-1 Effect instead of Advantage/Edge vs Disadvantage/Snag @done (18-05-15 22:29)
  [ ] All caps is dice? Or all caps is "number" - either dots, rating, or dice?
  [ ] Carouse sucks. Make it downtime action for cheaper stress?
  [ ] Give Hunter/Rogue pet that uses Command
@@ -62,7 +63,7 @@ TODO:
  [x] d10 Vice, d6 Virtue ? @done (18-05-09 20:50)
  [ ] Resistance Roll is Action Roll?
  [x] Fill out Character Creation. @done (18-05-03 21:24)
- [ ] Reduce Ranges and use stacking Disadvantage to balance?
+ [-] Reduce Ranges and use stacking Disadvantage to balance? @cancelled (18-05-15 21:26)
  [ ] Mooks, Veterans, Bosses
  [ ] Cohorts show up as Mooks in battle.
  [ ] Experts usually don't show up in battle---but would as Veterans. Likely.

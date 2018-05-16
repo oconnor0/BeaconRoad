@@ -31,19 +31,14 @@ If there's no danger, trouble, or uncertainty at hand, you don't make an Action 
 
 *Beacon Road* uses four-, six-, eight-, ten-, twelve-, and twenty-sided dice.
 
-You roll several at once and **sum the single highest rolled die of each size**. If the highest rolled for a given size is the maximum that die size can roll, that die **Explodes**: roll another die of that same size and add it to the sum. Continue this as long as a die rolls its maximum. Compare the sum with the **Target Number** (**TN**), if the total is equal or larger, the roll is a **Success** (or a **Hit**). If the sum is less than the **TN**, the roll is a **Failure** (or a **Miss**). A roll of 10 or more over the TN is a **Critical** and confers additional benefits. Each increment of 10 over the TN increases the quality of that success. The number of increments of 10 is called the **Critical Multiplier**. If the check is a failure and the highest d20 is a 1, the check is a **Botch**.
+To make an Action Roll, roll a number of d20s equal to your Tier and a number of Attribute Dice euqal to your Action Rating and **sum the single highest rolled die of each size**. If the highest rolled for a given size is the maximum that die size can roll, that die **Explodes**: roll another die of that same size and add it to the sum. Continue this as long as a die rolls its maximum. Compare the sum with the **Target Number** (**TN**), if the total is equal or larger, the roll is a **Success** (or a **Hit**). If the sum is less than the **TN**, the roll is a **Failure** (or a **Miss**). A roll of 10 or more over the TN is a **Critical** and confers additional benefits. Each increment of 10 over the TN increases the quality of that success. The number of increments of 10 is called the **Critical Multiplier**. If the check is a failure and the highest d20 is a 1, the check is a **Botch**.
 
 When a die is written as **d4**, that represents the die itself. When written, in brackets, as **[d4]**, that represents a bounded die roll (a roll that does not explode). When written with a trailing exclamation point, as **d4!**, the represents an exploding die roll. When a rule says to **increase the die size**, roll the next larger die in the list: d4, d6, d8, d10, d12, and d20. When a rule says to **decrease the die size**, roll the next smaller die size. In general, this will not decrease a size below d4 or above d12, but the GM may rule differently.
 
-An **Action Roll** is written as **Action/ATTRIBUTE! vs TN**. This means rolling a **d20! with Edge equal to your Chapter Tier** and rolling a number of **Attribute Dice** equal to your **Action Rating**. If either the **Action Rating** or the **Attribute Dice** are 0, only roll the **d20**s. The TN can be a static number, a defense, or an action.
+An **Action Roll** is written as **Tier/d20! + Action/ATTRIBUTE! vs TN**---this can be shortened to **TIER! + ACTION! vs TN**. This means rolling a number of **d20** **Tier** and rolling a number of **Attribute Dice** equal to your **Action Rating**. Certain effects may modify your effective Tier or Action Rating for a roll. If either **Tier** or **Action Rating** are 0 or lower, roll 2 of that dice size and take the lowest. The TN can be a static number, a defense, or an action.
 
-* *Whenever you make an Action Roll, gain Edge equal to your Tier. Tier depends on your Chapter and is explained on page XX.*
-
-## Edge and Snag
-
-Edge and Snag are situational effects that alter the number of d20s rolled for a single roll. **Edge** increases the number of d20s rolled by 1, and you still only sum the highest d20 rolled. **Snag** increases the number of d20s rolled by 1, but you sum the lowest rolled d20. Edge and Snag stack cumulatively with themselves and each other, canceling each other out one for one. Edge or Snag beyond 1 is written as **Edge N** or **Snag N**, for example, Edge 2 represents rolling 2 additional d20s (3 total) and keeping the highest of the 3 rolled dice.
-
-* *A character in a Tier 2 Chapter is making a roll in a precarious situation. The roll gains Edge 2 from the Tier, and Snag from the precarious situation. Make the final roll at Edge 1 (2 - 1).*
+* *Tier depends on your Chapter and is explained on page XX.*
+* *A character in a Tier 2 Chapter is making a roll in a precarious situation. Start at Tier 2 and suffer -1 Tier for the precarious situation. Make the final roll at Tier 1.*
 
 ## Effect Roll
 
@@ -51,13 +46,13 @@ Under some situations, an Action Roll is insufficient to fully resolve a charact
 
 ## Attribute Ratings
 
-There are three **Attributes** in the game system that the player characters use to act: **BODY**, **MIND**, and **WILL**.
+There are three **Attributes** in the game system that the player characters use to act: **Body**, **Mind**, and **Will**.
 
-**BODY** measures physical prowess, health, strength, agility, and physical dexterity. **MIND** measures intelligence, learning, memory, speed of thought, perception, and awareness. **WILL** measures determination, drive, courage, force of personality, charisma, and presence. An Attribute written in all capitals as **BODY**, **MIND**, or **WILL** refers to the Attribute die. ATTR refers to a single Attribute but may refer to any of them.
+**Body** measures physical prowess, health, strength, agility, and physical dexterity. **Mind** measures intelligence, learning, memory, speed of thought, perception, and awareness. **Will** measures determination, drive, courage, force of personality, charisma, and presence. An Attribute written in all capitals as **BODY**, **MIND**, or **WILL** refers to the Attribute die. ATTR refers to a single Attribute but may refer to any of them.
 
 * *ATTR represents the die, ATTR! represents an exploding die, [ATTR] represents a bounded, non-exploding die.*
 
-Each Attribute has a rating (from 0 to 5) that determines the **Attribute dice** you use when making action rolls.
+Each Attribute has a rating (from 0 to 5) that determines the **Attribute Dice** you use when making action rolls.
 
 The rating for each Attribute is equal to the number of dots in the **first column** under that Attribute. The more well-rounded your character is with a particular set of actions, the better their Attribute rating. The dice for each Attribute is determined as follows: rating 0 rolls no additional dice, rating 1 rolls four-sided dice (a d4), rating 2 rolls six-sided dice (a d6), rating 3 rolls eight-sided dice (a d8), rating 4 rolls ten-sided dice (a d10), and rating 5 rolls twelve-sided dice (a d12).
 

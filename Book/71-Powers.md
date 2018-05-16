@@ -5,22 +5,22 @@ Powers represent masterful skill that enables you to inflict additional wounds o
 ## Supernatural Powers
 
 * Frost Spear
-    * Prerequisites: WILL d4, Utter 1.
     * Rarity: Uncommon
+    * Prerequisites: WILL d4, Utter 1.
     * Cost: Action, 4 Stress (range 1, force 2, condition 1).
     * Target: 1 enemy creature within 30'.
-    * Attack: Utter/WILL! vs IRON.
-    * Hit: (Utter)[d6] *Glacial* damage, and target suffers *Slowed*.
+    * Attack: Utter/WILL! vs Iron.
+    * Hit: (1 + Utter)[d6] *Glacial* damage, and target suffers *Slowed*.
     * Upgrades:
-        - `[ ]` Freezing Spear (6 Clock) - Target suffers *Stunned* instead of *Slowed* on a Critical Hit.
+        - `[ ]` Freezing Spear (6 Clock) - On a Critical Hit, target suffers *Stunned* instead of *Slowed*.
 - Plasmic Dart
-    - Prerequisites: WILL d4, Utter 1.
     * Rarity: Uncommon
+    - Prerequisites: WILL d4, Utter 1.
     - Cost: Act, 1 Stress (range 1, force 1)
     - Target: 1 enemy creature within 30'.
     - Effect: [d4] *Plasmic* damage.
     - Upgrades:
-        - `[ ]` Plasmic Darts (6 Clock) - By spending 3 Stress instead of 1, target a number of enemy creatures equal to 1 + UTTER within 30'.
+        - `[ ]` Plasmic Darts (6 Clock) - By spending 3 Stress instead of 1, target a number of enemy creatures equal to 1 + Utter within 30'.
         - `[ ]` Plasmic Bolt (6 Clock) - Deal [d6] *Plasmic* damage.
 
 ## Weapon Powers
@@ -36,13 +36,13 @@ Powers represent masterful skill that enables you to inflict additional wounds o
         * `[ ]` Aggravating Block (6 Clock) - The attacker suffers Non-lethal Psychic damage equal to the amount that your Action Roll exceeds the Attack Roll.
 * Charge
     * Rarity: Common
-    * Prerequisites: BODY d4, Skirmish 1 or Finesse 1.
+    * Prerequisites: BODY d4, Skirmish 1 or Traverse 1.
     * Requires: *Melee* weapon.
     * Cost: Act, 1 Stress.
     * Target: 1 creature within your Stride.
     * Effect: Advance up to your Stride toward your target, if you end your movement closer to your target than you started your turn, and if you moved at least twice your size (ex., 10' for medium or 20' for large), make a Melee Weapon Charge Attack against that target.
     * Upgrades:
-        * `[ ]` Building Fury (6 Clock) - Gain Edge on your Charge Attack Roll for each attack that hits you while charging.
+        * `[ ]` Building Fury (6 Clock) - Gain +1 Tier on your Charge Attack Roll for each attack that hits you while charging.
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 

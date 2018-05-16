@@ -86,15 +86,24 @@
 
 12. Calculate derived stats.
 
-    Derive your Hit Points and Defenses (Iron, Ward, and Grit) and write them down.
+    Derive your Hit Points and Defenses (Iron, Ward, and Grit) and write them down. Your starting amounts are listed below:
 
-    * **Hit Points** = Archetype base + highest face of BODY + highest face of MIND + highest face of WILL + 4/5/6 per Tier.
-        * Wizard archetype base is 6.
-        * Rogue and technician archetype base is 11.
-        * Warrior archetype base is 16.
-    * **Iron** = 8 + highest face of BODY + Tier.
-    * **Ward** = 8 + highest face of MIND + Tier.
-    * **Grit** = 8 + highest face of WILL + Tier.
+    * Starting Hit Points (assuming no Action Rating higher than 1 and 6 starting Action Dots)
+        * Wizard hit points start at 24.
+        * Rogue and technician hit points start at 29.
+        * Warrior hit points start at 34.
+    * Starting Defenses
+        * The d8 Attribute starts at 16.
+        * The d6 Attribute starts at 14.
+        * The d4 Attribute starts at 12.
+
+    * **Hit Points** = Archetype base + 4/5/6 per Tier + highest face of BODY + highest face of MIND + highest face of WILL.
+        * Wizard archetype base is 2.
+        * Rogue and technician archetype base is 6.
+        * Warrior archetype base is 10.
+    * **Iron** = 7 + Tier + highest face of BODY.
+    * **Ward** = 7 + Tier + highest face of MIND.
+    * **Grit** = 7 + Tier + highest face of WILL.
 
 13. Choose one close friend and one rival.
 

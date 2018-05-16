@@ -7,7 +7,7 @@
 * Living:
     * You are ensouled and biologically alive.
 * Senses:
-    * Normal. You cannot see in the dark and in dim light suffer Snag on Action Rolls requiring sight.
+    * Normal. You cannot see in the dark and in dim light suffer -1 Tier on Action Rolls requiring sight.
 * Size:
     * Medium (5' × 5'), averaging from 6' to 7' tall and 200 to 300 pounds.
 * Stride:

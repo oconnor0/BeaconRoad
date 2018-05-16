@@ -4,7 +4,7 @@
 - Who will you be?
 - XP Triggers
     - At the end of a session, mark 1 XP if you addressed a challenge with coercion or violence.
-- HP = 16 + highest face of BODY + highest face of MIND + highest face of WILL + 6 per Tier.
+- HP = 10 + 6 per Tier + highest face of BODY + highest face of MIND + highest face of WILL.
 - Starting Builds
     - If you want some guidance when you assign your 6 starting Action dots, select your special ability, starting powers, and starting items, use one of these templates.
     - **Templar**
@@ -43,8 +43,8 @@
     - **Battleborn.**
         - While not wearing armor, gain 4 Soak Boxes. Gain +1 **Iron**.
     - **Bodyguard.**
-        - When you **protect** a teammate, gain **Edge** on your resistance roll. When you gather information to anticipate possible threats in the current situation, you get **+1 effect**.
-            - *The protect teamwork maneuver lets you face a consequence for a teammate. If you choose to resist that consequence, this ability gives you Edge on your resistance roll. Also, when you read a situation to gather information about hidden dangers or potential attackers, you get +1 effect-which means more detailed information.*
+        - When you **protect** a teammate, gain +1 Tier on your resistance roll. When you gather information to anticipate possible threats in the current situation, you get **+1 effect**.
+            - *The protect teamwork maneuver lets you face a consequence for a teammate. If you choose to resist that consequence, this ability gives you +1 Tier on your resistance roll. Also, when you read a situation to gather information about hidden dangers or potential attackers, you get +1 effect-which means more detailed information.*
     - **Deadly.**
         - When you **Push Yourself** when making melee attacks, gain all benefits of **Pushing Yourself**.
     - **Mule.**
@@ -53,7 +53,7 @@
     - **Stalwart.**
         - You cannot be *Pushed* or *Slammed*. Gain +1 **Iron**.
     - **Vigorous.**
-        - Healing treatment rolls on you gain Edge. Increase your Recovery by *3 + TIER*.
+        - Healing treatment rolls on you gain +1 Tier. Increase your Recovery by *3 + TIER*.
 - Select one of the below starting items:
     - `[ ]-[ ]-[ ]` Well-made chain or scale armor (Medium Armor, 4 Soak Boxes, -10 damage/box).
     - `[ ]` Well-made heavy shield (Heavy Shield, 4 Soak Boxes, -10 damage/box).

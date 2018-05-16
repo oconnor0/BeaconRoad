@@ -44,7 +44,7 @@
     * The vow never to return.
 * **Oaths**
     * Oath of Veracity.
-        * To lie you must take 1 **Stress**. If you break your word, take 1 **Stress**. When you **Gather Information**, gain **Edge** when attempting to discern the truth or to detect lies.
+        * To lie you must take 1 **Stress**. If you break your word, take 1 **Stress**. When you **Gather Information**, gain +1 Tier when attempting to discern the truth or to detect lies.
             * *You vow to always tell the truth and to follow through on whatever you say. You become supernaturally aware of other's lies.*
 * **Banishments**
     * Banishment from Coin.
@@ -70,53 +70,50 @@
     * **Implement & Weapon Rigging.**
         * You get 2 free load that may be used for implements and weapons.
     * **Composed.**
-        * Each PC gets **+2 stress boxes**. This costs three upgrades to unlock, not just one.
+        * Each Character gets **+2 Stress Boxes**. This costs 3 upgrades to unlock, not just 1.
     * **Hardened.**
-        * Each PC gets **+1 trauma box**. This costs three upgrades to unlock, not just one. *This may bring a PC with 4 **trauma** back into play if you wish.*
+        * Each Character gets **+1 HP per Tier**. This can be unlocked 5 times.
     * **Elite Emissary.**
-        * All of your expert emissaries gain **advantage** on rolls for related actions.
+        * All of your expert emissaries gain +1 Tier on rolls for related actions.
     * **Knowledge of Evil.**
-        * Each PC gets **+1 WARD** and **GRIT**. *Your focus in removing evil from the world helps you resist its lure.*
+        * Each Character gets **+1 Ward** and **Grit**. *Your focus in removing evil from the world helps you resist its lure.*
 * Claims
 * **Lair**.
     * You start here.
 * **2 Turf.**
-    * You require one less **rep** to advance in tier (max 6).
+    * You require 1 less **Rep** to advance in Tier (max 6).
 * **Cover Identities.**
-    * You gain **advantage** on the **engagement roll** for **deception** and **social** plans.
+    * You gain +1 Tier on the **engagement roll** for **deception** and **social** plans.
         * *False identities help confuse the opposition.*
 * **Ancient Altar.**
-    * You gain **advantage** on the **engagement roll** for **arcane** plans.
+    * You gain +1 Tier on the **engagement roll** for **arcane** plans.
         * *Its blessing is with you.*
 * **Secret Pathways.**
-    * You gain **advantage** on the **engagement roll** for **stealth** plans.
+    * You gain +1 Tier on the **engagement roll** for **stealth** plans.
         * *You might have access to long-forgotten underground canals, rooftop walkways, wilderness trails, forest paths, or some other route of your choosing.*
 * **Frontier Allies.**
-    * You gain **advantage** on the **engagement roll** for plans that take place in the wilds.
+    * You gain +1 Tier on the **engagement roll** for plans that take place in the wilds.
         * *Denizens of the wilds are willing to help those who would remove evil; nature is enough to contend with.*
 * **Infirmary.**
-    * You gain **advantage** on healing treatment rolls.
+    * You gain +1 Tier on healing treatment rolls.
         * *The infirmary also has beds for long-term convalescence.*
 * **Confessional.**
-    * You gain **advantage** when **gathering information** for a score.
+    * You gain +1 Tier when **Gathering Information** for an Adventure.
         * *People talk freely when it won't be repeated.*
 * **Recognized.**
-    * You gain **advantage** on **Command** and **Sway** on your turf.
+    * You gain +1 Tier on **Command** and **Sway** on your turf.
         * *Locals want nothing to do with you so will attempt to finish their business with you as quickly as possible.*
-* **Necessary Evil.**
-    * You get **-2** **heat** per score.
-        * *The locals recognize some need to look the other way.*
 * **Depository.**
-    * Any time during downtime, roll **[d6]** equal to your Tier. You earn **coin** equal to the highest result, minus your **heat**.
+    * Any time during downtime, roll **[d6]** equal to your Tier.
         * *People leave items, offerings, coin, trinkets, or memorabilia to rid themselves of evil.*
 * **Fly On The Wall.**
-    * You get **+2** **coin** in payoff for scores that involve a single flavor of evil.
+    * You get **+2 Coin** in payoff for scores that involve a single flavor of evil.
         * *Your connections notify you of the tastiest meals around.*
 * **Local Protector.**
-    * You get **+2** **coin** in your payoff for scores that involve battle or show of force.
+    * You get **+2 Coin** in your payoff for scores that involve battle or show of force.
         * *Locals are more than willing to pool their resources to resolve a problem they can't deal with themselves.*
 * **Quiet Efficacy.**
-    * You get **+1 rep** per score.
+    * You get **+1 Rep** per Adventure.
         * *You are known and appreciated for quickly and quietly resolving the problem of evil.*
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *

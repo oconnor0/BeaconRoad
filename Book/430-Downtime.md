@@ -53,7 +53,7 @@ A Character can work more than twice per Downtime, at a cost. **Each additional 
 
 Activities on the Downtime list are limited; normal activities are not. During Downtime, you can still go places, do things, make Action Rolls, Gather Information, talk with other characters, etc. In other words, only Activities that are *on the list* are limited.
 
-For any Downtime Activity, gain **Edge** on the roll if a **friend** or **contact** helps you. After the roll, you may spend Coin to improve the Result Level. **Increase the Result Level by 1 for each Coin spent**. So, a Failure becomes a Success, a Success becomes a Critical, and a Critical increases its multiplier by one.
+For any Downtime Activity, gain +1 Tier on the roll if a **friend** or **contact** helps you. After the roll, you may spend Coin to improve the Result Level. **Increase the Result Level by 1 for each Coin spent**. So, a Failure becomes a Success, a Success becomes a Critical, and a Critical increases its multiplier by one.
 
 * GM: If a player can't decide which Downtime Activity to pick, offer them a Long-Term Project idea. You know what the player is interested in and what they like. Suggest a project that will head in a fun direction for them.
 * "Remember how you had that weird vision at the altar to the forgotten gods? Yeah, do you want to get to the bottom of that? Okay, start a Long-Term Project---6 Segments---called... ‘Weird God Vibes.' What do you do to work on that?"
@@ -73,7 +73,7 @@ To acquire the Asset, make an Action Roll versus a **Controlled** (6), **Risky**
 
 The GM may set a **minimum quality** level that must be achieved to acquire a particular Asset. For example, if you want to get a set of military uniforms and masks, you'd need to acquire a Tier IV Asset. A lower result won't do.
 
-If you acquire the same Asset again, you gain **Edge** on your roll. If you continue to re-acquire an Asset every time it's used, you can effectively rent it indefinitely.
+If you acquire the same Asset again, you gain +1 Tier on your roll. If you continue to re-acquire an Asset every time it's used, you can effectively rent it indefinitely.
 
 Alchemicals, poisons, bombs, and dangerous gadgets are highly restricted. When you acquire one of these items (rather than crafting it yourself), you'll need to p
 
@@ -100,7 +100,7 @@ Recovery from injury comes in 2 different forms:
 
 Your healer rolls (perhaps **Utter** or **Craft** for a Character with the healing special ability, or the **Quality Level** of an NPC) versus a **Risky** (11) target number and then you Recover based on the roll: **Failure**: Recover 1×, **Success**: Recover 2×, **Critical**: Recover 2× + *Critical multiplier*.
 
-You may heal yourself by rolling against a **Desperate** (16) target number, but you take 2 stress when you do so. You can also choose to simply tough it out and attempt to heal without any treatment---in this case, take 1 stress and suffer Snag on the Action Roll.
+You may heal yourself by rolling against a **Desperate** (16) target number, but you take 2 stress when you do so. You can also choose to simply tough it out and attempt to heal without any treatment---in this case, take 1 stress and suffer -1 Tier on the Action Roll.
 
 Note that it's the recovering Character that takes the Recovery Activity. Healing someone else does not cost a Downtime Activity for the healer.
 
@@ -176,24 +176,22 @@ When factions do things that are known in the criminal underworld, **tell the pl
 
 ### Tier
 
-Each notable faction is ranked by **Tier**-a measure of wealth, influence, and scale. At the highest level are the Tier 5 and 6 factions, the true powers of the world. Your Chapter begins at Tier 0.
+Each notable faction is ranked by **Tier**---a measure of wealth, influence, and scale. At the highest level are the Tier 6+ factions, the true powers of the world. Your Chapter begins at Tier 1.
 
 You'll use your Tier rating to roll dice when you acquire an asset, as well as for any fortune roll for which your Chapter's overall power level and influence is the primary trait. Most importantly, your Tier determines the **Quality Level** of your items as well as the quality and **Scale** of the gangs your Chapter employs---and thereby what size of enemy you can expect to handle.
 
-* *Remember that you gain Edge equal to your Tier on Action Rolls.*
-
 | Tier | Gang Scale |
 |------|------------|
-| 0 | 1 or 2 people |
-| 1 | Small gangs. (3--6 people) |
-| 2 | Medium gangs. (12 people) |
-| 3 | Large gangs. (20 people) |
-| 4 | Huge gangs. (40 people) |
-| 5 | Massive gangs. (80 people) |
+| 1 | 1 or 2 people |
+| 2 | Small gangs. (3--6 people) |
+| 3 | Medium gangs. (12 people) |
+| 4 | Large gangs. (20 people) |
+| 5 | Huge gangs. (40 people) |
+| 6 | Massive gangs. (80 people) |
 
 ### Hold
 
-On the faction ladder next to the Tier numbers is a letter indicating the strength of each faction's **Hold**. Hold represents how well a faction can maintain their current position on the ladder. W indicates **Weak** hold. S indicates **Strong** hold. Your Chapter begins with **Strong** hold at **Tier 0**.
+On the faction ladder next to the Tier numbers is a letter indicating the strength of each faction's **Hold**. Hold represents how well a faction can maintain their current position on the ladder. W indicates **Weak** hold. S indicates **Strong** hold. Your Chapter begins with **Strong** hold at **Tier 1**.
 
 ### Development
 
@@ -204,7 +202,7 @@ When you complete a score, your Chapter earns **2 Rep**. If the target of the sc
 You need **12 Rep** to fill the **Rep** tracker on your Chapter sheet. When you fill the tracker, do one of the following:
 
 * If your hold is Weak, it becomes Strong. **Reset your Rep to 0**.
-* If your hold is Strong, you can pay to increase your Chapter Tier by 1. This costs **Coin** equal to your **new Tier × 5**. As long as your Rep tracker is full, you don't earn new **Rep** (12 is the max). Once you pay and increase your Tier, **reset your Rep to 0** and **reduce your hold to Weak**.
+* If your hold is Strong, you can pay to increase your Tier by 1. This costs **Coin** equal to your **new Tier × 5**. As long as your Rep tracker is full, you don't earn new **Rep** (12 is the max). Once you pay and increase your Tier, **reset your Rep to 0** and **reduce your hold to Weak**.
 
 ### Turf
 
@@ -225,7 +223,7 @@ You may perform an operation specifically to reduce the hold of another faction,
 
 When a faction is at war, it temporarily loses 1 Hold.
 
-Your Chapter can lose hold, too, following the same rules above. If your Chapter is Tier 0, with weak hold, and you lose hold for any reason, your lair comes under threat by your enemies or by a faction seeking to profit from your misfortune.
+Your Chapter can lose hold, too, following the same rules above. If your Chapter is Tier 1, with weak hold, and you lose hold for any reason, your lair comes under threat by your enemies or by a faction seeking to profit from your misfortune.
 
 ### Faction Status
 

@@ -4,7 +4,7 @@
 - Who will you be?
 - XP Triggers
     - At the end of a session, mark 1 XP if you addressed a challenge with arcane powers or knowledge.
-- HP = 6 + highest face of BODY + highest face of MIND + highest face of WILL + 4 per Tier.
+- HP = 2 + 4 per Tier + highest face of BODY + highest face of MIND + highest face of WILL.
 - Starting Builds
     - If you want some guidance when you assign your 6 starting Action dots, select your special ability, starting powers, and starting items, use one of these templates.
     - **Librarian**
@@ -42,7 +42,7 @@
     - A supernatural entity
 - Special Abilities
     - **Arcane Mind.**
-        - You're always aware of supernatural entities in your presence. Gain **advantage** when you **gather information** about the supernatural by any means.
+        - You're always aware of supernatural entities in your presence. Gain +1 Tier when you **Gather Information** about the supernatural by any means.
     - **Bargain.**
         - You have made a pact with some powerful entity to channel its power - in exchange.
             - *You suffer other consequences instead of taking stress to use rituals or cast spells. Is this health, coin, luck, relationships, mishaps?*
@@ -53,12 +53,12 @@
         - Requires: A dagger (or other blade).
         - Cost: Act.
         - Target: Self.
-        - Effect: Select an Action. Lose up to 1 + ACTION HP. The next time you Act or React, if you use a Power with that ACTION, reduce the Stress cost by the number of HP lost (not below 1).
+        - Effect: Select an Action. Lose up to 1 + Action HP. The next time you Act or React, if you use a Power with that Action, reduce the Stress cost by the number of HP lost (not below 1).
     - **Inhuman Resolve.**
         - You are immune to the terror that some supernatural entities inflict. You gain +2 **Grit**.
             - *With this ability, you do not freeze up or flee when confronted by any kind of supernatural entity or strange arcane event.*
     - **Meditation.**
-        - Take **1 stress** to roll **Utter** while performing a different action. Say how you channel your magic to this use.
+        - Take **1 Stress** to roll **Utter** while performing a different action. Say how you channel your magic to this use.
             - *This is the "jack-of-all-trades" ability. If you want to attempt lots of different sorts of actions and still have a good dice pool to roll, this is the special ability for you.*
     - **Read and Recite**
         - Prerequisites: Spellcraft.
@@ -75,10 +75,10 @@
             - *Without this special ability, written spells are only words on a page.*
             - *Follow the Spell Creation procedure with the GM to define your first spell.*
     - **Studied Spells.**
-        - Studied Spells allows you to reduce Stress costs of Powers using UTTER. Select appropriate Powers. Reduce their Stress costs (not below 1). You cannot reduce Stress costs more than a cumulative 1 + TIER + UTTER.
+        - Studied Spells allows you to reduce Stress costs of Powers using Utter. Select appropriate Powers. Reduce their Stress costs (not below 1). You cannot reduce Stress costs more than a cumulative 1 + Tier + Utter.
             - For example, if you are Tier 2 with Utter 4 (so 1 + 2 + 4 = 7), you could reduce the Stress cost of one Power by 3 and another by 4.
     - **Warded.**
-        - You may take 1 Stress to resist a supernatural consequence. Gain +1 WARD.
+        - You may take 1 Stress to resist a supernatural consequence. Gain +1 Ward.
 - Select one of the below starting items:
     - `[ ]` Well-made vestments (Light Armor, 2 Soak Boxes, -10 damage/box).
     - `[ ]` Well-made staff (2H, 5', [d6] effect die).
