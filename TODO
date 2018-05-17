@@ -65,6 +65,9 @@ TODO:
  [x] Fill out Character Creation. @done (18-05-03 21:24)
  [-] Reduce Ranges and use stacking Disadvantage to balance? @cancelled (18-05-15 21:26)
  [ ] Mooks, Veterans, Bosses
+   [ ] Hit against Mook kills (rounded up) number of Mooks based on HP Threshold---Mook with threshold of 4: 3 damage kills 1, 4 damage kills 1, 5 damage kills 2, etc.
+   [ ] Troops/Veterans have HP like "normal"
+   [ ] Bosses have HP and other things. Like Boss might only have 30 HP but take at least 3 hits or 1 hit in 3 rounds.
  [ ] Cohorts show up as Mooks in battle.
  [ ] Cohort Quality Level determines their Action Rating appropriate ones---like Thug QL determines Skirmish Rating?
  [ ] Experts usually don't show up in battle---but would as Veterans. Likely.
