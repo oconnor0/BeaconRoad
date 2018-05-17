@@ -28,24 +28,24 @@ Each Character starts with the following Powers regardless of anything else abou
 
 * Dodge
     * Rarity: Common
-    * Prerequisites: Prowl or Traverse.
+    * Requires: Prowl or Traverse.
     * Cost: React, 1 Stress.
     * Trigger: You are Targeted by an Attack.
     * Effect: Maneuver up to half your Stride.
 * Sidestep
     * Rarity: Common
-    * Prerequisites: Prowl or Traverse.
+    * Requires: Prowl or Traverse.
     * Cost: React.
     * Trigger: You Hit with an Attack.
     * Effect: Maneuver up to 10'.
 * Shadowstep
     * Rarity: Rare
-    * Prerequisites: Prowl or Hunt.
+    * Requires: Prowl or Hunt.
     * Cost: Act, 2 Stress (range 2).
     * Effect: You teleport from a shadow you are in to a shadow within 100' and your line of sight.
 * Sprint
     * Rarity: Uncommon
-    * Prerequisites: Traverse, Hunt, or Utter.
+    * Requires: Traverse, Hunt, or Utter.
     * Cost: Act, 3 Stress (condition 3).
     * Target: Self.
     * Effect: You become *Quickened* (double your Stride) for 1 minute (10 rounds).
@@ -54,7 +54,7 @@ Each Character starts with the following Powers regardless of anything else abou
 
 * Frost Spear
     * Rarity: Uncommon
-    * Prerequisites: Utter.
+    * Requires: Utter.
     * Cost: Act, 4 Stress (range 1, force 2, condition 1).
     * Target: 1 enemy creature within 30'.
     * Attack: UTTER! vs Iron.
@@ -63,7 +63,7 @@ Each Character starts with the following Powers regardless of anything else abou
         - `[ ]` Freezing Spear (6 Clock) - On a Critical Hit, target suffers *Stunned* instead of *Slowed*.
 - Plasmic Dart
     * Rarity: Uncommon
-    - Prerequisites: Utter.
+    - Requires: Utter.
     - Cost: Act, 1 Stress (range 1, force 1)
     - Target: 1 enemy creature within 30'.
     - Effect: [d4] *Plasmic* damage.
@@ -75,13 +75,12 @@ Each Character starts with the following Powers regardless of anything else abou
 
 * Aim
     * Rarity: Common
-    * Prerequisites: Hunt.
+    * Requires: Hunt.
     * Cost: Act.
     * Effect: Gain +1 Tier on your next Ranged Weapon Attack this turn.
 * Block
     * Rarity: Common
-    * Prerequisites: Skirmish.
-    * Requires: *Defensive* weapon.
+    * Requires: Skirmish; *Defensive* weapon.
     * Cost: React, 1 Stress.
     * Trigger: You or an adjacent ally are hit by an attack.
     * Effect: Make a Melee Defensive Resistance Roll (Skirmish/BODY!) and use that instead of the targeted defense.
@@ -89,8 +88,7 @@ Each Character starts with the following Powers regardless of anything else abou
         * `[ ]` Aggravating Block (6 Clock) - The attacker suffers Non-lethal Psychic damage equal to the amount that your Action Roll exceeds the Attack Roll.
 * Charge
     * Rarity: Common
-    * Prerequisites: Skirmish or Traverse.
-    * Requires: *Melee* weapon.
+    * Requires: Skirmish or Traverse; *Melee* weapon.
     * Cost: Act, 1 Stress.
     * Target: 1 creature within your Stride.
     * Effect: Advance up to your Stride toward your target, if you end your movement closer to your target than you started your turn, and if you moved at least twice your size (ex., 10' for medium or 20' for large), make a Melee Weapon Charge Attack against that target.

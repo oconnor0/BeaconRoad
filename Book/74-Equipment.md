@@ -6,8 +6,8 @@
     - Rarity: Uncommon
     - Cost: Act.
     - Target: 10' cube within 30' (roll at -1 Tier to extend to 60').
-    - Attack: Hunt/MIND! vs Iron.
-    - Hit: 2[d4] *glacial* damage and *Slowed* (Act and React one less time per round).
+    - Attack: HUNT! vs Iron.
+    - Hit: 2[d4] *glacial* damage and *Slowed* (Act and React once less per round).
 - Healing Salve
     - Rarity: Common
     - Cost: Act.
