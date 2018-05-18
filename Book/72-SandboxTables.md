@@ -1,5 +1,7 @@
 # Appendix B: Sandbox Tables
 
+Sometimes you might not be sure what the characters run into. Or they go somewhere you haven't prepared. Or you need something to jog your creativity. Decide what you need and roll the appropriate dice. Then for each matching line on the table, incorporate that into what you're creating. If some of the rolls don't fit or don't make sense, tweak or drop those rolls.
+
 ## Alien, Bloodline, or New Species
 
 * Aggression
@@ -204,18 +206,18 @@
 
 * Land - d12
 
-    * 1 Bear
-    * 2 Buffalo
-    * 3 Deer
-    * 4 Elephant
-    * 5 Elk
-    * 6 Hippopotamous
-    * 7 Lion
-    * 8 Monkey
-    * 9 Moose
-    * 10 Tiger
-    * 11 Turtle
-    * 12 Wolf
+    * 1 Bear - Panda
+    * 2 Buffalo - Cow - Ox
+    * 3 Antelope - Deer - Elk - Gazelle - Moose
+    * 4 Elephant - Mastodon
+    * 5 Horse - Zebra
+    * 6 Hippopotamous - Rhinocerous
+    * 7 Bobcat - Fox - Leopard - Lion - Lynx - Tiger
+    * 8 Gorilla - Monkey
+    * 9 Mamba - Python - Rattlesnake - Viper
+    * 10 Frog - Toad
+    * 11 Turtle - Tortoise
+    * 12 Coyote - Wolf
 
 * Mythical - d20
 
@@ -223,10 +225,10 @@
     * 2 Basilisk - Cockatrice
     * 3 Chimera - Griffon - Manticore
     * 4 Coatl
-    * 5 Dragon
+    * 5 Dragon - Drake
     * 6 Dryad - Nymph
     * 7 Fiend
-    * 8 Golem
+    * 8 Golem - Construct
     * 9 Hydra
     * 10 Kraken
     * 11 Lich
@@ -619,7 +621,7 @@ While the below names are based on current or historical societies, consider ass
     * 19 Sniffles or coughs
     * 20 Smokes
 
-### Religion
+## Religion
 
 * Origin or Spread of Influence
 
@@ -786,7 +788,7 @@ While the below names are based on current or historical societies, consider ass
     * 7 Provide safe haven from ...
     * 8 Maps to a sacred site exist only here.
     * 9 The best food in weeks exists here.
-    * 10  A rare artifact exists in town.
+    * 10 A rare artifact exists in town.
 
 * Problem
 

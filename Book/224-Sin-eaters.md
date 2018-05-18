@@ -116,6 +116,46 @@
     * You get **+1 Rep** per Adventure.
         * *You are known and appreciated for quickly and quietly resolving the problem of evil.*
 
+### Special Abilities
+
+#### Deadly
+
+Each PC may add +1 action rating to **Hunt**, **Prowl**, or **Skirmish** (up to a max rating of 4).
+
+* *Each player may choose the action they prefer (you don't all have to choose the same one). If you take this ability during initial character and crew creation, it supersedes the normal starting limit of 2 for action ratings.*
+
+#### Death Veil
+
+Due to hard-won experience or arcane ritual, you don't take extra **heat** when killing is involved on a score.
+
+#### Fiends
+
+Fear is as good as respect. You may count each **wanted level** as if it were **turf**.
+
+* *The maximum wanted level is 4. Regardless of how much turf you hold (from this ability or otherwise) the minimum rep cost to advance your Tier is always 6.*
+
+#### Forged in the Fire
+
+Each PC has been toughened by cruel experience. You get **+1 IRON**, **WARD**, and **GRIT**.
+
+* *This ability applies to PCs in the crew. It doesn't confer any special toughness to your cohorts.*
+
+#### Just Passing Through
+
+During **downtime**, take **-1** heat. When your heat is 4 or less, you gain **advantage** to deceive people when you pass yourselves off as ordinary citizens.
+
+#### No Traces
+
+When you keep an operation quiet or make it look like an accident, you get half the **rep** value of the target (round up) instead of zero. When you end downtime with zero heat, take **+1** **rep**.
+
+* *No one wants to be associated with a sin-eater. This ability rewards you for honoring that abhorrence.*
+
+#### Patron
+
+When you advance your **Tier**, it costs half the coin it normally would.
+
+* *Who is your patron? Why do they help you?*
+
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
 \pagebreak

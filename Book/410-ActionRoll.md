@@ -58,7 +58,7 @@ Each Attribute has a rating (from 0 to 5) that determines the **Attribute Dice**
 
 The rating for each Attribute is equal to the number of dots in the **first column** under that Attribute. The more well-rounded your character is with a particular set of actions, the better their Attribute rating. The dice for each Attribute is determined as follows: rating 0 rolls no additional dice, rating 1 rolls four-sided dice (a d4), rating 2 rolls six-sided dice (a d6), rating 3 rolls eight-sided dice (a d8), rating 4 rolls ten-sided dice (a d10), and rating 5 rolls twelve-sided dice (a d12).
 
-### Average Dice Rolls with Explosions
+**Average Dice Rolls with Explosions**
 
 |     |  0  |  1   |  2   |  3   |  4   |  5   |
 |-----|-----|------|------|------|------|------|

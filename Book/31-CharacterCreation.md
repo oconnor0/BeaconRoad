@@ -74,7 +74,7 @@
 
     Take a look at the Special Abilities for your Bloodline and your Archetype, and choose one of each. If you can't decide which one to pick, go with the first one on the list---it's placed there as a good default choice.
 
-10. Choose 1 Common Power for each Action Dot.
+10. Choose up to 3 Common Powers whose requirements you meet.
 
     Powers (listed in Appendix A: Powers, page XX) represent masterful skill. They are things your character can do---without having to negotiate with the GM. Each Power has various Prerequisites and Requirements. Ensure you meet those before taking them.
 
