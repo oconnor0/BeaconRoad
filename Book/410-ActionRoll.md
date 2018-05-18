@@ -25,7 +25,7 @@ You choose which Action to perform to overcome an obstacle, by describing what y
 
 ## Action Roll
 
-You make an **Action Roll** when your character does something potentially dangerous or troublesome. The possible results of the Action Roll depend on your character's **Position**. There are three positions: **Controlled**, **Risky**, and **Desperate**. If you're in a **Controlled** position, the possible consequences are less serious. If you're in a **Desperate** position, the consequences can be severe. If you're somewhere in between, it's **Risky**---usually considered the "default" position for most actions. In combat, a **Controlled** position decreases the target number by 5; while a **Desperate** position increases it by 5.
+You make an **Action Roll** when your character does something potentially dangerous, troublesome, or challenging. The possible results of the Action Roll depend on your character's **Position**. There are three positions: **Controlled**, **Risky**, and **Desperate**. If you're in a **Controlled** position, the possible consequences are less serious. If you're in a **Desperate** position, the consequences can be severe. If you're somewhere in between, it's **Risky**---usually considered the "default" position for most actions. In combat, a **Controlled** position decreases the target number by 5; while a **Desperate** position increases it by 5.
 
 If there's no danger, trouble, or uncertainty at hand, you don't make an Action Roll---the GM will probably just say yes, and you'll accomplish your goal.
 

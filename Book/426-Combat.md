@@ -167,4 +167,46 @@ While **sheltered** *(quality level 4)*, you gain **+5 defense** and resistance 
 
 While **strengthened** *(quality level 1--5)*, you roll **+1** (or +2, +3, +4 or +5) **effect** die.
 
+## Defense Ratings
+
+There are three **defenses** in the game system that determine if attacks hit: **Iron**, **Ward**, and **Grit**. **Iron** represents agility, ability to avoid damage, fortitude, and resistance to disease and poison. **Ward** represents mental guard, composure, and skill in social situations. **Grit** represents willpower, determination, and persistence. Each defense has a rating that serves as the **target number** (**TN**) (written as **Defense 10**) which determines whether an attack hits or not. Each **defense rating** equals **7 plus the character's Tier plus the size of the associated attribute die.**
+
+* *Iron = 7 + Tier + highest face of BODY*
+* *Ward = 7 + Tier + highest face of MIND*
+* *Grit = 7 + Tier + highest face of WILL*
+
+## Armor & Shields
+
+If you have a type of **Armor** or **Shield** that applies to the situation, you can mark a Soak Box to reduce or avoid a consequence, instead of rolling to resist. If the armor or shield is relevant to the situation, you may mark 1 or more Soak Boxes to reduce the damage dealt by 10.
+
+* *Jonadab, while wearing medium armor, would suffer a crushing blow that would deal 30 points of damage and Stun him - effectively taking him out of the fight. Instead, marking two Soak Boxes reduces the damage dealt by 20 (10 per box) to 10 damage and marking a third Soak Box negates the Stun.*
+
+When a Soak Box is marked, it can't be used again until it's restored. All of Soak Boxes are restored when you choose your **Load** for the next score.
+
+## Hit Points
+
+A character has **Hit Points** (**HP**) representing their health, vitality, and will to fight. When an attack hits or at other triggers (e.g. disease, poison, wounds, etc.), a character might suffer **Damage** to their hit points. This reduces their current HP by that amount. When a character is reduced to zero or fewer HP, they fall unconscious, becoming *Incapacitated*. A character becomes *winded* when their current hit points are half of or less than their maximum hit points.
+
+* *Hit points = Archetype base + 4/5/6 per Tier + highest face of BODY + highest face of MIND + highest face of WILL.*
+    * *HP increases by 4 each Tier for Wizards, 5 each Tier for Rogues and Technicians, and 6 each Tier for Warriors.*
+    * *Archetype base is 2 for Wizard, 6 for Rogue or Technician, and 11 for Warrior.*
+
+## Death
+
+There are a couple ways for a Character to die:
+
+If a Character's hit points are reduced to 0, you permanently die. Unless you spend a Beacon Point to avoid death (page XX).
+
+When your character dies, you have options:
+
+* You can create a new character to play. Maybe you "promote" one of your chapter's cohorts to a character, or create a brand new character who joins the chapter.
+
+## Recovery
+
+A character can Recover HP equal to one quarter (round up) of their maximum HP. The normal way to achieve this is by taking 1 Stress during Downtime. Other Powers may allow characters to Recover.
+
+## Energy Types
+
+There are 10 **Energy Types**: **Chemical**, **Electrical**, **Entropic**, **Glacial**, **Kinetic**, **Plasmic**, **Psychic**, **Radiant**, **Temporal**, and **Thermal**. While *Energy Type* doesn't have any intrinsic rules, other rules interact with the various types.
+
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *

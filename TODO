@@ -23,7 +23,7 @@ NAMES:
  [x] Rename Advantage vs Disadvantage to Edge vs Snag? This would help separate the mechanic from D&D 5e - especially since Advantage/Disadvantage stack in BR. @done (18-05-10 23:29)
  [-] Rename Edge/Snag back to Advantage/Disadvantage @cancelled (18-05-15 22:32)
  [x] Score becomes Adventure. @done (18-05-10 00:25)
- [ ] Damage Type becomes Energy or Energy Type?
+ [x] Damage Type becomes Energy or Energy Type? @done (18-05-18 01:04)
  [x] Light weapons to Agile weapons; Heavy weapons to Powerful weapons @done (18-05-17 14:20)
  [-] Light, medium, heavy, exosuit armor to ? @cancelled (18-05-09 21:23)
  [x] Light, normal, heavy, encumbered load to Minimal, Half, Full, Encumbered? @done (18-05-09 21:21)
@@ -62,7 +62,7 @@ TODO:
  [ ] Wizard - **Adept.** +1 Prowl, +1 Survey, +2 Command. **Meditation.**
  [ ] Wizard - **Inquisitor.** +2 Skirmish, +1 Hunt, +1 Command. **Warded.**
  [x] Empower/Infuse Weapon - cast Spell through next weapon attack @done (18-05-09 20:50)
- [ ] Strengthened is +d4/d6/d8/d10/d12?
+ [-] Strengthened is +d4/d6/d8/d10/d12? @cancelled (18-05-18 01:04)
  [ ] Weakened is half damage (and no criticals)?
  [x] d10 Vice, d6 Virtue ? @done (18-05-09 20:50)
  [ ] Resistance Roll is Action Roll?

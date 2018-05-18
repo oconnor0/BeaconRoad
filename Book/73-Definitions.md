@@ -25,7 +25,7 @@ Quickened
 : creatures double their Stride.
 
 Sheltered
-: creatures gain +4 Defense and Resistance to all Energy Types.
+: creatures gain +5 Defense and Resistance to all Energy Types.
 
 Well-made
 : items take 1 less Load than normal. Items taking 1 Load fit an additional item in 1 Load.
