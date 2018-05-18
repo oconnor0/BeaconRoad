@@ -71,6 +71,12 @@ Each Character starts with the following Powers regardless of anything else abou
 
 ## Social Powers
 
+* Assist
+    * Rarity: Common
+    * Cost: Act or React, Stress 1.
+    * Trigger: An ally Acts.
+    * Target: 1 allied creature you can see.
+    * Effect: Describe how you aid them. If plausible, they gain +1 Tier on their Action Roll and may reroll, taking the second roll, if they dislike the first result.
 * Carouse
     * Rarity: Common
     * Requires: Consort or Sway.
@@ -81,6 +87,12 @@ Each Character starts with the following Powers regardless of anything else abou
     * Check: CONSORT! or SWAY! vs Ward.
     * Success: You *Charm* the creature for one day.
     * Failure: You suffer *Sickened* for one day.
+* Disarm
+    * Rarity: Common
+    * Requires: Finesse, Study, Survey, or Sway.
+    * Cost: Act.
+    * Attack: FINESSE!, STUDY!, SURVEY!, or SWAY! vs Ward.
+    * Hit: Target suffers *Disarmed*.
 * Feint
     * Rarity: Common
     * Requires: Finesse, Prowl, Study, or Survey.
@@ -110,6 +122,12 @@ Each Character starts with the following Powers regardless of anything else abou
     * Effect: The target gains *Focused* for 1 minute (10 rounds).
     * Upgrades:
         * `[ ]` Projected Clarity (6 Clock) - For 1 additional Stress, you may target a creature within 30.
+* Fog
+    * Rarity: Uncommon
+    * Requires: Utter.
+    * Cost: Act or React, 3 Stress (area 2, duration 1).
+    * Trigger: An enemy Acts or targets an ally.
+    * Effect: Create a cloud of fog with a 30' diameter centered on you. The cloud *Conceals* and lasts one minute (10 rounds) unless removed.
 * Frost Spear
     * Rarity: Uncommon
     * Requires: Utter.
@@ -119,6 +137,15 @@ Each Character starts with the following Powers regardless of anything else abou
     * Hit: (1 + Utter)[d6] *Glacial* damage, and target suffers *Slowed*.
     * Upgrades:
         * `[ ]` Freezing Spear (6 Clock) - On a Critical Hit, target suffers *Stunned* instead of *Slowed*.
+* Lightning Bolt
+    * Rarity: Rare
+    * Requires: Utter.
+    * Cost: Act, 5 Stress (area 1, range 1, force 3)
+    * Target: Creatures in 40' line originating from you.
+    * Attack: UTTER! vs Iron.
+    * Hit: (1 + Utter)[d8] *electrical* damage.
+    * Upgrades:
+        * `[ ]` Chain Lightning (6 clock) - Make a secondary Lightning Bolt attack originating from one of the original targets. No creature may be targeted more than once by the same attack.
 * Plasmic Dart
     * Rarity: Uncommon
     * Requires: Utter.
@@ -128,6 +155,14 @@ Each Character starts with the following Powers regardless of anything else abou
     * Upgrades:
         * `[ ]` Plasmic Darts (6 Clock) - By spending 3 Stress instead of 1, target a number of enemy creatures equal to 1 + Utter within 30'.
         * `[ ]` Plasmic Bolt (6 Clock) - Deal [d6] *Plasmic* damage.
+* Wolfbite
+    * *A weapon begins to glow with cold energy. When used to attack, a spectral wolf's head lashes out and bites the target.*
+    * Rarity: Uncommon
+    * Requires: Utter.
+    * Cost: Act, 2 Stress (condition 1, duration 1).
+    * Target: 1 weapon within touch.
+        * *Take 1 Stress to increase the range of this by 30'.*
+    * Effect: For the next minute (10 rounds), that weapon additionally deals *Glacial* and *Plasmic* damage, and attacks with that weapon are *Strengthened* 1 (+1 EFFECT).
 
 ## Weapon Powers
 
@@ -136,6 +171,15 @@ Each Character starts with the following Powers regardless of anything else abou
     * Requires: Hunt.
     * Cost: Act.
     * Effect: Gain +1 Tier on your next Ranged Weapon Attack this turn.
+* Bash
+    * Rarity: Common
+    * Requires: Skirmish; *Defensive* weapon.
+    * Cost: Act, 1 Stress (condition 1).
+    * Target: 1 creature you threaten.
+    * Attack: SKIRMISH! vs Iron.
+    * Hit (half Skirmish)[BODY] *Kinetic* damage and *Pushed* 5' per attacking action dot.
+    * Upgrades:
+        * `[ ]` Slam and Bash (8 clock) - The target is *Slammed* 10' per attacking action dot instead of *Pushed*.
 * Block
     * Rarity: Common
     * Requires: Skirmish; *Defensive* weapon.
@@ -178,12 +222,24 @@ Each Character starts with the following Powers regardless of anything else abou
     * Effect: Make a melee action roll and use that instead of the targeted defense.
     * Upgrades:
         * `[ ]` Parrying Step (6 Clock) - If the attack no longer hits, you may maneuver 5'.
+* Protect
+    * Rarity: Uncommon
+    * Requires: Finesse or Skirmish; *Defensive* weapon.
+    * Cost: React, 1 Stress.
+    * Trigger: An adjacent ally would be hit by an attack.
+    * Effect: For one round, you grant the ally *Sheltered* while adjacent to you.
 * Reaction Strike
     * Rarity: Common
     * Requires: Finesse or Skirmish; *Melee* weapon.
     * Cost: React.
     * Trigger: An enemy creature advances out of your melee threat. Or an enemy creature advances into your melee threat, if they do not threaten you (e.g., you are Hidden from them or you have a longer melee threat than they do).
     * Effect: Make a Basic Melee Attack against the triggering creature.
+* Riposte
+    * Rarity: Uncommon
+    * Requires: Finesse or Skirmish; *Melee* weapon.
+    * Cost: React, 1 Stress.
+    * Trigger: You or an ally are hit by an attack.
+    * Effect: Make a melee attack against the attacking creature you threaten.
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
