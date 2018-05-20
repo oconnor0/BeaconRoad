@@ -143,7 +143,7 @@ While **downed** *(severity 2)*, you suffer **-5** **Defense** and do not threat
 
 While **Exposed** *(severity 1)*, you suffer **-5 to a single Defense**.
 
-While **goaded** *(severity 1)*, you suffer suffers -1 Tier on all attacks that do not include the goading creature. A creature may only be goaded by one enemy at a time, and the newest takes precedence.
+While **goaded** *(severity 1)*, you suffer -1 Tier on all attacks that do not include the goading creature. A creature may only be goaded by one enemy at a time, and the newest takes precedence.
 
 While **Incapacitated** *(severity 5)*, your **Defense** is **6**, cannot Act, and do not Threaten.
 

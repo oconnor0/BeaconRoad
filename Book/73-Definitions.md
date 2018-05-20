@@ -1,7 +1,7 @@
 # Appendix C: Definitions
 
 Agile
-: weapons inflict -1 Tier on Skirmish Action Rolls.
+: weapons suffer -1 Tier on Skirmish Action Rolls.
 
 Concealed
 : creatures gain +5 Defense.
@@ -18,6 +18,9 @@ Exposed
 Fortified
 : creatures increase 1 Defense by +5.
 
+Goaded
+: creatures suffer -1 Tier on Attack Rolls that do not include the goading creature.
+
 Hidden
 : creatures cannot be targeted by attacks, gain +1 Tier on Attack Rolls, and cannot be Reacted to.
 
@@ -25,7 +28,7 @@ Non-lethal
 : damage cannot take its target below 1 HP.
 
 Powerful
-: weapons inflict -1 Tier on Finesse Action Rolls.
+: weapons suffer -1 Tier on Finesse Action Rolls.
 
 Quickened
 : creatures double their Stride.

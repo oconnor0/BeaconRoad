@@ -102,6 +102,14 @@ Each Character starts with the following Powers regardless of anything else abou
     * Success: The next attack against the target gains +1 Tier.
     * Upgrade:
         * `[ ]` Feinting Strike (6 Clock) - On Success, you may make a Melee Weapon Attack at +1 Tier against the target. On Failure, you may make a Melee Weapon Attack at -1 Tier against the target.
+* Taunt
+    * Rarity: Common
+    * Requires: Skirmish, Study, or Command.
+    * Cost: Act or React.
+    * Trigger: An Enemy targets an Ally.
+    * Target: 1 triggering creature within 30'.
+    * Check: SKIRMISH!, STUDY!, or COMMAND! vs Ward.
+    * Success: Target suffers *Goaded* (-1 Tier on Attacks that don't include you) for 1 round.
 
 ## Supernatural Powers
 
