@@ -37,8 +37,6 @@ During the game session, mark XP:
 
 * When you Push Yourself and Fail an Action Roll, mark 1 XP in the Attribute for the Action you rolled. For example, if you roll a Skirmish action, Push Yourself, and Fail, you mark XP in Body.
 
-When you roll in a **group action** that's desperate, you also mark XP.
-
 At the end of the session, review the XP Triggers on your character sheet. For each one, mark 1 XP if it happened. The XP triggers are:
 
 * Your Archetype-specific XP trigger:

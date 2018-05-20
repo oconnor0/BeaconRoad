@@ -12,8 +12,14 @@ Defensive
 Distracted
 : creatures suffer -1 Tier on Action Rolls.
 
+Exposed
+: creatures decrease 1 Defense by -5.
+
+Fortified
+: creatures increase 1 Defense by +5.
+
 Hidden
-: creatures cannot be targeted by attacks, gain +1 Tier on Attck Rolls, and cannot be Reacted to.
+: creatures cannot be targeted by attacks, gain +1 Tier on Attack Rolls, and cannot be Reacted to.
 
 Non-lethal
 : damage cannot take its target below 1 HP.
