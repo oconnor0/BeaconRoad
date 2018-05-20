@@ -12,7 +12,7 @@ You can use Stress to **Push Yourself** for greater performance. For each bonus 
 * Roll **+1 Effect Die**.
 * Take action while *Slowed* or *Stunned*.
 
-# Heroic Blessings
+## Heroic Blessings
 
 The characters are not normal and so can tap into heroic blessings that enable them to perform nigh-supernatural exploits. Heroic blessings are not related to Bloodline, Archetype, or Chapter. They are benefits that any player can use. Heroic blessings are represented with **Beacon Points** that a player can spend to activate a blessing. Beacon Points may be spent:
 
