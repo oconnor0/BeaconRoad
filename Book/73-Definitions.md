@@ -9,11 +9,20 @@ Concealed
 Defensive
 : grants the item's wielder +1 Iron.
 
+Deflecting
+: creatures gain +5 Defense against attacks that inflict 1 chosen Energy Type.
+
 Distracted
 : creatures suffer -1 Tier on Action Rolls.
 
 Exposed
 : creatures decrease 1 Defense by -5.
+
+Flanked
+: creatures are Threatened by enemies on opposite sides, spliting its attention.
+
+Flanking
+: creatures Threaten an enemy from opposite sides and gain +1 Tier on Attack Rolls targeting it.
 
 Fortified
 : creatures increase 1 Defense by +5.
@@ -35,6 +44,15 @@ Quickened
 
 Sheltered
 : creatures gain +5 Defense and Resistance to all Energy Types.
+
+Stance
+: powers provide a persistent bonus; only the most recent stance applies.
+
+Stunned
+: creatures cannot Act or React and do not Threaten; take **1 Stress** to Act.
+
+Vulnerable
+: creatures suffer double damage from one chosen Energy Type.
 
 Well-made
 : items take 1 less Load than normal. Items taking 1 Load fit an additional item in 1 Load.

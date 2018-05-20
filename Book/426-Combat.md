@@ -153,17 +153,17 @@ While **sickened** *(severity 3)*, you suffer *Distracted* and *Weakened*.
 
 While **slowed** *(severity 2)*, you can Act and React one less time each round and do not threaten on other turns. Take **1 stress** to Act once more on your turn.
 
-While **stunned**  *(severity 4)*, you cannot Act or React and do not threaten on other turns. Take **1 Stress** to Act.
+While **stunned**  *(severity 4)*, you cannot Act or React and do not Threaten. Take **1 Stress** to Act.
 
 While **terrified** *(severity 3)*, you suffer -1 Tier on Rolls while the source of your fear is present and cannot move closer to the source of that fear without taking **Stress**.
 
-While **vulnerable** *(severity 4)*, you suffer double damage from one chosen damage type.
+While **vulnerable** *(severity 4)*, you suffer double damage from one chosen Energy Type.
 
 While **Weakened** *(severity 1--5)*, you suffer -1/-2/-3/-4/-5 Effect.
 
 ### Other Conditions or Effects
 
-While **flanked** *(severity 1)*, threatening enemies on opposite sides of you split your attention, and you grant +1 Tier on Attack Rolls targeting you made by flanking creatures.
+While **Flanked** *(severity 1)*, threatening enemies on opposite sides of you split your attention, and you grant +1 Tier on Attack Rolls targeting you made by flanking creatures.
 
 When **pushed** *(severity 1)*, you are involuntarily moved away from an origin.
 
@@ -175,9 +175,9 @@ While **Surprised** *(severity 3)*, you suffer **-5 Defense** and cannot React.
 
 While **Concealed** *(quality level 2)*, you gain **+5 Defense**.
 
-While **deflecting** *(quality level 1)*, you gain **+5 Defense** against attacks that deal damage from one chosen damage type.
+While **Deflecting** *(quality level 1)*, you gain **+5 Defense** against attacks that deal damage from one chosen damage type.
 
-While **flanking** *(quality level 1)*, you and an ally threaten an enemy from opposite sides and gain +1 Tier on Attack Rolls targeting the flanked enemy.
+While **Flanking** *(quality level 1)*, you and an ally threaten an enemy from opposite sides and gain +1 Tier on Attack Rolls targeting the flanked enemy.
 
 While **focused** *(quality level 2)*, you gain +1 Tier on Rolls.
 

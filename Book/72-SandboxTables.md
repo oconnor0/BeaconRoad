@@ -322,6 +322,21 @@ Sometimes you might not be sure what the characters run into. Or they go somewhe
     * 19 Primitive
     * 20 Xenophobic
 
+## Colors
+
+| d10   |  d4    | 1 Metallic | 2 Gem      | 3 Vibrant  | 4 Dull     |
+|-------|--------|------------|------------|------------|------------|
+| **1** | White  | Silver     | Pearl      |            |            |
+| **2** | Gray   | Titanium   | Moonstone  |            |            |
+| **3** | Brown  |            | Sardonyx   |            |            |
+| **4** | Black  | Iron       | Onyx       | Obsidian   | Coal       |
+| **5** | Red    | Copper     | Garnet     |            |            |
+| **6** | Orange | Bronze     | Carnelian  |            |            |
+| **7** | Yellow | Brass      | Citrine    |            |            |
+| **8** | Green  |            | Jade       |            |            |
+| **9** | Blue   | Cobalt     | Lapis Lazuli |            |            |
+| **0** | Purple |            | Amethyst   |            |            |
+
 ## Corporation
 
 * Spread of Influence

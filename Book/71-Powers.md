@@ -77,6 +77,13 @@ Each Character starts with the following Powers regardless of anything else abou
     * Trigger: An ally Acts.
     * Target: 1 allied creature you can see.
     * Effect: Describe how you aid them. If plausible, they gain +1 Tier on their Action Roll and may reroll, taking the second roll, if they dislike the first result.
+* Attack!
+    * Rarity: Common
+    * Requires: Skirmish or Command
+    * Cost: Act or React, 1 Stress.
+    * Trigger:  An enemy Acts or targets an ally.
+    * Target: 1 ally within 30'.
+    * Effect: Target ally may make 1 basic attack.
 * Carouse
     * Rarity: Common
     * Requires: Consort or Sway.
@@ -92,7 +99,14 @@ Each Character starts with the following Powers regardless of anything else abou
     * Requires: Finesse, Study, Survey, or Sway.
     * Cost: Act.
     * Attack: FINESSE!, STUDY!, SURVEY!, or SWAY! vs Ward.
-    * Hit: Target suffers *Disarmed*.
+* Exploit Opponent
+    * *You open a hole in your opponent's defense.*
+    * Rarity: Uncommon
+    * Requires: Hunt, Survey, or Study
+    * Cost: Act, 2 Stress (condition 1, range 1).
+    * Target: 1 enemy within 30'.
+    * Check: HUNT!, SURVEY!, or STUDY! vs Ward, Iron, and Grit.
+    * Success: The target suffers *Exposed* (-5 Defense) for 1 of the hit defenses (of your choosing).
 * Feint
     * Rarity: Common
     * Requires: Finesse, Prowl, Study, or Survey.
@@ -102,6 +116,13 @@ Each Character starts with the following Powers regardless of anything else abou
     * Success: The next attack against the target gains +1 Tier.
     * Upgrade:
         * `[ ]` Feinting Strike (6 Clock) - On Success, you may make a Melee Weapon Attack at +1 Tier against the target. On Failure, you may make a Melee Weapon Attack at -1 Tier against the target.
+* Sabotage
+    * Rarity: Rare
+    * Requires: Hunt or Utter.
+    * Cost: Act, 4 Stress (condition 4).
+    * Target: 1 creature within weapon range.
+    * Attack: HUNT! or UTTER! vs Grit.
+    * Hit: Select one Energy Type. Target becomes *Vulnerable* (double damage) to that Energy Type.
 * Taunt
     * Rarity: Common
     * Requires: Skirmish, Study, or Command.
@@ -122,6 +143,12 @@ Each Character starts with the following Powers regardless of anything else abou
     * Hit: (1 + Utter)[d12] *Chemical* damage.
     * Target: One adjacent creature.
     * Effect: (1 + Utter)[d4] *Chemical* damage.
+* Bolster Defense
+    * Rarity: Uncommon
+    * Requires: Survey, Study, or Utter.
+    * Cost: Act, 1 Stress (condition 1).
+    * Check: SURVEY!, STUDY!, or UTTER! vs Risky TN (11 + Tier).
+    * Success: For 1 minute (10 rounds), *Fortify* (+5 Defense) 1 of your Defenses.
 * Clarity
     * Rarity: Common
     * Requires: Study, Survey, or Utter.
@@ -205,6 +232,33 @@ Each Character starts with the following Powers regardless of anything else abou
     * Upgrades:
         * `[ ]` Building Fury (6 Clock) - Gain +1 Tier on your Charge Attack Roll for each attack that hits you while charging.
         * `[ ]` Intercept (6 Clock) - Charge can now be used to React for additional 1 Stress, triggered by "An enemy advances toward an ally within your stride."
+* Deep Cut
+    * Rarity: Common
+    * Requires: Finesse
+    * Cost: Act, 1 Stress (condition 1).
+    * Target: 1 creature you threaten.
+    * Attack: FINESSE! vs Iron.
+    * Hit: (half Finesse)[POW] + [BODY] *Kinetic* damage, and target suffers *Bleeding d4*.
+* Double Strike
+    * Rarity: Uncommon
+    * Requires: Finesse or Skirmish; Tier 2.
+    * Cost: Act.
+    * Effect: Make two Basic Attacks at -1 Tier.
+* Defensive Stance
+    * Rarity: Uncommon
+    * Requires: Finesse or Skirmish; Tier 2.
+    * Cost: Act, 1 Stress (condition 1).
+    * Effect: For the rest of this encounter or until this stance ends, you suffer -1 Tier on all Attack Rolls but *Deflect Kinetic* (+5 Defense) attacks.
+* Flanking Stance
+    * Rarity: Common
+    * Requires: Finesse, Prowl, or Skirmish
+    * Cost: Act, 1 Stress.
+    * Effect: For the rest of this encounter or until this stance ends, your allies and enemies treat you as *Flanking* each enemy creature you *Threaten*. Make a Basic Melee Weapon Attack.
+* Goading Stance
+    * Rarity: Common
+    * Requires: Finesse, Skirmish, or Command
+    * Cost: Act, 1 Stress (condition 1).
+    * Effect: For the rest of this encounter or until this stance ends, your Melee Weapon Attacks *Goad* their targets, hit or miss. Make a Basic Melee Weapon Attack.
 * Interrupt
     * Rarity: Common
     * Requires: Hunt; *Ranged* weapon.
@@ -248,6 +302,17 @@ Each Character starts with the following Powers regardless of anything else abou
     * Cost: React, 1 Stress.
     * Trigger: You or an ally are hit by an attack.
     * Effect: Make a melee attack against the attacking creature you threaten.
+* Stunning Strike
+    * Rarity: Rare
+    * Requires: Skirmish; Weapon.
+    * Cost: Act, 4 Stress (condition 4).
+    * Attack: SKIRMISH! vs Iron.
+    * Hit: (half Skirmish)[EFFECT] + [BODY] *Kinetic* damage, and target suffers *Stunned* (cannot Act or React).
+* Triple Strike
+    * Rarity: Rare
+    * Requires: Finesse or Skirmish; Tier 3.
+    * Cost: Act.
+    * Effect: Make three Basic Attacks at -2 Tier.
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
