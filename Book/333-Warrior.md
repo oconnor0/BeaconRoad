@@ -47,6 +47,8 @@
             - *The protect teamwork maneuver lets you face a consequence for a teammate. If you choose to resist that consequence, this ability gives you +1 Tier on your resistance roll. Also, when you read a situation to gather information about hidden dangers or potential attackers, you get +1 effect-which means more detailed information.*
     - **Deadly.**
         - When you **Push Yourself** when making melee attacks, gain all benefits of **Pushing Yourself**.
+    - **Martial Excellence.**
+        - Choose a Body Action. Choose a number of Powers up to that Action Rating and reduce each Stress cost by 1.
     - **Mule.**
         - Your load limits are higher. Minimal: 5. Half: 7. Full: 8.
             - *This ability is great if you want to wear heavy armor and pack a heavy weapon without attracting lots of attention. Since your exact gear is determined on-the-fly during an operation, having more load also gives you more options to get creative with when dealing with problems during a score.*

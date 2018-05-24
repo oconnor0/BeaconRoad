@@ -42,6 +42,9 @@ Powerful
 Quickened
 : creatures double their Stride.
 
+Resistant
+: creatures suffer half damage from one chosen Energy Type.
+
 Sheltered
 : creatures gain +5 Defense and Resistance to all Energy Types.
 

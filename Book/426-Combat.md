@@ -183,7 +183,7 @@ While **focused** *(quality level 2)*, you gain +1 Tier on Rolls.
 
 While **Fortified** *(quality level 1)*, you gain **+5 to a single Defense**.
 
-While **hastened** *(quality level 4)*, you may Act or React an additional time each round.
+While **Hastened** *(quality level 4)*, you may Act or React an additional time each round.
 
 While **healing** *(quality level 1--5)*, you restore HP.
 
@@ -199,7 +199,7 @@ While **regenerating** *(quality level 1--5)*, you restore HP at the beginning o
 
 * *You restore HP equal to the regenerating Quality Level + your Tier.*
 
-While **Resistant** *(quality level 3)*, you suffer half damage from one chosen damage type. You only need to Resist one of the damage types in an attack to take half damage.
+While **Resistant** *(quality level 3)*, you suffer half damage from one chosen Energy Type. You only need to Resist one of the Energy Types in an attack to take half damage.
 
 While **Sheltered** *(quality level 4)*, you gain **+5 Defense** and Resistance to all damage types.
 

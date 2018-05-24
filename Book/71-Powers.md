@@ -26,6 +26,12 @@ Each Character starts with the following Powers regardless of anything else abou
 
 ## Movement Powers
 
+* Advance!
+    * Rarity: Uncommon
+    * Requires: Command
+    * Cost: Act, 3 Stress (area 3).
+    * Target: Allied creatures within 25'.
+    * Effect: Target can spend a *Reaction* to *Advance* up to their *Stride*.
 * Displace
     * Rarity: Uncommon
     * Requires: Finesse, Prowl, or Traverse.
@@ -116,6 +122,13 @@ Each Character starts with the following Powers regardless of anything else abou
     * Success: The next attack against the target gains +1 Tier.
     * Upgrade:
         * `[ ]` Feinting Strike (6 Clock) - On Success, you may make a Melee Weapon Attack at +1 Tier against the target. On Failure, you may make a Melee Weapon Attack at -1 Tier against the target.
+* Mental Imposition
+    * Rarity: Rare
+    * Requires: Command.
+    * Cost: Downtime Activity, 17 Stress (range 6, duration 6, condition 5).
+    * Target: 1 enemy creature within the city (150000').
+    * Attack: COMMAND! vs Ward.
+    * Hit: Target suffers *Dominated* for 1 week.
 * Sabotage
     * Rarity: Rare
     * Requires: Hunt or Utter.
@@ -143,12 +156,35 @@ Each Character starts with the following Powers regardless of anything else abou
     * Hit: (1 + Utter)[d12] *Chemical* damage.
     * Target: One adjacent creature.
     * Effect: (1 + Utter)[d4] *Chemical* damage.
+* Aegis
+    * Rarity: Uncommon
+    * Requires: Utter.
+    * Cost: Act or React, 4 Stress (range 1, condition 3).
+    * Target: 1 allied creature within 30'.
+    * Trigger: An enemy targets an ally.
+    * Effect: Select one Energy Type. The target gains *Resistance* (half damage) to that Energy Type for 1 minute (10 rounds).
 * Bolster Defense
     * Rarity: Uncommon
     * Requires: Survey, Study, or Utter.
     * Cost: Act, 1 Stress (condition 1).
     * Check: SURVEY!, STUDY!, or UTTER! vs Risky TN (11 + Tier).
     * Success: For 1 minute (10 rounds), *Fortify* (+5 Defense) 1 of your Defenses.
+* Cataclysm
+    * Rarity: Unique
+    * Requires: Utter.
+    * Cost: Act, 10 Stress (area 2, range 2, force 4, condition 2).
+    * Target: 25' square within 100'.
+    * Attack: UTTER! vs Iron.
+    * Hit: (1 + Utter)[d10] *Kinetic* and *Thermal* damage.
+    * Miss: (half of 1 + Utter)[d10] *Kinetic* and *Thermal* damage.
+    * Effect: Targeted creatures suffer *Downed*.
+* Caustic Flame
+    * Rarity: Uncommon
+    * Requires: Utter.
+    * Cost: Act, 6 Stress (area 1, range 1, condition 2 + 2).
+    * Target: Creatures in 10' cube within 30'.
+    * Attack: UTTER! vs Iron.
+    * Hit: Target suffers *Burning d6* and *Corroding d6*.
 * Clarity
     * Rarity: Common
     * Requires: Study, Survey, or Utter.
@@ -157,6 +193,22 @@ Each Character starts with the following Powers regardless of anything else abou
     * Effect: The target gains *Focused* for 1 minute (10 rounds).
     * Upgrades:
         * `[ ]` Projected Clarity (6 Clock) - For 1 additional Stress, you may target a creature within 30.
+* Cleanse
+    * Rarity: Common
+    * Requires: Craft or Utter.
+    * Cost: Act, 1 Stress.
+    * Target: 1 allied creature within 30'.
+    * Effect: 1 negative condition or wound on them expires.
+* Fireball
+    * Rarity: Rare
+    * Requires: Utter.
+    * Cost: Act, 8 Stress (range 2, force 3, area 2).
+    * Target: 25' square within 100'.
+    * Attack: UTTER! vs Iron.
+    * Hit: (1 + Utter)[d8] *Thermal* damage.
+    * Miss: (half of 1 + Utter)[d8] *Thermal* damage.
+    * Upgrades:
+        * `[ ]` Searing Heat (6 Clock) - Creatures hit suffer *Burning d8*.
 * Fog
     * Rarity: Uncommon
     * Requires: Utter.
@@ -172,6 +224,51 @@ Each Character starts with the following Powers regardless of anything else abou
     * Hit: (1 + Utter)[d6] *Glacial* damage, and target suffers *Slowed*.
     * Upgrades:
         * `[ ]` Freezing Spear (6 Clock) - On a Critical Hit, target suffers *Stunned* instead of *Slowed*.
+* Haunt
+    * Rarity: Uncommon
+    * Requires: Sway or Utter.
+    * Cost: Act, 3 Stress (range 1, force 1, condition 1).
+    * Attack: SWAY! or UTTER! vs Ward.
+    * Hit: (1 + Sway)[d4] *Psychic* damage, and target suffers *Terrified*.
+* Inhale/Exhale
+    * Rarity: Uncommon
+    * Requires: Study, Survey, or Utter.
+    * Cost: Act, 0 Stress (range 1)
+    * Target: 1 allied creature within 30'.
+    * Effect: You suffer another's wounds (select 1):
+        * The target selects 1 wound and loses it. You gain that wound.
+        * The target Recovers. You lose that many HP.
+        * The target clears up to 3 stress. You gain that stress.
+
+        On your next turn, you may use the following:
+* Exhale
+    * Cost: React, 2 Stress (range 1, force 1).
+    * Trigger: An enemy creature within 30' begins its turn.
+    * Target: 1 enemy creature within 30'.
+    * Attack: STUDY!, SURVEY!, or UTTER! vs Ward.
+    * Hit: The target suffers your wounds (select 1):
+        * You select 1 wound and lose it. The target gains that wound.
+        * You Recover. The target suffers *Entropic* damage equal to the Recovered HP.
+        * You clear up to 3 stress. The target gains that stress.
+* Ink Blot
+    * Rarity: Rare
+    * Requires: Command, Sway, or Utter.
+    * Cost: Act, 5 Stress (range 1, condition 4)
+    * Target: 1 creature within 30'.
+    * Attack: COMMAND!, CONSORT!, or SWAY! vs Grit.
+    * Hit: Target suffers *Blinded*.
+* Inner Flame
+    * Rarity: Uncommon
+    * Requires: Craft or Utter.
+    * Cost: Act, 3 Stress (range 1, condition 1 + 1).
+    * Target: 1 creature within 30'.
+    * Effect: The creature *Recovers* and *Regenerates 1* for 1 minute (10 rounds).
+* Invisibility
+    * Rarity: Rare
+    * Requires: Prowl, Hunt, Sway, or Utter.
+    * Cost: Act, 5 Stress (condition 5).
+    * Target: Self.
+    * Effect: You become *Hidden* for 1 minute (10 rounds) or until you Act - other than to Move.
 * Lightning Bolt
     * Rarity: Rare
     * Requires: Utter.
@@ -181,8 +278,15 @@ Each Character starts with the following Powers regardless of anything else abou
     * Hit: (1 + Utter)[d8] *electrical* damage.
     * Upgrades:
         * `[ ]` Chain Lightning (6 clock) - Make a secondary Lightning Bolt attack originating from one of the original targets. No creature may be targeted more than once by the same attack.
-* Plasmic Dart
+* Plasmic Cage
     * Rarity: Uncommon
+    * Requires: Command or Utter.
+    * Cost: Act, 4 Stress (range 1, condition 3).
+    * Target: 1 enemy creature within 30'.
+    * Attack: COMMAND! or UTTER! vs Iron.
+    * Hit: Target suffers *Rooted*.
+* Plasmic Dart
+    * Rarity: Common
     * Requires: Utter.
     * Cost: Act, 1 Stress (range 1, force 1)
     * Target: 1 enemy creature within 30'.
@@ -190,6 +294,54 @@ Each Character starts with the following Powers regardless of anything else abou
     * Upgrades:
         * `[ ]` Plasmic Darts (6 Clock) - By spending 3 Stress instead of 1, target a number of enemy creatures equal to 1 + Utter within 30'.
         * `[ ]` Plasmic Bolt (6 Clock) - Deal [d6] *Plasmic* damage.
+* Pox
+    * Rarity: Uncommon
+    * Requires: Utter.
+    * Cost: Act, 5 Stress (area 1, range 1, condition 3).
+    * Target: 2 + \[d4\] enemy creatures within 30'.
+    * Attack: UTTER! vs Iron.
+    * Hit: Target suffers *Blighted d4* and *Sickened*.
+* Rock Slam
+    * Rarity: Uncommon
+    * Requires: Utter.
+    * Cost: Act, 8 Stress (range 1, force 4, condition 3).
+    * Target: 1 enemy creature within 30.
+    * Attack: UTTER! vs Iron.
+    * Hit: (1 + Utter)[d10] *Kinetic* damage and *Slammed* 10' per Utter Action Rating.
+* Shattered Earth
+    * Rarity: Rare
+    * Requires: Utter.
+    * Cost: Act, 8 Stress (area 2, range 1, force 3, condition 2)
+    * Target: 25' square within 100'
+    * Attack: UTTER! vs Iron.
+    * Hit: (1 + Utter)[d8] *Kinetic* and *Chemical* damage.
+    * Miss: (half of 1 + Utter)[d8] *Kinetic* and *Chemical* damage.
+    * Effect: Targeted creatures suffer *Downed*.
+    * Upgrades:
+        * `[ ]` Broken Earth (6 clock) - The targeted area becomes *Difficult Terrain*.
+* Timeslip
+    * Rarity: Rare
+    * Requires: Utter.
+    * Cost: Act, 5 Stress (range 1, condition 4).
+    * Target: 1 creature within 30'.
+    * Effect: Target gains *Hastened* for 1 minute (10 rounds).
+* Thunderclap
+    * Rarity: Rare
+    * Requires: Utter.
+    * Cost: Act, 9 Stress (area 3, condition 2 + 2, force 2).
+    * Target: 50' square centered on you.
+    * Attack: UTTER! vs Iron and Grit.
+    * Hit vs Iron: (1 + Utter)[d6] *Kinetic* and *Electrical* damage.
+    * Hit vs Grit: The target suffers *Slowed* and *Deafened*.
+* Wither
+    * Rarity: Uncommon
+    * Requires: Utter.
+    * Cost: Act, 5 Stress (range 1, condition 1 + 1 + 2).
+    * Target: 1 enemy creature within 30'.
+    * Attack: UTTER! vs Iron, Ward, and Grit.
+    * Hit vs Iron: Target suffers *Blighted d4*.
+    * Hit vs Ward: Target suffers *Distracted*.
+    * Hit vs Grit: Target suffers *Weakened 1*.
 * Wolfbite
     * *A weapon begins to glow with cold energy. When used to attack, a spectral wolf's head lashes out and bites the target.*
     * Rarity: Uncommon
@@ -241,14 +393,14 @@ Each Character starts with the following Powers regardless of anything else abou
     * Hit: (half Finesse)[POW] + [BODY] *Kinetic* damage, and target suffers *Bleeding d4*.
 * Double Strike
     * Rarity: Uncommon
-    * Requires: Finesse or Skirmish; Tier 2.
-    * Cost: Act.
-    * Effect: Make two Basic Attacks at -1 Tier.
+    * Requires: Finesse or Skirmish.
+    * Cost: Act, 2 Stress.
+    * Effect: Make two Basic Attacks.
 * Defensive Stance
     * Rarity: Uncommon
-    * Requires: Finesse or Skirmish; Tier 2.
+    * Requires: Finesse or Skirmish.
     * Cost: Act, 1 Stress (condition 1).
-    * Effect: For the rest of this encounter or until this stance ends, you suffer -1 Tier on all Attack Rolls but *Deflect Kinetic* (+5 Defense) attacks.
+    * Effect: For the rest of this encounter or until this stance ends, you must suffer -1 Tier on all Attack Rolls but *Deflect Kinetic* (+5 Defense) attacks.
 * Flanking Stance
     * Rarity: Common
     * Requires: Finesse, Prowl, or Skirmish
@@ -310,9 +462,9 @@ Each Character starts with the following Powers regardless of anything else abou
     * Hit: (half Skirmish)[EFFECT] + [BODY] *Kinetic* damage, and target suffers *Stunned* (cannot Act or React).
 * Triple Strike
     * Rarity: Rare
-    * Requires: Finesse or Skirmish; Tier 3.
-    * Cost: Act.
-    * Effect: Make three Basic Attacks at -2 Tier.
+    * Requires: Finesse or Skirmish.
+    * Cost: Act, 3 Stress.
+    * Effect: Make three Basic Attacks.
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
