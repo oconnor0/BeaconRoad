@@ -31,7 +31,7 @@ If there's no danger, trouble, or uncertainty at hand, you don't make an Action 
 
 *Beacon Road* uses four-, six-, eight-, ten-, twelve-, and twenty-sided dice.
 
-To make an Action Roll, roll a number of d20s equal to your Tier and a number of Attribute Dice euqal to your Action Rating and **sum the single highest rolled die of each size**. If the highest rolled for a given size is the maximum that die size can roll, that die **Explodes**: roll another die of that same size and add it to the sum. Continue this as long as a die rolls its maximum. Compare the sum with the **Target Number** (**TN**), if the total is equal or larger, the roll is a **Success** (or a **Hit**). If the sum is less than the **TN**, the roll is a **Failure** (or a **Miss**). A roll of 10 or more over the TN is a **Critical** and confers additional benefits. Each increment of 10 over the TN increases the quality of that success. The number of increments of 10 is called the **Critical Multiplier**. If the check is a failure and the highest d20 is a 1, the check is a **Botch**.
+To make an Action Roll, roll a number of d20s equal to your Tier and a number of Attribute Dice euqal to your Action Rating and **sum the single highest rolled die of each size**. If the highest rolled for a given size is the maximum that die size can roll, that die **Explodes**: roll another die of that same size and add it to the sum. Continue this as long as a die rolls its maximum. Compare the sum with the **Target Number** (**TN**), if the total is equal or larger, the roll is a **Success** (or a **Hit**). If the sum is less than the **TN**, the roll is a **Failure** (or a **Miss**). A roll of 10 or more over the TN is a **Critical** and confers additional benefits. Each increment of 10 over the TN increases the quality of that success. The number of increments of 10 is called the **Critical Multiplier**. If the check is a failure and the lowest rolled d20 is a 1, the check is a **Botch**.
 
 * *GMs, when a player Botches, you gain a Botch Point, explained on page XX.*
 
@@ -56,7 +56,7 @@ There are three **Attributes** in the game system that the player characters use
 
 Each Attribute has a rating (from 0 to 5) that determines the **Attribute Dice** you use when making action rolls.
 
-The rating for each Attribute is equal to the number of dots in the **first column** under that Attribute. The more well-rounded your character is with a particular set of actions, the better their Attribute rating. The dice for each Attribute is determined as follows: rating 0 rolls no additional dice, rating 1 rolls four-sided dice (a d4), rating 2 rolls six-sided dice (a d6), rating 3 rolls eight-sided dice (a d8), rating 4 rolls ten-sided dice (a d10), and rating 5 rolls twelve-sided dice (a d12).
+The rating for each Attribute is equal to the number of dots in the **first column** under that Attribute. The more well-rounded your character is with a particular set of actions, the better their Attribute Rating. The dice for each Attribute is determined as follows: rating 0 rolls no additional dice, rating 1 rolls four-sided dice (a d4), rating 2 rolls six-sided dice (a d6), rating 3 rolls eight-sided dice (a d8), rating 4 rolls ten-sided dice (a d10), and rating 5 rolls twelve-sided dice (a d12).
 
 **Average Dice Rolls with Explosions**
 

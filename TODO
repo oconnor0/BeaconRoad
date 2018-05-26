@@ -41,8 +41,10 @@ NAMES:
  [-] Downtime Work rather than Downtime Action @cancelled (18-05-07 00:08)
  [x] +1/-1 Tier, +1/-1 Effect, +1/-1 Pow @done (18-05-19 21:37)
  [ ] One-handed to 1H and Two-handed to 2H?
+ [ ] +1/-1 TIER
 
 TODO:
+ [ ] Controlled is 5 + Tier, Risky is 10 + Tier, Desperate is 11 + Tier?
  [x] +1/-1 Tier, +1/-1 Effect instead of Advantage/Edge vs Disadvantage/Snag @done (18-05-15 22:29)
  [x] Powers @done (18-05-17 14:17)
    [x] Start with any 3 you meet Prerequisites for. @done (18-05-17 14:17)

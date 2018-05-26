@@ -36,7 +36,7 @@ An **Attack Roll** is a specific type of Action Roll. An Attack Roll targets one
 * If a target is missed, resolve any effects that occur on a miss.
 
 * While in melee, when you make a non-melee, non-touch, non-adjacent Attack Roll suffer -1 Tier.
-* While in melee, you gain +5 Defense against non-melee attacks targeting it. Area-of-effect attacks ignore this increase to Defense.
+* While in melee, you gain +5 Defense against non-melee attacks targeting you. Area-of-effect attacks ignore this increase to Defense.
 
 ## Damage Roll
 

@@ -1,25 +1,29 @@
 # Appendix D: Designs & Equipment
 
-The rarity listed in an item or design's description is the most commonly  it can be found. For example, "uncommon heavy armor" cannot be found commonly.
+The rarity listed in an item or design's description is the most commonly  it can be found. For example, "uncommon heavy armor" cannot likely be found at a small town blacksmith.
 
 * A **common** design, formula, item, or material is available during character creation and is available for purchase in most locations.
-* An **uncommon** design, formula, item, or material is not available during character creation and is probably not purchasable in smaller or more remote locations.
-* A **rare** design, formula, item, or material is not available during character creation and may not be purchasable in most locations, even large cities.
-* A **unique** design, formula, item, or material is not available during character creation, is one of a kind, and is essentially never purchasable or sellable.
+* An **uncommon** design, formula, item, or material is not available during character creation and is probably not purchasable in smaller or more remote locations. This increases its *minimum quality* by 1 when crafting.
+* A **rare** design, formula, item, or material is not available during character creation and may not be purchasable in most locations, even large cities. This increases its *minimum quality* by 2 when crafting.
+* A **unique** design, formula, item, or material is not available during character creation, is 1 of a kind, and is essentially never purchasable or sellable. This increases its *minimum quality* by 3 when crafting.
+
+Designs and equipment may have various rules, advantages, or drawbacks.
 
 * An **agile** weapon is small and simple enough to use in your off-hand and suffers -1 Tier when used to **Skirmish**.
-* A **powerful** weapon may not be used by creatures smaller than intended and suffers -1 Tier when used to **Finesse**.
-* An **augment** improves the capability of a given weapon. Only one *augment* may be active on a weapon at a single time.
-
-* When you spend a move action to **brace** a weapon, before the start of your next turn, gain *advantage* on your first reaction attack using that weapon against a charging enemy.
-
-* A **cumbersome** item can be used only once per round, and no other items can be used in the same round.
-* A **defensive** item increases your Iron by 1.
-* You must Act to reload an item with **reload** (instead of reloading as part of using it).
-* A **melee** [range] item may be used to take actions against targets up to [range]' away from you. While wielding a melee weapon and able to act, you threaten enemies within the listed range.
-* A **ranged** [range] item may be used to take actions against targets up to [range]' away from you. At up to twice the range, those actions suffer -1 Tier. Beyond that, actions cannot target. A ranged item takes two hands to reload even if it can be used with one hand.
 * An **armor piercing** weapon or attack requires an additional Soak Box to ignore damage or effects from.
-* A **well-made** item takes 1 less load box.
+* An **augment** improves the capability of a given weapon. Only 1 *augment* may be active on a weapon at a single time.
+* A **complex** item must be created in multiple stages; the GM will tell you how many. At least 1 downtime activity and crafting roll is needed per stage; possibly a clock per stage.
+* A **cumbersome** item can be used only once per round, and no other items can be used in the same round.
+* A **conspicuous** item and its use don't go unnoticed. Its use makes those around immediately aware.
+* A **consumable** item or creation has a limited number of uses (all alchemicals must have this drawback, usually 1 use).
+* A **defensive** item increases your Iron by 1.
+* A **melee** [range] item may be used to take actions against targets up to [range]' away from you. While wielding a melee weapon and able to act, you threaten enemies within the listed range.
+* A **powerful** weapon may not be used by creatures smaller than intended and suffers -1 Tier when used to **Finesse**.
+* A **ranged** [range] item may be used to take actions against targets up to [range]' away from you. At up to twice the range, those actions suffer -1 Tier. Beyond that, actions cannot target. A ranged item takes 2 hands to reload even if it can be used with 1 hand.
+* You must Act to reload an item with **reload** (instead of reloading as part of using it).
+* An **unreliable** item may fail when used, make a **fortune roll** (using its **quality**) to see how well it performs.
+* A **volatile** item produces a dangerous or troublesome side-effect for the user, specified by the GM (see examples on the sample creations, page XX). A side-effect is a consequence, often targeting the defenses of you or adjacent creatures.
+* A **well-made** item takes 1 less Load Box.
 
 ## Alchemical Formulas
 
@@ -100,7 +104,7 @@ The below weapons are for medium-sized creatures. A large-sized creature increas
 | Light Crossbow |   | 75'    |       | [d8]  | 1    | Common   | Reload |
 | Heavy Crossbow |   | 150'   |       | [d10] | 2    | Common   | Reload |
 | Sling      |       | 40'    |       | [d8]  | 1    | Common   | |
-| Spear-thrower |    | 50'    |       | [d8]  | 1    | Common   | Cumbersome |
+| Spear-thrower |    | 50'    |       | [d8]  | 1    | Common   | Reload |
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 

@@ -74,7 +74,7 @@
         - You may take 1 Stress to resist a consequence from detection or security measures. Gain +1 Tier on feats of athletics or stealth.
             - When you use this ability, tick 1 Stress on your character sheet. If you "resist a consequence" of the appropriate type, you avoid it completely.*
     - **Sharpshooter.**
-        - You do not suffer -1 Tier when making ranged weapon attacks at distances beyond their first range increment. You can **Push Yourself** to do one of the following: *make a ranged attack at extreme distance beyond what's normal for the weapon---unleash a barrage of rapid fire to suppress the enemy.*
+        - You do not suffer -1 Tier when making ranged weapon attacks at distances beyond the weapon's first range increment. You can **Push Yourself** to do one of the following: *make a ranged attack at extreme distance beyond what's normal for the weapon---unleash a barrage of rapid fire to suppress the enemy.*
             - When you push yourself to activate this ability, you still get one of the normal benefits of pushing yourself (+1 Tier, +1 Effect, etc.) in addition to the special ability.
             - The first use of this ability allows you to attempt long-range sniper shots that would otherwise be impossible with typical rudimentary firearms. The second use allows you to keep up a steady rate of fire in a battle (enough to "suppress" a small gang up to six people), rather than stopping for a slow reload or discarding a gun after each shot. When an enemy is suppressed, they're reluctant to maneuver or attack (usually calling for a fortune roll to see if they can manage it).
     - **Vital Strike.**
