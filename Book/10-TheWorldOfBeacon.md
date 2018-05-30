@@ -8,53 +8,7 @@ The city of Beacon is ruled by Kyriel Eliarchus Dominatu the Seventh-Third---Zen
 
 Esgyrn has 2 significant moons: Lua orbiting in a roughly circular orbit every 30 days, and Graig orbiting along a near polar, highly elliptic orbit.
 
-## Districts
-
-1. Sceptre
-
-    Seat of Government
-
-2. Scythe
-
-    Farming and food production
-
-3. Anvil
-
-    Industry
-
-4. Cog
-
-    Engineering
-
-5. Chalice
-
-    Religion
-
-6. Pick
-
-    Mining and resource collection
-
-7. Anchor
-
-    Docks, shipping, railway
-
-8. Monocle
-
-    Learning, education, erudition,
-
-9. Mirror
-
-    Mystics, entertainment, bars, pubs
-
-10. Bone
-
-    Graveyard, death houses, hospital
-
-11. Lighthouse/Spire
-
-    The light of Beacon
-
-Esgyrn is intended to be treated like a sandbox---some of the pieces in the world are intended to be fixed structures (at least from the perspective of this book) while other pieces are intended to be molded by the players.
+> Esgyrn is intended to be treated like a sandbox---some of the pieces in the world are intended to be fixed structures (at least from the perspective of this book) while other pieces are intended to be molded by the players.
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
