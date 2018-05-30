@@ -48,12 +48,12 @@ The distance on the map of Amehratus between Beacon and A is 15 centimeters. The
 
 Resolve an encounter based on the rolled sum.
 
-* 1 - 5: No encounter or a pleasant one.
-* 6 - 10: An avoidable encounter with Tier.
-* 11 - 15: Severe weather or other inclement situation.
-* 16 - 20: An unavoidable encounter with Tier.
-* 21 - 25: Calamitous weather or natural disaster.
-* 26 - 30: An avoidable encounter with Tier + 3.
+* 1--5: No encounter or a pleasant one.
+* 6--10: An avoidable encounter with Tier.
+* 11--15: Severe weather or other inclement situation.
+* 16--20: An unavoidable encounter with Tier.
+* 21--25: Calamitous weather or natural disaster.
+* 26--30: An avoidable encounter with Tier + 3.
 * 31+: An unavoidable encounter with Tier + 3.
 
 Characters may/must take roles when traveling. Their actions may mitigate or worsen the rolled die.
