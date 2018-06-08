@@ -27,14 +27,13 @@ NAMES:
  [x] Light weapons to Agile weapons; Heavy weapons to Powerful weapons @done (18-05-17 14:20)
  [-] Light, medium, heavy, exosuit armor to ? @cancelled (18-05-09 21:23)
  [x] Light, normal, heavy, encumbered load to Minimal, Half, Full, Encumbered? @done (18-05-09 21:21)
- [ ] Does Full Load cause Disadvantage for stealth?
+ [ ] Does Full Load cause -1 TIER for stealth?
  [x] Rename Action to Act and Reaction to React? @done (18-05-15 22:32)
  [-] Road Master instead of Game Master? Moderator? Facilitator? @cancelled (18-05-15 22:32)
  [-] Beaconwalkers? Roadwalkers. Roadfinders. @cancelled (18-05-15 22:32)
  [x] Rename "Check" to "Roll". @done (18-05-09 21:41)
  [-] HP to Life, Life Points, Life Boxes, Hit Boxes? @cancelled (18-05-15 22:32)
  [x] Group Action to Act As A Group or Act Together @done (18-05-09 21:39)
- [ ] Action vs Action Rating vs ACTION
  [ ] Coin to Gold?
  [x] Minimal, Half, Full, and Encumbered Load? @done (18-05-09 21:35)
  [ ] Negate vs Resist vs Immunity vs Mitigate a Consequence?
@@ -42,9 +41,11 @@ NAMES:
  [x] +1/-1 Tier, +1/-1 Effect, +1/-1 Pow @done (18-05-19 21:37)
  [ ] One-handed to 1H and Two-handed to 2H?
  [ ] +1/-1 TIER
+ [ ] Action to Skill, Act to Action, React to Reaction
+ [ ] Skill vs Skill Rating vs SKILL
 
 TODO:
- [ ] Controlled is 5 + Tier, Risky is 10 + Tier, Desperate is 11 + Tier?
+ [x] Controlled is 5 + Tier, Risky is 10 + Tier, Desperate is 11 + Tier? @done (18-06-05 11:31)
  [x] +1/-1 Tier, +1/-1 Effect instead of Advantage/Edge vs Disadvantage/Snag @done (18-05-15 22:29)
  [x] Powers @done (18-05-17 14:17)
    [x] Start with any 3 you meet Prerequisites for. @done (18-05-17 14:17)
@@ -54,9 +55,9 @@ TODO:
  [x] Carouse sucks. Make it downtime action for cheaper stress? @done (18-05-17 14:19)
  [ ] Give Hunter/Rogue pet that uses Command
  [ ] I have little idea of how to get Exemplify Virtue and Indulge Vice to work well in the game, but V&V is a good representation of the dividing line between good and evil running through the heart of every man so I want to keep it.
+ [ ] Once per session, if a Character Exemplifies their Virtue or Indulges their Vice, GM, you may allow them to regain 1 Stress.
  [x] Rate Primary, Secondary, and Tertiary Attributes for 3, 2, 1 Action dots in each. @done (18-05-04 11:02)
  [x] Well-made items take 1 less Load @done (18-05-04 11:02)
- [ ] Once per session, if a Character Exemplifies their Virtue or Indulges their Vice, GM, you may allow them to regain 1 Stress.
  [x] Off-Hand Strike - 2nd attack may be made for 1 Stress if 1st misses. @done (18-05-17 14:19)
  [ ] Rogue - Blackguard
  [ ] Rogue - Keeper - Hunt +1, Survey +1, Utter +2.

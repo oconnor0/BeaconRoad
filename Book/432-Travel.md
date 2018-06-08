@@ -58,7 +58,7 @@ Resolve an encounter based on the rolled sum.
 
 Characters may/must take roles when traveling. Their actions may mitigate or worsen the rolled die.
 
-* An expert tracker may lead others **Acting Together** to make a **desperate** **Prowl** roll vs TN 21 (16 + 5) through Perilous territory. On a success, that hex is treated as Grave instead. On a failure, roll an additional Perilous die for that hex.
+* An expert tracker may lead others **Acting Together** to make a **desperate** **Prowl** roll vs TN 20 (15 + 5) through Perilous territory. On a success, that hex is treated as Grave instead. On a failure, roll an additional Perilous die for that hex.
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 

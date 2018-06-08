@@ -62,7 +62,6 @@ Players must decide if their characters are going to act *Rashly* or *Cautiously
 An **Act** represents the primary focus of your turn and generally involves inflicting your will onto an enemy, aiding an ally, preparing for a future turn, or moving.
 
 * Pick up an item.
-* Draw or Stow one or two Readied items.
 * Make a *Resistance Roll* to reduce the severity of a Wound.
 * Use an Action Power.
     * Make a basic attack.

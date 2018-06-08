@@ -31,7 +31,7 @@ Other examples of fortune rolls:
 
 ### Summary
 
-* Roll **TIER!** modified by the **trait rating** versus a **Controlled** (6), **Risky** (11), or **Desperate** (16) target number.
+* Roll **TIER!** modified by the **trait rating** versus a **Controlled** (5 + Tier), **Risky** (10 + Tier), or **Desperate** (15 + Tier) target number.
 * **+1 Tier** for each Major Advantage.
 * **-1 Tier** for each Major Disadvantage.
 * **Critical:** Exceptional result / Great, extreme effect.

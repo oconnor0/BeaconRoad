@@ -72,7 +72,7 @@ Common alchemicals (page XX) and ordinary items don't require special formulas o
 
 ### Crafting Roll
 
-* Roll **CRAFT!** versus a **controlled** (6), **risky** (11), or **desperate** (16) target number, modified by Tier.
+* Roll **CRAFT!** versus a **controlled** (5 + Tier), **risky** (10 + Tier), or **desperate** (15 + Tier) target number, modified by Tier.
 * **+1 quality** per **coin** spent.
 * **+1 quality** for **Workshop** crew upgrade.
 * **Critical:** Quality level is Tier + *critical multiplier*.
@@ -104,7 +104,7 @@ Supernatural entities and energies have a wide variety of effects and power leve
 
 You can use the magnitude of an entity or power as a dice pool for a **fortune roll** to see how much effect it has, if it's not obvious or certain.
 
-* *A sea demon summons a crushing wave at the canal dock where the PCs are landing their boat. How badly does this damage the vessel and the crew? Obviously it's gonna be bad for them, but are they merely sinking or are they immediately wrecked and sunk? The GM makes a fortune roll with **Advantage 6** (the magnitude of the demon) versus a risky TN of 17 (11 + 6). On a botch, the wave has only little effect (for a huge wave), causing the craft to take on water and begin sinking. On a failure, the wave has reduced effect, fully swamping the boat and throwing some of the characters and their cargo overboard. On a success, the wave has full effect, immediately sinking the boat and dragging the crew and cargo under. On a critical, the boat is sunk, and also the crew and cargo are badly harmed by flying debris and the crushing force of the wave.*
+* *A sea demon summons a crushing wave at the canal dock where the PCs are landing their boat. How badly does this damage the vessel and the crew? Obviously it's gonna be bad for them, but are they merely sinking or are they immediately wrecked and sunk? The GM makes a fortune roll at **Tier 6** (the magnitude of the demon) versus a risky TN of 17 (10 + 6). On a botch, the wave has only little effect (for a huge wave), causing the craft to take on water and begin sinking. On a failure, the wave has reduced effect, fully swamping the boat and throwing some of the characters and their cargo overboard. On a success, the wave has full effect, immediately sinking the boat and dragging the crew and cargo under. On a critical, the boat is sunk, and also the crew and cargo are badly harmed by flying debris and the crushing force of the wave.*
 
 You can add levels of magnitude together to describe a combination of effects, or simply focus on one key feature for the magnitude assessment, ignoring other elements, even if they're on the magnitude scale. They're not *always* additive.
 

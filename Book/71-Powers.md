@@ -167,7 +167,7 @@ Each Character starts with the following Powers regardless of anything else abou
     * Rarity: Uncommon
     * Requires: Survey, Study, or Utter.
     * Cost: Act, 1 Stress (condition 1).
-    * Check: SURVEY!, STUDY!, or UTTER! vs Risky TN (11 + Tier).
+    * Check: SURVEY!, STUDY!, or UTTER! vs Risky TN (10 + Tier).
     * Success: For 1 minute (10 rounds), *Fortify* (+5 Defense) 1 of your Defenses.
 * Cataclysm
     * Rarity: Unique

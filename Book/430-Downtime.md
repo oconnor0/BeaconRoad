@@ -69,7 +69,7 @@ Gain temporary use of an **Asset**:
 
 "Temporary use" constitutes one significant period of usage that makes sense for the Asset---typically the duration of one Adventure. An Asset may also be acquired for "standby" use in the future. You might hire a gang to guard your lair, for example, and they'll stick around until after the first serious battle, or until a week goes by, and they lose interest.
 
-To acquire the Asset, make an Action Roll versus a **Controlled** (6), **Risky** (11), or **Desperate** (16) target number. The result indicates the **Quality** of the Asset you get, using the Chapter's Tier as the base. A **Failure** is Tier - 1; a **Success** is Tier, and a **Critical** is Tier + *Critical multiplier*. You can spend Coin to raise the result of this roll by spending **2** Coin per additional Tier level added.
+To acquire the Asset, make an Action Roll versus a **Controlled** (5 + Tier), **Risky** (10 + Tier), or **Desperate** (15 + Tier) target number. The result indicates the **Quality** of the Asset you get, using the Chapter's Tier as the base. A **Failure** is Tier - 1; a **Success** is Tier, and a **Critical** is Tier + *Critical multiplier*. You can spend Coin to raise the result of this roll by spending **2** Coin per additional Tier level added.
 
 The GM may set a **minimum quality** level that must be achieved to acquire a particular Asset. For example, if you want to get a set of military uniforms and masks, you'd need to acquire a Tier IV Asset. A lower result won't do.
 
@@ -83,7 +83,7 @@ If you want to acquire an Asset permanently, you can either gain it as a Chapter
 
 ### Long-Term Project
 
-When you work on a Long-Term Project (either a brand new one, or an already existing one), describe what your character does to advance the Project Clock, and make an Action Roll versus a **Controlled** (6), **Risky** (11), or **Desperate** (16) target number. Mark Segments on the clock according to your result: **Failure**: 1 Segment, **Success**: 2 Segments, **Critical**: 2 Segments + *Critical multiplier*.
+When you work on a Long-Term Project (either a brand new one, or an already existing one), describe what your character does to advance the Project Clock, and make an Action Roll versus a **Controlled** (5 + Tier), **Risky** (10 + Tier), or **Desperate** (15 + Tier) target number. Mark Segments on the clock according to your result: **Failure**: 1 Segment, **Success**: 2 Segments, **Critical**: 2 Segments + *Critical multiplier*.
 
 A Long-Term Project can cover a wide variety of activities, like doing research into an arcane ritual, investigating a mystery, establishing someone's trust, courting a new friend or contact, changing your character's vice, and so on.
 
@@ -100,7 +100,7 @@ Recovery from injury comes in 2 different forms:
 
 Your healer rolls (perhaps **Utter** or **Craft** for a Character with the healing special ability, or the **Quality Level** of an NPC) versus a **Risky** (11) target number and then you Recover based on the roll: **Failure**: Recover 1×, **Success**: Recover 2×, **Critical**: Recover 2× + *Critical multiplier*.
 
-You may heal yourself by rolling against a **Desperate** (16) target number, but you take 2 stress when you do so. You can also choose to simply tough it out and attempt to heal without any treatment---in this case, take 1 stress and suffer -1 Tier on the Action Roll.
+You may heal yourself by rolling against a **Desperate** (15 + Tier) target number, but you take 2 stress when you do so. You can also choose to simply tough it out and attempt to heal without any treatment---in this case, take 1 stress and suffer -1 Tier on the Action Roll.
 
 Note that it's the recovering Character that takes the Recovery Activity. Healing someone else does not cost a Downtime Activity for the healer.
 
