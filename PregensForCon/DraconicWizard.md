@@ -1,0 +1,122 @@
+# Draconic Wizard
+
+- XP Triggers:
+    - When you Push Yourself and fail an action roll, mark 1 XP in the rolled attribute.
+    - At the end of a session, mark 1 or 2 XP if you addressed a challenge with arcane powers or knowledge.
+    - At the end of a session, mark 1 or 2 XP if you expressed your beliefs, drives, traits, or background.
+    - At the end of a session, mark 1 or 2 XP if you struggled with issues from your virtue, vice, or trauma.
+- XP:
+    - SELF: 0/8 `[ ][ ][ ][ ][ ][ ][ ][ ]`
+    - BODY: 0/6 `[ ][ ][ ][ ][ ][ ]`
+    - MIND: 0/6 `[ ][ ][ ][ ][ ][ ]`
+    - WILL: 0/6 `[ ][ ][ ][ ][ ][ ]`
+
+- Bloodline: Draconic
+- Archetype: Wizard (Librarian)
+- Tier: 0
+- Faction:
+    - Name:
+    - Type: Sin-eaters
+- Background: Academic (Professor Stripped of Tenure)
+- Look: Wizened; Frail; Obsidian Skin; Old, Embroidered Robes.
+- Traits: Charming, Dishonest.
+- Virtue: Resonance. Beauty and splendor in the world reverberate within you and grow around you.
+- Vice: Greed. While dragons sleep on mountains, their descendents love gold and jewel.
+
+- Action Ratings:
+    - BODY:
+        - Finesse: 0
+        - Prowl: 0
+        - Skirmish: 0
+        - Wreck: 0
+    - MIND:
+        - Craft: 0
+        - Hunt: 0
+        - Study: 2
+        - Survey: 2
+    - WILL:
+        - Command: 0
+        - Consort: 1
+        - Sway: 0
+        - Utter: 2
+- Attributes:
+    - BODY: 0
+    - MIND: d6
+    - WILL: d6
+- Defenses:
+    - IRON: 8
+    - WARD: 14
+    - GRIT: 14
+
+- Hit Points: 18/18
+- Recovery Dice: [d6]
+- Stress: 0/8 `[ ][ ][ ][ ][ ][ ][ ][ ]`
+- Armor: 0/2 `[ ][ ]`
+- Shield: 0/0
+- Powers: 0/2 `[ ][ ]`
+
+- Special Abilities:
+    - Oath of Veracity. To lie you must take 1 Stress. If you break your word, take 1 Stress. When you Gather Information, gain Advantage when attempting to discern the truth or to detect lies.
+        - You vow to always tell the truth and to follow through on whatever you say. You become supernaturally aware of other's lies.
+    - Elemental Affinity (Entropic). You may expend one Powers Box to negate one consequence from an attack of a single damage type, or to Push Yourself to breathe destructive energy.
+        - What element do you breathe? What elements do you have an affinity for? What elements are you vulnerable to?
+        - When you use this ability, tick one Powers Box on your character sheet. If you negate a consequence, you ignore it completely. If you use this ability to Push Yourself, you get one of the benefits (Advantage or additional effect die), but you don't take Stress. Your special armor is restored at the beginning of downtime.
+        - Elemental Breath
+            - Prerequisites: Elemental Affinity.
+            - Cost: Act, 1 Special Box.
+            - Target: 10' cube within 60'.
+            - Attack: Utter/WILL! vs IRON.
+            - Hit: (Utter)[WILL] entropic damage.
+    - Spellcraft. You know the arcane methods to conjure supernatural effects from written spells. You can Study a spell (or create a new one) to summon a supernatural effect. You begin with one spell already learned.
+        - Without this special ability, written spells are only words on a page.
+        - Follow the Spell Creation procedure with the GM to define your first spell.
+        - The Stress cost of any spells you cast is lowered by the action rating of the casting action - a 6 Stress power would cost a character with Utter 2 only 4 Stress.
+        - Spell Mastery. Spell Mastery provides 1 + TIER + UTTER points to reduce Stress costs of Powers using UTTER by 1 for each point (not below 1).
+        - Read and Recite
+            - Prerequisites: Spellcraft.
+            - Requires: Your spellbook or tome.
+            - Cost: Act.
+            - Target: Self.
+            - Effect: Select a Power. If you use that Power the next time you Act or React, reduce the Stress cost by the invoking ACTION (not below 1).
+- Powers:
+    - Acid Arrow
+        - Requires: WILL d8
+        - Cost: Act, Stress 7 (range 2, force 5)
+        - Target: 1 creature within 100'.
+        - Attack: Utter/WILL! vs IRON
+        - Hit: (Utter)[d12] chemical damage.
+        - Target: One adjacent creature.
+        - Effect: (Utter)[d4] chemical damage.
+    - Fog
+        - Requires: WILL d4.
+        - Cost: Act or React, Stress 3 (area 2, duration 1).
+        - Trigger: An enemy Acts or targets an ally.
+        - Effect: Create a cloud of fog with a 30' diameter centered on you. The cloud conceals and lasts one minute (10 rounds) unless removed.
+    - Pox
+        - Requires: Utter 3, WILL d8.
+        - Cost: Act, Stress 5 (area 1, range 1, condition 3).
+        - Target: 2 + \[d4\] enemy creatures within 30'.
+        - Attack: Utter/WILL! vs IRON.
+        - Hit: Target suffers Blighted d4 and Sickened.
+
+- Senses:
+    - Normal.
+- Size:
+    - Medium (5' × 5'), averaging from 6' to 7' tall.
+- Stride:
+    - 25'.
+- Load:
+    - Medium (5 boxes).
+- Items:
+    - `[ ]` Well-made staff (2H, 5', [d6] effect die).
+    - `[ ]` Vestments (light, 2 armor boxes, -10 damage/box).
+    - `[ ]-[ ]` Books and Tomes.
+
+- Friends & Rivals:
+    - `[+]/[-]` An archivist
+    - `[+]/[-]` A cold killer
+    - `[+]/[-]` An inspector
+    - `[+]/[-]` A servant
+    - `[+]/[-]` A supernatural entity
+
+

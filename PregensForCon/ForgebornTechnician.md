@@ -1,0 +1,133 @@
+# Forgeborn Technician
+
+- XP Triggers:
+    - When you Push Yourself and fail an action roll, mark 1 XP in the rolled attribute.
+    - At the end of a session, mark 1 or 2 XP if you addressed a challenge with calculation or technical skill.
+    - At the end of a session, mark 1 or 2 XP if you expressed your beliefs, drives, traits, or background.
+    - At the end of a session, mark 1 or 2 XP if you struggled with issues from your virtue, vice, or trauma.
+- XP:
+    - SELF: 0/8 `[ ][ ][ ][ ][ ][ ][ ][ ]`
+    - BODY: 0/6 `[ ][ ][ ][ ][ ][ ]`
+    - MIND: 0/6 `[ ][ ][ ][ ][ ][ ]`
+    - WILL: 0/6 `[ ][ ][ ][ ][ ][ ]`
+
+- Bloodline: Halfling
+- Archetype: Technician (Felsmith)
+- Tier: 0
+- Crew:
+    - Name:
+    - Type: Sin-eaters
+- Background: Labor (Construction and Blacksmithing).
+- Look: Glowing Eyes, Rugged, Metallic.
+- Traits: Strange, Socially Inept, Honest.
+- Virtue: Resilience. Whether master or slave, you persist toward your goals.
+- Vice: Toil. You know nothing but constant work, perpetual striving, and consistent servitude.
+
+- Action Ratings:
+    - Deed:
+        - Finesse: 0
+        - Prowl: 0
+        - Skirmish: 0
+        - Wreck: 1
+    - Thought:
+        - Craft: 2
+        - Hunt: 1
+        - Study: 0
+        - Survey: 0
+    - Word:
+        - Command: 1
+        - Consort: 0
+        - Sway: 0
+        - Utter: 2
+- Attributes:
+    - BODY: d4
+    - MIND: d6
+    - WILL: d6
+- Defenses:
+    - IRON: 12
+    - WARD: 14
+    - GRIT: 14
+
+- Hit Points: 27/27
+- Recovery Dice: [d8]
+- Stress: 0/8 `[ ][ ][ ][ ][ ][ ][ ][ ]`
+- Armor: 0/2 `[ ][ ]`
+- Shield: 0/0
+- Powers: 0/2 `[ ][ ]`
+
+- Special Abilities:
+    - Oath of Veracity. To lie you must take 1 Stress. If you break your word, take 1 Stress. When you Gather Information, gain Advantage when attempting to discern the truth or to detect lies.
+        - You vow to always tell the truth and to follow through on whatever you say. You become supernaturally aware of other's lies.
+    - Foresight. Two times per score you can assist a teammate without paying Stress. Describe how you prepared for this.
+        - You can narrate an event in the past that helps your teammate now, or you might explain how you expected this situation and planned a helpful contingency that you reveal now.
+    - Strange Methods. When you invent or craft a creation with arcane features, get +1 quality level to your roll. You begin with one arcane design already known.
+        - Follow the Inventing procedure with the GM to define your first arcane design.
+
+- Powers:
+    - Assist
+        - Cost: React, Stress 1.
+        - Trigger: An ally Acts.
+        - Target: 1 allied creature you can see.
+        - Effect: Describe how you aid them. If plausible, they gain Advantage on their roll and may reroll, taking the second roll, if they dislike the first result.
+    - Attack!
+        - Requires: MIND d4.
+        - Cost: Act, Stress 1; or React, Stress 2.
+        - Trigger:  An enemy Acts or targets an ally.
+        - Target: 1 allied creature within 30'.
+        - Effect: Target ally may make 1 basic attack.
+    - Basic Melee Attack
+        - Requires: Melee weapon.
+        - Cost: Act.
+        - Target: 1 creature you threaten.
+        - Attack: Wreck/BODY! vs IRON.
+        - Hit: (half Wreck)[POW] + [BODY] kinetic damage.
+    - Basic Ranged Attack
+        - Requires: Ranged weapon.
+        - Cost: Act.
+        - Target: 1 creature within your weapon's range.
+            - You may target a creature at double your weapon's range by suffering DisAdvantage on your attack action roll.
+        - Attack: Hunt/BODY! vs IRON.
+        - Hit: (half Hunt)[POW] + [BODY] kinetic damage.
+    - Clarity
+        - Requires: MIND d6.
+        - Cost: Act, Stress 3 (range 1, condition 2).
+        - Target: 1 creature within 30'.
+        - Effect: The target gains focused for 1 minute (10 rounds).
+    - Frost Spear
+        - Requires: WILL d4.
+        - Cost: Act, Stress 3 (range 1, force 1, condition 1).
+        - Target: 1 enemy creature within 30'.
+        - Attack: Utter/WILL! vs IRON.
+        - Hit: (Utter)[d6] glacial damage, and target suffers slowed.
+    - Lightning Bolt
+        - Requires: WILL d6
+        - Cost: Act, Stress 5.
+        - Target: Creatures in 40' line originating from you.
+        - Attack: Utter/WILL! vs IRON.
+        - Hit: (Utter)[d8] electrical damage.
+        - Upgrades:
+            - `[ ]` Chain Lightning (8 clock) - Make a secondary Lightning Bolt attack originating from one of the original targets. No creature may be targeted more than once by the same attack.
+
+- Senses:
+    - Infravision.
+- Size:
+    - Medium (5' × 5'), from 5' to 8' tall.
+- Stride:
+    - 25'
+- Load:
+    - Medium (5 boxes)
+- Items:
+    - `[ ]` Spear-thrower (1H, 50', [d8] effect die).
+    - `[ ]-[ ]` Well-made Longspear (2H, 10', [d10] effect die).
+        - If an attack with this weapon hits the target's WARD, it suffers distracted (DisAdvantage on all checks) for one round.
+    - `[ ]-[ ]` Wood-plate Armor (light, 2 armor boxes, -10 damage/box).
+    - `[ ]-[ ]` Thievery Tools
+
+- Friends & Rivals:
+    - `[+]/[-]`  A frequent client
+    - `[+]/[-]`  A law officer
+    - `[+]/[-]`  A merchant
+    - `[+]/[-]`  A peer
+    - `[+]/[-]`  A supplier
+
+

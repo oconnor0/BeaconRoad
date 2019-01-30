@@ -1,0 +1,128 @@
+# Elf Rogue
+
+- XP Triggers:
+    - When you Push Yourself and fail an action roll, mark 1 XP in the rolled attribute.
+    - At the end of a session, mark 1 or 2 XP if you addressed a challenge with audacity or stealth.
+    - At the end of a session, mark 1 or 2 XP if you expressed your beliefs, drives, traits, or background.
+    - At the end of a session, mark 1 or 2 XP if you struggled with issues from your virtue, vice, or trauma.
+- XP:
+    - SELF: 0/8 `[ ][ ][ ][ ][ ][ ][ ][ ]`
+    - BODY: 0/6 `[ ][ ][ ][ ][ ][ ]`
+    - MIND: 0/6 `[ ][ ][ ][ ][ ][ ]`
+    - WILL: 0/6 `[ ][ ][ ][ ][ ][ ]`
+
+- Bloodline: Elf
+- Archetype: Rogue (Hunter)
+- Tier: 0
+- Faction:
+    - Name:
+    - Type: Sin-eaters
+- Background: Criminal (Escaped Prisoner).
+- Look: Gaunt, Hairless, Piercing Gray Hawk-Eyes, Faded Green Duster.
+- Traits: Cold, Fair, Strange.
+- Virtue: Remembrance. The past led us to today; allow it to coach us into tomorrow.
+- Vice: Sorrow. The weight of past pain weighs heavily on you; do not pass it on to others.
+
+- Action Ratings:
+    - Deed:
+        - Finesse: 2
+        - Prowl: 1
+        - Skirmish: 0
+        - Wreck: 0
+    - Thought:
+        - Craft: 0
+        - Hunt: 2
+        - Study: 1
+        - Survey: 0
+    - Word:
+        - Command: 1
+        - Consort: 0
+        - Sway: 0
+        - Utter: 0
+- Attributes:
+    - BODY: d6
+    - MIND: d6
+    - WILL: d4
+- Defenses:
+    - IRON: 14
+    - WARD: 14
+    - GRIT: 12
+
+- Hit Points: 27/27
+- Recovery Dice: [d8]
+- Stress: 0/8 `[ ][ ][ ][ ][ ][ ][ ][ ]`
+- Armor: 0/2 `[ ][ ]`
+- Shield: 0/0
+- Powers: 0/2 `[ ][ ]`
+
+- Special Abilities:
+    - Oath of Veracity. To lie you must take 1 Stress. If you break your word, take 1 Stress. When you Gather Information, gain Advantage when attempting to discern the truth or to detect lies.
+        - You vow to always tell the truth and to follow through on whatever you say. You become supernaturally aware of other's lies.
+    - Reflexes. When there's a question about who acts first, the answer is you.
+        - You may choose to act cautiously in combat, but if an enemy would attempt to act against you, you may take your turn before they do.
+        - This ability gives you the initiative in most situations. Some specially trained NPCs might also have reflexes, but otherwise, you're always the first to act, and can interrupt anyone else who tries to beat you to the punch. This ability usually doesn't negate the need to make an action roll that you would otherwise have to make, but it may improve your position or effect.
+    - Sharpshooter. You do not suffer DisAdvantage when making ranged weapon attacks at distances beyond their first range increment. You can Push Yourself to do one of the following: make a ranged attack at extreme distance beyond what's normal for the weapon---unleash a barrage of rapid fire to suppress the enemy.
+        - When you Push Yourself to activate this ability, you still get one of the normal benefits of pushing yourself (Advantage, +1 effect, etc.) in addition to the special ability.
+- Powers:
+    - Aim
+        - Requires: MIND d4, Hunt 1.
+        - Cost: Act.
+        - Effect: Gain Advantage on your next ranged attack this turn.
+    - Basic Melee Attack
+        - Requires: Melee weapon.
+        - Cost: Act.
+        - Target: 1 creature you threaten.
+        - Attack: Finesse/BODY! vs IRON.
+        - Hit: (half Finesse)[POW] + [BODY] kinetic damage.
+    - Basic Ranged Attack
+        - Requires: Ranged weapon.
+        - Cost: Act.
+        - Target: 1 creature within your weapon's range.
+            - You may target a creature at double your weapon's range by suffering DisAdvantage on your attack action roll.
+        - Attack: Hunt/MIND! vs IRON.
+        - Hit: (half Hunt)[POW] + [MIND] kinetic damage.
+    - Clarity
+        - Requires: MIND d6.
+        - Cost: Act, Stress 3 (range 1, condition 2).
+        - Target: 1 creature within 30'.
+        - Effect: The target gains focused for 1 minute (10 rounds).
+    - Dodge
+        - Requires: BODY d6, Prowl 1.
+        - Cost: React, Stress 1.
+        - Trigger: You are targeted by an attack.
+        - Effect: Maneuver up to half your stride.
+    - Interrupt
+        - Requires: MIND d6
+        - Cost: React.
+        - Trigger: A creature within weapon range makes an Action Roll.
+        - Target: The triggering creature.
+        - Attack: Hunt/MIND! with DisAdvantage vs TN (the triggering check) and WARD.
+        - Hit: The target instead botches their Action Roll.
+        - Miss: The target rerolls and suffers distracted on their Action Roll.
+    - Sidestep
+        - Requires: BODY d6;
+        - Cost: React, Stress 0
+        - Trigger: You hit with an attack.
+        - Maneuver up to 10'.
+
+- Senses:
+    - Keen Ears and Starsight.
+- Size:
+    - Medium (5' × 5'), slender and averaging from 6' to 7' tall.
+- Stride:
+    - 30'
+- Load:
+    - Medium (5 boxes)
+- Items:
+    - `[ ]-[ ]` Well-made Greatbow (2H, 150', [d10] effect die).
+    - `[ ]-[ ]` Leather Armor (light, 2 armor boxes, -10 damage/box).
+    - `[ ]` Spear (1H, [d6] effect die; 2H, [d8] effect die; 5').
+
+- Friends & Rivals:
+    - `[+]/[-]` A beggar
+    - `[+]/[-]` A gang leader
+    - `[+]/[-]` A locksmith
+    - `[+]/[-]` A spy
+    - `[+]/[-]` A tavern owner
+
+
