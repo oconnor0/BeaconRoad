@@ -46,11 +46,21 @@
     * Oath of Veracity.
         * To lie you must take 1 **Stress**. If you break your word, take 1 **Stress**. When you **Gather Information**, gain +1 Tier when attempting to discern the truth or to detect lies.
             * *You vow to always tell the truth and to follow through on whatever you say. You become supernaturally aware of other's lies.*
+    * Oath of Restraint.
+        * You may not carry violence further than is absolutely necessary. You gain the ability to peer into the eyes of a foe to determine the amount of violence necessary to accomplish justice.
+            * If you carry violence further than needed, all your powers are stripped from you until you atone.
+    * Oath of Destruction.
+        * Select an enemy (dragons, undead, etc.) and vow to destroy them. Gain +1 Tier on all action rolls directly related to that goal.
 * **Banishments**
     * Banishment from Coin.
-        * Gain 1 XP for each coin you give away without benefit to yourself or your crew.
+        * Gain 1 XP for each coin you give away without benefit to yourself or your faction.
             * *No helping allies or buying weapons for another crew member or bribing a guard, etc.*
-            * *Your crew may also gain XP in this manner.*
+            * *Your faction may also gain XP in this manner.*
+    * Banishment from Home.
+        * Gain 1 Load Box. You may not own property or possess anything you cannot carry on your person. This means that your Load is permanently determined; remove all items you are not carrying from your character sheet.
+            * If you own more than you are able to carry, you lose all powers until you atone.
+    * Banishment from Love.
+        * Gain +5 Will. Suffer -1 Tier on social interaction rolls. You may not develop new intimate relationships. You must disown all existing intimate and familial relationships. Should you engage in sex, dating, betrothment, marriage, prostitution, or any other intimate relations, all your powers are permanently stripped from you.
 * Starting Upgrades
 * Word Training
 * Quarters
