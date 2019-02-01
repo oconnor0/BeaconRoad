@@ -50,7 +50,7 @@
         * You may not carry violence further than is absolutely necessary. You gain the ability to peer into the eyes of a foe to determine the amount of violence necessary to accomplish justice.
             * If you carry violence further than needed, all your powers are stripped from you until you atone.
     * Oath of Destruction.
-        * Select an enemy (dragons, undead, etc.) and vow to destroy them. Gain +1 Tier on all action rolls directly related to that goal.
+        * Select an enemy (dragons, undead, etc.) and vow to destroy them. Gain +1 Tier on all action rolls directly related to that goal. Once engaged in battle with such an enemy, retreating from that battle permanently strips your powers from you.
 * **Banishments**
     * Banishment from Coin.
         * Gain 1 XP for each coin you give away without benefit to yourself or your faction.
