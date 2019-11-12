@@ -1,9 +1,9 @@
-https://dev.to/johnpaulada/building-books-with-markdown-using-pandoc
-https://www.slideshare.net/omerida/alchemy-markdownpandoc
-https://publishing.sfu.ca/2013/11/building-publishing-workflows-with-pandoc-and-git/
-https://www.r-bloggers.com/using-markdown-and-pandoc-for-publication/
-https://publishing-project.rivendellweb.net/pandoc-multiformat-publishing/
-http://pandoc.org/MANUAL.html
-https://pandoc.org/lua-filters.html
-https://stackoverflow.com/questions/13515893/set-margin-size-when-converting-from-markdown-to-pdf-with-pandoc
-https://affinity.serif.com/en-us/designer/
+- https://dev.to/johnpaulada/building-books-with-markdown-using-pandoc
+- https://www.slideshare.net/omerida/alchemy-markdownpandoc
+- https://publishing.sfu.ca/2013/11/building-publishing-workflows-with-pandoc-and-git/
+- https://www.r-bloggers.com/using-markdown-and-pandoc-for-publication/
+- https://publishing-project.rivendellweb.net/pandoc-multiformat-publishing/
+- http://pandoc.org/MANUAL.html
+- https://pandoc.org/lua-filters.html
+- https://stackoverflow.com/questions/13515893/set-margin-size-when-converting-from-markdown-to-pdf-with-pandoc
+- https://affinity.serif.com/en-us/designer/
