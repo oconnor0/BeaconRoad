@@ -50,11 +50,13 @@ Maneuver
 Reaction Attack/Strike
 
 
-Male power is about overcoming any obstacle. Female power is about being believed -no matter what. It's that simple. Though ultimately, it's the difference between power as an effect of controlling self vs power and an effect of controlling others. And that sort of control of others lends women to crave being the villain or at least, the grand manipulator. It's been the same for ages: broken promises, hidden intentions, devastating secrets. Even the Greeks knew what was up. There is no female power fantasy that isn't either narcissistic or that makes her into a total cunt. Male power comes in overcoming objective reality. Female power comes in defining subjective reality.﻿
+Male power is about overcoming any obstacle. Female power is about being believed -no matter what. It's that simple. Though ultimately, it's the difference between power as an effect of controlling self vs power and an effect of controlling others. And that sort of control of others lends women to crave being the villain or at least, the grand manipulator. It's been the same for ages: broken promises, hidden intentions, devastating secrets. Even the Greeks knew what was up. There is no female power fantasy that isn't either narcissistic or that makes her into a total cunt. Male power comes in overcoming objective reality. Female power comes in defining subjective reality.
 
-“Being powerful is like being a lady. If you have to tell people you are, you aren't.” - Margaret Thatcher﻿
+“Being powerful is like being a lady. If you have to tell people you are, you aren't.” - Margaret Thatcher
 
-Tywin Lanister said: "he who has to say I am the king is no true king"﻿
+Tywin Lanister said: "he who has to say I am the king is no true king"
+
+The masculine stops death. The feminine creates life. Both are necessary for flourishing.
 
 Fighter:
 
